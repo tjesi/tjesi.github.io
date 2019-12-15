@@ -1,11 +1,8 @@
 ---
-permalink: /
+layout: archive
 title: "Conferences"
-excerpt: "conferences"
+permalink: /conferences/
 author_profile: true
-redirect_from:
-  - /conferences/
-  - /conferences.html
 ---
 
 I have participated or will participate at the following conferences, seminars and workshops in cryptography and information security.
