@@ -5,39 +5,22 @@ permalink: /research/
 author_profile: true
 ---
 
-<!-- wp:heading {"align":"center"} -->
 <h2 class="has-text-align-center"><strong>Papers</strong></h2>
-<!-- /wp:heading -->
 
-<!-- wp:paragraph -->
 <p>In submission. TBA.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:heading {"align":"center"} -->
 <h2 class="has-text-align-center">Miscellaneous</h2>
-<!-- /wp:heading -->
 
-<!-- wp:paragraph -->
-<p><strong>Silde, T</strong>.:&nbsp;<em>Comparative Study of ECC Libraries for Embedded Devices</em>. (<a href="http://www.tjerandsilde.org/wp-content/uploads/2019/03/Comparative-Study-of-ECC-Libraries-for-Embedded-Devices..pdf">Survey)</a></p>
-<!-- /wp:paragraph -->
+<p><strong>Silde, T</strong>.: <em>Comparative Study of ECC Libraries for Embedded Devices</em>.([Survey](https://tjerandsilde.no/files/Comparative-Study-of-ECC-Libraries-for-Embedded-Devices.pdf))</p>
 
-<!-- wp:paragraph -->
 <p><strong>Hossain, A., Nelson, K.,  Silde, T</strong>.:&nbsp;<em>Where is the Web Still Insecure? Regional Scans for HTTPS Certificates</em>. NISK 2018, Svalbard. (<a href="https://www.tjerandsilde.org/wp-content/uploads/2018/12/Where_is_the_web_still_insecure__Regional_scans_for_HTTPS_certificates.pdf">Short paper</a>, <a href="https://www.tjerandsilde.org/wp-content/uploads/2018/12/NISK_presentation.pdf">Presentation</a>)</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
 <p><strong>Silde, T</strong>.:&nbsp;<em>Bilinear pairings of elliptic curves</em>, NTNU, 2015. (<a href="https://www.tjerandsilde.org/wp-content/uploads/2019/05/bachelor.pdf">Bachelor thesis</a>)</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:heading {"align":"center"} -->
 <h2 class="has-text-align-center"><strong>Supervisors</strong></h2>
-<!-- /wp:heading -->
 
-<!-- wp:paragraph -->
-<p>My main supervisor is Professor <a href="https://www.ntnu.edu/employees/kristian.gjosteen" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">Kristian Gjøsteen</a> at the <a href="https://www.ntnu.edu/imf" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">Department of Mathematical Sciences</a> at NTNU.</p>
-<!-- /wp:paragraph -->
+<p>My main supervisor is Professor <a href="https://www.ntnu.edu/employees/kristian.gjosteen" rel="noreferrer noopener" aria-label=" (opens in a new tab)">Kristian Gjøsteen</a> at the <a href="https://www.ntnu.edu/imf">Department of Mathematical Sciences</a> at NTNU.</p>
 
-<!-- wp:paragraph -->
 <p>My co-supervisor is Professor <a href="https://www.ntnu.edu/employees/colin.boyd" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">Colin Boyd</a> at the <a href="https://www.ntnu.edu/iik" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">Department of Information Security and Communication Technology</a> at NTNU.</p>
 <!-- /wp:paragraph -->
 
