@@ -27,8 +27,6 @@ My co-supervisor is [Professor Colin Boyd](https://www.ntnu.edu/employees/colin.
 I'm grateful to [Carsten Baum](http://www.carstenbaum.com) and the [Aarhus Crypto Group](https://cs.au.dk/research/cryptography-and-security) for hosting me for one week in November 2019.
 
 ## Research Groups
-The [Algebra Group](https://www.ntnu.edu/imf/research/algebra) at the Department of Mathematics at NTNU.
+I belong to the [Algebra Group](https://www.ntnu.edu/imf/research/algebra) at the Department of Mathematics and the [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab) at the Department of Information Security and Communication Technology.
 
-The [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab) at the Department of Information Security and Communication Technology.
-
-The [COINS Research School of Computer and Information Security](https://coinsrs.no) for PhD. students in Norway.
+I'm also a member of the [COINS Research School of Computer and Information Security](https://coinsrs.no) for PhD. students in Norway.
