@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Papers
+## Papers
 
 In submission. TBA.
 
@@ -13,6 +13,21 @@ In submission. TBA.
 
 Silde, T.: Comparative Study of ECC Libraries for Embedded Devices.([Survey](https://tjerandsilde.no/files/Comparative-Study-of-ECC-Libraries-for-Embedded-Devices.pdf))
 
-Hossain, A., Nelson, K.,  Silde, T</strong>.: Where is the Web Still Insecure? Regional Scans for HTTPS Certificates. NISK 2018, Svalbard.
+Hossain, A., Nelson, K.,  Silde, T.: Where is the Web Still Insecure? Regional Scans for HTTPS Certificates. NISK 2018, Svalbard. (Short paper, Presentation)
 
-Silde, T.: Bilinear pairings of elliptic curves</em>, NTNU, 2015.
+Silde, T.: Bilinear pairings of elliptic curves, NTNU, 2015. (Bachelor Thesis)
+
+## Supervisors
+My main supervisor is Professor Kristian Gjøsteen at the Department of Mathematical Sciences at NTNU.
+
+My co-supervisor is Professor Colin Boyd at the Department of Information Security and Communication Technology at NTNU.
+
+## Research Visits
+I'm grateful to Carsten Baum and the Aarhus Crypto Group for hosting me for one week in November 2019.
+
+## Research Groups
+The Algebra Group at the Department of Mathematics at NTNU.
+
+The NTNU Applied Cryptology Lab (NaCl) at the Department of Information Security and Communication Technology.
+
+The COINS Research School of Computer and Information Security for PhD. students in Norway.
