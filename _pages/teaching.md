@@ -11,7 +11,7 @@ redirect_from:
 ## Current semester: Spring 2020
 
 * Calculus 3 – Linear Algebra ([TMA4115](https://www.ntnu.no/studier/emner/TMA4115)) at NTNU
-* Creative work with ICT – Teacher Education ([EVL-LSPU401](https://www.hvl.no/studier/studieprogram/emne/evl-lspu401)) at HVL
+* Creative Work with ICT – Teacher Education ([EVL-LSPU401](https://www.hvl.no/studier/studieprogram/emne/evl-lspu401)) at HVL
 
 ## Previous semesters:
 
