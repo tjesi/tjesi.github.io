@@ -7,9 +7,11 @@ author_profile: true
 
 ## Coming talks:
 
-* “Zero-Knowledge Proofs – hvordan bevise at du vet en hemmelighet” – Onsdagsseminar i matematiske fag, Trondheim, January 2020.
+
 * TBA – Abelkonkurransen 2020, Trondheim, January 2020.
-* TBA – Norsk Kryptoseminar 2020, Kjeller, January 2020.
+* "Post-Quantum E-Voting" – Norsk Kryptoseminar 2020, Kjeller, January 2020.
+* "Programmering og algoritmisk tenking" - Mathematical Modelling and ICT in the Teaching of Mathematics, Trondheim, January 2020
+* “Zero-Knowledge Proofs – hvordan bevise at du vet en hemmelighet” – Onsdagsseminar i matematiske fag, Trondheim, March 2020.
 
 ## Some recent talks:
 
