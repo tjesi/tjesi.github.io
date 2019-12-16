@@ -5,9 +5,9 @@ permalink: /conferences/
 author_profile: true
 ---
 
-I have participated or will participate at the following conferences, seminars and workshops in cryptography and information security. If I gave a talk, then my presentation will be available under [talks](https://tjerandsilde.no/talks).
+I have participated or will participate at the following conferences, seminars and workshops in cryptography and information security. If I gave a talk, then the event will have a @ and my presentation will be available under [talks](https://tjerandsilde.no/talks).
 
-**Eurocrypt 2021**: The 40th Annual International Conference on the Theory and Applications of Cryptographic Techniques. April / May, 2021 – Trondheim, Norway.
+**Eurocrypt 2021@**: The 40th Annual International Conference on the Theory and Applications of Cryptographic Techniques. April / May, 2021 – Trondheim, Norway.
 
 **Norsk Kryptoseminar 2020**: January 30, 2020 – Kjeller, Norway. [wiki.math.ntnu.no/nks/nks20](https://wiki.math.ntnu.no/nks/nks20)
 
