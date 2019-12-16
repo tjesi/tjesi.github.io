@@ -58,6 +58,10 @@ author:
   github           : "tjesi"
   twitter          : "tjerandsilde"
   uri              : "https://www.ntnu.edu/employees/tjerand.silde"
+  links:
+  - label: "Employee Website"
+    icon: "fas fa-fw fa-envelope-square"
+    url: "https://www.ntnu.edu/employees/tjerand.silde"
 
 # Reading Files
 include:
