@@ -50,8 +50,8 @@ author:
   name             : "Tjerand Silde"
   avatar           : "tjerand.png"
   bio              : "PhD Student in Cryptography"
-  location         : "Trondheim, Norway"
-  employer         : "NTNU"
+  location         : "NTNU Trondheim, Norway"
+  employer         : 
   googlescholar    : "https://scholar.google.no/citations?user=fWLrd9MAAAAJ&hl=en"
   email            : "tjerand.silde@ntnu.no"
   github           : "tjesi"
