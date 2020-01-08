@@ -8,13 +8,13 @@ author_profile: true
 ## Coming talks:
 
 
-* TBA – Abelkonkurransen 2020, Trondheim, January 2020.
 * "Post-Quantum E-Voting" – [Norsk Kryptoseminar 2020](https://wiki.math.ntnu.no/nks/nks20), Kjeller, January 2020.
 * "Programmering og algoritmisk tenking" - [Mathematical Modelling and ICT in the Teaching of Mathematics](https://www.ntnu.edu/studies/courses/SKOLE6232), Trondheim, January 2020
 * “Zero-Knowledge Proofs – hvordan bevise at du vet en hemmelighet” – [Onsdagsseminar i matematiske fag](https://wiki.math.ntnu.no/student/onsdagsforedrag), Trondheim, March 2020.
 
 ## Some recent talks:
 
+* "Intro til Kryptografi" - [The Norwegian Mathematical Olympiad ](https://abelkonkurransen.no/en/), Trondheim, January 2020. ([PDF](https://tjerandsilde.no/files/Abelforedrag.pdf))
 * “Electronic voting using lattice-based commitments and verifiable encryption” – [Aarhus Crypto Seminar](https://cs.au.dk/~oech/seminar.html), Aarhus, November 2019. ([PDF](https://tjerandsilde.no/files/Aarhus_Crypto_Seminar_Presentation.pdf))
 * “Pedagogikk-kurs for Vektorassistenter” – [Vektorprogrammet](https://vektorprogrammet.no), Trondheim, August 2019. ([PDF](https://tjerandsilde.no/files/Pedagogikk_kurs_for_vektorprogrammet.pdf))
 * “Sikkerhet i en post-kvante verden” – [Sikkerhetsfestivalen](https://sikkerhetsfestivalen.no), Lillehammer, August 2019. ([PDF](https://tjerandsilde.no/files/Sikkerhetsfestivalen_Tjerand_Silde_Sikkerhet_I_En_Post-kvante_Verden.pdf))
