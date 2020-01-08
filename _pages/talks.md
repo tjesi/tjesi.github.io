@@ -14,7 +14,7 @@ author_profile: true
 
 ## Some recent talks:
 
-* "Intro til Kryptografi" - [The Norwegian Mathematical Olympiad Preparation Camp Trondheim](https://abelkonkurransen.no/en/), Trondheim, January 2020. ([PDF](https://tjerandsilde.no/files/Abelforedrag.pdf))
+* "Intro til Kryptografi" - [The Norwegian Mathematical Olympiad Preparation Camp](https://abelkonkurransen.no/en/), Trondheim, January 2020. ([PDF](https://tjerandsilde.no/files/Abelforedrag.pdf))
 * “Electronic voting using lattice-based commitments and verifiable encryption” – [Aarhus Crypto Seminar](https://cs.au.dk/~oech/seminar.html), Aarhus, November 2019. ([PDF](https://tjerandsilde.no/files/Aarhus_Crypto_Seminar_Presentation.pdf))
 * “Pedagogikk-kurs for Vektorassistenter” – [Vektorprogrammet](https://vektorprogrammet.no), Trondheim, August 2019. ([PDF](https://tjerandsilde.no/files/Pedagogikk_kurs_for_vektorprogrammet.pdf))
 * “Sikkerhet i en post-kvante verden” – [Sikkerhetsfestivalen](https://sikkerhetsfestivalen.no), Lillehammer, August 2019. ([PDF](https://tjerandsilde.no/files/Sikkerhetsfestivalen_Tjerand_Silde_Sikkerhet_I_En_Post-kvante_Verden.pdf))
