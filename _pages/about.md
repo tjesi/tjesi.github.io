@@ -14,4 +14,4 @@ My main foci of research are lattice-based cryptography and zero-knowledge proof
 
  I also serve as a university college teacher at [Western Norway University of Applied Sciences](https://www.hvl.no/en), an editor at [Sikkerhet Online](https://www.sikkerhet.online/author/tjerand-silde) and lead developer at [Lær Kidsa Koding](http://oppgaver.kidsakoder.no).
 
- My Keybase username is [tjesi](https://keybase.io/tjesi), and you can use my public key to [send me an encrypted message](https://keybase.io/encrypt#tjesi).
+ I am [tjesi](https://keybase.io/tjesi) on Keybase, and you can use my public key to [send me an encrypted message](https://keybase.io/encrypt#tjesi).
