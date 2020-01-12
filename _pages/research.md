@@ -14,7 +14,7 @@ In submission. TBA.
 **Silde, T.**: _Comparative Study of ECC Libraries for Embedded Devices._ ([Survey](https://tjerandsilde.no/files/Comparative-Study-of-ECC-Libraries-for-Embedded-Devices.pdf))
 
 **Hossain, A., Nelson, K.,  Silde, T.**: _Where is the Web Still Insecure? Regional Scans for HTTPS Certificates._  
-NISK 2018, Svalbard. ([Short paper](https://tjerandsilde.no/files/Where_is_the_web_still_insecure__Regional_scans_for_HTTPS_certificates.pdf), [Presentation](https://tjerandsilde.no/files/NISK_presentation.pdf))
+NISK 2018, Svalbard. ([Short paper](https://tjerandsilde.no/files/Where_is_the_web_still_insecure__Regional_scans_for_HTTPS_certificates.pdf), [Presentation](https://tjerandsilde.no/files/NISK_presentation.pdf),[Github](https://github.com/tjesi/security-scan))
 
 **Silde, T.**: _Bilinear pairings of elliptic curves_, NTNU, 2015. ([Bachelor Thesis](https://tjerandsilde.no/files/Bachelor_Thesis.pdf))
 
