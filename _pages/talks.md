@@ -11,7 +11,7 @@ author_profile: true
 
 ## Some recent talks:
 
-* "Algoritmisk tenkning" - [Mathematical Modelling and ICT in the Teaching of Mathematics](https://www.ntnu.edu/studies/courses/SKOLE6232), Trondheim, January 2020. ([PDF](https://tjerandsilde.no/files/algoritmisktankegang.pdf))
+* "Algoritmisk tenkning" - NTNU, Trondheim, January 2020. ([PDF](https://tjerandsilde.no/files/algoritmisktankegang.pdf))
 * "Post-Quantum E-Voting" – [Norsk Kryptoseminar 2020](https://wiki.math.ntnu.no/nks/nks20), Kjeller, January 2020. ([PDF](https://tjerandsilde.no/files/NKS2020.pdf))
 * "Intro til Kryptografi" - [The Norwegian Mathematical Olympiad Preparation Camp](https://abelkonkurransen.no/en), Trondheim, January 2020. ([PDF](https://tjerandsilde.no/files/Abelforedrag.pdf))
 * “Electronic voting using lattice-based commitments and verifiable encryption” – [Aarhus Crypto Seminar](https://cs.au.dk/~oech/seminar.html), Aarhus, November 2019. ([PDF](https://tjerandsilde.no/files/Aarhus_Crypto_Seminar_Presentation.pdf))
