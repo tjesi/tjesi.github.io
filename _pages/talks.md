@@ -7,7 +7,7 @@ author_profile: true
 
 ## Coming talks:
 
-* “Zero-Knowledge Proofs – hvordan bevise at du vet en hemmelighet” – [Onsdagsseminar i matematiske fag](https://wiki.math.ntnu.no/student/onsdagsforedrag), Trondheim, March 2020.
+* 
 
 ## Some recent talks:
 
