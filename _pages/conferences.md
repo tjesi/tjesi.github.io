@@ -9,6 +9,10 @@ I have participated or will participate at the following conferences, seminars a
 
 **Eurocrypt 2021**: The 40th Annual International Conference on the Theory and Applications of Cryptographic Techniques. April 25.-30., 2021 – Trondheim, Norway.
 
+**Eurocrypt 2020**: The 39th Annual International Conference on the Theory and Applications of Cryptographic Techniques. May 10.-14., 2019 – Zagreb, Croatia. [eurocrypt.iacr.org/2020](https://eurocrypt.iacr.org/2020)
+
+**COINS Winter School 2020**. May 3.-8., 2020 – Finse, Norway. [coinsrs.no/coins-winter-school-2020-in-finse](https://coinsrs.no/coins-winter-school-2020-in-finse)
+
 **Lattices: Geometry, Algorithms and Hardness**: Workshop at Simons Institute at UC Berkeley. February 18.-22., 2020 - Berkeley, USA. [simons.berkeley.edu/workshops/lattices-2020-1](https://simons.berkeley.edu/workshops/lattices-2020-1)
 
 **Norsk Kryptoseminar 2020@**: January 30, 2020 – Kjeller, Norway. [wiki.math.ntnu.no/nks/nks20](https://wiki.math.ntnu.no/nks/nks20)
