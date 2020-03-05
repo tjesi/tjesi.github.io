@@ -30,10 +30,10 @@ My main supervisor is [Professor Kristian Gjøsteen](https://www.ntnu.edu/employ
 
 My co-supervisor is [Professor Colin Boyd](https://www.ntnu.edu/employees/colin.boyd) at the [Department of Information Security and Communication Technology](https://www.ntnu.edu/iik).
 
-## Research Visits
-I'm grateful to [Carsten Baum](http://www.carstenbaum.com) and the [Aarhus Crypto Group](https://cs.au.dk/research/cryptography-and-security) for hosting me for one week in November 2019.
-
 ## Research Groups
 I'm a part of the [Algebra Group](https://www.ntnu.edu/imf/research/algebra) at the Department of Mathematics and the [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab) at the Department of Information Security and Communication Technology.
 
 I'm also a member of the [COINS Research School of Computer and Information Security](https://coinsrs.no) for PhD. students in Norway.
+
+## Research Visits
+I'm grateful to [Carsten Baum](http://www.carstenbaum.com) and the [Aarhus Crypto Group](https://cs.au.dk/research/cryptography-and-security) for hosting me for one week in November 2019.
