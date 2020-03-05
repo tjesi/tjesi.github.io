@@ -1,14 +1,13 @@
 # main links links
 main:
-  - title: "Conferences"
-    url: /conferences/
-    
+  - title: "Events"
+    url: /events/
+
   - title: "Research"
     url: /research/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/
 
   - title: "Teaching"
-    url: /teaching/    
-    
+    url: /teaching/
