@@ -7,7 +7,7 @@ author_profile: true
 
 I have participated or will participate at the following conferences, seminars and workshops in cryptography and information security. If I gave a talk, then the event will have a @ and my presentation will be available under [talks](https://tjerandsilde.no/talks).
 
-**Eurocrypt 2021**: The 40th Annual International Conference on the Theory and Applications of Cryptographic Techniques. April 25.-30., 2021 – Trondheim, Norway.
+**Eurocrypt 2021**: The 40th Annual International Conference on the Theory and Applications of Cryptographic Techniques. April 25.-30., 2021 – Trondheim, Norway. [eurocrypt.iacr.org/2021](https://eurocrypt.iacr.org/2021)
 
 **Eurocrypt 2020**: The 39th Annual International Conference on the Theory and Applications of Cryptographic Techniques. May 10.-14., 2019 – Zagreb, Croatia. [eurocrypt.iacr.org/2020](https://eurocrypt.iacr.org/2020)
 
@@ -15,11 +15,11 @@ I have participated or will participate at the following conferences, seminars a
 
 **Lattices: Geometry, Algorithms and Hardness**: Workshop at Simons Institute at UC Berkeley. February 18.-22., 2020 - Berkeley, USA. [simons.berkeley.edu/workshops/lattices-2020-1](https://simons.berkeley.edu/workshops/lattices-2020-1)
 
-**Norsk Kryptoseminar 2020@**: January 30, 2020 – Kjeller, Norway. [wiki.math.ntnu.no/nks/nks20](https://wiki.math.ntnu.no/nks/nks20)
+**Norsk Kryptoseminar 2020 @**: January 30, 2020 – Kjeller, Norway. [wiki.math.ntnu.no/nks/nks20](https://wiki.math.ntnu.no/nks/nks20)
 
-**Aarhus Crypto Seminar@**: November 20.-21., 2019 – Aarhus, Denmark. [cs.au.dk/~oech/seminar](https://cs.au.dk/~oech/seminar.html)
+**Aarhus Crypto Seminar @**: November 20.-21., 2019 – Aarhus, Denmark. [cs.au.dk/~oech/seminar](https://cs.au.dk/~oech/seminar.html)
 
-**Sikkerhetsfestivalen 2019@**: August 26.-28., 2019 – Lillehammer, Norway. [sikkerhetsfestivalen.no](https://sikkerhetsfestivalen.no)
+**Sikkerhetsfestivalen 2019 @**: August 26.-28., 2019 – Lillehammer, Norway. [sikkerhetsfestivalen.no](https://sikkerhetsfestivalen.no)
 
 **NIST Workshop**: The Second PQC Standardization Conference. August 22.-24., 2019 – Santa Barbara, USA. [csrc.nist.gov/Events/2019/Second-PQC-Standardization-Conference](https://csrc.nist.gov/Events/2019/Second-PQC-Standardization-Conference)
 
@@ -37,7 +37,7 @@ I have participated or will participate at the following conferences, seminars a
 
 **RWC 2019**: Real World Crypto Symposium. January 9.-11., 2019 – San Jose, USA. [rwc.iacr.org/2019](https://rwc.iacr.org/2019)
 
-**NISK 2018@**: Norwegian Information Security Conference. September 18.-20, 2019 – Svalbard, Norway. [nikt2018.ifi.uio.no/program_nisk_en](http://nikt2018.ifi.uio.no/program_nisk_en)
+**NISK 2018 @**: Norwegian Information Security Conference. September 18.-20, 2019 – Svalbard, Norway. [nikt2018.ifi.uio.no/program_nisk_en](http://nikt2018.ifi.uio.no/program_nisk_en)
 
 **COINS Ph.D. Student Seminar 2018.** September 17., 2018 – Svalbard, Norway. [coinsrs.no/coins-ph-d-student-seminar-2018-svalbard](https://coinsrs.no/coins-ph-d-student-seminar-2018-svalbard)
 
