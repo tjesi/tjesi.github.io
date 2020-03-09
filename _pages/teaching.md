@@ -10,6 +10,7 @@ author_profile: true
 * Calculus 3 – Linear Algebra ([TMA4115](https://www.ntnu.no/studier/emner/TMA4115)) at NTNU
 * Creative Work with ICT – Teacher Education ([EVL-LSPU401](https://www.hvl.no/studier/studieprogram/emne/evl-lspu401)) at HVL
 * Mathematical Modelling and ICT in the Teaching of Mathematics ([SKOLE6232](https://www.ntnu.edu/studies/courses/SKOLE6232)) at NTNU (guest lecture)
+* Applied Programming for Teachers ([IT6204](https://www.ntnu.edu/studies/courses/IT6204)) at NTNU (guest lecture)
 
 ## Previous semesters:
 
