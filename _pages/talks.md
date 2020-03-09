@@ -11,15 +11,15 @@ author_profile: true
 
 ## Some recent talks:
 
-* “Pedagogikk-kurs for Vektorassistenter” – [Vektorprogrammet](https://vektorprogrammet.no), Trondheim, February 2020. ([PDF](https://tjerandsilde.no/files/Pedagogikk_kurs_for_vektorprogrammet_FEB20.pdf))
-* "Algoritmisk tenkning" - [Mathematical Modelling and ICT in the Teaching of Mathematics](https://www.ntnu.edu/studies/courses/SKOLE6232), Trondheim, January 2020. ([PDF](https://tjerandsilde.no/files/algoritmisktankegang.pdf))
-* "Post-Quantum E-Voting" – [Norsk Kryptoseminar 2020](https://wiki.math.ntnu.no/nks/nks20), Kjeller, January 2020. ([PDF](https://tjerandsilde.no/files/NKS2020.pdf))
-* "Intro til Kryptografi" - [The Norwegian Mathematical Olympiad Preparation Camp](https://abelkonkurransen.no/en), Trondheim, January 2020. ([PDF](https://tjerandsilde.no/files/Abelforedrag.pdf))
-* “Electronic voting using lattice-based commitments and verifiable encryption” – [Aarhus Crypto Seminar](https://cs.au.dk/~oech/seminar.html), Aarhus, November 2019. ([PDF](https://tjerandsilde.no/files/Aarhus_Crypto_Seminar_Presentation.pdf))
-* “Pedagogikk-kurs for Vektorassistenter” – [Vektorprogrammet](https://vektorprogrammet.no), Trondheim, August 2019. ([PDF](https://tjerandsilde.no/files/Pedagogikk_kurs_for_vektorprogrammet.pdf))
-* “Sikkerhet i en post-kvante verden” – [Sikkerhetsfestivalen](https://sikkerhetsfestivalen.no), Lillehammer, August 2019. ([PDF](https://tjerandsilde.no/files/Sikkerhetsfestivalen_Tjerand_Silde_Sikkerhet_I_En_Post-kvante_Verden.pdf))
-* “Jeg elsker relevant reklame” – [Sikkerhetsfestivalen](https://sikkerhetsfestivalen.no), Lillehammer, August 2019. ([PDF](https://tjerandsilde.no/files/Sikkerhetsfestivalen_Tjerand_Silde_Jeg_Elsker_Relevant_Reklame.pdf))
-* “Cryptography 101 & Secure Computation” – [Center for Security and Emerging Technology at Georgetown University](http://cset.georgetown.edu), Washington, D.C., August 2019. ([PDF](https://tjerandsilde.no/files/CSET.pdf))
-* “Side-Channel Attacks” – [Applied Cryptography and Network Security](https://www.ntnu.edu/studies/courses/TTM4135), Trondheim, March 2019. ([PDF](https://tjerandsilde.no/files/Side_Channel_Attacks.pdf))
-* “Du lærer ikke å forske i forelesning” – [StudForsk](https://wiki.math.ntnu.no/studforsk/start), Trondheim, October 2018. ([PDF](https://tjerandsilde.no/files/StudForsk.pdf))
-* “Where is the web still insecure? Regional scans for HTTPS certificates” – [Norwegian Information Security Conference](http://nikt2018.ifi.uio.no/program_nisk_en.html), Svalbard, September 2018. ([PDF](https://tjerandsilde.no/files/NISK_presentation.pdf))
+* “[Pedagogikk-kurs for Vektorassistenter](https://tjerandsilde.no/files/Pedagogikk_kurs_for_vektorprogrammet_FEB20.pdf)” – [Vektorprogrammet](https://vektorprogrammet.no), Trondheim, February 2020.
+* "[Algoritmisk tenkning](https://tjerandsilde.no/files/algoritmisktankegang.pdf)" - [Mathematical Modelling and ICT in the Teaching of Mathematics](https://www.ntnu.edu/studies/courses/SKOLE6232), Trondheim, January 2020.
+* "[Post-Quantum E-Voting](https://tjerandsilde.no/files/NKS2020.pdf)" – [Norsk Kryptoseminar 2020](https://wiki.math.ntnu.no/nks/nks20), Kjeller, January 2020.
+* "[Intro til Kryptografi](https://tjerandsilde.no/files/Abelforedrag.pdf)" - [The Norwegian Mathematical Olympiad Preparation Camp](https://abelkonkurransen.no/en), Trondheim, January 2020.
+* “[Electronic voting using lattice-based commitments and verifiable encryption](https://tjerandsilde.no/files/Aarhus_Crypto_Seminar_Presentation.pdf)” – [Aarhus Crypto Seminar](https://cs.au.dk/~oech/seminar.html), Aarhus, November 2019.
+* “[Pedagogikk-kurs for Vektorassistenter](https://tjerandsilde.no/files/Pedagogikk_kurs_for_vektorprogrammet.pdf)” – [Vektorprogrammet](https://vektorprogrammet.no), Trondheim, August 2019.
+* “[Sikkerhet i en post-kvante verden](https://tjerandsilde.no/files/Sikkerhetsfestivalen_Tjerand_Silde_Sikkerhet_I_En_Post-kvante_Verden.pdf)” – [Sikkerhetsfestivalen](https://sikkerhetsfestivalen.no), Lillehammer, August 2019.
+* “[Jeg elsker relevant reklame](https://tjerandsilde.no/files/Sikkerhetsfestivalen_Tjerand_Silde_Jeg_Elsker_Relevant_Reklame.pdf)” – [Sikkerhetsfestivalen](https://sikkerhetsfestivalen.no), Lillehammer, August 2019.
+* “[Cryptography 101 & Secure Computation](https://tjerandsilde.no/files/CSET.pdf)” – [Center for Security and Emerging Technology at Georgetown University](http://cset.georgetown.edu), Washington, D.C., August 2019.
+* “[Side-Channel Attacks](https://tjerandsilde.no/files/Side_Channel_Attacks.pdf)” – [Applied Cryptography and Network Security](https://www.ntnu.edu/studies/courses/TTM4135), Trondheim, March 2019.
+* “[Du lærer ikke å forske i forelesning](https://tjerandsilde.no/files/StudForsk.pdf)” – [StudForsk](https://wiki.math.ntnu.no/studforsk/start), Trondheim, October 2018.
+* “[Where is the web still insecure? Regional scans for HTTPS certificates](https://tjerandsilde.no/files/NISK_presentation.pdf)” – [Norwegian Information Security Conference](http://nikt2018.ifi.uio.no/program_nisk_en.html), Svalbard, September 2018.
