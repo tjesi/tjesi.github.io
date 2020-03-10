@@ -7,7 +7,7 @@ author_profile: true
 
 ## Coming talks:
 
-* "Lattice-Based Verifiable Mix-Net" - [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab), Trondheim, March 2020.
+* "Lattice-Based Verifiable Mix-Net" - [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab), Trondheim, March 2020. ([PDF](https://tjerandsilde.no/files/Lattice_Based_Verifiable_Mix_Net.pdf))
 
 ## Some recent talks:
 
