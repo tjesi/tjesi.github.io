@@ -7,6 +7,7 @@ author_profile: true
 
 ## Coming talks:
 
+No planned talks at the moment...
 
 ## Some recent talks:
 
