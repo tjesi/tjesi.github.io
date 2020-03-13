@@ -7,7 +7,6 @@ author_profile: true
 
 ## Coming talks:
 
-*
 
 ## Some recent talks:
 
