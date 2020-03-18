@@ -11,6 +11,7 @@ No planned talks at the moment...
 
 ## Some recent talks:
 
+* "Koderessurser og erfaringer" - [Applied Programming for Teachers](https://www.ntnu.edu/studies/courses/IT6204), Trondheim, March 2020. ([PDF](https://tjerandsilde.no/files/LKK20.pdf))
 * "Lattice-Based Verifiable Mix-Net" - [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab), Trondheim, March 2020. ([PDF](https://tjerandsilde.no/files/Lattice_Based_Verifiable_Mix_Net.pdf))
 * “Pedagogikk-kurs for Vektorassistenter” – [Vektorprogrammet](https://vektorprogrammet.no), Trondheim, February 2020. ([PDF](https://tjerandsilde.no/files/Pedagogikk_kurs_for_vektorprogrammet_FEB20.pdf))
 * "Algoritmisk tenkning" - [Mathematical Modelling and ICT in the Teaching of Mathematics](https://www.ntnu.edu/studies/courses/SKOLE6232), Trondheim, January 2020. ([PDF](https://tjerandsilde.no/files/algoritmisktankegang.pdf))
