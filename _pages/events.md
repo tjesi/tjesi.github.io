@@ -7,7 +7,9 @@ author_profile: true
 
 I have participated or will participate at the following conferences, seminars and workshops in cryptography and information security. If I gave a talk, then the event will have a @ and my presentation will be available under [talks](https://tjerandsilde.no/talks).
 
-**Eurocrypt 2021**: The 40th Annual International Conference on the Theory and Applications of Cryptographic Techniques. April 25.-30., 2021 – Trondheim, Norway. [eurocrypt.iacr.org/2021](https://eurocrypt.iacr.org/2021)
+**Eurocrypt 2022**: The 41th Annual International Conference on the Theory and Applications of Cryptographic Techniques. May, 2022 – Trondheim, Norway.
+
+**Lattices: From Theory to Practice**: Workshop at Simons Institute at UC Berkeley. April 27.- May 1., 2020 - Berkeley, USA. [simons.berkeley.edu/workshops/lattices-2020-3](https://simons.berkeley.edu/workshops/lattices-2020-3)
 
 ~~**Eurocrypt 2020**: The 39th Annual International Conference on the Theory and Applications of Cryptographic Techniques. May 10.-14., 2019 – Zagreb, Croatia. [eurocrypt.iacr.org/2020](https://eurocrypt.iacr.org/2020)~~
 
