@@ -11,6 +11,7 @@ No planned talks at the moment...
 
 ## Cryptography and information security:
 
+* "Challenges in End-to-End Encrypted Group Messaging" - [TM8107 - Cryptographic Protocols and Their Applications](https://www.ntnu.edu/studies/courses/TM8107), Trondheim, April 2020. ([PDF](https://tjerandsilde.no/files/GroupMessaging.pdf))
 * "Lattice-Based Verifiable Mix-Net" - [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab), Trondheim, March 2020. ([PDF](https://tjerandsilde.no/files/Lattice_Based_Verifiable_Mix_Net.pdf))
 * "Post-Quantum E-Voting" – [Norsk Kryptoseminar 2020](https://wiki.math.ntnu.no/nks/nks20), Kjeller, January 2020. ([PDF](https://tjerandsilde.no/files/NKS2020.pdf))
 * "Intro til Kryptografi" - [The Norwegian Mathematical Olympiad Preparation Camp](https://abelkonkurransen.no/en), Trondheim, January 2020. ([PDF](https://tjerandsilde.no/files/Abelforedrag.pdf))
