@@ -9,15 +9,17 @@ I have participated or will participate at the following conferences, seminars a
 
 **Eurocrypt 2022**: The 41th Annual International Conference on the Theory and Applications of Cryptographic Techniques. May, 2022 – Trondheim, Norway.
 
-**TPMPC 2020**: Theory and Practice of Multi-Party Computation Workshops. May 25.-28., 2020 - Aarhus, Denmark. [multipartycomputation.com/tpmpc-2020](https://www.multipartycomputation.com/tpmpc-2020)
+**TPMPC 2020**: Theory and Practice of Multi-Party Computation Workshops. May 25.-28., 2020 - Online. [multipartycomputation.com/tpmpc-2020](https://www.multipartycomputation.com/tpmpc-2020)
 
-**Eurocrypt 2020**: The 39th Annual International Conference on the Theory and Applications of Cryptographic Techniques. May 10.-14., 2019 – Zagreb, Croatia. [eurocrypt.iacr.org/2020](https://eurocrypt.iacr.org/2020)
+**Eurocrypt 2020**: The 39th Annual International Conference on the Theory and Applications of Cryptographic Techniques. May 10.-15., 2020 – Online. [eurocrypt.iacr.org/2020](https://eurocrypt.iacr.org/2020)
 
 ~~**COINS Winter School 2020**. May 3.-8., 2020 – Finse, Norway. [coinsrs.no/coins-winter-school-2020-in-finse](https://coinsrs.no/coins-winter-school-2020-in-finse)~~
 
-**Lattices: From Theory to Practice**: Workshop at Simons Institute at UC Berkeley. April 27.- May 1., 2020 - Berkeley, USA. [simons.berkeley.edu/workshops/lattices-2020-3](https://simons.berkeley.edu/workshops/lattices-2020-3)
+**Lattices: From Theory to Practice**: Workshop at Simons Institute at UC Berkeley. April 27.- May 1., 2020 - Online. [simons.berkeley.edu/workshops/lattices-2020-3](https://simons.berkeley.edu/workshops/lattices-2020-3)
 
-**Lattices: New Cryptographic Capabilities**: Workshop at Simons Institute at UC Berkeley. March 23.-27., 2020 - Berkeley, USA. [simons.berkeley.edu/workshops/lattices-2020-2](https://simons.berkeley.edu/workshops/lattices-2020-2)
+**ZKP Workshop 2020**: The 3nrd ZKProof Standards Workshop. April 20.- May 21., 2020 – Online. [zkproof.org/events/workshop3](https://zkproof.org/events/workshop3)
+
+**Lattices: New Cryptographic Capabilities**: Workshop at Simons Institute at UC Berkeley. March 23.-27., 2020 - Online. [simons.berkeley.edu/workshops/lattices-2020-2](https://simons.berkeley.edu/workshops/lattices-2020-2)
 
 **Lattices: Geometry, Algorithms and Hardness**: Workshop at Simons Institute at UC Berkeley. February 18.-22., 2020 - Berkeley, USA. [simons.berkeley.edu/workshops/lattices-2020-1](https://simons.berkeley.edu/workshops/lattices-2020-1)
 
