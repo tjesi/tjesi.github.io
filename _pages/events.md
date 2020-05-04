@@ -15,9 +15,9 @@ I have participated or will participate at the following conferences, seminars a
 
 ~~**COINS Winter School 2020**. May 3.-8., 2020 – Finse, Norway. [coinsrs.no/coins-winter-school-2020-in-finse](https://coinsrs.no/coins-winter-school-2020-in-finse)~~
 
-**Lattices: From Theory to Practice**: Workshop at Simons Institute at UC Berkeley. April 27.- May 1., 2020 - Online. [simons.berkeley.edu/workshops/lattices-2020-3](https://simons.berkeley.edu/workshops/lattices-2020-3)
+**Lattices: From Theory to Practice**: Workshop at Simons Institute at UC Berkeley. April 27.- May 1., 2020 – Online. [simons.berkeley.edu/workshops/lattices-2020-3](https://simons.berkeley.edu/workshops/lattices-2020-3)
 
-**ZKP Workshop 2020**: The 3nrd ZKProof Standards Workshop. April 20.- May 21., 2020 – Online. [zkproof.org/events/workshop3](https://zkproof.org/events/workshop3)
+**ZKP Workshop 2020**: The 3rd ZKProof Standards Workshop. April 20.- May 21., 2020 – Online. [zkproof.org/events/workshop3](https://zkproof.org/events/workshop3)
 
 **Lattices: New Cryptographic Capabilities**: Workshop at Simons Institute at UC Berkeley. March 23.-27., 2020 - Online. [simons.berkeley.edu/workshops/lattices-2020-2](https://simons.berkeley.edu/workshops/lattices-2020-2)
 
