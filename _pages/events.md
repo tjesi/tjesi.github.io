@@ -9,7 +9,7 @@ I have participated or will participate at the following conferences, seminars a
 
 **Eurocrypt 2022**: The 41th Annual International Conference on the Theory and Applications of Cryptographic Techniques. May, 2022 – Trondheim, Norway.
 
-**TPMPC 2020**: Theory and Practice of Multi-Party Computation Workshops. May 25.-28., 2020 - Online. [multipartycomputation.com/tpmpc-2020](https://www.multipartycomputation.com/tpmpc-2020)
+**TPMPC 2020**: Theory and Practice of Multi-Party Computation Workshops. May 25.- June 4., 2020 - Online. [multipartycomputation.com/tpmpc-2020](https://www.multipartycomputation.com/tpmpc-2020)
 
 **Eurocrypt 2020**: The 39th Annual International Conference on the Theory and Applications of Cryptographic Techniques. May 10.-15., 2020 – Online. [eurocrypt.iacr.org/2020](https://eurocrypt.iacr.org/2020)
 
