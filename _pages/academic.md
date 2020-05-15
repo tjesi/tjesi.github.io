@@ -23,7 +23,7 @@ Norwegian Information Security Conference 2018, Svalbard. ([Short paper](https:/
 ## Conferences
 I organized the [Norwegian Crypto Seminar 2020](https://wiki.math.ntnu.no/nks/nks20) together with Kristian Gjøsteen and Martin Strand.
 
-I'm on the organizing committee for [Eurocrypt 2021](https://eurocrypt.iacr.org/2021) in Trondheim. Colin Boyd is the General Chair.
+I'm on the organizing committee for [Eurocrypt 2022](https://eurocrypt.iacr.org/2022) in Trondheim. Colin Boyd is the General Chair.
 
  I have been a subreviewer for [CT-RSA 20](https://link.springer.com/book/10.1007/978-3-030-40186-3). I was subreviewing for Jiaxin Pan.
 
