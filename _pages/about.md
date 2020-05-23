@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-My name is Tjerand. I’m a PhD student in cryptography at the Department of Mathematics at the Norwegian University of Science and Technology (NTNU) in Trondheim. My supervisor is Professor Kristian Gjøsteen.
+My name is Tjerand. I’m a first year PhD student in cryptography at the Department of Mathematics at the Norwegian University of Science and Technology (NTNU) in Trondheim. My supervisor is Professor Kristian Gjøsteen.
 
 My main foci of research are lattice-based cryptography and zero-knowledge proofs. My interests also span the areas of secure multi-party computation, password-authenticated key-exchange and electronic voting.
 
- I also serve as a university college teacher at [Western Norway University of Applied Sciences](https://www.hvl.no/en), an editor at [Sikkerhet Online](https://www.sikkerhet.online/author/tjerand-silde) and lead developer at [Kodeklubben](http://oppgaver.kidsakoder.no).
+ I also serve as a university college teacher at [Western Norway University of Applied Sciences](https://www.hvl.no/en) (2017-), an editor at [Sikkerhet Online](https://www.sikkerhet.online/author/tjerand-silde) (2018-) and lead developer at [Kodeklubben](http://oppgaver.kidsakoder.no) (2015-).
 
  Previously, I completed a bachelors in mathematics at NTNU in 2017. I've also been working as a project manager at [Lær Kidsa Koding](https://www.kidsakoder.no) (2015-2016), and as an intern at [Bouvet](https://en.bouvet.no/) (2017) [Intrinsic-ID](https://www.intrinsic-id.com) (2018).
 
