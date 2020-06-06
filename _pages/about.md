@@ -16,4 +16,4 @@ My main foci of research are lattice-based cryptography and zero-knowledge proof
 
  Previously, I completed a B.Sc. in mathematics at NTNU in 2017. I've been working as a project manager at [Lær Kidsa Koding](https://www.kidsakoder.no) (2015-16), and intern at [Bouvet](https://en.bouvet.no) (2017) and [Intrinsic-ID](https://www.intrinsic-id.com) (2018).
 
- **News:** I will be visiting [Carsten Baum](http://www.carstenbaum.com), [Ivan Damgård](https://users-cs.au.dk/~ivan) and the [Aarhus Crypto Group](https://cs.au.dk/research/cryptography-and-security) the fall semester of 2020.
+ **News:** I will be visiting [Carsten Baum](http://www.carstenbaum.com), [Ivan Damgård](https://users-cs.au.dk/~ivan) and the [Aarhus Crypto Group](https://cs.au.dk/research/cryptography-and-security) fall 2020.
