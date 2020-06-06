@@ -5,9 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Current semester: Fall 2020
-
-I'm currently not teaching. My engagement at HVL is over, and I have completed all of my teaching duty as a part of my PhD at NTNU.
+I'm currently not teaching. My engagement at HVL has ended, and I have completed all of my teaching duty at NTNU.
 
 ## Previous semesters:
 
