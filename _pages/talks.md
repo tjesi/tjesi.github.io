@@ -11,7 +11,7 @@ author_profile: true
 
 ## Cryptography and information security:
 
-* "Challenges in End-to-End Encrypted Group Messaging" - [Cryptographic Protocols and Their Applications](https://www.ntnu.edu/studies/courses/TM8107), Trondheim, April 2020. ([PDF](https://tjerandsilde.no/files/GroupMessagingPresentation.pdf))
+* "Challenges in End-to-End Encrypted Group Messaging" - [Cryptographic Protocols and Their Applications](https://www.ntnu.edu/studies/courses/TM8107), Trondheim, June 2020. ([PDF](https://tjerandsilde.no/files/GroupMessagingPresentation.pdf))
 * "Lattice-Based Verifiable Mix-Net" - [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab), Trondheim, March 2020. ([PDF](https://tjerandsilde.no/files/Lattice_Based_Verifiable_Mix_Net.pdf))
 * "Post-Quantum E-Voting" – [Norsk Kryptoseminar 2020](https://wiki.math.ntnu.no/nks/nks20), Kjeller, January 2020. ([PDF](https://tjerandsilde.no/files/NKS2020.pdf))
 * "Intro til Kryptografi" - [The Norwegian Mathematical Olympiad Preparation Camp](https://abelkonkurransen.no/en), Trondheim, January 2020. ([PDF](https://tjerandsilde.no/files/Abelforedrag.pdf))
@@ -26,6 +26,6 @@ author_profile: true
 
 * "Koderessurser og erfaringer" - [Applied Programming for Teachers](https://www.ntnu.edu/studies/courses/IT6204), Trondheim, March 2020. ([PDF](https://tjerandsilde.no/files/LKK20.pdf))
 * “Pedagogikk-kurs for Vektorassistenter” – [Vektorprogrammet](https://vektorprogrammet.no), Trondheim, February 2020. ([PDF](https://tjerandsilde.no/files/Pedagogikk_kurs_for_vektorprogrammet_FEB20.pdf))
-* "Algoritmisk tenkning" - [Mathematical Modelling and ICT in the Teaching of Mathematics](https://www.ntnu.edu/studies/courses/SKOLE6232), Trondheim, January 2020. ([PDF](https://tjerandsilde.no/files/algoritmisktankegang.pdf))
+* "Algoritmisk tenkning" - [Math. Mod. and ICT in the Teaching of Mathematics](https://www.ntnu.edu/studies/courses/SKOLE6232), Trondheim, January 2020. ([PDF](https://tjerandsilde.no/files/algoritmisktankegang.pdf))
 * “Pedagogikk-kurs for Vektorassistenter” – [Vektorprogrammet](https://vektorprogrammet.no), Trondheim, August 2019. ([PDF](https://tjerandsilde.no/files/Pedagogikk_kurs_for_vektorprogrammet.pdf))
 * “Du lærer ikke å forske i forelesning” – [StudForsk](https://wiki.math.ntnu.no/studforsk/start), Trondheim, October 2018. ([PDF](https://tjerandsilde.no/files/StudForsk.pdf))
