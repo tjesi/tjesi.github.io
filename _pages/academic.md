@@ -15,7 +15,7 @@ In submission. TBA.
 
 **Silde, T.**: _Comparative Study of ECC Libraries for Embedded Devices_ ([Technical Report](https://tjerandsilde.no/files/Comparative-Study-of-ECC-Libraries-for-Embedded-Devices.pdf))
 
-**Hossain, A., Nelson, K.,  Silde, T.**: _Where is the Web Still Insecure? Regional Scans for HTTPS Certificates_  
+**Hossain, A., Nelson, K.,  Silde, T.**: _Where is the Web Still Insecure? Regional Scans for HTTPS Certificates._  
 Norwegian Information Security Conference 2018, Svalbard. ([Short paper](https://tjerandsilde.no/files/Where_is_the_web_still_insecure__Regional_scans_for_HTTPS_certificates.pdf), [Presentation](https://tjerandsilde.no/files/NISK_presentation.pdf), [Github](https://github.com/tjesi/security-scan))
 
 **Silde, T.**: _Bilinear pairings of elliptic curves_, NTNU, 2015. ([Bachelor Thesis](https://tjerandsilde.no/files/Bachelor_Thesis.pdf))
@@ -25,7 +25,7 @@ I organized the [Norwegian Crypto Seminar 2020](https://wiki.math.ntnu.no/nks/nk
 
 I'm on the organizing committee for [Eurocrypt 2022](https://eurocrypt.iacr.org/2022) in Trondheim. Colin Boyd is the General Chair.
 
- I have been a subreviewer for [CT-RSA 20](https://link.springer.com/book/10.1007/978-3-030-40186-3). I was subreviewing for Jiaxin Pan.
+ I have been a subreviewer for [CT-RSA 2020](https://link.springer.com/book/10.1007/978-3-030-40186-3). I was subreviewing for Jiaxin Pan.
 
 ## Supervisors
 My main supervisor is [Professor Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen) at the [Department of Mathematical Sciences](https://www.ntnu.edu/imf).
@@ -33,9 +33,9 @@ My main supervisor is [Professor Kristian Gjøsteen](https://www.ntnu.edu/employ
 My co-supervisor is [Professor Colin Boyd](https://www.ntnu.edu/employees/colin.boyd) at the [Department of Information Security and Communication Technology](https://www.ntnu.edu/iik).
 
 ## Research Groups
-I'm a part of the [Algebra Group](https://www.ntnu.edu/imf/research/algebra) at the Department of Mathematics and the [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab) at the Department of Information Security and Communication Technology.
+I'm a member of the [Algebra Group](https://www.ntnu.edu/imf/research/algebra) at the Department of Mathematics and the [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab) at the Department of Information Security and Communication Technology.
 
-I'm also a member of the [COINS Research School of Computer and Information Security](https://coinsrs.no) for PhD. students in Norway.
+I'm also a member of the [COINS Research School of Computer and Information Security](https://coinsrs.no) for Ph.D. students in Norway.
 
 ## Research Visits
 I'm grateful to [Carsten Baum](http://www.carstenbaum.com) and the [Aarhus Crypto Group](https://cs.au.dk/research/cryptography-and-security) for hosting me for one week in November 2019.
