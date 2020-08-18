@@ -11,7 +11,7 @@ In submission. TBA.
 
 ## Miscellaneous
 
-**Silde, T.**: _Verifiable Random Secrets \newline and Subliminal-Free Digital Signatures_, NTNU, 2020. ([Master's Thesis](https://tjerandsilde.no/files/Master_Thesis.pdf))
+**Silde, T.**: _Verifiable Random Secrets and Subliminal-Free Digital Signatures_, NTNU, 2020. ([Master's Thesis](https://tjerandsilde.no/files/Master_Thesis.pdf))
 
 **Silde, T.**: _Challenges in E2E Encrypted Group Messaging_ ([Technical Report](https://tjerandsilde.no/files/GroupMessagingReport.pdf))
 
