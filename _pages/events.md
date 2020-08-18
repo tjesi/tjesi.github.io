@@ -9,6 +9,18 @@ I have participated or will participate at the following conferences, seminars a
 
 **Eurocrypt 2022**: The 41th Annual International Conference on the Theory and Applications of Cryptographic Techniques. May, 2022 – Trondheim, Norway.
 
+**FC 2021**: The 25th International Conference on Financial Cryptography and Data Security. March 1.-5., 2021. [fc21.ifca.ai](https://fc21.ifca.ai)
+
+**RWC 2021**: Real World Crypto Symposium. January 11.-13., 2021 - Amsterdam. [rwc.iacr.org/2021](https://rwc.iacr.org/2021)
+
+**TCC 2020**: The 18th Theory of Cryptography Conference. November 15.-19., 2020. [tcc.iacr.org/2020](https://tcc.iacr.org/2020)
+
+**ACM CCS 2020**: The 27th ACM Conference on Computer and Communications Security. November 9.-13., 2020 - Online. [sigsac.org/ccs/CCS2020](https://www.sigsac.org/ccs/CCS2020)
+
+**SCN 2020**: The 12th Conference on Security and Cryptography for Networks. September 14.-16., 2020 - Online. [scn.unisa.it](https://scn.unisa.it)
+
+**Crypto 2020**: The 40th International Cryptology Conference. August 17.-21., 2020 – Online. [crypto.iacr.org/2020](https://crypto.iacr.org/2020)
+
 **PKC 2020**: Public Key Cryptography. June 1.-4., 2020 - Online. [pkc.iacr.org/2020](https://pkc.iacr.org/2020)
 
 **TPMPC 2020**: Theory and Practice of Multi-Party Computation Workshops. May 25.- June 4., 2020 - Online. [multipartycomputation.com/tpmpc-2020](https://www.multipartycomputation.com/tpmpc-2020)
@@ -33,7 +45,7 @@ I have participated or will participate at the following conferences, seminars a
 
 **NIST Workshop**: The Second PQC Standardization Conference. August 22.-24., 2019 – Santa Barbara, USA. [csrc.nist.gov/Events/2019/Second-PQC-Standardization-Conference](https://csrc.nist.gov/Events/2019/Second-PQC-Standardization-Conference)
 
-**Crypto 2019**: The 38th International Cryptology Conference. August 18.-22., 2019 – Santa Barbara, USA. [crypto.iacr.org/2019](https://crypto.iacr.org/2019)
+**Crypto 2019**: The 39th International Cryptology Conference. August 18.-22., 2019 – Santa Barbara, USA. [crypto.iacr.org/2019](https://crypto.iacr.org/2019)
 
 **Eurocrypt 2019**: The 38th Annual International Conference on the Theory and Applications of Cryptographic Techniques. May 19.-23., 2019 – Darmstadt, Germany. [eurocrypt.iacr.org/2019](https://eurocrypt.iacr.org/2019)
 

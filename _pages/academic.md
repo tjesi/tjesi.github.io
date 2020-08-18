@@ -11,6 +11,8 @@ In submission. TBA.
 
 ## Miscellaneous
 
+**Silde, T.**: _Verifiable Random Secrets \newline and Subliminal-Free Digital Signatures_, NTNU, 2020. ([Master's Thesis](https://tjerandsilde.no/files/Master_Thesis.pdf))
+
 **Silde, T.**: _Challenges in E2E Encrypted Group Messaging_ ([Technical Report](https://tjerandsilde.no/files/GroupMessagingReport.pdf))
 
 **Silde, T.**: _Comparative Study of ECC Libraries for Embedded Devices_ ([Technical Report](https://tjerandsilde.no/files/Comparative-Study-of-ECC-Libraries-for-Embedded-Devices.pdf))
@@ -18,7 +20,7 @@ In submission. TBA.
 **Hossain, A., Nelson, K.,  Silde, T.**: _Where is the Web Still Insecure? Regional Scans for HTTPS Certificates._  
 Norwegian Information Security Conference 2018, Svalbard. ([Short paper](https://tjerandsilde.no/files/Where_is_the_web_still_insecure__Regional_scans_for_HTTPS_certificates.pdf), [Presentation](https://tjerandsilde.no/files/NISK_presentation.pdf), [Github](https://github.com/tjesi/security-scan))
 
-**Silde, T.**: _Bilinear pairings of elliptic curves_, NTNU, 2015. ([Bachelor Thesis](https://tjerandsilde.no/files/Bachelor_Thesis.pdf))
+**Silde, T.**: _Bilinear pairings of elliptic curves_, NTNU, 2015. ([Bachelor's Thesis](https://tjerandsilde.no/files/Bachelor_Thesis.pdf))
 
 ## Conferences
 I organized the [Norwegian Crypto Seminar 2020](https://wiki.math.ntnu.no/nks/nks20) together with Kristian Gjøsteen and Martin Strand.
