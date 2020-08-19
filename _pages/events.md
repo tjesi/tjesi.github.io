@@ -13,6 +13,8 @@ I have participated or will participate at the following conferences, seminars a
 
 **RWC 2021**: Real World Crypto Symposium. January 11.-13., 2021 - Amsterdam. [rwc.iacr.org/2021](https://rwc.iacr.org/2021)
 
+**Asiarypt 2020**: The 26th Annual International Conference on the Theory and Application of Cryptology and Information Security. December 6.-10., 2020 – Online. [asiacrypt.iacr.org/2020](https://asiacrypt.iacr.org/2020)
+
 **TCC 2020**: The 18th Theory of Cryptography Conference. November 15.-19., 2020. [tcc.iacr.org/2020](https://tcc.iacr.org/2020)
 
 **ACM CCS 2020**: The 27th ACM Conference on Computer and Communications Security. November 9.-13., 2020 - Online. [sigsac.org/ccs/CCS2020](https://www.sigsac.org/ccs/CCS2020)
