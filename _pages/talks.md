@@ -7,6 +7,8 @@ author_profile: true
 
 ## Coming talks:
 
+* I currently have no upcoming talks planned...
+
 ## Cryptography and information security:
 
 * "Verifiable Random Secrets and Subliminal-Free Signatures" - [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab), Trondheim, August 2020. ([PDF](https://tjerandsilde.no/files/Master_Presentation.pdf))
