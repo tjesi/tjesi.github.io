@@ -13,9 +13,9 @@ In submission. TBA.
 
 **Silde, T.**: _Verifiable Random Secrets and Subliminal-Free Digital Signatures_, NTNU, 2020. ([Master's Thesis](https://tjerandsilde.no/files/Master_Thesis.pdf))
 
-**Silde, T.**: _Challenges in E2E Encrypted Group Messaging_ ([Technical Report](https://tjerandsilde.no/files/GroupMessagingReport.pdf))
+**Silde, T.**: _Challenges in E2E Encrypted Group Messaging_, NTNU 2020. ([Technical Report](https://tjerandsilde.no/files/GroupMessagingReport.pdf))
 
-**Silde, T.**: _Comparative Study of ECC Libraries for Embedded Devices_ ([Technical Report](https://tjerandsilde.no/files/Comparative-Study-of-ECC-Libraries-for-Embedded-Devices.pdf))
+**Silde, T.**: _Comparative Study of ECC Libraries for Embedded Devices_, NTNU 2019. ([Technical Report](https://tjerandsilde.no/files/Comparative-Study-of-ECC-Libraries-for-Embedded-Devices.pdf))
 
 **Hossain, A., Nelson, K.,  Silde, T.**: _Where is the Web Still Insecure? Regional Scans for HTTPS Certificates._  
 Norwegian Information Security Conference 2018, Svalbard. ([Short paper](https://tjerandsilde.no/files/Where_is_the_web_still_insecure__Regional_scans_for_HTTPS_certificates.pdf), [Presentation](https://tjerandsilde.no/files/NISK_presentation.pdf), [Github](https://github.com/tjesi/security-scan))
