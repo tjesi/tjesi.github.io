@@ -27,7 +27,7 @@ I organized the [Norwegian Crypto Seminar 2020](https://wiki.math.ntnu.no/nks/nk
 
 I'm on the organizing committee for [Eurocrypt 2022](https://eurocrypt.iacr.org/2022) in Trondheim. Colin Boyd is the General Chair.
 
- I have been a subreviewer for [CT-RSA 2020](https://link.springer.com/book/10.1007/978-3-030-40186-3). I was subreviewing for Jiaxin Pan.
+ I have been a subreviewer for [CT-RSA 2020](https://link.springer.com/book/10.1007/978-3-030-40186-3) (for Jiaxin Pan) and [SAC 2020](https://sac2020.ca) (for Diego Aranha).
 
 ## Supervisors
 My main supervisor is [Professor Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen) at the [Department of Mathematical Sciences](https://www.ntnu.edu/imf).
