@@ -11,7 +11,7 @@ author_profile: true
 
 ## Cryptography and information security:
 
-* "Verifiable Random Secrets and Subliminal-Free Signatures" - [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab), Trondheim, August 2020. ([PDF](https://tjerandsilde.no/files/Master_Presentation.pdf))
+* "Verifiable Random Secrets and Subliminal-Free Signatures" - Master Thesis Presentation, Trondheim, August 2020. ([PDF](https://tjerandsilde.no/files/Master_Presentation.pdf))
 * "Challenges in End-to-End Encrypted Group Messaging" - [Cryptographic Protocols and Their Applications](https://www.ntnu.edu/studies/courses/TM8107), Trondheim, June 2020. ([PDF](https://tjerandsilde.no/files/GroupMessagingPresentation.pdf))
 * "Lattice-Based Verifiable Mix-Net" - [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab), Trondheim, March 2020. ([PDF](https://tjerandsilde.no/files/Lattice_Based_Verifiable_Mix_Net.pdf))
 * "Post-Quantum E-Voting" – [Norsk Kryptoseminar 2020](https://wiki.math.ntnu.no/nks/nks20), Kjeller, January 2020. ([PDF](https://tjerandsilde.no/files/NKS2020.pdf))
