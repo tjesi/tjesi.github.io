@@ -13,8 +13,7 @@ In submission. TBA.
 
 **H. Galteland and T. Silde**: _Verifiable Random Secrets and Subliminal-Free Digital Signatures_
 
-**D. Aranha, C. Baum, K. Gjøsteen, T. Silde and T. Tunge**:
-
+**D. Aranha, C. Baum, K. Gjøsteen, T. Silde and T. Tunge**:\
 _Electronic Voting using Lattice-Based Commitments and Verifiable Encryption_
 
 **C. Baum, K. Gjøsteen and T. Silde**: _Lattice-Based Verifiable Mix-Net_
