@@ -31,7 +31,7 @@ _Electronic Voting using Lattice-Based Commitments and Verifiable Encryption_
 **T. Silde**: _Comparative Study of ECC Libraries for Embedded Devices_, NTNU 2019. ([Technical Report](https://tjerandsilde.no/files/Comparative-Study-of-ECC-Libraries-for-Embedded-Devices.pdf))
 
 **A. Hossain, K. Nelson and T. Silde**: _Where is the Web Still Insecure? Regional Scans for HTTPS Certificates._  
-Norwegian Information Security Conference 2018, Svalbard. ([Short paper](https://tjerandsilde.no/files/Where_is_the_web_still_insecure__Regional_scans_for_HTTPS_certificates.pdf), [Presentation](https://tjerandsilde.no/files/NISK_presentation.pdf), [Github](https://github.com/tjesi/security-scan))
+Norwegian Information Security Conference 2018, Svalbard. ([Short paper](https://tjerandsilde.no/files/Where_is_the_web_still_insecure__Regional_scans_for_HTTPS_certificates.pdf), [Presentation](https://tjerandsilde.no/files/NISK_presentation.pdf), [Code](https://github.com/tjesi/security-scan))
 
 **Silde, T.**: _Bilinear pairings of elliptic curves_, NTNU, 2015. ([Bachelor's Thesis](https://tjerandsilde.no/files/Bachelor_Thesis.pdf))
 
@@ -40,7 +40,7 @@ I organized the [Norwegian Crypto Seminar 2020](https://wiki.math.ntnu.no/nks/nk
 
 I'm on the organizing committee for [Eurocrypt 2022](https://eurocrypt.iacr.org/2022) in Trondheim. Colin Boyd is the General Chair.
 
- I have been a subreviewer at [CT-RSA 2020](https://link.springer.com/book/10.1007/978-3-030-40186-3), [SAC 2020](https://sac2020.ca) and [FC 2021](https://fc21.ifca.ai).
+ I have been a subreviewer for [CT-RSA 2020](https://link.springer.com/book/10.1007/978-3-030-40186-3), [SAC 2020](https://sac2020.ca) and [FC 2021](https://fc21.ifca.ai).
 
 ## Research Groups
 I'm a member of the [Algebra Group](https://www.ntnu.edu/imf/research/algebra) at the Department of Mathematics and the [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab) at the Department of Information Security and Communication Technology.
