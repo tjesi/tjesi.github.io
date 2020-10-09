@@ -20,6 +20,12 @@ Cohen: [Cryptography Online Talks Calendar](https://www.ccs.neu.edu/~rancohen/cr
 - Anderson: [Security Engineering](https://www.cl.cam.ac.uk/~rja14/book.html)
 - Goldwasser and Bellare: [Lecture Notes on Cryptography](https://cseweb.ucsd.edu/~mihir/papers/gb.html)
 
+## International Association for Cryptologic Research
+- [Calendar of Events in Cryptology](https://iacr.org/events)
+- [Open Positions in Cryptology](https://iacr.org/jobs)
+- [Cryptology ePrint Archive](https://eprint.iacr.org)
+- [IACR Youtube channel](https://www.youtube.com/user/TheIACR)
+
 ## Lecture notes
 
 - Katz: [Introduction to Cryptography](http://www.cs.umd.edu/~jkatz/crypto/s18/lectures.html) at UMD
@@ -27,24 +33,42 @@ Cohen: [Cryptography Online Talks Calendar](https://www.ccs.neu.edu/~rancohen/cr
 
 ## Newsletters
 
-- International Association for Cryptologic Research: [IACR News](https://iacr.org/news)
+- IACR: [News](https://iacr.org/news)
 - Valsorda: [Cryptography Dispatches](https://buttondown.email/cryptography-dispatches/archive)
 - Schneier: [Crypto-Gram](https://www.schneier.com/crypto-gram)
+
+## Norwegian University of Science and Technology
+
+- Research: [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab)
+- Twitter: [NTNU Applied Cryptology Lab](https://twitter.com/ntnucrypto)
+- Courses:
+  - [TDT4237 - Software Security and Data Privacy](https://www.ntnu.edu/studies/courses/TDT4237)
+  - [TTM4135 - Applied Cryptography and Network Security](https://www.ntnu.edu/studies/courses/TTM4135)
+  - [TTM4195 - Blockchain Technologies and Cryptocurrencies](https://www.ntnu.edu/studies/courses/TTM4195)
+  - [TMA4160 - Cryptography](https://www.ntnu.edu/studies/courses/TMA4160)
+  - [MA8206 - Advanced Cryptography](https://www.ntnu.edu/studies/courses/MA8206)
+  - [TM8111 - Identity-Based Cryptography](https://www.ntnu.edu/studies/courses/TM8111)
+  - [TM8107 - Cryptographic Protocols and Their Applications](https://www.ntnu.edu/studies/courses/TM8107)
 
 ## Online courses
 
 - Boneh: [Stanford’s online cryptography course](https://www.coursera.org/learn/crypto)
+- Katz: [Cryptography](https://www.coursera.org/learn/cryptography)
 
 ## Podcasts
 
 - Kobeissi: [Cryptography FM](https://www.cryptography.fm)
 - Gorbunov: [Real World Cryptographers Podcast](https://rwcpodcast.buzzsprout.com)
 
+## Simons Institute programs
+
+- [The Quantum Wave in Computing](https://simons.berkeley.edu/programs/quantum2020)
+- [Lattices: Algorithms, Complexity, and Cryptography](https://simons.berkeley.edu/programs/lattices2020)
+- [Proofs, Consensus, and Decentralizing Society](https://simons.berkeley.edu/programs/proofs2019)
+- [Cryptography](https://simons.berkeley.edu/programs/crypto2015)
+
 ## Useful links
 
-- [Calendar of Events in Cryptology](https://iacr.org/events)
-- [Open Positions in Cryptology](https://iacr.org/jobs)
-- [Cryptology ePrint Archive](https://eprint.iacr.org)
 - [Cryptography and Security arXiv](https://arxiv.org/list/cs.CR/recent)
 - [Applied Cryptography Research: A Board](https://acrab.isi.jhu.edu)
 - [Crypto Stackexchange](https://crypto.stackexchange.com)
