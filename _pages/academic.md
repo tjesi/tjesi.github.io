@@ -5,15 +5,23 @@ permalink: /academic/
 author_profile: true
 ---
 
-## Work in Progress
-
-**H. Galteland and T. Silde**: _Verifiable Random Secrets and Subliminal-Free Digital Signatures_
-
 ## Papers
 
 In submission. TBA.
 
-## Miscellaneous
+## Unpublished Manuscripts
+
+**H. Galteland and T. Silde**: _Verifiable Random Secrets and Subliminal-Free Digital Signatures_
+
+**D. Aranha, C. Baum, K. Gjøsteen, T. Silde and T. Tunge**: _Electronic Voting using Lattice-Based Commitments and Verifiable Encryption_
+
+**C. Baum, K. Gjøsteen and T. Silde**: _Lattice-Based Verifiable Mix-Net_
+
+**K. Gjøsteen, T. Haines, J. Müller, P. Rønne and T. Silde**: _Verifiable Decryption in the Head_
+
+**C. Boyd, B. de Kock and T. Silde**: _LOPAQUE: Lattice-Based Password Authenticated Key Exchange_
+
+## Theses and Reports
 
 **T. Silde**: _Verifiable Random Secrets and Subliminal-Free Digital Signatures_, NTNU, 2020. ([Master's Thesis](https://tjerandsilde.no/files/Master_Thesis.pdf))
 
