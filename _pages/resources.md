@@ -18,6 +18,7 @@ Cohen: [Cryptography Online Talks Calendar](https://www.ccs.neu.edu/~rancohen/cr
 - Galbraith: [Mathematics of Public Key Cryptography](https://www.math.auckland.ac.nz/~sgal018/crypto-book/crypto-book.html)
 - Menezes, van Oorschot and Vanstone: [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac)
 - Anderson: [Security Engineering](https://www.cl.cam.ac.uk/~rja14/book.html)
+- Goldwasser and Bellare: [Lecture Notes on Cryptography](https://cseweb.ucsd.edu/~mihir/papers/gb.html)
 
 ## Lecture notes
 
@@ -26,17 +27,18 @@ Cohen: [Cryptography Online Talks Calendar](https://www.ccs.neu.edu/~rancohen/cr
 
 ## Newsletters
 
+- International Association for Cryptologic Research: [IACR News](https://iacr.org/news)
 - Valsorda: [Cryptography Dispatches](https://buttondown.email/cryptography-dispatches/archive)
 - Schneier: [Crypto-Gram](https://www.schneier.com/crypto-gram)
+
+## Online courses
+
+- Boneh: [Stanford’s online cryptography course](https://www.coursera.org/learn/crypto)
 
 ## Podcasts
 
 - Kobeissi: [Cryptography FM](https://www.cryptography.fm)
 - Gorbunov: [Real World Cryptographers Podcast](https://rwcpodcast.buzzsprout.com)
-
-## Seminars
-
-- [Stanford Security Seminar](https://crypto.stanford.edu/seclab/sem.html)
 
 ## Useful links
 
@@ -45,3 +47,4 @@ Cohen: [Cryptography Online Talks Calendar](https://www.ccs.neu.edu/~rancohen/cr
 - [Cryptology ePrint Archive](https://eprint.iacr.org)
 - [Cryptography and Security arXiv](https://arxiv.org/list/cs.CR/recent)
 - [Applied Cryptography Research: A Board](https://acrab.isi.jhu.edu)
+- [Crypto Stackexchange](https://crypto.stackexchange.com)
