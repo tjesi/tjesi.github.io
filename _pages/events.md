@@ -11,11 +11,11 @@ I have participated or will participate at the following conferences, seminars a
 
 **FC 2021**: The 25th International Conference on Financial Cryptography and Data Security. March 1.-5., 2021. [fc21.ifca.ai](https://fc21.ifca.ai)
 
-**RWC 2021**: Real World Crypto Symposium. January 11.-13., 2021 - Amsterdam. [rwc.iacr.org/2021](https://rwc.iacr.org/2021)
+**RWC 2021**: Real World Crypto Symposium. January 11.-13., 2021 - Online. [rwc.iacr.org/2021](https://rwc.iacr.org/2021)
 
 **Asiarypt 2020**: The 26th Annual International Conference on the Theory and Application of Cryptology and Information Security. December 6.-10., 2020 – Online. [asiacrypt.iacr.org/2020](https://asiacrypt.iacr.org/2020)
 
-**TCC 2020**: The 18th Theory of Cryptography Conference. November 15.-19., 2020. [tcc.iacr.org/2020](https://tcc.iacr.org/2020)
+**TCC 2020**: The 18th Theory of Cryptography Conference. November 15.-19., 2020 - Online. [tcc.iacr.org/2020](https://tcc.iacr.org/2020)
 
 **ACM CCS 2020**: The 27th ACM Conference on Computer and Communications Security. November 9.-13., 2020 - Online. [sigsac.org/ccs/CCS2020](https://www.sigsac.org/ccs/CCS2020)
 
@@ -28,8 +28,6 @@ I have participated or will participate at the following conferences, seminars a
 **TPMPC 2020**: Theory and Practice of Multi-Party Computation Workshops. May 25.- June 4., 2020 - Online. [multipartycomputation.com/tpmpc-2020](https://www.multipartycomputation.com/tpmpc-2020)
 
 **Eurocrypt 2020**: The 39th Annual International Conference on the Theory and Applications of Cryptographic Techniques. May 10.-15., 2020 – Online. [eurocrypt.iacr.org/2020](https://eurocrypt.iacr.org/2020)
-
-~~**COINS Winter School 2020**. May 3.-8., 2020 – Finse, Norway. [coinsrs.no/coins-winter-school-2020-in-finse](https://coinsrs.no/coins-winter-school-2020-in-finse)~~
 
 **Lattices: From Theory to Practice**: Workshop at Simons Institute at UC Berkeley. April 27.- May 1., 2020 – Online. [simons.berkeley.edu/workshops/lattices-2020-3](https://simons.berkeley.edu/workshops/lattices-2020-3)
 
