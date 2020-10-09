@@ -9,7 +9,7 @@ author_profile: true
 
 In submission. TBA.
 
-## Unpublished Manuscripts
+## Work in Progress
 
 **H. Galteland and T. Silde**: _Verifiable Random Secrets and Subliminal-Free Digital Signatures_
 
