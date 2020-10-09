@@ -39,8 +39,12 @@ Cohen: [Cryptography Online Talks Calendar](https://www.ccs.neu.edu/~rancohen/cr
 
 ## Norwegian University of Science and Technology
 
-- Research: [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab)
-- Twitter: [NTNU Applied Cryptology Lab](https://twitter.com/ntnucrypto)
+- Research group: [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab)
+- Events:
+  - [Norwegian Crypto Seminar](https://wiki.math.ntnu.no/nks)
+  - [Eurocrypt 2022](https://eurocrypt.iacr.org/2022)
+  - [Crypto vs. Mass Surveillance: The Uneasy Relationship Workshop 2016](http://cms16.item.ntnu.no)
+  - [The International Conference on PASSWORDS 2014](http://passwords14.item.ntnu.no)
 - Courses:
   - [TDT4237 - Software Security and Data Privacy](https://www.ntnu.edu/studies/courses/TDT4237)
   - [TTM4135 - Applied Cryptography and Network Security](https://www.ntnu.edu/studies/courses/TTM4135)
@@ -49,6 +53,9 @@ Cohen: [Cryptography Online Talks Calendar](https://www.ccs.neu.edu/~rancohen/cr
   - [MA8206 - Advanced Cryptography](https://www.ntnu.edu/studies/courses/MA8206)
   - [TM8111 - Identity-Based Cryptography](https://www.ntnu.edu/studies/courses/TM8111)
   - [TM8107 - Cryptographic Protocols and Their Applications](https://www.ntnu.edu/studies/courses/TM8107)
+- Research School: [COINS](https://coinsrs.no)
+- Twitter: [NTNU Applied Cryptology Lab](https://twitter.com/ntnucrypto)
+
 
 ## Online courses
 
