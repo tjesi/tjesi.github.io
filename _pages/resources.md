@@ -9,33 +9,32 @@ Cohen: [Cryptography Online Talks Calendar](https://www.ccs.neu.edu/~rancohen/cr
 
 ## Blogs
 
-- Green: [A Few Thoughts on Cryptographic Engineering](https://blog.cryptographyengineering.com)
 - Albrecht: [malb::blog](https://martinralbrecht.wordpress.com)
+- Green: [A Few Thoughts on Cryptographic Engineering](https://blog.cryptographyengineering.com)
 
-## Books
+## Books and Lecture Notes in Cryptography
 
+- Anderson: [Security Engineering](https://www.cl.cam.ac.uk/~rja14/book.html)
 - Boneh and Shoup: [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us)
 - Galbraith: [Mathematics of Public Key Cryptography](https://www.math.auckland.ac.nz/~sgal018/crypto-book/crypto-book.html)
-- Menezes, van Oorschot and Vanstone: [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac)
-- Anderson: [Security Engineering](https://www.cl.cam.ac.uk/~rja14/book.html)
 - Goldwasser and Bellare: [Lecture Notes on Cryptography](https://cseweb.ucsd.edu/~mihir/papers/gb.html)
+- Gjøsteen: [Cryptography](https://wiki.math.ntnu.no/tma4160/notes)
+- Katz: [Introduction to Cryptography](http://www.cs.umd.edu/~jkatz/crypto/s18/lectures.html)
+- Menezes, van Oorschot and Vanstone: [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac)
+- Pass and Shelat: [a Course in Cryptography](https://www.cs.cornell.edu/courses/cs4830/2010fa/lecnotes.pdf)
 
 ## International Association for Cryptologic Research
+
 - [Calendar of Events in Cryptology](https://iacr.org/events)
-- [Open Positions in Cryptology](https://iacr.org/jobs)
 - [Cryptology ePrint Archive](https://eprint.iacr.org)
 - [IACR Youtube channel](https://www.youtube.com/user/TheIACR)
-
-## Lecture notes
-
-- Katz: [Introduction to Cryptography](http://www.cs.umd.edu/~jkatz/crypto/s18/lectures.html) at UMD
-- Gjøsteen: [Cryptography](https://wiki.math.ntnu.no/tma4160/notes) at NTNU
+- [Open Positions in Cryptology](https://iacr.org/jobs)
 
 ## Newsletters
 
 - IACR: [News](https://iacr.org/news)
-- Valsorda: [Cryptography Dispatches](https://buttondown.email/cryptography-dispatches/archive)
 - Schneier: [Crypto-Gram](https://www.schneier.com/crypto-gram)
+- Valsorda: [Cryptography Dispatches](https://buttondown.email/cryptography-dispatches/archive)
 
 ## Norwegian University of Science and Technology
 
@@ -56,26 +55,27 @@ Cohen: [Cryptography Online Talks Calendar](https://www.ccs.neu.edu/~rancohen/cr
 - Research School: [COINS](https://coinsrs.no)
 - Twitter: [NTNU Applied Cryptology Lab](https://twitter.com/ntnucrypto)
 
-
-## Online courses
+## Online Courses
 
 - Boneh: [Stanford’s online cryptography course](https://www.coursera.org/learn/crypto)
 - Katz: [Cryptography](https://www.coursera.org/learn/cryptography)
 
 ## Podcasts
 
-- Kobeissi: [Cryptography FM](https://www.cryptography.fm)
 - Gorbunov: [Real World Cryptographers Podcast](https://rwcpodcast.buzzsprout.com)
+- Kobeissi: [Cryptography FM](https://www.cryptography.fm)
 
-## Simons Institute programs
+## Simons Institute Programs
 
 - [The Quantum Wave in Computing](https://simons.berkeley.edu/programs/quantum2020)
 - [Lattices: Algorithms, Complexity, and Cryptography](https://simons.berkeley.edu/programs/lattices2020)
 - [Proofs, Consensus, and Decentralizing Society](https://simons.berkeley.edu/programs/proofs2019)
 - [Cryptography](https://simons.berkeley.edu/programs/crypto2015)
 
-## Useful links
+## Useful Links
 
-- [Cryptography and Security arXiv](https://arxiv.org/list/cs.CR/recent)
 - [Applied Cryptography Research: A Board](https://acrab.isi.jhu.edu)
+- [CSRankings](http://csrankings.org/#/index?sec&crypt)
 - [Crypto Stackexchange](https://crypto.stackexchange.com)
+- [Cryptography and Security arXiv](https://arxiv.org/list/cs.CR/recent)
+- [Chrome Extension: Where's That Paper?](https://chrome.google.com/webstore/detail/wheres-that-paper/dkjnkdmoghkbkfkafefhbcnmofdbfdio)
