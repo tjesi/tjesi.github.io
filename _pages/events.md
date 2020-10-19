@@ -15,11 +15,7 @@ I have participated or will participate at the following conferences, seminars a
 
 **Asiarypt 2020**: The 26th Annual International Conference on the Theory and Application of Cryptology and Information Security. December 6.-10., 2020 – Online. [asiacrypt.iacr.org/2020](https://asiacrypt.iacr.org/2020)
 
-**TCC 2020**: The 18th Theory of Cryptography Conference. November 15.-19., 2020 - Online. [tcc.iacr.org/2020](https://tcc.iacr.org/2020)
-
 **ACM CCS 2020**: The 27th ACM Conference on Computer and Communications Security. November 9.-13., 2020 - Online. [sigsac.org/ccs/CCS2020](https://www.sigsac.org/ccs/CCS2020)
-
-**SCN 2020**: The 12th Conference on Security and Cryptography for Networks. September 14.-16., 2020 - Online. [scn.unisa.it](https://scn.unisa.it)
 
 **Crypto 2020**: The 40th International Cryptology Conference. August 17.-21., 2020 – Online. [crypto.iacr.org/2020](https://crypto.iacr.org/2020)
 
