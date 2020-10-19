@@ -5,11 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
-## Coming talks:
+## Coming Talks:
 
-* I currently have no upcoming talks planned...
+* “Lattice based shuffle and verifiable mixing networks” – [Aarhus Crypto Seminar](https://users-cs.au.dk/orlandi/cryptogroup/), Aarhus, December 2020.
 
-## Cryptography and information security:
+## Cryptography and Information Security:
 
 * "Verifiable Random Secrets and Subliminal-Free Signatures" - Master Thesis Presentation, Trondheim, August 2020. ([PDF](https://tjerandsilde.no/files/Master_Presentation.pdf))
 * "Challenges in End-to-End Encrypted Group Messaging" - [Cryptographic Protocols and Their Applications](https://www.ntnu.edu/studies/courses/TM8107), Trondheim, June 2020. ([PDF](https://tjerandsilde.no/files/GroupMessagingPresentation.pdf))
@@ -23,7 +23,7 @@ author_profile: true
 * “Side-Channel Attacks” – [Applied Cryptography and Network Security](https://www.ntnu.edu/studies/courses/TTM4135), Trondheim, March 2019. ([PDF](https://tjerandsilde.no/files/Side_Channel_Attacks.pdf))
 * “Where is the web still insecure? Regional scans for HTTPS certificates” – [Norwegian Information Security Conference](http://nikt2018.ifi.uio.no/program_nisk_en.html), Svalbard, September 2018. ([PDF](https://tjerandsilde.no/files/NISK_presentation.pdf))
 
-## Other talks:
+## Other Talks:
 
 * "Koderessurser og erfaringer" - [Applied Programming for Teachers](https://www.ntnu.edu/studies/courses/IT6204), Trondheim, March 2020. ([PDF](https://tjerandsilde.no/files/LKK20.pdf))
 * “Pedagogikk-kurs for Vektorassistenter” – [Vektorprogrammet](https://vektorprogrammet.no), Trondheim, February 2020. ([PDF](https://tjerandsilde.no/files/Pedagogikk_kurs_for_vektorprogrammet_FEB20.pdf))

@@ -21,7 +21,7 @@ Cohen: [Cryptography Online Talks Calendar](https://www.ccs.neu.edu/~rancohen/cr
 - Gjøsteen: [Cryptography](https://wiki.math.ntnu.no/tma4160/notes)
 - Katz: [Introduction to Cryptography](http://www.cs.umd.edu/~jkatz/crypto/s18/lectures.html)
 - Menezes, van Oorschot and Vanstone: [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac)
-- Pass and Shelat: [a Course in Cryptography](https://www.cs.cornell.edu/courses/cs4830/2010fa/lecnotes.pdf)
+- Pass and Shelat: [A Course in Cryptography](https://www.cs.cornell.edu/courses/cs4830/2010fa/lecnotes.pdf)
 - Smart: [Cryptography Made Simple](https://link.springer.com/book/10.1007%2F978-3-319-21936-3)
 
 ## International Association for Cryptologic Research
@@ -64,6 +64,7 @@ Cohen: [Cryptography Online Talks Calendar](https://www.ccs.neu.edu/~rancohen/cr
 ## Podcasts
 
 - Gorbunov: [Real World Cryptographers Podcast](https://rwcpodcast.buzzsprout.com)
+- Harrysson and Rose: [Zero Knowledge Podcast](https://www.zeroknowledge.fm)
 - Kobeissi: [Cryptography FM](https://www.cryptography.fm)
 
 ## Simons Institute Programs
