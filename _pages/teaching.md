@@ -18,7 +18,7 @@ I'm currently not teaching. My engagement at HVL has ended, and I have completed
 
 **Fall 2019:**
 
-* Calculus 3 – Linear Algebra ([TMA4110](https://www.ntnu.no/studier/emner/TMA4110)) at NTNU
+* Calculus 3 – Linear Algebra ([TMA4110](https://www.ntnu.no/studier/emner/TMA4110)) at NTNU (Lecturer)
 * Professional Digital Skills – Teacher Education (Lecturer) ([PFDKM1](https://www.usn.no/studier/studie-og-emneplaner/#/studieplan/KFK-PFDK_2019_H%C3%98ST)) at HVL (Lecturer)
 
 **Spring 2019:**

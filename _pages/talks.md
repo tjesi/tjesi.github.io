@@ -7,7 +7,7 @@ author_profile: true
 
 ## Coming Talks:
 
-* “Lattice based shuffle and verifiable mixing networks” – [Aarhus Crypto Seminar](https://users-cs.au.dk/orlandi/cryptogroup/), Aarhus, December 2020.
+* “Lattice based shuffle and verifiable mixing networks” – [Aarhus Crypto Seminar](https://cs.au.dk/research/cryptography-and-security/seminar), Aarhus, December 2020.
 
 ## Cryptography and Information Security:
 
