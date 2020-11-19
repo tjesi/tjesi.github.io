@@ -8,6 +8,7 @@ author_profile: true
 ## Coming Talks:
 
 * “Lattice based shuffle and verifiable mixing networks” – [Aarhus Crypto Seminar](https://cs.au.dk/research/cryptography-and-security/seminar), Aarhus, November 2020.
+* "Anonymous Communication and Zero-Knowledge Proofs" - [UWE Bristol](https://www.uwe.ac.uk), Online, February 2021.
 
 ## Cryptography and Information Security:
 
