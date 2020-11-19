@@ -14,13 +14,11 @@ In submission. TBA.
 **H. Galteland and T. Silde**: _Verifiable Random Secrets and Subliminal-Free Digital Signatures_
 
 **D. Aranha, C. Baum, K. Gjøsteen, T. Silde and T. Tunge**:\
-_Electronic Voting using Lattice-Based Commitments and Verifiable Encryption_
+_Lattice-Based Proof of Shuffle and Applications to Electronic Voting_
 
 **C. Baum, K. Gjøsteen and T. Silde**: _Lattice-Based Verifiable Mix-Net_
 
 **K. Gjøsteen, T. Haines, J. Müller, P. Rønne and T. Silde**: _Verifiable Decryption in the Head_
-
-**C. Boyd, B. de Kock and T. Silde**: _LOPAQUE: Lattice-Based Password Authenticated Key Exchange_
 
 ## Theses and Reports
 
@@ -40,7 +38,7 @@ I organized the [Norwegian Crypto Seminar 2020](https://wiki.math.ntnu.no/nks/nk
 
 I'm on the organizing committee for [Eurocrypt 2022](https://eurocrypt.iacr.org/2022) in Trondheim. Colin Boyd is the General Chair.
 
- I have been a subreviewer for [CT-RSA 2020](https://link.springer.com/book/10.1007/978-3-030-40186-3), [SAC 2020](https://sac2020.ca) and [FC 2021](https://fc21.ifca.ai).
+ I have been an external reviewer for CT-RSA 2020, SAC 2020, FC 2021 and Eurocrypt 2021.
 
 ## Research Groups
 I'm a member of the [Algebra Group](https://www.ntnu.edu/imf/research/algebra) at the Department of Mathematics and the [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab) at the Department of Information Security and Communication Technology.
