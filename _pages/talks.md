@@ -29,6 +29,6 @@ author_profile: true
 
 * "Koderessurser og erfaringer" - [Applied Programming for Teachers](https://www.ntnu.edu/studies/courses/IT6204), Trondheim, March 2020. ([PDF](https://tjerandsilde.no/files/LKK20.pdf))
 * “Pedagogikk-kurs for Vektorassistenter” – [Vektorprogrammet](https://vektorprogrammet.no), Trondheim, February 2020. ([PDF](https://tjerandsilde.no/files/Pedagogikk_kurs_for_vektorprogrammet_FEB20.pdf))
-* "Algoritmisk tenkning" - [Math. Mod. and ICT in the Teaching of Mathematics](https://www.ntnu.edu/studies/courses/SKOLE6232), Trondheim, January 2020. ([PDF](https://tjerandsilde.no/files/algoritmisktankegang.pdf))
+* "Algoritmisk tenkning" - [Math. Mod. and ICT in the Teaching of Mathematics](https://www.ntnu.edu/studies/courses/SKOLE6232), Trondheim, January 2020. ([PDF](https://tjerandsilde.no/files/Algoritmisktankegang.pdf))
 * “Pedagogikk-kurs for Vektorassistenter” – [Vektorprogrammet](https://vektorprogrammet.no), Trondheim, August 2019. ([PDF](https://tjerandsilde.no/files/Pedagogikk_kurs_for_vektorprogrammet.pdf))
 * “Du lærer ikke å forske i forelesning” – [StudForsk](https://wiki.math.ntnu.no/studforsk/start), Trondheim, October 2018. ([PDF](https://tjerandsilde.no/files/StudForsk.pdf))
