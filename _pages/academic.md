@@ -14,7 +14,7 @@ In submission. TBA.
 **D. Aranha, C. Baum, K. Gjøsteen, T. Silde and T. Tunge**:\
 _Lattice-Based Proof of Shuffle and Applications to Electronic Voting_
 
-**C. Baum, K. Gjøsteen and T. Silde**: _Lattice-Based Verifiable Mix-Net_
+**D. Aranha, C. Baum, K. Gjøsteen and T. Silde**: _Lattice-Based Verifiable Mix-Net_
 
 **K. Gjøsteen, T. Haines, J. Müller, P. Rønne and T. Silde**: _Verifiable Decryption in the Head_
 
