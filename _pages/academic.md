@@ -22,7 +22,7 @@ _Lattice-Based Proof of Shuffle and Applications to Electronic Voting_
 
 **T. Silde**: _Verifiable Random Secrets and Subliminal-Free Digital Signatures_, NTNU, 2020. ([Master's Thesis](https://tjerandsilde.no/files/Master_Thesis.pdf))
 
-**T. Silde**: _Challenges in E2E Encrypted Group Messaging_, NTNU 2020. ([Technical Report](https://tjerandsilde.no/files/GroupMessagingReport.pdf), [Paper](https://tjerandsilde.no/files/Subliminal-Free.pdf))
+**T. Silde**: _Challenges in E2E Encrypted Group Messaging_, NTNU 2020. ([Technical Report](https://tjerandsilde.no/files/GroupMessagingReport.pdf))
 
 **T. Silde**: _Comparative Study of ECC Libraries for Embedded Devices_, NTNU 2019. ([Technical Report](https://tjerandsilde.no/files/Comparative-Study-of-ECC-Libraries-for-Embedded-Devices.pdf))
 
