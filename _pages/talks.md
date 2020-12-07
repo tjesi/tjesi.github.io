@@ -7,11 +7,11 @@ author_profile: true
 
 ## Coming Talks:
 
-* “Lattice-Based Verifiable Shuffle and Decryption” – [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab), Online, December 2020.
 * "Anonymous Communication and Zero-Knowledge Proofs" - [UWE Bristol](https://www.uwe.ac.uk), Online, February 2021.
 
 ## Cryptography and Information Security Talks:
 
+* “Lattice-Based Verifiable Shuffle and Decryption” – [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab), Online, December 2020. ([PDF](https://tjerandsilde.no/files/Mix-Net2.pdf))
 * “Lattice-Based Verifiable Shuffle and Decryption” – [Aarhus Crypto Seminar](https://cs.au.dk/research/cryptography-and-security/seminar), Aarhus, November 2020.([PDF](https://tjerandsilde.no/files/Mix-Net.pdf))
 * "Verifiable Random Secrets and Subliminal-Free Signatures" - Master Presentation, Trondheim, August 2020. ([PDF](https://tjerandsilde.no/files/Master_Presentation.pdf))
 * "Challenges in End-to-End Encrypted Group Messaging" - [Cryptographic Protocols and Their Applications](https://www.ntnu.edu/studies/courses/TM8107), Trondheim, June 2020. ([PDF](https://tjerandsilde.no/files/GroupMessagingPresentation.pdf))

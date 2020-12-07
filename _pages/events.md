@@ -9,8 +9,6 @@ I have participated or will participate at the following conferences, seminars a
 
 **Eurocrypt 2022**: The 41th Annual International Conference on the Theory and Applications of Cryptographic Techniques. May, 2022 – Trondheim, Norway.
 
-**FC 2021**: The 25th International Conference on Financial Cryptography and Data Security. March 1.-5., 2021. [fc21.ifca.ai](https://fc21.ifca.ai)
-
 **RWC 2021**: Real World Crypto Symposium. January 11.-13., 2021 - Online. [rwc.iacr.org/2021](https://rwc.iacr.org/2021)
 
 **Asiarypt 2020**: The 26th Annual International Conference on the Theory and Application of Cryptology and Information Security. December 6.-10., 2020 – Online. [asiacrypt.iacr.org/2020](https://asiacrypt.iacr.org/2020)
@@ -23,6 +21,8 @@ I have participated or will participate at the following conferences, seminars a
 
 **TPMPC 2020**: Theory and Practice of Multi-Party Computation Workshops. May 25.- June 4., 2020 - Online. [multipartycomputation.com/tpmpc-2020](https://www.multipartycomputation.com/tpmpc-2020)
 
+**S&P 2020**: 41st IEEE Symposium on Security and Privacy. May 18.-20., 2020 - Online. [ieee-security.org/TC/SP2020](https://www.ieee-security.org/TC/SP2020)
+
 **Eurocrypt 2020**: The 39th Annual International Conference on the Theory and Applications of Cryptographic Techniques. May 10.-15., 2020 – Online. [eurocrypt.iacr.org/2020](https://eurocrypt.iacr.org/2020)
 
 **Lattices: From Theory to Practice**: Workshop at Simons Institute at UC Berkeley. April 27.- May 1., 2020 – Online. [simons.berkeley.edu/workshops/lattices-2020-3](https://simons.berkeley.edu/workshops/lattices-2020-3)
@@ -34,8 +34,6 @@ I have participated or will participate at the following conferences, seminars a
 **Lattices: Geometry, Algorithms and Hardness**: Workshop at Simons Institute at UC Berkeley. February 18.-22., 2020 - Berkeley, USA. [simons.berkeley.edu/workshops/lattices-2020-1](https://simons.berkeley.edu/workshops/lattices-2020-1)
 
 **Norsk Kryptoseminar 2020 @**: January 30, 2020 – Kjeller, Norway. [wiki.math.ntnu.no/nks/nks20](https://wiki.math.ntnu.no/nks/nks20)
-
-**Aarhus Crypto Seminar @**: November 20.-21., 2019 – Aarhus, Denmark. [cs.au.dk/~oech/seminar](https://cs.au.dk/~oech/seminar.html)
 
 **Sikkerhetsfestivalen 2019 @**: August 26.-28., 2019 – Lillehammer, Norway. [sikkerhetsfestivalen.no](https://sikkerhetsfestivalen.no)
 

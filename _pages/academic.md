@@ -44,4 +44,4 @@ I'm a member of the [Algebra Group](https://www.ntnu.edu/imf/research/algebra) a
 I'm also a member of the [COINS Research School of Computer and Information Security](https://coinsrs.no) for Ph.D. students in Norway.
 
 ## Research Visits
-I'm grateful to [Carsten Baum](http://www.carstenbaum.com) and the [Aarhus Crypto Group](https://cs.au.dk/research/cryptography-and-security) for hosting me for one week in November 2019.
+I'm grateful to [Carsten Baum](http://www.carstenbaum.com), [Diego Aranha](https://sites.google.com/site/dfaranha) and the [Aarhus Crypto Group](https://users-cs.au.dk/orlandi/cryptogroup) for hosting me for one week in November 2019 and four months Fall 2020.
