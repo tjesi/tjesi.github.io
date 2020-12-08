@@ -7,6 +7,7 @@ author_profile: true
 
 ## Coming Talks:
 
+* "Anonym Smittesporing" - [Bekk Open](https://program.bekk.no), Online, December 2020.
 * "Anonymous Communication and Zero-Knowledge Proofs" - [UWE Bristol](https://www.uwe.ac.uk), Online, February 2021.
 
 ## Cryptography and Information Security Talks:
