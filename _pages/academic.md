@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications
 
-**H. W. Moe, T. Silde and M. Strand**: _Library: Anonymous Tokens_, GitHub, 2020. ([Code](https://github.com/HenrikWM/anonymous-tokens),
+**H. Moe, T. Silde and M. Strand**: _Library: Anonymous Tokens_, GitHub, 2020. ([Code](https://github.com/HenrikWM/anonymous-tokens),
 [Documentation](https://github.com/HenrikWM/anonymous-tokens/wiki), [Slides](https://tjerandsilde.no/files/Anonym-Smittesporing.pdf))
 
 ## Work in Progress
@@ -30,7 +30,7 @@ _Lattice-Based Proof of Shuffle and Applications to Electronic Voting_
 **A. Hossain, K. Nelson and T. Silde**: _Where is the Web Still Insecure? Regional Scans for HTTPS Certificates._  
 Norwegian Information Security Conference 2018, Svalbard. ([Short paper](https://tjerandsilde.no/files/Where_is_the_web_still_insecure__Regional_scans_for_HTTPS_certificates.pdf), [Presentation](https://tjerandsilde.no/files/NISK_presentation.pdf), [Code](https://github.com/tjesi/security-scan))
 
-**Silde, T.**: _Bilinear pairings of elliptic curves_, NTNU, 2015. ([Bachelor's Thesis](https://tjerandsilde.no/files/Bachelor_Thesis.pdf))
+**T. Silde**: _Bilinear pairings of elliptic curves_, NTNU, 2015. ([Bachelor's Thesis](https://tjerandsilde.no/files/Bachelor_Thesis.pdf))
 
 ## Conferences
 I organized the [Norwegian Crypto Seminar 2020](https://wiki.math.ntnu.no/nks/nks20) together with Kristian Gjøsteen and Martin Strand.
