@@ -5,9 +5,10 @@ permalink: /academic/
 author_profile: true
 ---
 
-## Papers
+## Publications
 
-In submission. TBA.
+**H. W. Moe, T. Silde and M. Strand**: _Library: Anonymous Tokens_, GitHub, 2020. ([Code](https://github.com/HenrikWM/anonymous-tokens),
+[Documentation](https://github.com/HenrikWM/anonymous-tokens/wiki), [Slides](https://tjerandsilde.no/files/Anonym-Smittesporing.pdf))
 
 ## Work in Progress
 
@@ -22,7 +23,7 @@ _Lattice-Based Proof of Shuffle and Applications to Electronic Voting_
 
 **T. Silde**: _Verifiable Random Secrets and Subliminal-Free Digital Signatures_, NTNU, 2020. ([Master's Thesis](https://tjerandsilde.no/files/Master_Thesis.pdf))
 
-**T. Silde**: _Challenges in E2E Encrypted Group Messaging_, NTNU 2020. ([Technical Report](https://tjerandsilde.no/files/GroupMessagingReport.pdf))
+**T. Silde**: _Challenges in E2E Encrypted Group Messaging_, NTNU, 2020. ([Technical Report](https://tjerandsilde.no/files/GroupMessagingReport.pdf))
 
 **T. Silde**: _Comparative Study of ECC Libraries for Embedded Devices_, NTNU 2019. ([Technical Report](https://tjerandsilde.no/files/Comparative-Study-of-ECC-Libraries-for-Embedded-Devices.pdf))
 
@@ -36,7 +37,7 @@ I organized the [Norwegian Crypto Seminar 2020](https://wiki.math.ntnu.no/nks/nk
 
 I'm on the organizing committee for [Eurocrypt 2022](https://eurocrypt.iacr.org/2022) in Trondheim. Colin Boyd is the General Chair.
 
- I have been an external reviewer for CT-RSA 2020, SAC 2020, FC 2021 and Eurocrypt 2021.
+ I have been an external reviewer for CT-RSA 2020, SAC 2020, FC 2021, Eurocrypt 2021 and CT-RSA 2021.
 
 ## Research Groups
 I'm a member of the [Algebra Group](https://www.ntnu.edu/imf/research/algebra) at the Department of Mathematics and the [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab) at the Department of Information Security and Communication Technology.
@@ -44,4 +45,4 @@ I'm a member of the [Algebra Group](https://www.ntnu.edu/imf/research/algebra) a
 I'm also a member of the [COINS Research School of Computer and Information Security](https://coinsrs.no) for Ph.D. students in Norway.
 
 ## Research Visits
-I'm grateful to [Carsten Baum](http://www.carstenbaum.com), [Diego Aranha](https://sites.google.com/site/dfaranha) and the [Aarhus Crypto Group](https://users-cs.au.dk/orlandi/cryptogroup) for hosting me for one week in November 2019 and four months Fall 2020.
+I'm very grateful to [Carsten Baum](http://www.carstenbaum.com), [Diego Aranha](https://sites.google.com/site/dfaranha) and the [Aarhus Crypto Group](https://users-cs.au.dk/orlandi/cryptogroup) for hosting me for one week in November 2019 and for four months Fall 2020.
