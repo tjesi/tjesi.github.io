@@ -5,7 +5,6 @@ permalink: /lattices/
 author_profile: true
 ---
 
-
 ## Lattice courses
 
 - Micciancio: [Lattices Algorithms and Applications](https://cseweb.ucsd.edu/classes/fa19/cse206A-a)
@@ -18,7 +17,3 @@ author_profile: true
 
 - Lyubashevsky: [Basic Lattice Cryptography: Encryption and Fiat-Shamir Signatures](https://drive.google.com/file/d/1JTdW5ryznp-dUBBjN12QbvWz9R41NDGU/view)
 - Peikert: [A Decade of Lattice Cryptography](https://web.eecs.umich.edu/~cpeikert/pubs/lattice-survey.pdf)
-
-## Lattice papers
-
-## MPC papers
