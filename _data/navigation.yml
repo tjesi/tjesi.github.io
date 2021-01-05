@@ -2,10 +2,16 @@
 main:
   - title: "Academic"
     url: /academic/
-    
+
   - title: "Events"
     url: /events/
-  
+
+  - title: "Lattices"
+    url: /lattices/
+
+  - title: "Media"
+    url: /media/
+
   - title: "Resources"
     url: /resources/
 
