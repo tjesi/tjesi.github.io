@@ -17,7 +17,13 @@ author_profile: true
 
 **Computerworld**: "Gir barna innsikt", November 10th, 2015. ([Link](https://www.cw.no/artikkel/gir-barna-innsikt))
 
-## Commentaries
+## Commentaries and Blog Posts
+
+**Security.Christmas**: "Anonymous Tokens for Private Contact Tracing", December 22nd, 2020. ([Link](https://security.christmas/2020/22))
+
+**Security.Christmas**: "Privacy Pass: Anonymous Tokens on the Web", December 21st, 2020. ([Link](https://security.christmas/2020/21))
+
+**Security.Christmas**: "From Coils to Curves - A Primer on Elliptic Curve Cryptography", December 5th, 2020. ([Link](https://security.christmas/2020/5))
 
 **Sikkerht.Online**: _Teknologi og Personvern_, 2018-. ([Link](https://sikkerhet.online/author/tjerand-silde))
 
