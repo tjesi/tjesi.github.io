@@ -7,6 +7,8 @@ author_profile: true
 
 ## Interviews
 
+**Aftenposten**: "Hvem skal lese meldingene vi sender? Spørsmålet splitter politikere og eksperter.", January 10th, 2021. ([Link](https://www.aftenposten.no/kultur/i/7KV4v9/hvem-skal-lese-meldingene-vi-sender-spoersmaalet-splitter-politikere-og))
+
 **Grannar**: _Anonym Smittesporing_, December 31st, 2020. ([Link](https://grannar.no/2021/01/deltok-i-arbeid-med-smittesporingsapp))
 
 **Aftenposten**: _Ende-Til-Ende Kryptering_, November 30th, 2020. ([Link](https://www.aftenposten.no/kultur/i/KyrJg5/ny-facebook-kryptering-bekymrer-politiet))
@@ -36,6 +38,8 @@ author_profile: true
 **Digi.no**: "Digital kompetanse i norsk skole er en bløff", April 26th, 2016. ([Link](https://www.digi.no/artikler/digital-kompetanse-i-norsk-skole-er-en-bloff/348037))
 
 ## Mentioned
+
+**Kode24.no**: "Sånn jobba utviklerne i fagrådet til Smittestopp-appen", January 11th, 2021. ([Link](https://www.kode24.no/koden-bak/sann-jobba-utviklerne-i-fagradet-til-smittestopp-appen/73254266))
 
 **Kode24.no**: "Smittestopp-kritiker: - Versjon 2 blir trygg å bruke", November 17th, 2020. ([Link](https://www.kode24.no/kodenytt/smittestopp-kritiker---versjon-2-blir-trygg-a-bruke/73072522))
 
