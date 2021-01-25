@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications
 
-**H. Moe, T. Silde and M. Strand**: _Library: Anonymous Tokens_, GitHub, 2020. ([Code](https://github.com/HenrikWM/anonymous-tokens),
+**H. Moe, T. Silde and M. Strand**: _Anonymous Tokens for Contact Tracing_, 2020. ([Code](https://github.com/HenrikWM/anonymous-tokens),
 [Documentation](https://github.com/HenrikWM/anonymous-tokens/wiki), [Slides](https://tjerandsilde.no/files/Anonym-Smittesporing.pdf))
 
 ## Work in Progress
