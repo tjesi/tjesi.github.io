@@ -8,10 +8,11 @@ author_profile: true
 ## Coming Talks:
 
 * "Anonymous Communication and Zero-Knowledge Proofs" - [UWE Bristol](https://www.uwe.ac.uk), Online, February 2021.
+* “Anonymous Tokens and Private Contact Tracing” – [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab), Online, February 2021.
 
 ## Cryptography and Information Security Talks:
 
-* "Anonym Smittesporing" - [Bekk Digital Julefagdag](https://program.bekk.no), Online, December 2020. ([PDF](https://tjerandsilde.no/files/Anonym-Smittesporing.pdf))
+* "Anonym Smittesporing" - [Bekk Digital Julefagdag](https://program.bekk.no), Online, December 2020. ([PDF](https://tjerandsilde.no/files/Anonym-Smittesporing.pdf), [Recording](https://vimeo.com/499096707))
 * “Lattice-Based Verifiable Shuffle and Decryption” – [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab), Online, December 2020. ([PDF](https://tjerandsilde.no/files/Mix-Net2.pdf))
 * “Lattice-Based Verifiable Shuffle and Decryption” – [Aarhus Crypto Seminar](https://cs.au.dk/research/cryptography-and-security/seminar), Aarhus, November 2020. ([PDF](https://tjerandsilde.no/files/Mix-Net.pdf))
 * "Verifiable Random Secrets and Subliminal-Free Signatures" - Master Presentation, Trondheim, August 2020. ([PDF](https://tjerandsilde.no/files/Master_Presentation.pdf))
