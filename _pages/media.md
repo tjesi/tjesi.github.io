@@ -21,6 +21,8 @@ author_profile: true
 
 ## Commentaries and Blog Posts
 
+**European Consortium for Mathematics in Industry**: "Improved privacy in the Norwegian contact tracing app", January 28th, 2021. ([Link](https://ecmiindmath.org/2021/01/28/improved-privacy-in-the-norwegian-contact-tracing-app))
+
 **Security.Christmas**: "Anonymous Tokens for Private Contact Tracing", December 22nd, 2020. ([Link](https://security.christmas/2020/22))
 
 **Security.Christmas**: "Privacy Pass: Anonymous Tokens on the Web", December 21st, 2020. ([Link](https://security.christmas/2020/21))
