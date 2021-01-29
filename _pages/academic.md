@@ -19,8 +19,7 @@ _Lattice-Based Proof of Shuffle and Applications to Electronic Voting_
 
 **K. Gjøsteen, T. Haines, J. Müller, P. Rønne and T. Silde**: _Verifiable Decryption in the Head_
 
-**T. Silde and M. Strand**:\
-_Anonymous Tokens with Public Metadata and Applications to Private Contact Tracing_
+**T. Silde and M. Strand**: _Anonymous Tokens with Public Metadata and Applications to Private Contact Tracing_
 
 ## Theses and Reports
 
