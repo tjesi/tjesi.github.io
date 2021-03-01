@@ -14,13 +14,11 @@ author_profile: true
 
 ## Work in Progress
 
-
-
 **D. Aranha, C. Baum, K. Gjøsteen and T. Silde**: _Lattice-Based Verifiable Mix-Net_
 
 **K. Gjøsteen, T. Haines, J. Müller, P. Rønne and T. Silde**: _Verifiable Decryption in the Head_
 
-**T. Silde and M. Strand**: _Anonymous Tokens with Public Metadata and Applications to Private Contact Tracing_
+**T. Silde and M. Strand**: _Anonymous Tokens with Public Metadata and Applications to Private Contact Tracing_, 2021. [ePrint](https://eprint.iacr.org/2021/203.pdf)
 
 ## Theses and Reports
 

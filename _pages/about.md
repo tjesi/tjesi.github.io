@@ -19,3 +19,4 @@ I've previously been working as a project manager at [Lær Kidsa Koding](https:/
 
 **News**:
 - Paper _Lattice-Based Proof of Shuffle and Applications to Electronic Voting_ is accepted at CT-RSA. Joint work with Diego Aranha, Carsten Baum, Kristian Gjøsteen and Thor Tunge.
+- Manuscript _Anonymous Tokens with Public Metadata and Applications to Private Contact Tracing_ is published on [IACR ePrint](https://eprint.iacr.org/2021/203.pdf).
