@@ -18,5 +18,5 @@ I spent the fall of 2020 visiting the [Aarhus Crypto Group](https://users-cs.au.
 I've previously been working as a project manager at [Lær Kidsa Koding](https://www.kidsakoder.no) (2015-17), as a university college teacher at [Western Norway University of Applied Sciences](https://www.hvl.no/en) (2017-20), and I had a 3 months internship in 2018 at the IoT-security company [Intrinsic-ID](https://www.intrinsic-id.com) in Eindhoven, NL.
 
 **News**:
-- Paper _Lattice-Based Proof of Shuffle and Applications to Electronic Voting_ is accepted at CT-RSA. Joint work with Diego Aranha, Carsten Baum, Kristian Gjøsteen and Thor Tunge.
-- Manuscript _Anonymous Tokens with Public Metadata and Applications to Private Contact Tracing_ is published on [IACR ePrint](https://eprint.iacr.org/2021/203.pdf). Joint work with Martin Strand.
+- Paper: _Lattice-Based Proof of Shuffle and Applications to Electronic Voting_, is accepted at CT-RSA. Joint work with Diego Aranha, Carsten Baum, Kristian Gjøsteen and Thor Tunge.
+- Manuscript: _Anonymous Tokens with Public Metadata and Applications to Private Contact Tracing_, is published on [IACR ePrint](https://eprint.iacr.org/2021/203.pdf). Joint work with Martin Strand.
