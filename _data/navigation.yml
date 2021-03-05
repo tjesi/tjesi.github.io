@@ -4,7 +4,7 @@ main:
     url: /academic/
 
 - title: "Blog"
-  url: https://world.hey.com/tjerand
+  url: "https://world.hey.com/tjerand"
 
   - title: "Events"
     url: /events/
