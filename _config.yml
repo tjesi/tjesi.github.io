@@ -49,7 +49,7 @@ atom_feed:
 author:
   name             : "Tjerand Silde"
   avatar           : "tjerand.png"
-  bio              : "PhD Student in Cryptography"
+  bio              : "PhD Candidate in Cryptography"
   location         : "NTNU, Trondheim, Norway"
   googlescholar    : "https://scholar.google.no/citations?user=fWLrd9MAAAAJ&hl=en"
   email            : "tjerand.silde@ntnu.no"
