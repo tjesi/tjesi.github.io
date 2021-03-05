@@ -9,6 +9,8 @@ I have participated or will participate at the following conferences, seminars a
 
 **Eurocrypt 2022**: The 41th Annual International Conference on the Theory and Applications of Cryptographic Techniques. May, 2022 – Trondheim, Norway.
 
+**CT-RSA 2021**: Cryptographers' Track RSA Conference, May 17.-21., 2021 - Online. [sites.google.com/site/ctrsa2021](https://sites.google.com/site/ctrsa2021)
+
 **RWC 2021**: Real World Crypto Symposium. January 11.-13., 2021 - Online. [rwc.iacr.org/2021](https://rwc.iacr.org/2021)
 
 **Asiarypt 2020**: The 26th Annual International Conference on the Theory and Application of Cryptology and Information Security. December 6.-10., 2020 – Online. [asiacrypt.iacr.org/2020](https://asiacrypt.iacr.org/2020)
