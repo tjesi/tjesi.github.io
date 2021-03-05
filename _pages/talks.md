@@ -11,6 +11,8 @@ author_profile: true
 
 ## Cryptography and Information Security Talks:
 
+* "Anonyme attester i Smittestopp" – [The Norwegian Data Protection Authority](https://www.datatilsynet.no/en), Online, March 2021.
+([PDF](https://tjerandsilde.no/files/Innebygget-Personvern.pdf))
 * “Anonymous Tokens and Private Contact Tracing” – [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab), Online, February 2021. ([PDF](https://tjerandsilde.no/files/Anonymous-Tokens.pdf))
 * "Anonym Smittesporing" - [Bekk Digital Julefagdag](https://program.bekk.no), Online, December 2020. ([PDF](https://tjerandsilde.no/files/Anonym-Smittesporing.pdf), [Recording](https://vimeo.com/499096707))
 * “Lattice-Based Verifiable Shuffle and Decryption” – [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab), Online, December 2020. ([PDF](https://tjerandsilde.no/files/Mix-Net2.pdf))
