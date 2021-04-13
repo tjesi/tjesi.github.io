@@ -7,7 +7,7 @@ author_profile: true
 
 ## Coming Talks:
 
-* No upcoming talks at the moment...
+* "Lattice-Based Proof of Shuffle and Applications to Electronic Voting" – [Cryptographers Track at the RSA Conference 2021](https://sites.google.com/site/ctrsa2021/conference-program?authuser=0), Online, May 2021. ([PDF](https://tjerandsilde.no/files/CRYP_T10A.pdf))
 
 ## Cryptography and Information Security Talks:
 
