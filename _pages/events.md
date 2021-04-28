@@ -5,17 +5,29 @@ permalink: /events/
 author_profile: true
 ---
 
-I have participated or will participate at the following conferences, seminars and workshops in cryptography and information security. If I gave a talk, then the event will have a @ and my presentation will be available under [talks](https://tjerandsilde.no/talks).
+I have participated or will participate at the following conferences, seminars and workshops in cryptography and information security.
 
 **Eurocrypt 2022**: The 41th Annual International Conference on the Theory and Applications of Cryptographic Techniques. May, 2022 – Trondheim, Norway.
 
+**Asiarypt 2021**: The 27th Annual International Conference on the Theory and Application of Cryptology and Information Security. December 5.-9., 2021 – Online. [asiacrypt.iacr.org/2021](https://asiacrypt.iacr.org/2021)
+
+**Eurocrypt 2021**: The 40th Annual International Conference on the Theory and Applications of Cryptographic Techniques. October 17.-21., 2021 – Online. [eurocrypt.iacr.org/2021](https://eurocrypt.iacr.org/2021)
+
+**Crypto 2021**: The 41st International Cryptology Conference. August 15.-19., 2021 – Online. [crypto.iacr.org/2021](https://crypto.iacr.org/2021)
+
+**MSRI Summer School**: Foundations and Frontiers of Probabilistic Proof. July 26.-August 6., 2021 - Online. [msri.org/summer_schools/931](https://www.msri.org/summer_schools/931)
+
+**NIST Workshop**: The Third PQC Standardization Conference. June 7.-9., 2021 – Online. [csrc.nist.gov/Events/2021/third-pqc-standardization-conference](https://csrc.nist.gov/Events/2021/third-pqc-standardization-conference)
+
 **CT-RSA 2021**: Cryptographers' Track RSA Conference, May 17.-21., 2021 - Online. [sites.google.com/site/ctrsa2021](https://sites.google.com/site/ctrsa2021)
+
+**PKC 2021**: Public Key Cryptography. May 10.-13., 2021 - Online. [pkc.iacr.org/2021](https://pkc.iacr.org/2021)
+
+**ZKP Workshop 2021**: The 4th ZKProof Standards Workshop. April 19.- April 29., 2021 – Online. [zkproof.org/events/workshop4](https://zkproof.org/events/workshop4)
 
 **RWC 2021**: Real World Crypto Symposium. January 11.-13., 2021 - Online. [rwc.iacr.org/2021](https://rwc.iacr.org/2021)
 
 **Asiarypt 2020**: The 26th Annual International Conference on the Theory and Application of Cryptology and Information Security. December 6.-10., 2020 – Online. [asiacrypt.iacr.org/2020](https://asiacrypt.iacr.org/2020)
-
-**ACM CCS 2020**: The 27th ACM Conference on Computer and Communications Security. November 9.-13., 2020 - Online. [sigsac.org/ccs/CCS2020](https://www.sigsac.org/ccs/CCS2020)
 
 **Crypto 2020**: The 40th International Cryptology Conference. August 17.-21., 2020 – Online. [crypto.iacr.org/2020](https://crypto.iacr.org/2020)
 
@@ -35,9 +47,9 @@ I have participated or will participate at the following conferences, seminars a
 
 **Lattices: Geometry, Algorithms and Hardness**: Workshop at Simons Institute at UC Berkeley. February 18.-22., 2020 - Berkeley, USA. [simons.berkeley.edu/workshops/lattices-2020-1](https://simons.berkeley.edu/workshops/lattices-2020-1)
 
-**Norsk Kryptoseminar 2020 @**: January 30, 2020 – Kjeller, Norway. [wiki.math.ntnu.no/nks/nks20](https://wiki.math.ntnu.no/nks/nks20)
+**Norsk Kryptoseminar 2020**: January 30, 2020 – Kjeller, Norway. [wiki.math.ntnu.no/nks/nks20](https://wiki.math.ntnu.no/nks/nks20)
 
-**Sikkerhetsfestivalen 2019 @**: August 26.-28., 2019 – Lillehammer, Norway. [sikkerhetsfestivalen.no](https://sikkerhetsfestivalen.no)
+**Sikkerhetsfestivalen 2019**: August 26.-28., 2019 – Lillehammer, Norway. [sikkerhetsfestivalen.no](https://sikkerhetsfestivalen.no)
 
 **NIST Workshop**: The Second PQC Standardization Conference. August 22.-24., 2019 – Santa Barbara, USA. [csrc.nist.gov/Events/2019/Second-PQC-Standardization-Conference](https://csrc.nist.gov/Events/2019/Second-PQC-Standardization-Conference)
 
@@ -55,7 +67,7 @@ I have participated or will participate at the following conferences, seminars a
 
 **RWC 2019**: Real World Crypto Symposium. January 9.-11., 2019 – San Jose, USA. [rwc.iacr.org/2019](https://rwc.iacr.org/2019)
 
-**NISK 2018 @**: Norwegian Information Security Conference. September 18.-20, 2019 – Svalbard, Norway. [nikt2018.ifi.uio.no/program_nisk_en](http://nikt2018.ifi.uio.no/program_nisk_en)
+**NISK 2018 **: Norwegian Information Security Conference. September 18.-20, 2019 – Svalbard, Norway. [nikt2018.ifi.uio.no/program_nisk_en](http://nikt2018.ifi.uio.no/program_nisk_en)
 
 **COINS Ph.D. Student Seminar 2018.** September 17., 2018 – Svalbard, Norway. [coinsrs.no/coins-ph-d-student-seminar-2018-svalbard](https://coinsrs.no/coins-ph-d-student-seminar-2018-svalbard)
 
