@@ -7,7 +7,8 @@ author_profile: true
 
 ## Publications
 
-**D.F. Aranha, C. Baum, K. Gjøsteen, T. Silde and T. Tunge**: _Lattice-Based Proof of Shuffle and Applications to Electronic Voting_, to appear at CT-RSA 2021. ([ePrint](https://eprint.iacr.org/2021/338.pdf))
+[Lattice-Based Proof of Shuffle and Applications to Electronic Voting](https://eprint.iacr.org/2021/338.pdf), to appear at CT-RSA 2021.\
+joint work with Diego F. Aranha, Carsten Baum, Kristian Gjøsteen and Thor Tunge
 
 **H. Moe, T. Silde and M. Strand**: _Library: Anonymous Tokens for Contact Tracing_, 2020. ([Code](https://github.com/HenrikWM/anonymous-tokens),
 [Docs](https://github.com/HenrikWM/anonymous-tokens/wiki), [Slides](https://tjerandsilde.no/files/Anonym-Smittesporing.pdf))
