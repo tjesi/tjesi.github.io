@@ -20,4 +20,4 @@ I've previously been working as a project manager at [Lær Kidsa Koding](https:/
 **News**:
 - Paper: [Lattice-Based Proof of Shuffle and Applications to Electronic Voting](https://eprint.iacr.org/2021/338.pdf), is accepted at CT-RSA. Joint work with Diego Aranha, Carsten Baum, Kristian Gjøsteen and Thor Tunge.
 - Manuscript: [Anonymous Tokens with Public Metadata and Applications to Private Contact Tracing](https://eprint.iacr.org/2021/203.pdf), is available on IACR ePrint. Joint work with Martin Strand.
-- Henrik Walker Moe, Martin Strand and myself got the ["Built-in-privacy"](https://www.datatilsynet.no/aktuelt/aktuelle-nyheter-2021/pris-for-innebygd-personvern-til-anonyme-tokens) award for our work on anonymous tokens for improved privacy in contact tracing.
+- Henrik Walker Moe, Martin Strand and myself got the ["Built-in-privacy"](https://www.datatilsynet.no/aktuelt/aktuelle-nyheter-2021/pris-for-innebygd-personvern-til-anonyme-tokens) award from the Norwegian Data Protection Authority for our work on anonymous tokens for improved privacy in contact tracing.
