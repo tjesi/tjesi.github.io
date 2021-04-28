@@ -44,9 +44,8 @@ I organized the [Norwegian Crypto Seminar 2020](https://wiki.math.ntnu.no/nks/nk
 I'm on the organizing committee for [Eurocrypt 2022](https://eurocrypt.iacr.org/2022) in Trondheim. Colin Boyd is the General Chair.
 
  I have been a reviewer for the following conferences:
- - 2020: CT-RSA, Selected Areas in Cryptography,
- - 2021: Financial Crypto, Eurocrypt, CT-RSA and The Australasian Conference on
-Information Security and Privacy.
+ - 2020: CT-RSA and Selected Areas in Cryptography,
+ - 2021: Financial Crypto, Eurocrypt, CT-RSA and ACISP.
 
 ## Research Groups
 I'm a member of the [Algebra Group](https://www.ntnu.edu/imf/research/algebra) at the Department of Mathematics and the [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab) at the Department of Information Security and Communication Technology.
