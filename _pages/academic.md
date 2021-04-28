@@ -27,23 +27,26 @@ Joint work with Martin Strand.
 
 ## Theses and Reports
 
-[Verifiable Random Secrets and Subliminal-Free Digital Signatures](https://tjerandsilde.no/files/Master_Thesis.pdf), masters thesis, 2020.
+[Verifiable Random Secrets and Subliminal-Free Digital Signatures](https://tjerandsilde.no/files/Master_Thesis.pdf), Master's Thesis, 2020.
 
-[Challenges in E2E Encrypted Group Messaging](https://tjerandsilde.no/files/GroupMessagingReport.pdf), technical report, 2020.
+[Challenges in E2E Encrypted Group Messaging](https://tjerandsilde.no/files/GroupMessagingReport.pdf), Technical Report, 2020.
 
-[Comparative Study of ECC Libraries for Embedded Devices](https://tjerandsilde.no/files/Comparative-Study-of-ECC-Libraries-for-Embedded-Devices.pdf), technical report, 2019.
+[Comparative Study of ECC Libraries for Embedded Devices](https://tjerandsilde.no/files/Comparative-Study-of-ECC-Libraries-for-Embedded-Devices.pdf), Technical Report, 2019.
 
-[Where is the Web Still Insecure? Regional Scans for HTTPS Certificates](https://tjerandsilde.no/files/Where_is_the_web_still_insecure__Regional_scans_for_HTTPS_certificates.pdf), Norwegian Information Security Conference 2018.\
-Joint work with Anushua Hossain and Kristina Nelson. [Presentation](https://tjerandsilde.no/files/NISK_presentation.pdf), [Code](https://github.com/tjesi/security-scan)).
+[Where is the Web Still Insecure? Regional Scans for HTTPS Certificates](https://tjerandsilde.no/files/Where_is_the_web_still_insecure__Regional_scans_for_HTTPS_certificates.pdf), NISK 2018.\
+Joint work with Anushua Hossain and Kristina Nelson. ([Presentation](https://tjerandsilde.no/files/NISK_presentation.pdf), [Code](https://github.com/tjesi/security-scan))
 
-**T. Silde**: _Bilinear Pairings of Elliptic Curves_, NTNU, 2015. ([Bachelor's Thesis](https://tjerandsilde.no/files/Bachelor_Thesis.pdf))
+[Bilinear Pairings of Elliptic Curves](https://tjerandsilde.no/files/Bachelor_Thesis.pdf), Bachelor's Thesis, 2015.
 
 ## Conferences
 I organized the [Norwegian Crypto Seminar 2020](https://wiki.math.ntnu.no/nks/nks20) together with Kristian Gjøsteen and Martin Strand.
 
 I'm on the organizing committee for [Eurocrypt 2022](https://eurocrypt.iacr.org/2022) in Trondheim. Colin Boyd is the General Chair.
 
- I have been an external reviewer for CT-RSA 2020, SAC 2020, FC 2021, Eurocrypt 2021, CT-RSA 2021 and ACISP 2021.
+ I have been a reviewer for the following conferences:
+ - 2020: CT-RSA, Selected Areas in Cryptography,
+ - 2021: Financial Crypto, Eurocrypt, CT-RSA and The Australasian Conference on
+Information Security and Privacy.
 
 ## Research Groups
 I'm a member of the [Algebra Group](https://www.ntnu.edu/imf/research/algebra) at the Department of Mathematics and the [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab) at the Department of Information Security and Communication Technology.
