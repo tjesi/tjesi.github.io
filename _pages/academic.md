@@ -7,30 +7,34 @@ author_profile: true
 
 ## Publications
 
-[Lattice-Based Proof of Shuffle and Applications to Electronic Voting](https://eprint.iacr.org/2021/338.pdf), to appear at CT-RSA 2021.\
-joint work with Diego F. Aranha, Carsten Baum, Kristian Gjøsteen and Thor Tunge
+[Lattice-Based Proof of Shuffle and Applications to Electronic Voting](https://eprint.iacr.org/2021/338.pdf), CT-RSA 2021.\
+Joint work with Diego F. Aranha, Carsten Baum, Kristian Gjøsteen and Thor Tunge.
 
-**H. Moe, T. Silde and M. Strand**: _Library: Anonymous Tokens for Contact Tracing_, 2020. ([Code](https://github.com/HenrikWM/anonymous-tokens),
-[Docs](https://github.com/HenrikWM/anonymous-tokens/wiki), [Slides](https://tjerandsilde.no/files/Anonym-Smittesporing.pdf))
+[Library: Anonymous Tokens](https://github.com/HenrikWM/anonymous-tokens).\
+Joint work with Henrik Walker Moe and Martin Strand. [Docs](https://github.com/HenrikWM/anonymous-tokens/wiki), [Slides](https://tjerandsilde.no/files/Anonym-Smittesporing.pdf)),
+[Award](https://www.datatilsynet.no/aktuelt/aktuelle-nyheter-2021/pris-for-innebygd-personvern-til-anonyme-tokens)
 
 ## Work in Progress
 
-**D. Aranha, C. Baum, K. Gjøsteen and T. Silde**: _Lattice-Based Verifiable Mix-Net_
+Lattice-Based Verifiable Mixing Network, to be submitted.\
+Joint work with Diego F. Aranha, Carsten Baum and Kristian Gjøsteen.
 
-**K. Gjøsteen, T. Haines, J. Müller, P. Rønne and T. Silde**: _Verifiable Decryption in the Head_
+Verifiable Decryption in the Head, in submission.\
+Joint work with Kristian Gjøsteen, Thomas Haines, Johannes Müller and Peter Rønne.
 
-**T. Silde and M. Strand**: _Anonymous Tokens with Public Metadata and Applications to Private Contact Tracing_. ([ePrint](https://eprint.iacr.org/2021/203.pdf))
+[Anonymous Tokens with Public Metadata and Applications to Private Contact Tracing](https://eprint.iacr.org/2021/203.pdf), in submission.\
+Joint work with Martin Strand.
 
 ## Theses and Reports
 
-**T. Silde**: _Verifiable Random Secrets and Subliminal-Free Digital Signatures_, NTNU, 2020. ([Master's Thesis](https://tjerandsilde.no/files/Master_Thesis.pdf))
+[Verifiable Random Secrets and Subliminal-Free Digital Signatures](https://tjerandsilde.no/files/Master_Thesis.pdf), masters thesis, 2020.
 
-**T. Silde**: _Challenges in E2E Encrypted Group Messaging_, NTNU, 2020. ([Technical Report](https://tjerandsilde.no/files/GroupMessagingReport.pdf))
+[Challenges in E2E Encrypted Group Messaging](https://tjerandsilde.no/files/GroupMessagingReport.pdf), technical report, 2020.
 
-**T. Silde**: _Comparative Study of ECC Libraries for Embedded Devices_, NTNU 2019. ([Technical Report](https://tjerandsilde.no/files/Comparative-Study-of-ECC-Libraries-for-Embedded-Devices.pdf))
+[Comparative Study of ECC Libraries for Embedded Devices](https://tjerandsilde.no/files/Comparative-Study-of-ECC-Libraries-for-Embedded-Devices.pdf), technical report, 2019.
 
-**A. Hossain, K. Nelson and T. Silde**: _Where is the Web Still Insecure? Regional Scans for HTTPS Certificates._  
-Norwegian Information Security Conference 2018, Svalbard. ([Short paper](https://tjerandsilde.no/files/Where_is_the_web_still_insecure__Regional_scans_for_HTTPS_certificates.pdf), [Presentation](https://tjerandsilde.no/files/NISK_presentation.pdf), [Code](https://github.com/tjesi/security-scan))
+[Where is the Web Still Insecure? Regional Scans for HTTPS Certificates](https://tjerandsilde.no/files/Where_is_the_web_still_insecure__Regional_scans_for_HTTPS_certificates.pdf), Norwegian Information Security Conference 2018.\
+Joint work with Anushua Hossain and Kristina Nelson. [Presentation](https://tjerandsilde.no/files/NISK_presentation.pdf), [Code](https://github.com/tjesi/security-scan)).
 
 **T. Silde**: _Bilinear Pairings of Elliptic Curves_, NTNU, 2015. ([Bachelor's Thesis](https://tjerandsilde.no/files/Bachelor_Thesis.pdf))
 
