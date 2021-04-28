@@ -10,9 +10,9 @@ author_profile: true
 [Lattice-Based Proof of Shuffle and Applications to Electronic Voting](https://eprint.iacr.org/2021/338.pdf), CT-RSA 2021.\
 Joint work with Diego F. Aranha, Carsten Baum, Kristian Gjøsteen and Thor Tunge.
 
-[Library: Anonymous Tokens](https://github.com/HenrikWM/anonymous-tokens).\
-Joint work with Henrik Walker Moe and Martin Strand. [Docs](https://github.com/HenrikWM/anonymous-tokens/wiki), [Slides](https://tjerandsilde.no/files/Anonym-Smittesporing.pdf)),
-[Award](https://www.datatilsynet.no/aktuelt/aktuelle-nyheter-2021/pris-for-innebygd-personvern-til-anonyme-tokens)
+[Library: Anonymous Tokens](https://github.com/HenrikWM/anonymous-tokens), open-source library.\
+Joint work with Henrik Walker Moe and Martin Strand. ([Docs](https://github.com/HenrikWM/anonymous-tokens/wiki), [Slides](https://tjerandsilde.no/files/Anonym-Smittesporing.pdf),
+[Award](https://www.datatilsynet.no/aktuelt/aktuelle-nyheter-2021/pris-for-innebygd-personvern-til-anonyme-tokens))
 
 ## Work in Progress
 
