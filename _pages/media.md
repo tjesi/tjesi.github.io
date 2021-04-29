@@ -7,7 +7,7 @@ author_profile: true
 
 ## Interviews
 
-[Hvem skal lese meldingene vi sender?]((https://www.aftenposten.no/kultur/i/7KV4v9/hvem-skal-lese-meldingene-vi-sender-spoersmaalet-splitter-politikere-og), Aftenposten, January 10th - 2021.
+[Hvem skal lese meldingene vi sender?](https://www.aftenposten.no/kultur/i/7KV4v9/hvem-skal-lese-meldingene-vi-sender-spoersmaalet-splitter-politikere-og), Aftenposten, January 10th, 2021.
 
 **Grannar**: _Anonym Smittesporing_, December 31st, 2020. ([Link](https://grannar.no/2021/01/deltok-i-arbeid-med-smittesporingsapp))
 
