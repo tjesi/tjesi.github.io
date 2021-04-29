@@ -9,52 +9,52 @@ author_profile: true
 
 [Hvem skal lese meldingene vi sender?](https://www.aftenposten.no/kultur/i/7KV4v9/hvem-skal-lese-meldingene-vi-sender-spoersmaalet-splitter-politikere-og), Aftenposten, January 10th, 2021.
 
-**Grannar**: _Anonym Smittesporing_, December 31st, 2020. ([Link](https://grannar.no/2021/01/deltok-i-arbeid-med-smittesporingsapp))
+[Anonym Smittesporing](https://grannar.no/2021/01/deltok-i-arbeid-med-smittesporingsapp), Grannar, December 31st, 2020.
 
-**Aftenposten**: _Ende-Til-Ende Kryptering_, November 30th, 2020. ([Link](https://www.aftenposten.no/kultur/i/KyrJg5/ny-facebook-kryptering-bekymrer-politiet))
+[Ende-Til-Ende Kryptering](https://www.aftenposten.no/kultur/i/KyrJg5/ny-facebook-kryptering-bekymrer-politiet), Aftenposten, November 30th, 2020.
 
-**NRK Radio**: _Nettgigantene i Kongresshøring_, July 29th, 2020. ([Link](https://radio.nrk.no/serie/distriktsprogram-troendelag/sesong/202007/DKTL02014420#t=1h29m40s))
+[Nettgigantene i Kongresshøring](https://radio.nrk.no/serie/distriktsprogram-troendelag/sesong/202007/DKTL02014420#t=1h29m40s), NRK Radio, July 29th, 2020.
 
-**Aftenposten**: _Nettgigantene i Kongresshøring_, July 29th, 2020. ([Link](https://www.aftenposten.no/kultur/i/70EyQW/i-dag-maa-baade-apple-google-amazon-og-facebook-svare-for-seg-jeg-t))
+[Nettgigantene i Kongresshøring](https://www.aftenposten.no/kultur/i/70EyQW/i-dag-maa-baade-apple-google-amazon-og-facebook-svare-for-seg-jeg-t), Aftenposten, July 29th, 2020.
 
-**Computerworld**: "Gir barna innsikt", November 10th, 2015. ([Link](https://www.cw.no/artikkel/gir-barna-innsikt))
+[Gir barna innsikt](https://www.cw.no/artikkel/gir-barna-innsikt), Computerworld, November 10th, 2015.
 
 ## Commentaries and Blog Posts
 
-**ECMI**: "Improved privacy in the Norwegian contact tracing app", January 28th, 2021. ([Link](https://ecmiindmath.org/2021/01/28/improved-privacy-in-the-norwegian-contact-tracing-app))
+[Improved privacy in the Norwegian contact tracing app](https://ecmiindmath.org/2021/01/28/improved-privacy-in-the-norwegian-contact-tracing-app), ECMI, January 28th, 2021.
 
-**Security.Christmas**: "Anonymous Tokens for Private Contact Tracing", December 22nd, 2020. ([Link](https://security.christmas/2020/22))
+[Anonymous Tokens for Private Contact Tracing"](https://security.christmas/2020/22), Security.Christmas, December 22nd, 2020.
 
-**Security.Christmas**: "Privacy Pass: Anonymous Tokens on the Web", December 21st, 2020. ([Link](https://security.christmas/2020/21))
+[Privacy Pass: Anonymous Tokens on the Web](https://security.christmas/2020/21), Security.Christmas, December 21st, 2020.
 
-**Security.Christmas**: "From Coils to Curves - A Primer on Elliptic Curve Cryptography", December 5th, 2020. ([Link](https://security.christmas/2020/5))
+[From Coils to Curves - A Primer on Elliptic Curve Cryptography](https://security.christmas/2020/5), Security.Christmas, December 5th, 2020.
 
-**Sikkerht.Online**: _Teknologi og Personvern_, 2018-. ([Link](https://sikkerhet.online/author/tjerand-silde))
+[Teknologi og Personvern](https://sikkerhet.online/author/tjerand-silde), Sikkerht.Online, 2018-2020.
 
-**Talentblogg.no**: _Utdanning og Teknologi_, 2016/2017. ([Link](https://talentblogg.no/tjerand-silde))
+[Utdanning og Teknologi](https://talentblogg.no/tjerand-silde), Talentblogg.no, 2016/2017.
 
-**Titan.uio.no**: "Ditt privatliv beskyttes av primtall", December 1st, 2016. ([Link](https://titan.uio.no/naturvitenskap-teknologi/2016/ditt-privatliv-beskyttes-av-primtall))
+[Ditt privatliv beskyttes av primtall](https://titan.uio.no/naturvitenskap-teknologi/2016/ditt-privatliv-beskyttes-av-primtall), Titan.uio.no, December 1st, 2016.
 
-**NRK.no**: "Digitale barn trenger digitale foreldre", June 25th, 2016. ([Link](https://www.nrk.no/ytring/digitale-barn-trenger-digitale-foreldre-1.13007819))
+[Digitale barn trenger digitale foreldre](https://www.nrk.no/ytring/digitale-barn-trenger-digitale-foreldre-1.13007819), NRK Ytring, June 25th, 2016.
 
-**Digi.no**: "Digital kompetanse i norsk skole er en bløff", April 26th, 2016. ([Link](https://www.digi.no/artikler/digital-kompetanse-i-norsk-skole-er-en-bloff/348037))
+[Digital kompetanse i norsk skole er en bløff](https://www.digi.no/artikler/digital-kompetanse-i-norsk-skole-er-en-bloff/348037), Digi.no, April 26th, 2016.
 
 ## Mentioned
 
-**Kode24.no**: "Sånn jobba utviklerne i fagrådet til Smittestopp-appen", January 11th, 2021. ([Link](https://www.kode24.no/koden-bak/sann-jobba-utviklerne-i-fagradet-til-smittestopp-appen/73254266))
+[Sånn jobba utviklerne i fagrådet til Smittestopp-appen](https://www.kode24.no/koden-bak/sann-jobba-utviklerne-i-fagradet-til-smittestopp-appen/73254266), Kode24.no, January 11th, 2021.
 
-**Kode24.no**: "Smittestopp-kritiker: - Versjon 2 blir trygg å bruke", November 17th, 2020. ([Link](https://www.kode24.no/kodenytt/smittestopp-kritiker---versjon-2-blir-trygg-a-bruke/73072522))
+[Smittestopp-kritiker: - Versjon 2 blir trygg å bruke](https://www.kode24.no/kodenytt/smittestopp-kritiker---versjon-2-blir-trygg-a-bruke/73072522), Kode24.no, November 17th, 2020.
 
-**HVL.no**: "Møter framtida med teknologi og programmering", March 30th, 2017. ([Link](https://www.hvl.no/aktuelt/moter-framtida-med-teknologi-og-programmering))
+[Møter framtida med teknologi og programmering](https://www.hvl.no/aktuelt/moter-framtida-med-teknologi-og-programmering), HVL.no, March 30th, 2017.
 
-**Adresseavisen**: "- Lær kidsa koding", November 11th, 2015. ([Link](https://www.adressa.no/pluss/nyheter/2015/11/11/L%C3%A6r-kidsa-koding-11796276.ece))
+[- Lær kidsa koding](https://www.adressa.no/pluss/nyheter/2015/11/11/L%C3%A6r-kidsa-koding-11796276.ece), Adresseavisen, November 11th, 2015.
 
-**Online.no**: "Her lærer barna det «hemmelige» kodespråket", June 29th, 2015. ([Link](https://www.online.no/trender/kidsakoder.jsp))
+[Her lærer barna det «hemmelige» kodespråket](https://www.online.no/trender/kidsakoder.jsp), Online.no, June 29th, 2015.
 
-**Regjeringen.no**: "Ny realfagssatsing i norsk skole", April 7th, 2014. ([Link](https://www.regjeringen.no/no/aktuelt/Ny-realfagssatsing-i-norsk-skole/id755393))
+[Ny realfagssatsing i norsk skole](https://www.regjeringen.no/no/aktuelt/Ny-realfagssatsing-i-norsk-skole/id755393), Regjeringen.no, April 7th, 2014.
 
-**Teknisk Ukeblad**: "22 «realfagshelter» skal løfte elevenes mattekunnskaper", April 7th, 2014. ([Link](https://www.tu.no/artikler/22-realfagshelter-skal-lofte-elevenes-mattekunnskaper/231597))
+[22 «realfagshelter» skal løfte elevenes mattekunnskaper](https://www.tu.no/artikler/22-realfagshelter-skal-lofte-elevenes-mattekunnskaper/231597), Teknisk Ukeblad, April 7th, 2014.
 
-**Haugesunds Avis**: "Ungdom lærte seg kodespråk", July 10th, 2014. ([Link](https://www.h-avis.no/etne/nyheter/siste-nytt/ungdom-larte-seg-kodesprak/s/2-2.921-1.8506076))
+[Ungdom lærte seg kodespråk](https://www.h-avis.no/etne/nyheter/siste-nytt/ungdom-larte-seg-kodesprak/s/2-2.921-1.8506076), Haugesunds Avis, July 10th, 2014.
 
-**Adresseavisen**: "Der kidsa får kode", March 24th, 2014. ([Link](https://www.midtnorskdebatt.no/meninger/snakkut/article9383255.ece))
+[Der kidsa får kode](https://www.midtnorskdebatt.no/meninger/snakkut/article9383255.ece), Adresseavisen, March 24th, 2014.
