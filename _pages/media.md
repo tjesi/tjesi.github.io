@@ -23,23 +23,25 @@ author_profile: true
 
 [Improved privacy in the Norwegian contact tracing app](https://ecmiindmath.org/2021/01/28/improved-privacy-in-the-norwegian-contact-tracing-app), ECMI, January 28th, 2021.
 
-[Anonymous Tokens for Private Contact Tracing"](https://security.christmas/2020/22), Security.Christmas, December 22nd, 2020.
+[Anonymous Tokens for Private Contact Tracing](https://security.christmas/2020/22), Security.Christmas, December 22nd, 2020.
 
 [Privacy Pass: Anonymous Tokens on the Web](https://security.christmas/2020/21), Security.Christmas, December 21st, 2020.
 
 [From Coils to Curves - A Primer on Elliptic Curve Cryptography](https://security.christmas/2020/5), Security.Christmas, December 5th, 2020.
 
-[Teknologi og Personvern](https://sikkerhet.online/author/tjerand-silde), Sikkerht.Online, 2018-2020.
+[Teknologi og Personvern](https://sikkerhet.online/author/tjerand-silde), Sikkerhet.Online, 2018-2020.
 
 [Utdanning og Teknologi](https://talentblogg.no/tjerand-silde), Talentblogg.no, 2016/2017.
 
-[Ditt privatliv beskyttes av primtall](https://titan.uio.no/naturvitenskap-teknologi/2016/ditt-privatliv-beskyttes-av-primtall), Titan.uio.no, December 1st, 2016.
+[Ditt privatliv beskyttes av primtall](https://titan.uio.no/naturvitenskap-teknologi/2016/ditt-privatliv-beskyttes-av-primtall), Titan.UiO.no, December 1st, 2016.
 
 [Digitale barn trenger digitale foreldre](https://www.nrk.no/ytring/digitale-barn-trenger-digitale-foreldre-1.13007819), NRK Ytring, June 25th, 2016.
 
 [Digital kompetanse i norsk skole er en bløff](https://www.digi.no/artikler/digital-kompetanse-i-norsk-skole-er-en-bloff/348037), Digi.no, April 26th, 2016.
 
 ## Mentioned
+
+[Pris for innebygd personvern til Anonyme Tokens](https://www.datatilsynet.no/aktuelt/aktuelle-nyheter-2021/pris-for-innebygd-personvern-til-anonyme-tokens), Datatilsynet, April 28th, 2021.
 
 [Sånn jobba utviklerne i fagrådet til Smittestopp-appen](https://www.kode24.no/koden-bak/sann-jobba-utviklerne-i-fagradet-til-smittestopp-appen/73254266), Kode24.no, January 11th, 2021.
 
