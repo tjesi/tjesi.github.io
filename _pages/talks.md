@@ -24,7 +24,7 @@ author_profile: true
 * “[Electronic voting using lattice-based commitments and verifiable encryption](https://tjerandsilde.no/files/Aarhus_Crypto_Seminar_Presentation.pdf)” – [Aarhus Crypto Seminar](https://cs.au.dk/~oech/seminar.html), Aarhus, November 2019.
 * “[Sikkerhet i en post-kvante verden](https://tjerandsilde.no/files/Sikkerhetsfestivalen_Tjerand_Silde_Sikkerhet_I_En_Post-kvante_Verden.pdf)” – [Sikkerhetsfestivalen](https://sikkerhetsfestivalen.no), Lillehammer, August 2019.
 * “[Jeg elsker relevant reklame](https://tjerandsilde.no/files/Sikkerhetsfestivalen_Tjerand_Silde_Jeg_Elsker_Relevant_Reklame.pdf)” – [Sikkerhetsfestivalen](https://sikkerhetsfestivalen.no), Lillehammer, August 2019.
-* “Cryptography 101 & Secure Computation” – [Center for Security and Emerging Technology at Georgetown University](http://cset.georgetown.edu), Washington, D.C., August 2019. ([PDF](https://tjerandsilde.no/files/CSET.pdf))
+* “[Cryptography 101 & Secure Computation](https://tjerandsilde.no/files/CSET.pdf)” – [Center for Security and Emerging Technology at Georgetown University](http://cset.georgetown.edu), Washington, D.C., August 2019.
 * “[Side-Channel Attacks](https://tjerandsilde.no/files/Side_Channel_Attacks.pdf)” – [Applied Cryptography and Network Security](https://www.ntnu.edu/studies/courses/TTM4135), Trondheim, March 2019.
 * “[Where is the web still insecure? Regional scans for HTTPS certificates](https://tjerandsilde.no/files/NISK_presentation.pdf)” – [Norwegian Information Security Conference](http://nikt2018.ifi.uio.no/program_nisk_en.html), Svalbard, September 2018.
 
