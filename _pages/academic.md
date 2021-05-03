@@ -19,7 +19,7 @@ Joint work with Henrik Walker Moe and Martin Strand. ([Docs](https://github.com/
 Lattice-Based Verifiable Mixing Network, to be submitted.\
 Joint work with Diego F. Aranha, Carsten Baum and Kristian Gjøsteen.
 
-Verifiable Decryption in the Head, in submission.\
+[Verifiable Decryption in the Head](https://eprint.iacr.org/2021/558.pdf), in submission.\
 Joint work with Kristian Gjøsteen, Thomas Haines, Johannes Müller and Peter Rønne.
 
 [Anonymous Tokens with Public Metadata and Applications to Private Contact Tracing](https://eprint.iacr.org/2021/203.pdf), in submission.\
