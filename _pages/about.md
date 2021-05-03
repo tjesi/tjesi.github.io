@@ -18,6 +18,7 @@ I spent the fall of 2020 visiting the [Aarhus Crypto Group](https://users-cs.au.
 I've previously been working as a project manager at [Lær Kidsa Koding](https://www.kidsakoder.no) (2015-17), as a university college teacher at [Western Norway University of Applied Sciences](https://www.hvl.no/en) (2017-20), and I had a 3 months internship in 2018 at the IoT-security company [Intrinsic-ID](https://www.intrinsic-id.com) in Eindhoven, NL.
 
 **News**:
+- Manuscript: [Verifiable Decryption in the Head](https://eprint.iacr.org/2021/558.pdf), is available on IACR ePrint. Joint work with Kristian Gjøsteen, Thomas Haines, Johannes Muller and Peter Rønne.
+- Henrik Walker Moe, Martin Strand and myself got the "[Built-in-privacy](https://www.datatilsynet.no/aktuelt/aktuelle-nyheter-2021/pris-for-innebygd-personvern-til-anonyme-tokens)" award from the Norwegian Data Protection Authority for our work on improved privacy in contact tracing.
 - Paper: [Lattice-Based Proof of Shuffle and Applications to Electronic Voting](https://eprint.iacr.org/2021/338.pdf), is accepted at CT-RSA. Joint work w/ Diego F. Aranha, Carsten Baum, Kristian Gjøsteen and Thor Tunge.
 - Manuscript: [Anonymous Tokens with Public Metadata and Applications to Private Contact Tracing](https://eprint.iacr.org/2021/203.pdf), is available on IACR ePrint. Joint work with Martin Strand.
-- Henrik Walker Moe, Martin Strand and myself got the "[Built-in-privacy](https://www.datatilsynet.no/aktuelt/aktuelle-nyheter-2021/pris-for-innebygd-personvern-til-anonyme-tokens)" award from the Norwegian Data Protection Authority for our work on improved privacy in contact tracing.
