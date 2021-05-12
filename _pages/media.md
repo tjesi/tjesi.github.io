@@ -41,6 +41,8 @@ author_profile: true
 
 ## Mentioned
 
+[Martins team gjorde Smittestopp trygg](https://www.ffi.no/aktuelt/nyheter/martins-team-gjorde-smittestopp-trygg), Forsvarets Forskningsinstitutt, May 8th, 2021.
+
 [Pris for Smittestopp-app](https://grannar.no/2021/05/pris-for-smittestopp-app), Grannar, May 4th, 2021.
 
 [Pris for innebygd personvern til Anonyme Tokens](https://www.datatilsynet.no/aktuelt/aktuelle-nyheter-2021/pris-for-innebygd-personvern-til-anonyme-tokens), Datatilsynet, April 28th, 2021.
