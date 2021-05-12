@@ -67,7 +67,7 @@ I have participated or will participate at the following conferences, seminars a
 
 **RWC 2019**: Real World Crypto Symposium. January 9.-11., 2019 – San Jose, USA. [rwc.iacr.org/2019](https://rwc.iacr.org/2019)
 
-**NISK 2018 **: Norwegian Information Security Conference. September 18.-20, 2019 – Svalbard, Norway. [nikt2018.ifi.uio.no/program_nisk_en](http://nikt2018.ifi.uio.no/program_nisk_en)
+**NISK 2018**: Norwegian Information Security Conference. September 18.-20, 2019 – Svalbard, Norway. [nikt2018.ifi.uio.no/program_nisk_en](http://nikt2018.ifi.uio.no/program_nisk_en)
 
 **COINS Ph.D. Student Seminar 2018.** September 17., 2018 – Svalbard, Norway. [coinsrs.no/coins-ph-d-student-seminar-2018-svalbard](https://coinsrs.no/coins-ph-d-student-seminar-2018-svalbard)
 
