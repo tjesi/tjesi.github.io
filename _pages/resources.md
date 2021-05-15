@@ -25,6 +25,7 @@ Cohen: [Cryptography Online Talks Calendar](https://www.ccs.neu.edu/~rancohen/cr
 - Gjøsteen: [Cryptography](https://wiki.math.ntnu.no/tma4160/notes)
 - Katz: [Introduction to Cryptography](http://www.cs.umd.edu/~jkatz/crypto/s18/lectures.html)
 - Menezes, van Oorschot and Vanstone: [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac)
+- Ostrovsky: [Foundations of Cryptography](http://web.cs.ucla.edu/~rafail/PUBLIC/OstrovskyDraftLecNotes2010.pdf)
 - Pass and Shelat: [A Course in Cryptography](https://www.cs.cornell.edu/courses/cs4830/2010fa/lecnotes.pdf)
 - Rosulek: [The Joy of Cryptography](https://web.engr.oregonstate.edu/~rosulekm/crypto)
 - Smart: [Cryptography Made Simple](https://link.springer.com/book/10.1007%2F978-3-319-21936-3)
