@@ -16,7 +16,7 @@ Joint work with Henrik Walker Moe and Martin Strand. ([Docs](https://github.com/
 
 ## Work in Progress
 
-Lattice-Based Verifiable Mixing Network, to be submitted.\
+Lattice-Based Verifiable Mixing Network\
 Joint work with Diego F. Aranha, Carsten Baum and Kristian Gjøsteen.
 
 [Verifiable Decryption in the Head](https://eprint.iacr.org/2021/558.pdf), in submission.\
