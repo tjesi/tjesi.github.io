@@ -12,6 +12,7 @@ Cohen: [Cryptography Online Talks Calendar](https://www.ccs.neu.edu/~rancohen/cr
 - Albrecht: [a blog about cryptography, math software and kittens](https://martinralbrecht.wordpress.com)
 - Green: [A Few Thoughts on Cryptographic Engineering](https://blog.cryptographyengineering.com)
 - KU Leuven: [COSIC Cryptography Blog](https://www.esat.kuleuven.be/cosic/blog)
+- Partisia: [Particia MPC](https://partisiampc.medium.com)
 - The Sugar Beet: [Applied MPC: Developments in multiparty computation](https://medium.com/applied-mpc)
 - Unbound Tech: [Blog](https://www.unboundtech.com/blog)
 - zkproof.org: [The Art of Zero Knowledge](https://zkproof.org/blog)
