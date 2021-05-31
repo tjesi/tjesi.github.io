@@ -41,6 +41,8 @@ author_profile: true
 
 ## Mentioned
 
+[Forskere ga Smittestopp-appen bedre personvern](https://forskning.no/app-data-forsvarets-forskningsinstitutt/forskere-ga-smittestopp-appen-bedre-personvern/1865394), forskning.no, May 29th, 2021.
+
 [Martins team gjorde Smittestopp trygg](https://www.ffi.no/aktuelt/nyheter/martins-team-gjorde-smittestopp-trygg), Forsvarets Forskningsinstitutt, May 8th, 2021.
 
 [Pris for Smittestopp-app](https://grannar.no/2021/05/pris-for-smittestopp-app), Grannar, May 4th, 2021.
