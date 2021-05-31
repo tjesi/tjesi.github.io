@@ -28,6 +28,7 @@ Cohen: [Cryptography Online Talks Calendar](https://www.ccs.neu.edu/~rancohen/cr
 - Ostrovsky: [Foundations of Cryptography](http://web.cs.ucla.edu/~rafail/PUBLIC/OstrovskyDraftLecNotes2010.pdf)
 - Pass and Shelat: [A Course in Cryptography](https://www.cs.cornell.edu/courses/cs4830/2010fa/lecnotes.pdf)
 - Rosulek: [The Joy of Cryptography](https://web.engr.oregonstate.edu/~rosulekm/crypto)
+- Schoenmakers: [Lecture Notes Cryptographic Protocols](https://www.win.tue.nl/~berry/CryptographicProtocols/LectureNotes.pdf)
 - Smart: [Cryptography Made Simple](https://link.springer.com/book/10.1007%2F978-3-319-21936-3)
 
 ## International Association for Cryptologic Research
