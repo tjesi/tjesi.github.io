@@ -7,7 +7,7 @@ author_profile: true
 
 I have participated or will participate at the following conferences, seminars and workshops in cryptography and information security.
 
-**Eurocrypt 2022**: The 41th Annual International Conference on the Theory and Applications of Cryptographic Techniques. May, 2022 – Trondheim, Norway.
+**Eurocrypt 2022**: The 41th Annual International Conference on the Theory and Applications of Cryptographic Techniques. May, 2022 – Trondheim, Norway. [eurocrypt.iacr.org/2022](https://eurocrypt.iacr.org/2022)
 
 **Asiarypt 2021**: The 27th Annual International Conference on the Theory and Application of Cryptology and Information Security. December 5.-9., 2021 – Online. [asiacrypt.iacr.org/2021](https://asiacrypt.iacr.org/2021)
 
