@@ -89,3 +89,5 @@ Cohen: [Cryptography Online Talks Calendar](https://www.ccs.neu.edu/~rancohen/cr
 - [Crypto Stackexchange](https://crypto.stackexchange.com)
 - [Cryptography and Security arXiv](https://arxiv.org/list/cs.CR/recent)
 - [Chrome Extension: Where's That Paper?](https://chrome.google.com/webstore/detail/wheres-that-paper/dkjnkdmoghkbkfkafefhbcnmofdbfdio)
+- [Keynote to PDF Converter](https://www.zamzar.com/convert/key-to-ppt)
+- [Latex-symbols](https://artofproblemsolving.com/wiki/index.php/LaTeX:Symbols)
