@@ -38,7 +38,7 @@ Joint work with Anushua Hossain and Kristina Nelson. ([Presentation](https://tje
 
 [Bilinear Pairings of Elliptic Curves](https://tjerandsilde.no/files/Bachelor_Thesis.pdf), Bachelor's Thesis, 2015.
 
-## Conferences
+## Service
 I organized the [Norwegian Crypto Seminar 2020](https://wiki.math.ntnu.no/nks/nks20) together with Kristian Gjøsteen and Martin Strand.
 
 I'm on the organizing committee for [Eurocrypt 2022](https://eurocrypt.iacr.org/2022) in Trondheim. Colin Boyd is the General Chair.
