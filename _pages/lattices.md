@@ -16,6 +16,7 @@ author_profile: true
 ## Surveys
 
 - Lyubashevsky: [Basic Lattice Cryptography: Encryption and Fiat-Shamir Signatures](https://drive.google.com/file/d/1JTdW5ryznp-dUBBjN12QbvWz9R41NDGU/view)
+- Micciancio and Regev: [Lattice-based Cryptography](https://cseweb.ucsd.edu/~daniele/papers/PostQuantum.pdf)
 - Peikert: [A Decade of Lattice Cryptography](https://web.eecs.umich.edu/~cpeikert/pubs/lattice-survey.pdf)
 
 ## Talks
