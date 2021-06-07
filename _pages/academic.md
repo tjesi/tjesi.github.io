@@ -45,7 +45,7 @@ I'm on the organizing committee for [Eurocrypt 2022](https://eurocrypt.iacr.org/
 
  I have been a reviewer for the following conferences:
  - 2020: CT-RSA and Selected Areas in Cryptography,
- - 2021: Financial Crypto, Eurocrypt, CT-RSA, ACISP, CCS and ESORICS.
+ - 2021: Financial Crypto, Eurocrypt, CT-RSA, ACISP, CCS, ESORICS and MathCrypt.
 
 ## Research Groups
 I'm a member of the [Algebra Group](https://www.ntnu.edu/imf/research/algebra) at the Department of Mathematics and the [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab) at the Department of Information Security and Communication Technology.
