@@ -7,6 +7,8 @@ author_profile: true
 
 ## Coming Talks:
 
+* "Anonymous Tokens and Private Contact Tracing"- [OWASP Norway](https://owasp.org/www-chapter-norway), Online, June 2021.
+
 ## Cryptography and Information Security Talks:
 
 * "[Lattice-Based Proof of Shuffle and Applications to Electronic Voting](https://tjerandsilde.no/files/CRYP_T10A.pdf)" – [Cryptographers Track at the RSA Conference 2021](https://sites.google.com/site/ctrsa2021/conference-program?authuser=0), Online, May 2021.
