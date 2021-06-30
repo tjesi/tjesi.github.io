@@ -7,10 +7,11 @@ author_profile: true
 
 ## Coming Talks:
 
-* "Anonymous Tokens for more Private Contact Tracing"- [OWASP Norway](https://owasp.org/www-chapter-norway), Online, June 2021.
+* No upcoming talks...
 
 ## Cryptography and Information Security Talks:
 
+* "[Anonymous Tokens for more Private Contact Tracing](https://tjerandsilde.no/files/Anonymous-Tokens-for-more-Private-Contact-Tracing.pdf)"- [OWASP Norway](https://owasp.org/www-chapter-norway), Online, June 2021.
 * "[Lattice-Based Proof of Shuffle and Applications to Electronic Voting](https://tjerandsilde.no/files/CRYP_T10A.pdf)" – [Cryptographers Track at the RSA Conference 2021](https://sites.google.com/site/ctrsa2021/conference-program?authuser=0), Online, May 2021.
 * "[Anonyme attester i Smittestopp](https://tjerandsilde.no/files/Innebygget-Personvern.pdf)" – [The Norwegian Data Protection Authority](https://www.datatilsynet.no/en), Online, March 2021.
 * “[Anonymous Tokens and Private Contact Tracing](https://tjerandsilde.no/files/Anonymous-Tokens.pdf)” – [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab), Online, February 2021.
