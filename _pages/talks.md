@@ -7,7 +7,7 @@ author_profile: true
 
 ## Coming Talks:
 
-* No upcoming talks...
+* "Private Contact Tracing and Anonymous Tickets" - [Anonymous Credentials Meeting](https://www.sofiaceli.com/Anonymous-Credentials-Meeting), Online, July 2021.
 
 ## Cryptography and Information Security Talks:
 
