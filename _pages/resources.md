@@ -66,6 +66,7 @@ Cohen: [Cryptography Online Talks Calendar](https://www.ccs.neu.edu/~rancohen/cr
 
 ## Online Courses
 
+- BUI: [WINTER SCHOOL ON CRYPTOGRAPHY](http://cyber.biu.ac.il/events)
 - Boneh: [Stanford’s online cryptography course](https://www.coursera.org/learn/crypto)
 - Katz: [Cryptography](https://www.coursera.org/learn/cryptography)
 
