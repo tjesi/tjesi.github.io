@@ -71,6 +71,7 @@ Cohen: [Cryptography Online Talks Calendar](https://www.ccs.neu.edu/~rancohen/cr
 
 ## Podcasts
 
+- Connolly, Ptacek, Adrian: [Security. Cryptography. Whatever.](https://securitycryptographywhatever.buzzsprout.com)
 - Gorbunov: [Real World Cryptographers Podcast](https://rwcpodcast.buzzsprout.com)
 - Harrysson and Rose: [Zero Knowledge Podcast](https://www.zeroknowledge.fm)
 - Kobeissi: [Cryptography FM](https://www.cryptography.fm)
