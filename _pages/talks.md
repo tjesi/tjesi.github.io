@@ -7,7 +7,7 @@ author_profile: true
 
 ## Coming Talks:
 
-* No planned upcoming talks...
+* "[Anonyme Tokens og Privat Smittesporing](https://tjerandsilde.no/files/Anonyme-tokens-og-privat-smittespooring.pdf)" - Fagdag Sikkerhet @ Bekk, August, 2021.
 
 ## Cryptography and Information Security Talks:
 
