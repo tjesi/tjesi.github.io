@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-My name is Tjerand. I’m a second year PhD student in cryptography at the [Department of Mathematical Sciences](https://www.ntnu.edu/imf) at the Norwegian University of Science and Technology (NTNU) in Trondheim. My supervisors are [Professor Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen) and [Professor Colin Boyd](https://www.ntnu.edu/employees/colin.boyd). I am\
+My name is Tjerand. I’m a third year PhD student in cryptography at the [Department of Mathematical Sciences](https://www.ntnu.edu/imf) at the Norwegian University of Science and Technology (NTNU) in Trondheim. My supervisors are [Professor Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen) and [Professor Colin Boyd](https://www.ntnu.edu/employees/colin.boyd). I am\
 also working as a cryptography consultant at [Pone Biometrics](https://ponebiometrics.com).
+
+I am currently visiting [Professor Jonathan Katz](http://www.cs.umd.edu/~jkatz) at at the University of Maryland.
 
 My main foci of research are lattice-based cryptography and zero-knowledge protocols. My interests also span the areas of secure multiparty computation, password-authenticated key exchange, electronic voting and anonymous credentials.
 
