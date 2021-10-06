@@ -7,10 +7,11 @@ author_profile: true
 
 ## Coming Talks:
 
-* "[Anonyme Tokens og Privat Smittesporing](https://tjerandsilde.no/files/Anonyme-tokens-og-privat-smittespooring.pdf)" - Fagdag Sikkerhet @ Bekk, August, 2021.
+* No upcoming talks...
 
 ## Cryptography and Information Security Talks:
 
+* "[Anonyme Tokens ogPrivat Smittesporing](https://tjerandsilde.no/files/Anonyme-tokens-og-privat-smittespooring.pdf)" - Fagdag Sikkerhet @ Bekk, August, 2021.
 * "[Private Contact Tracing and Anonymous Tickets](https://tjerandsilde.no/files/Contact-Tracing-and-Tickets.pdf)" - [Anonymous Credentials Meeting](https://www.sofiaceli.com/Anonymous-Credentials-Meeting), Online, July 2021.
 * "[Anonymous Tokens for more Private Contact Tracing](https://tjerandsilde.no/files/Anonymous-Tokens-for-more-Private-Contact-Tracing.pdf)"- [OWASP Norway](https://owasp.org/www-chapter-norway), Online, June 2021.
 * "[Lattice-Based Proof of Shuffle and Applications to Electronic Voting](https://tjerandsilde.no/files/CRYP_T10A.pdf)" – [Cryptographers Track at the RSA Conference 2021](https://sites.google.com/site/ctrsa2021/conference-program?authuser=0), Online, May 2021.
