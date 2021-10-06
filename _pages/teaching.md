@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I'm currently not teaching. My engagement at HVL has ended, and I have completed all of my teaching duties at NTNU.
+I am currently not teaching. My engagement at HVL has ended, and I have completed all of my teaching duties at NTNU.
 
 ## Previous semesters:
 
