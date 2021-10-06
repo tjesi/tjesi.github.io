@@ -41,16 +41,19 @@ Joint work with Anushua Hossain and Kristina Nelson. ([Presentation](https://tje
 ## Service
 I organized the [Norwegian Crypto Seminar 2020](https://wiki.math.ntnu.no/nks/nks20) together with Kristian Gjøsteen and Martin Strand.
 
-I'm on the organizing committee for [Eurocrypt 2022](https://eurocrypt.iacr.org/2022) in Trondheim. Colin Boyd is the General Chair.
+I am organizing the [Norwegian Crypto Seminar 2021](https://wiki.math.ntnu.no/nks/nks21) together with Lise Millerjord and Martin Strand.
+
+I am on the organizing committee for [Eurocrypt 2022](https://eurocrypt.iacr.org/2022) in Trondheim. Colin Boyd is the General Chair.
 
  I have been a reviewer for the following conferences:
  - 2020: CT-RSA and SAC.
  - 2021: Financial Crypto, Eurocrypt, CT-RSA, ACISP, CCS, ESORICS, MathCrypt and SAC.
+ - 2022: Public Key Cryptography
 
 ## Research Groups
-I'm a member of the [Algebra Group](https://www.ntnu.edu/imf/research/algebra) at the Department of Mathematics and the [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab) at the Department of Information Security and Communication Technology.
+I am a member of the [Algebra Group](https://www.ntnu.edu/imf/research/algebra) at the Department of Mathematics and the [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab) at the Department of Information Security and Communication Technology.
 
-I'm also a member of the [COINS Research School of Computer and Information Security](https://coinsrs.no) for Ph.D. students in Norway.
+I am also a member of the [COINS Research School of Computer and Information Security](https://coinsrs.no) for Ph.D. students in Norway.
 
 ## Research Visits
-I'm very grateful to [Carsten Baum](http://www.carstenbaum.com), [Diego Aranha](https://sites.google.com/site/dfaranha) and the [Aarhus Crypto Group](https://users-cs.au.dk/orlandi/cryptogroup) for hosting me for one week in November 2019 and for four months Fall 2020.
+I am very grateful to [Carsten Baum](http://www.carstenbaum.com), [Diego Aranha](https://sites.google.com/site/dfaranha) and the [Aarhus Crypto Group](https://users-cs.au.dk/orlandi/cryptogroup) for hosting me for one week in November 2019 and for four months Fall 2020.
