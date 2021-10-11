@@ -38,7 +38,14 @@ Joint work with Anushua Hossain and Kristina Nelson. ([Presentation](https://tje
 
 [Bilinear Pairings of Elliptic Curves](https://tjerandsilde.no/files/Bachelor_Thesis.pdf), Bachelor's Thesis, 2015.
 
-## Service
+## Students
+
+I am currently supervising the following students:
+- Audhild Høgåsen (Master's thesis)
+- Sofie Holtestaul (Master's thesis)
+- Lise Iversen (Bachelor's thesis)
+
+## Professional Service
 I organized the [Norwegian Crypto Seminar 2020](https://wiki.math.ntnu.no/nks/nks20) together with Kristian Gjøsteen and Martin Strand.
 
 I am organizing the [Norwegian Crypto Seminar 2021](https://wiki.math.ntnu.no/nks/nks21) together with Lise Millerjord and Martin Strand.
