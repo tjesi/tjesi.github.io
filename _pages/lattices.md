@@ -15,7 +15,7 @@ author_profile: true
 
 ## Surveys
 
-- Bootland, Castryck, Szepieniec, Vercauteren: [On the Security of Cryptographic
+- Bootland et al.: [On the Security of Cryptographic
 Problems from Linear Algebra](https://eprint.iacr.org/2021/1354.pdf)
 - Lyubashevsky: [Basic Lattice Cryptography: Encryption and Fiat-Shamir Signatures](https://drive.google.com/file/d/1JTdW5ryznp-dUBBjN12QbvWz9R41NDGU/view)
 - Micciancio and Regev: [Lattice-based Cryptography](https://cseweb.ucsd.edu/~daniele/papers/PostQuantum.pdf)
