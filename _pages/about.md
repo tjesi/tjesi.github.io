@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Tjerand. I am a third year PhD student in cryptography at the [Department of Mathematical Sciences](https://www.ntnu.edu/imf) at the Norwegian University of Science and Technology (NTNU) in Trondheim. My supervisors are [Professor Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen) and [Professor Colin Boyd](https://www.ntnu.edu/employees/colin.boyd). I am\
+My name is Tjerand. I am a third year PhD student in cryptography at the [Department of Mathematical Sciences](https://www.ntnu.edu/imf) at the Norwegian University of Science and Technology (NTNU) in Trondheim, where I am a member of the [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab). My supervisors are [Professor Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen) and [Professor Colin Boyd](https://www.ntnu.edu/employees/colin.boyd). I am
 also working as a cryptography advisor at [Pone Biometrics](https://ponebiometrics.com).
 
 I am currently visiting [Professor Jonathan Katz](http://www.cs.umd.edu/~jkatz) at the University of Maryland, USA.
@@ -26,3 +26,5 @@ I have previously been working as a project manager at [Lær Kidsa Koding](https
 - Henrik Walker Moe, Martin Strand and myself won the "[Built-in-privacy](https://www.datatilsynet.no/aktuelt/aktuelle-nyheter-2021/pris-for-innebygd-personvern-til-anonyme-tokens)" award from the Norwegian Data Protection Authority for our work on improved privacy in contact tracing.
 - Paper: [Lattice-Based Proof of Shuffle and Applications to Electronic Voting](https://eprint.iacr.org/2021/338.pdf), is accepted at CT-RSA. Joint work w/ Diego F. Aranha, Carsten Baum, Kristian Gjøsteen and Thor Tunge.
 - Manuscript: [Anonymous Tokens with Public Metadata and Applications to Private Contact Tracing](https://eprint.iacr.org/2021/203.pdf), is available on IACR ePrint. Joint work with Martin Strand.
+
+I support the [Electronic Frontier Foundation](https://supporters.eff.org/donate/join-eff-4) and the [Signal Foundation](https://signal.org/donate).
