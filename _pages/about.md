@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-My name is Tjerand. I am a third year PhD student in cryptography at the [Department of Mathematical Sciences](https://www.ntnu.edu/imf) at the Norwegian University of Science and Technology (NTNU) in Trondheim, where I am a member of the [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab). My supervisors are [Professor Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen) and [Professor Colin Boyd](https://www.ntnu.edu/employees/colin.boyd). I am
+My name is Tjerand. I am a third year PhD student in cryptography at the [Department of Mathematical Sciences](https://www.ntnu.edu/imf) at the Norwegian University of Science and Technology (NTNU) in Trondheim, where I am a member of the [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab). My supervisor is [Professor Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen). I am
 also working as a cryptography advisor at [Pone Biometrics](https://ponebiometrics.com).
 
 I am currently visiting [Professor Jonathan Katz](http://www.cs.umd.edu/~jkatz) at the University of Maryland, USA.
 
-My main foci of research are lattice-based cryptography and zero-knowledge protocols. My interests also span the areas of secure multiparty computation, password-authenticated key exchange, electronic voting and anonymous credentials.
+My main foci of research are lattice-based cryptography and zero-knowledge protocols. My interests also span the areas of secure multiparty computation, homomorphic encryption, password-authenticated key exchange, electronic voting and anonymous communication.
 
 I graduated from NTNU with a B.Sc. in Mathematics in 2017 and a M.Sc. in Mathematics in 2020, respectively. I spent the academic year 2017-2018 at UC Berkeley, California, USA, and\
 I spent the fall of 2020 visiting the [Aarhus Crypto Group](https://users-cs.au.dk/orlandi/cryptogroup) at Aarhus University, Denmark.
