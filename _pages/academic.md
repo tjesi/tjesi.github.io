@@ -43,7 +43,6 @@ Joint work with Anushua Hossain and Kristina Nelson. ([Presentation](https://tje
 I am currently supervising the following students:
 - Audhild Høgåsen (Master's thesis)
 - Sofie Holtestaul (Master's thesis)
-- Lise Iversen (Bachelor's thesis)
 
 ## Professional Service
 I organized the [Norwegian Crypto Seminar 2020](https://wiki.math.ntnu.no/nks/nks20) together with Kristian Gjøsteen and Martin Strand.
