@@ -13,6 +13,8 @@ I have participated or will participate at the following conferences, seminars a
 
 **TCC 2021**: The Theory of Cryptography Conference. November 8.-11., 2021 – Raleigh, USA. [tcc.iacr.org/2021](https://tcc.iacr.org/2021)
 
+**DC Area Crypto Day**: Fall 2021 Crypto Day. November 5., 2021 - University of Maryland, USA. [dcareacryptoday.wordpress.com](https://dcareacryptoday.wordpress.com/2021/10/25/fall-2021-crypto-day)
+
 **Eurocrypt 2021**: The 40th Annual International Conference on the Theory and Applications of Cryptographic Techniques. October 17.-21., 2021 – Online. [eurocrypt.iacr.org/2021](https://eurocrypt.iacr.org/2021)
 
 **Crypto 2021**: The 41st International Cryptology Conference. August 15.-19., 2021 – Online. [crypto.iacr.org/2021](https://crypto.iacr.org/2021)
