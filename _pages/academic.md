@@ -18,10 +18,10 @@ Joint work with Henrik Walker Moe and Martin Strand. ([Docs](https://github.com/
 
 Short paper: Verifiable Decryption for BGV, in submission.
 
-Lattice-Based Threshold Signatures. In progress.\
+Lattice-Based Threshold Signatures, in progress.\
 Joint work with Kamil Doruk Gur and Jonathan Katz.
 
-Lattice-Based DC-networks. In progress.\
+Lattice-Based DC-networks, in progress.\
 Joint work with Andreea Alexandru.
 
 Verifiable Mix-Nets and Distributed Decryption for Voting from Lattice-based Assumptions, in submission.\
@@ -51,7 +51,7 @@ Joint work with Anushua Hossain and Kristina Nelson. ([Presentation](https://tje
 I am currently supervising the following students:
 - Audhild Høgåsen (Master's thesis)
 - Sofie Holtestaul (Master's thesis)
-- Alejandro Royher Rodriguez Rodriguez (Bachelor's thesis)
+- Alejandro Rodriguez (Bachelor's thesis)
 
 ## Professional Service
 I organized the [Norwegian Crypto Seminar 2020](https://wiki.math.ntnu.no/nks/nks20) together with Kristian Gjøsteen and Martin Strand.
