@@ -16,6 +16,14 @@ Joint work with Henrik Walker Moe and Martin Strand. ([Docs](https://github.com/
 
 ## Work in Progress
 
+Short paper: Verifiable Decryption for BGV, in submission.
+
+Lattice-Based Threshold Signatures. In progress.\
+Joint work with Kamil Doruk Gur and Jonathan Katz.
+
+Lattice-Based DC-networks. In progress.\
+Joint work with Andreea Alexandru.
+
 Verifiable Mix-Nets and Distributed Decryption for Voting from Lattice-based Assumptions, in submission.\
 Joint work with Diego F. Aranha, Carsten Baum and Kristian Gjøsteen.
 
@@ -43,11 +51,14 @@ Joint work with Anushua Hossain and Kristina Nelson. ([Presentation](https://tje
 I am currently supervising the following students:
 - Audhild Høgåsen (Master's thesis)
 - Sofie Holtestaul (Master's thesis)
+- Alejandro Royher Rodriguez Rodriguez (Bachelor's thesis)
 
 ## Professional Service
 I organized the [Norwegian Crypto Seminar 2020](https://wiki.math.ntnu.no/nks/nks20) together with Kristian Gjøsteen and Martin Strand.
 
 I am organizing the [Norwegian Crypto Seminar 2021](https://wiki.math.ntnu.no/nks/nks21) together with Lise Millerjord and Martin Strand.
+
+I am organizing the NTNU Post-Quantum Cryptography Reading Group together with Anamaria Costache.
 
 I am on the organizing committee for [Eurocrypt 2022](https://eurocrypt.iacr.org/2022) in Trondheim. Colin Boyd is the General Chair.
 
