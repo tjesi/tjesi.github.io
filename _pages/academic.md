@@ -53,9 +53,7 @@ I am currently supervising the following students:
 - Alejandro Rodriguez (Bachelor's thesis)
 
 ## Professional Service
-I organized the [Norwegian Crypto Seminar 2020](https://wiki.math.ntnu.no/nks/nks20) together with Kristian Gjøsteen and Martin Strand.
-
-I am organizing the [Norwegian Crypto Seminar 2021](https://wiki.math.ntnu.no/nks/nks21) together with Lise Millerjord and Martin Strand.
+I organized the [Norwegian Crypto Seminar 2020](https://wiki.math.ntnu.no/nks/nks20) together with Kristian Gjøsteen and Martin Strand, and organized the [Norwegian Crypto Seminar 2021](https://wiki.math.ntnu.no/nks/nks21) together with Lise Millerjord and Martin Strand.
 
 I am organizing the NTNU Post-Quantum Cryptography Reading Group together with Anamaria Costache.
 
