@@ -33,8 +33,6 @@ author_profile: true
 
 [From Coils to Curves - A Primer on Elliptic Curve Cryptography](https://security.christmas/2020/5), Security.Christmas, December 5th, 2020.
 
-[Teknologi og Personvern](https://sikkerhet.online/author/tjerand-silde), Sikkerhet.Online, 2018-2020.
-
 [Utdanning og Teknologi](https://talentblogg.no/tjerand-silde), Talentblogg.no, 2016/2017.
 
 [Ditt privatliv beskyttes av primtall](https://titan.uio.no/naturvitenskap-teknologi/2016/ditt-privatliv-beskyttes-av-primtall), Titan.UiO.no, December 1st, 2016.
