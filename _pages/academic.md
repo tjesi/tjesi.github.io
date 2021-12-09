@@ -50,7 +50,6 @@ Joint work with Anushua Hossain and Kristina Nelson. ([Presentation](https://tje
 
 I am currently supervising the following students:
 - Audhild Høgåsen (Master's thesis)
-- Sofie Holtestaul (Master's thesis)
 - Alejandro Rodriguez (Bachelor's thesis)
 
 ## Professional Service
