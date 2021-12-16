@@ -30,4 +30,4 @@ I am a member of [The International Association for Cryptologic Research](https:
 - Henrik Walker Moe, Martin Strand and myself won the "[Built-in-privacy](https://www.datatilsynet.no/aktuelt/aktuelle-nyheter-2021/pris-for-innebygd-personvern-til-anonyme-tokens)" award from the Norwegian Data Protection Authority for our work on improved privacy in contact tracing.
 - Paper: [Lattice-Based Proof of Shuffle and Applications to Electronic Voting](https://eprint.iacr.org/2021/338.pdf), is accepted at CT-RSA. Joint work w/ Diego F. Aranha, Carsten Baum, Kristian Gjøsteen and Thor Tunge.
 
-I support the [Electronic Frontier Foundation](https://supporters.eff.org/donate/join-eff-4) and the [Signal Foundation](https://signal.org/donate).
+I support the [Electronic Frontier Foundation](https://supporters.eff.org/donate/join-eff-4), the [Tor Project](https://donate.torproject.org) and the [Signal Foundation](https://signal.org/donate).
