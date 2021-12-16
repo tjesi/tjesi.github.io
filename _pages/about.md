@@ -28,4 +28,6 @@ I have previously been working as a project manager at [Lær Kidsa Koding](https
 - Paper: [Lattice-Based Proof of Shuffle and Applications to Electronic Voting](https://eprint.iacr.org/2021/338.pdf), is accepted at CT-RSA. Joint work w/ Diego F. Aranha, Carsten Baum, Kristian Gjøsteen and Thor Tunge.
 - Manuscript: [Anonymous Tokens with Public Metadata and Applications to Private Contact Tracing](https://eprint.iacr.org/2021/203.pdf), is available on IACR ePrint. Joint work with Martin Strand.
 
+I am a member of [The International Association for Cryptologic Research](https://iacr.org) (IACR).
+
 I support the [Electronic Frontier Foundation](https://supporters.eff.org/donate/join-eff-4) and the [Signal Foundation](https://signal.org/donate).
