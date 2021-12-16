@@ -7,6 +7,11 @@ author_profile: true
 
 ## Publications
 
+[Anonymous Tokens with Public Metadata and Applications to Private Contact Tracing](https://eprint.iacr.org/2021/203.pdf), Financial Crypto 2022.\
+Joint work with Martin Strand.
+
+Short paper: Verifiable Decryption for BGV, The Workshop on Advances in Secure Electronic Voting (Voting 2022).
+
 [Lattice-Based Proof of Shuffle and Applications to Electronic Voting](https://eprint.iacr.org/2021/338.pdf), CT-RSA 2021.\
 Joint work with Diego F. Aranha, Carsten Baum, Kristian Gjøsteen and Thor Tunge.
 
@@ -15,8 +20,6 @@ Joint work with Henrik Walker Moe and Martin Strand. ([Docs](https://github.com/
 [Award](https://www.datatilsynet.no/aktuelt/aktuelle-nyheter-2021/pris-for-innebygd-personvern-til-anonyme-tokens))
 
 ## Work in Progress
-
-Short paper: Verifiable Decryption for BGV, in submission.
 
 Lattice-Based Threshold Signatures, in progress.\
 Joint work with Kamil Doruk Gur and Jonathan Katz.
@@ -29,9 +32,6 @@ Joint work with Diego F. Aranha, Carsten Baum and Kristian Gjøsteen.
 
 [Verifiable Decryption in the Head](https://eprint.iacr.org/2021/558.pdf), in submission.\
 Joint work with Kristian Gjøsteen, Thomas Haines, Johannes Müller and Peter Rønne.
-
-[Anonymous Tokens with Public Metadata and Applications to Private Contact Tracing](https://eprint.iacr.org/2021/203.pdf), in submission.\
-Joint work with Martin Strand.
 
 ## Theses and Reports
 
