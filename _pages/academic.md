@@ -24,7 +24,7 @@ Joint work with Henrik Walker Moe and Martin Strand. ([Docs](https://github.com/
 Lattice-Based Threshold Signatures, in progress.\
 Joint work with Kamil Doruk Gur and Jonathan Katz.
 
-Lattice-Based DC-networks, in progress.\
+Lattice-Based Anonymous Communication, in progress.\
 Joint work with Andreea Alexandru.
 
 Verifiable Mix-Nets and Distributed Decryption for Voting from Lattice-based Assumptions, in submission.\
