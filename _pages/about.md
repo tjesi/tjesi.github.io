@@ -11,7 +11,7 @@ redirect_from:
 My name is Tjerand. I am a third year PhD student in cryptography at the [Department of Mathematical Sciences](https://www.ntnu.edu/imf) at the Norwegian University of Science and Technology (NTNU) in Trondheim, where I am a member of the [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab). My supervisor is [Professor Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen). I am
 also working as a cryptography advisor at [Pone Biometrics](https://ponebiometrics.com).
 
-I am currently visiting [Professor Jonathan Katz](http://www.cs.umd.edu/~jkatz) at the University of Maryland, USA.
+Note: I am currently visiting [Professor Jonathan Katz](http://www.cs.umd.edu/~jkatz) at the University of Maryland, USA.
 
 My main foci of research are lattice-based cryptography and zero-knowledge protocols. My interests also span the areas of secure multiparty computation, homomorphic encryption, password-authenticated key exchange, electronic voting and anonymous communication.
 
@@ -20,7 +20,7 @@ I spent the fall of 2020 visiting the [Aarhus Crypto Group](https://users-cs.au.
 
 I have previously been working as a project manager at [Lær Kidsa Koding](https://www.kidsakoder.no) (2015-17), as a university college teacher at [Western Norway University of Applied Sciences](https://www.hvl.no/en) (2017-20), and I had a 3 months internship in 2018 at the IoT-security company [Intrinsic-ID](https://www.intrinsic-id.com) in Eindhoven, NL.
 
-I am a member of [The International Association for Cryptologic Research](https://iacr.org) (IACR).
+I am a member of the [International Association for Cryptologic Research](https://iacr.org) (IACR).
 
 **News**:
 - Paper: [Anonymous Tokens with Public Metadata and Applications to Private Contact Tracing](https://eprint.iacr.org/2021/203.pdf), is accepted at Financial Crypto. Joint work with Martin Strand.
