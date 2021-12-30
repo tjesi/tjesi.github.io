@@ -10,7 +10,7 @@ author_profile: true
 [Anonymous Tokens with Public Metadata and Applications to Private Contact Tracing](https://eprint.iacr.org/2021/203.pdf), Financial Crypto 2022.\
 Joint work with Martin Strand.
 
-Short paper: Verifiable Decryption for BGV, The Workshop on Advances in Secure Electronic Voting (Voting 2022).
+[Short paper: Verifiable Decryption for BGV](https://eprint.iacr.org/2021/1693.pdf), The Workshop on Advances in Secure Electronic Voting (Voting 2022).
 
 [Lattice-Based Proof of Shuffle and Applications to Electronic Voting](https://eprint.iacr.org/2021/338.pdf), CT-RSA 2021.\
 Joint work with Diego F. Aranha, Carsten Baum, Kristian Gjøsteen and Thor Tunge.
