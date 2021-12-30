@@ -23,7 +23,7 @@ I have previously been working as a project manager at [Lær Kidsa Koding](https
 I am a member of the [International Association for Cryptologic Research](https://iacr.org) (IACR).
 
 **News**:
-- Paper: [Verifiable Decryption for BGV](https://eprint.iacr.org/2021/1693.pdf), is accepted at the Workshop on Advances in Secure Electronic Voting 2022.
+- Short Paper: [Verifiable Decryption for BGV](https://eprint.iacr.org/2021/1693.pdf), is accepted at Voting 2022.
 - Paper: [Anonymous Tokens with Public Metadata and Applications to Private Contact Tracing](https://eprint.iacr.org/2021/203.pdf), is accepted at Financial Crypto. Joint work with Martin Strand.
 - I am happy to announce that I will start a three-year post doc at NTNU in August 2022!
 - Our project "[OffPAD -- Optimizing balance between high security and usability](https://prosjektbanken.forskningsradet.no/en/project/FORISS/321619)" got funded 16M NOK by the Norwegian Research Council for research on lightweight and PQ crypto.
