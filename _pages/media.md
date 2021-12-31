@@ -27,11 +27,11 @@ author_profile: true
 
 [Improved privacy in the Norwegian contact tracing app](https://ecmiindmath.org/2021/01/28/improved-privacy-in-the-norwegian-contact-tracing-app), ECMI, January 28th, 2021.
 
-[Anonymous Tokens for Private Contact Tracing](https://security.christmas/2020/22), Security.Christmas, December 22nd, 2020.
+[Anonymous Tokens for Private Contact Tracing](https://bekk-christmas.vercel.app/post/2020/22/anonymous-tokens-for-private-contact-tracing), Security.Christmas, December 22nd, 2020.
 
-[Privacy Pass: Anonymous Tokens on the Web](https://security.christmas/2020/21), Security.Christmas, December 21st, 2020.
+[Privacy Pass: Anonymous Tokens on the Web](https://bekk-christmas.vercel.app/post/2020/21/privacy-pass:-anonymous-tokens-on-the-web), Security.Christmas, December 21st, 2020.
 
-[From Coils to Curves - A Primer on Elliptic Curve Cryptography](https://security.christmas/2020/5), Security.Christmas, December 5th, 2020.
+[From Coils to Curves - A Primer on Elliptic Curve Cryptography](https://bekk-christmas.vercel.app/post/2020/5/from-coils-to-curves-a-primer-on-elliptic-curve-cryptography), Security.Christmas, December 5th, 2020.
 
 [Utdanning og Teknologi](https://talentblogg.no/tjerand-silde), Talentblogg.no, 2016/2017.
 
