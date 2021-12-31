@@ -24,7 +24,7 @@ I am a member of the [International Association for Cryptologic Research](https:
 
 **News**:
 - Short Paper: [Verifiable Decryption for BGV](https://eprint.iacr.org/2021/1693.pdf), is accepted at Voting 2022.
-- Paper: [Anonymous Tokens with Public Metadata and Applications to Private Contact Tracing](https://eprint.iacr.org/2021/203.pdf), is accepted at Financial Crypto. Joint work with Martin Strand.
+- Paper: [Anonymous Tokens with Public Metadata and Applications to Private Contact Tracing](https://eprint.iacr.org/2021/203.pdf), is accepted at Financial Crypto 2022. Joint work with Martin Strand.
 - I am happy to announce that I will start a three-year post doc at NTNU in August 2022!
 - Our project "[OffPAD -- Optimizing balance between high security and usability](https://prosjektbanken.forskningsradet.no/en/project/FORISS/321619)" got funded 16M NOK by the Norwegian Research Council for research on lightweight and PQ crypto.
 - Manuscript: [Verifiable Decryption in the Head](https://eprint.iacr.org/2021/558.pdf), is available on IACR ePrint. Joint work with Kristian Gjøsteen, Thomas Haines, Johannes Müller and Peter Rønne.
