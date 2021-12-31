@@ -7,10 +7,10 @@ author_profile: true
 
 ## Publications
 
+[Short paper: Verifiable Decryption for BGV](https://eprint.iacr.org/2021/1693.pdf), the Workshop on Advances in Secure Electronic Voting 2022.
+
 [Anonymous Tokens with Public Metadata and Applications to Private Contact Tracing](https://eprint.iacr.org/2021/203.pdf), Financial Crypto 2022.\
 Joint work with Martin Strand.
-
-[Short paper: Verifiable Decryption for BGV](https://eprint.iacr.org/2021/1693.pdf), the Workshop on Advances in Secure Electronic Voting 2022.
 
 [Lattice-Based Proof of Shuffle and Applications to Electronic Voting](https://eprint.iacr.org/2021/338.pdf), CT-RSA 2021.\
 Joint work with Diego F. Aranha, Carsten Baum, Kristian Gjøsteen and Thor Tunge.
@@ -51,6 +51,7 @@ Joint work with Anushua Hossain and Kristina Nelson. ([Presentation](https://tje
 I am currently supervising the following students:
 - Audhild Høgåsen (Master's thesis)
 - Alejandro Rodriguez (Bachelor's thesis)
+- Guro Rio Berge (Bachelor's thesis)
 
 ## Professional Service
 I organized the [Norwegian Crypto Seminar 2020](https://wiki.math.ntnu.no/nks/nks20) together with Kristian Gjøsteen and Martin Strand, and organized the [Norwegian Crypto Seminar 2021](https://wiki.math.ntnu.no/nks/nks21) together with Lise Millerjord and Martin Strand.
