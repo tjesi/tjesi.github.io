@@ -25,6 +25,8 @@ author_profile: true
 
 ## Commentaries and Blog Posts
 
+[Vilkårlig politiovervåkning undergraver befolkningens tillit](https://www.digi.no/artikler/debatt-vilkarlig-politiovervakning-undergraver-befolkningens-tillit/516205), digi.no, January 4th, 2022.
+
 [Improved privacy in the Norwegian contact tracing app](https://ecmiindmath.org/2021/01/28/improved-privacy-in-the-norwegian-contact-tracing-app), ECMI, January 28th, 2021.
 
 [Anonymous Tokens for Private Contact Tracing](https://bekk-christmas.vercel.app/post/2020/22/anonymous-tokens-for-private-contact-tracing), Security.Christmas, December 22nd, 2020.
