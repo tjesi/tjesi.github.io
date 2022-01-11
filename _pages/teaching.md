@@ -39,4 +39,4 @@ I am currently not teaching. My engagement at HVL has ended, and I have complete
 
 **Fall 2017:**
 
-* Technology and Programming ([EVL-TEKPRO](https://www.hvl.no/studier/studieprogram/teknologi-og-programmering)) at HVL (Lecturer)
+* Technology and Programming ([EVL-TEKPRO](https://www.hvl.no/aktuelt/moter-framtida-med-teknologi-og-programmering)) at HVL (Lecturer)
