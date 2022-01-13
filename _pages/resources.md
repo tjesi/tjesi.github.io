@@ -20,6 +20,7 @@ Cohen: [Cryptography Online Talks Calendar](https://www.ccs.neu.edu/~rancohen/cr
 ## Books and Lecture Notes in Cryptography
 
 - Anderson: [Security Engineering](https://www.cl.cam.ac.uk/~rja14/book.html)
+- Bellare: [Lectures on NIZKs: A Concrete Security Treatment](https://cseweb.ucsd.edu/~mihir/cse208-Wi20/main.pdf)
 - Boneh and Shoup: [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us)
 - Galbraith: [Mathematics of Public Key Cryptography](https://www.math.auckland.ac.nz/~sgal018/crypto-book/crypto-book.html)
 - Goldwasser and Bellare: [Lecture Notes on Cryptography](https://cseweb.ucsd.edu/~mihir/papers/gb.html)
@@ -31,6 +32,7 @@ Cohen: [Cryptography Online Talks Calendar](https://www.ccs.neu.edu/~rancohen/cr
 - Rosulek: [The Joy of Cryptography](https://web.engr.oregonstate.edu/~rosulekm/crypto)
 - Schoenmakers: [Lecture Notes Cryptographic Protocols](https://www.win.tue.nl/~berry/CryptographicProtocols/LectureNotes.pdf)
 - Smart: [Cryptography Made Simple](https://link.springer.com/book/10.1007%2F978-3-319-21936-3)
+- Thaler: [Proofs, Arguments, and Zero-Knowledge](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
 
 ## International Association for Cryptologic Research
 
