@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a third year PhD student in cryptography at the [Department of Mathematical Sciences](https://www.ntnu.edu/imf) at the Norwegian University of Science and Technology (NTNU) in Trondheim, where I am a member of the [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab). My supervisor is [Professor Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen). I am
+Hi! I am a third and final year PhD student in cryptography at the [Department of Mathematical Sciences](https://www.ntnu.edu/imf) at the Norwegian University of Science and Technology (NTNU) in Trondheim, where I am a member of the [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab). My supervisor is [Professor Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen). I am
 also working as a Security and Cryptography Engineer at [Pone Biometrics](https://ponebiometrics.com).
 
 Note: I am currently visiting [Professor Jonathan Katz](http://www.cs.umd.edu/~jkatz) at the University of Maryland, USA.
