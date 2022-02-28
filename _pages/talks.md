@@ -7,10 +7,11 @@ author_profile: true
 
 ## Coming Talks:
 
-* No upcoming talks...
+* Panel: "Cybersecurity and Cryptography" - Georgetown University, April, 2022.
 
 ## Cryptography and Information Security Talks:
 
+* Panel: "Covid Vaccination Credentials" - Brown University, February, 2022.
 * "[Lattice-Based Proof of Shuffle and Applications to Electronic Voting](https://tjerandsilde.no/files/UMD_talk.pdf)" - UMD Crypto Reading Group, October, 2021.
 * "[Private Contact Tracing and Anonymous Tickets](https://tjerandsilde.no/files/Contact-Tracing-and-Tickets.pdf)" - [Anonymous Credentials Meeting](https://claucece.github.io/Anonymous-Credentials-Meeting), Online, July 2021.
 * "[Anonymous Tokens for more Private Contact Tracing](https://tjerandsilde.no/files/Anonymous-Tokens-for-more-Private-Contact-Tracing.pdf)"- [OWASP Norway](https://owasp.org/www-chapter-norway), Online, June 2021.
