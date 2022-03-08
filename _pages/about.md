@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a third and final year PhD student in cryptography at the [Department of Mathematical Sciences](https://www.ntnu.edu/imf) at the Norwegian University of Science and Technology (NTNU) in Trondheim, where I am a member of the [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab). My supervisor at NTNU is [Professor Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen). I am
+Hi! I am a third and final year PhD student in cryptography at the [Department of Mathematical Sciences](https://www.ntnu.edu/imf) at the Norwegian University of Science and Technology (NTNU) in Trondheim, where I am a member of the [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab). My supervisor is [Professor Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen). I am
 also working as a Security and Cryptography Engineer at [Pone Biometrics](https://ponebiometrics.com).
 
 My main foci of research are lattice-based cryptography and zero-knowledge protocols. My interests also span the areas of secure multiparty computation, homomorphic encryption, password-authenticated key exchange, electronic voting and anonymous communication.
