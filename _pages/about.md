@@ -15,8 +15,7 @@ Note: I am currently visiting [Professor Jonathan Katz](http://www.cs.umd.edu/~j
 
 My main foci of research are lattice-based cryptography and zero-knowledge protocols. My interests also span the areas of secure multiparty computation, homomorphic encryption, password-authenticated key exchange, electronic voting and anonymous communication.
 
-I graduated from NTNU with a B.Sc. in Mathematics in 2017 and a M.Sc. in Mathematics in 2020, respectively. I spent the academic year 2017-2018 at UC Berkeley, California, USA, and\
-I spent the fall of 2020 visiting the [Aarhus Crypto Group](https://users-cs.au.dk/orlandi/cryptogroup) at Aarhus University, Denmark.
+I graduated from NTNU with a B.Sc. in Mathematics in 2017 and a M.Sc. in Mathematics in 2020, respectively. I spent the academic year 2017-2018 at UC Berkeley, California, USA. I spent the fall of 2020 visiting [Carsten Baum](http://carstenbaum.com) and [Diego Aranha](https://dfaranha.github.io) at the [Aarhus Crypto Group](https://users-cs.au.dk/orlandi/cryptogroup) at Aarhus University, Denmark, and I spent the fall/winter 2021/2022 visiting [Jonathan Katz](http://www.cs.umd.edu/~jkatz) at the [Maryland Cybersecurity Center](https://cyber.umd.edu).
 
 I have previously been working as a project manager at [Lær Kidsa Koding](https://www.kidsakoder.no) (2015-17), as a university college teacher at [Western Norway University of Applied Sciences](https://www.hvl.no/en) (2017-20), and I had a 3 months internship in 2018 at the IoT-security company [Intrinsic-ID](https://www.intrinsic-id.com) in Eindhoven, NL.
 
