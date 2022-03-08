@@ -5,7 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I am currently not teaching. My engagement at HVL has ended, and I have completed all of my teaching duties at NTNU.
+## Current teaching:
+
+**Fall 2022:**
+
+* Discrete Mathematics ([TMA4140](https://www.ntnu.no/studier/emner/TMA4140)) at NTNU (Lecturer)
 
 ## Previous semesters:
 
