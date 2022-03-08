@@ -12,7 +12,7 @@ author_profile: true
 [Anonymous Tokens with Public Metadata and Applications to Private Contact Tracing](https://eprint.iacr.org/2021/203.pdf), Financial Crypto 2022.\
 Joint work with Martin Strand.
 
-[Lattice-Based Proof of Shuffle and Applications to Electronic Voting](https://eprint.iacr.org/2021/338.pdf), Cryptographers Track – RSA 2021.\
+[Lattice-Based Proof of Shuffle and Applications to Electronic Voting](https://eprint.iacr.org/2021/338.pdf), Cryptographers’ Track RSA Conference 2021.\
 Joint work with Diego F. Aranha, Carsten Baum, Kristian Gjøsteen and Thor Tunge.
 
 [Library: Anonymous Tokens](https://github.com/HenrikWM/anonymous-tokens), open-source library, 2020.\
