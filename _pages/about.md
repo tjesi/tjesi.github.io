@@ -8,14 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a third and final year PhD student in cryptography at the [Department of Mathematical Sciences](https://www.ntnu.edu/imf) at the Norwegian University of Science and Technology (NTNU) in Trondheim, where I am a member of the [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab). My supervisor is [Professor Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen). I am
+Hi! I am a third and final year PhD student in cryptography at the [Department of Mathematical Sciences](https://www.ntnu.edu/imf) at the Norwegian University of Science and Technology (NTNU) in Trondheim, where I am a member of the [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab). My supervisor at NTNU is [Professor Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen). I am
 also working as a Security and Cryptography Engineer at [Pone Biometrics](https://ponebiometrics.com).
-
-Note: I am currently visiting [Professor Jonathan Katz](http://www.cs.umd.edu/~jkatz) at the University of Maryland, USA.
 
 My main foci of research are lattice-based cryptography and zero-knowledge protocols. My interests also span the areas of secure multiparty computation, homomorphic encryption, password-authenticated key exchange, electronic voting and anonymous communication.
 
-I graduated from NTNU with a B.Sc. in Mathematics in 2017 and a M.Sc. in Mathematics in 2020, respectively. I spent the academic year 2017-2018 at UC Berkeley, California, USA. I spent the fall of 2020 visiting [Carsten Baum](http://carstenbaum.com) and [Diego Aranha](https://dfaranha.github.io) at the [Aarhus Crypto Group](https://users-cs.au.dk/orlandi/cryptogroup) at Aarhus University, Denmark, and I spent the fall/winter 2021/2022 visiting [Jonathan Katz](http://www.cs.umd.edu/~jkatz) at the [Maryland Cybersecurity Center](https://cyber.umd.edu).
+I graduated from NTNU with a B.Sc. in Mathematics in 2017 and a M.Sc. in Mathematics in 2020, respectively. I spent the academic year 2017-2018 at UC Berkeley, USA. I spent the fall of 2020 visiting [Carsten Baum](http://carstenbaum.com) and [Diego Aranha](https://dfaranha.github.io) at the [Aarhus Crypto Group](https://users-cs.au.dk/orlandi/cryptogroup), Denmark, and I spent the winter 2021/2022 visiting [Professor Jonathan Katz](http://www.cs.umd.edu/~jkatz) at the [Maryland Cybersecurity Center](https://cyber.umd.edu), USA.
 
 I have previously been working as a project manager at [Lær Kidsa Koding](https://www.kidsakoder.no) (2015-17), as a university college teacher at [Western Norway University of Applied Sciences](https://www.hvl.no/en) (2017-20), and I had a 3 months internship in 2018 at the IoT-security company [Intrinsic-ID](https://www.intrinsic-id.com) in Eindhoven, NL.
 
