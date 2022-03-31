@@ -8,6 +8,7 @@ author_profile: true
 ## Coming Talks:
 
 * Panel: "Cybersecurity and Cryptography" - Georgetown University, April, 2022.
+* "Achieving Security from Cryptography AND Biometrics" - [Norwegian Biometric Forum 2022](https://eab.org/events/program/285), May, 2022.
 
 ## Cryptography and Information Security Talks:
 
