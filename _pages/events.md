@@ -9,39 +9,17 @@ I have participated or will participate at the following conferences, seminars a
 
 **Eurocrypt 2022**: The 41th Annual International Conference on the Theory and Applications of Cryptographic Techniques. May, 2022 – Trondheim, Norway. [eurocrypt.iacr.org/2022](https://eurocrypt.iacr.org/2022)
 
-**Asiarypt 2021**: The 27th Annual International Conference on the Theory and Application of Cryptology and Information Security. December 5.-9., 2021 – Online. [asiacrypt.iacr.org/2021](https://asiacrypt.iacr.org/2021)
+**RWC 2022**: Real World Crypto Symposium. April 13.-15., 2022 – Amsterdam, Netherlands. [rwc.iacr.org/2022](https://rwc.iacr.org/2022)
 
 **TCC 2021**: The Theory of Cryptography Conference. November 8.-11., 2021 – Raleigh, USA. [tcc.iacr.org/2021](https://tcc.iacr.org/2021)
 
 **DC Area Crypto Day**: Fall 2021 Crypto Day. November 5., 2021 - University of Maryland, USA. [dcareacryptoday.wordpress.com](https://dcareacryptoday.wordpress.com/2021/10/25/fall-2021-crypto-day)
-
-**Eurocrypt 2021**: The 40th Annual International Conference on the Theory and Applications of Cryptographic Techniques. October 17.-21., 2021 – Online. [eurocrypt.iacr.org/2021](https://eurocrypt.iacr.org/2021)
-
-**Crypto 2021**: The 41st International Cryptology Conference. August 15.-19., 2021 – Online. [crypto.iacr.org/2021](https://crypto.iacr.org/2021)
 
 **MSRI Summer School**: Foundations and Frontiers of Probabilistic Proof. July 26.-August 6., 2021 - Online. [msri.org/summer_schools/931](https://www.msri.org/summer_schools/931)
 
 **NIST Workshop**: The Third PQC Standardization Conference. June 7.-9., 2021 – Online. [csrc.nist.gov/Events/2021/third-pqc-standardization-conference](https://csrc.nist.gov/Events/2021/third-pqc-standardization-conference)
 
 **CT-RSA 2021**: Cryptographers' Track RSA Conference, May 17.-21., 2021 - Online. [sites.google.com/site/ctrsa2021](https://sites.google.com/site/ctrsa2021)
-
-**PKC 2021**: Public Key Cryptography. May 10.-13., 2021 - Online. [pkc.iacr.org/2021](https://pkc.iacr.org/2021)
-
-**ZKP Workshop 2021**: The 4th ZKProof Standards Workshop. April 19.- April 29., 2021 – Online. [zkproof.org/events/workshop4](https://zkproof.org/events/workshop4)
-
-**RWC 2021**: Real World Crypto Symposium. January 11.-13., 2021 - Online. [rwc.iacr.org/2021](https://rwc.iacr.org/2021)
-
-**Asiarypt 2020**: The 26th Annual International Conference on the Theory and Application of Cryptology and Information Security. December 6.-10., 2020 – Online. [asiacrypt.iacr.org/2020](https://asiacrypt.iacr.org/2020)
-
-**Crypto 2020**: The 40th International Cryptology Conference. August 17.-21., 2020 – Online. [crypto.iacr.org/2020](https://crypto.iacr.org/2020)
-
-**PKC 2020**: Public Key Cryptography. June 1.-4., 2020 - Online. [pkc.iacr.org/2020](https://pkc.iacr.org/2020)
-
-**TPMPC 2020**: Theory and Practice of Multi-Party Computation Workshops. May 25.- June 4., 2020 - Online. [multipartycomputation.com/tpmpc-2020](https://www.multipartycomputation.com/tpmpc-2020)
-
-**S&P 2020**: 41st IEEE Symposium on Security and Privacy. May 18.-20., 2020 - Online. [ieee-security.org/TC/SP2020](https://www.ieee-security.org/TC/SP2020)
-
-**Eurocrypt 2020**: The 39th Annual International Conference on the Theory and Applications of Cryptographic Techniques. May 10.-15., 2020 – Online. [eurocrypt.iacr.org/2020](https://eurocrypt.iacr.org/2020)
 
 **Lattices: From Theory to Practice**: Workshop at Simons Institute at UC Berkeley. April 27.- May 1., 2020 – Online. [simons.berkeley.edu/workshops/lattices-2020-3](https://simons.berkeley.edu/workshops/lattices-2020-3)
 

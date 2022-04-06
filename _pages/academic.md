@@ -27,7 +27,7 @@ Joint work with Kamil Doruk Gur and Jonathan Katz.
 Lattice-Based Anonymous Communication, in progress.\
 Joint work with Andreea Alexandru.
 
-Verifiable Mix-Nets and Distributed Decryption for Voting from Lattice-based Assumptions, in submission.\
+[Verifiable Mix-Nets and Distributed Decryption for Voting from Lattice-Based Assumptions](https://eprint.iacr.org/2022/422.pdf), in submission.\
 Joint work with Diego F. Aranha, Carsten Baum and Kristian Gjøsteen.
 
 [Verifiable Decryption in the Head](https://eprint.iacr.org/2021/558.pdf), in submission.\
@@ -63,4 +63,4 @@ I am on the organizing committee for [Eurocrypt 2022](https://eurocrypt.iacr.org
  I have been a reviewer for the following conferences:
  - 2020: CT-RSA and SAC.
  - 2021: Financial Crypto, Eurocrypt, CT-RSA, ACISP, CCS, ESORICS, MathCrypt and SAC.
- - 2022: Public Key Cryptography.
+ - 2022: Public Key Cryptography, PETS, ANTS.

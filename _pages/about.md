@@ -20,6 +20,7 @@ I have previously been working as a project manager at [Lær Kidsa Koding](https
 I am a member of the [International Association for Cryptologic Research](https://iacr.org) (IACR).
 
 **News**:
+- Manuscript: [Verifiable Mix-Nets and Distributed Decryption for Voting from Lattice-Based Assumptions](https://eprint.iacr.org/2022/422.pdf), is available on IACR ePrint. Joint work with Diego F. Aranha, Carsten Baum and Kristian Gjøsteen.
 - Short Paper: [Verifiable Decryption for BGV](https://eprint.iacr.org/2021/1693.pdf), is accepted at VOTING 2022.
 - Paper: [Anonymous Tokens with Public Metadata and Applications to Private Contact Tracing](https://eprint.iacr.org/2021/203.pdf), is accepted at Financial Crypto 2022. Joint work with Martin Strand.
 - I am happy to announce that I will start a three-year post doc at NTNU in August 2022!
