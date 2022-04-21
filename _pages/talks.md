@@ -31,6 +31,7 @@ author_profile: true
 
 ## Other Talks:
 
+* "[Experiences and challenges being i PhD-candidate](https://tjerandsilde.no/files/PhD-Intro.pdf)" - Introduction seminar for new PhD students at the IE faculty.
 * "[Programmering og algoritmisk tenking](https://tjerandsilde.no/files/Programmering_og_algoritmisk_tenking.pdf)" - [Math. Mod. and ICT in the Teaching of Mathematics](https://www.ntnu.edu/studies/courses/SKOLE6232), March 2021.
 * "[Koderessurser og erfaringer](https://tjerandsilde.no/files/LKK20.pdf)" - [Applied Programming for Teachers](https://www.ntnu.edu/studies/courses/IT6204), Trondheim, March 2020.
 * “[Pedagogikk-kurs for Vektorassistenter](https://tjerandsilde.no/files/Pedagogikk_kurs_for_vektorprogrammet_FEB20.pdf)” – [Vektorprogrammet](https://vektorprogrammet.no), Trondheim, February 2020.
