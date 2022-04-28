@@ -11,6 +11,7 @@ author_profile: true
 
 ## Cryptography and Information Security Talks:
 
+* "[Verifiable Decryption for BGV](https://tjerandsilde.no/files/voting.pdf)" - VOTING'22, April, 2022.
 * Panel: "Covid Vaccination Credentials" - Brown University, February, 2022.
 * "[Lattice-Based Proof of Shuffle and Applications to Electronic Voting](https://tjerandsilde.no/files/UMD_talk.pdf)" - UMD Crypto Reading Group, October, 2021.
 * "[Private Contact Tracing and Anonymous Tickets](https://tjerandsilde.no/files/Contact-Tracing-and-Tickets.pdf)" - [Anonymous Credentials Meeting](https://claucece.github.io/Anonymous-Credentials-Meeting), Online, July 2021.
