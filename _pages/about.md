@@ -20,12 +20,12 @@ I have previously been working as a project manager at [Lær Kidsa Koding](https
 I am a member of the [International Association for Cryptologic Research](https://iacr.org) (IACR).
 
 **News**:
+- Paper: [Verifiable Decryption in the Head](https://eprint.iacr.org/2021/558.pdf), is accepted at ACISP 2022. Joint work with Kristian Gjøsteen, Thomas Haines, Johannes Müller and Peter Rønne.
 - Manuscript: [Verifiable Mix-Nets and Distributed Decryption for Voting from Lattice-Based Assumptions](https://eprint.iacr.org/2022/422.pdf), is available on IACR ePrint. Joint work with Diego F. Aranha, Carsten Baum and Kristian Gjøsteen.
 - Short Paper: [Verifiable Decryption for BGV](https://eprint.iacr.org/2021/1693.pdf), is accepted at VOTING 2022.
 - Paper: [Anonymous Tokens with Public Metadata and Applications to Private Contact Tracing](https://eprint.iacr.org/2021/203.pdf), is accepted at Financial Crypto 2022. Joint work with Martin Strand.
 - I am happy to announce that I will start a three-year post doc at NTNU in August 2022!
 - Our project "[OffPAD -- Optimizing balance between high security and usability](https://prosjektbanken.forskningsradet.no/en/project/FORISS/321619)" got funded 16M NOK by the Norwegian Research Council for research on lightweight and PQ crypto.
-- Manuscript: [Verifiable Decryption in the Head](https://eprint.iacr.org/2021/558.pdf), is available on IACR ePrint. Joint work with Kristian Gjøsteen, Thomas Haines, Johannes Müller and Peter Rønne.
 - Henrik Walker Moe, Martin Strand and myself won the "[Built-in-privacy](https://www.datatilsynet.no/aktuelt/aktuelle-nyheter-2021/pris-for-innebygd-personvern-til-anonyme-tokens)" award from the Norwegian Data Protection Authority for our work on improved privacy in contact tracing.
 - Paper: [Lattice-Based Proof of Shuffle and Applications to Electronic Voting](https://eprint.iacr.org/2021/338.pdf), is accepted at CT-RSA. Joint work w/ Diego F. Aranha, Carsten Baum, Kristian Gjøsteen and Thor Tunge.
 
