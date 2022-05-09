@@ -7,6 +7,9 @@ author_profile: true
 
 ## Publications
 
+[Verifiable Decryption in the Head](https://eprint.iacr.org/2021/558.pdf), Australasian Conference on Information Security and Privacy 2022.\
+Joint work with Kristian Gjøsteen, Thomas Haines, Johannes Müller and Peter Rønne.
+
 [Short paper: Verifiable Decryption for BGV](https://eprint.iacr.org/2021/1693.pdf), the Workshop on Advances in Secure Electronic Voting 2022.
 
 [Anonymous Tokens with Public Metadata and Applications to Private Contact Tracing](https://eprint.iacr.org/2021/203.pdf), Financial Crypto 2022.\
@@ -23,9 +26,6 @@ Joint work with Henrik Walker Moe and Martin Strand. ([Docs](https://github.com/
 
 [Verifiable Mix-Nets and Distributed Decryption for Voting from Lattice-Based Assumptions](https://eprint.iacr.org/2022/422.pdf), in submission.\
 Joint work with Diego F. Aranha, Carsten Baum and Kristian Gjøsteen.
-
-[Verifiable Decryption in the Head](https://eprint.iacr.org/2021/558.pdf), in submission.\
-Joint work with Kristian Gjøsteen, Thomas Haines, Johannes Müller and Peter Rønne.
 
 ## Theses and Reports
 
