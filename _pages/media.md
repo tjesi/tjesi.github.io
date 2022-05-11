@@ -7,6 +7,8 @@ author_profile: true
 
 ## Interviews
 
+[Ny EU-lov mot overgrepsmateriale kan føre til omfattende overvåkning](https://nrkbeta.no/2022/05/11/ny-eu-lov-mot-overgrepsmateriale-kan-fore-til-omfattende-overvakning), NRK.no, May 11th, 2022.
+
 [Ledende eksperter advarer mot å skanne mobiler for overgrepsmateriale](https://nrkbeta.no/2021/10/15/ledende-eksperter-advarer-mot-a-skanne-mobiler-for-overgrepsmateriale), NRK.no, October 15th, 2021.
 
 [Apple skal skanne mobiler for overgrepsbilder. Eksperter frykter angrep på personvernet.](https://www.aftenposten.no/kultur/i/g6PWRk/apple-skal-skanne-mobiler-for-overgrepsbilder-eksperter-frykter-angre), Aftenposten, August 7th, 2021.
