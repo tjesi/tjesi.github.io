@@ -7,6 +7,8 @@ author_profile: true
 
 ## Interviews
 
+[Ny EU-lov kan føre til massiv overvåking](https://tv.nrk.no/serie/helgemorgen-tv/202205/DNRR62004122#t=4589s), Helgemorgen NRK1/P2, May 14, 2022.
+
 [Ny EU-lov mot overgrepsmateriale kan føre til omfattende overvåkning](https://nrkbeta.no/2022/05/11/ny-eu-lov-mot-overgrepsmateriale-kan-fore-til-omfattende-overvakning), NRK.no, May 11th, 2022.
 
 [Ledende eksperter advarer mot å skanne mobiler for overgrepsmateriale](https://nrkbeta.no/2021/10/15/ledende-eksperter-advarer-mot-a-skanne-mobiler-for-overgrepsmateriale), NRK.no, October 15th, 2021.
