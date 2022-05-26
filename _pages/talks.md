@@ -7,10 +7,11 @@ author_profile: true
 
 ## Coming Talks:
 
-* "Achieving Security from Cryptography AND Biometrics" - [Norwegian Biometric Forum 2022](https://eab.org/events/program/285), May, 2022.
+* No upcoming talks....
 
 ## Cryptography and Information Security Talks:
 
+* "[Achieving Security from Cryptography AND Biometrics](https://tjerandsilde.no/files/biometrics.pdf)" - [Norwegian Biometric Forum 2022](https://eab.org/events/program/285), May, 2022.
 * "[Verifiable Decryption for BGV](https://tjerandsilde.no/files/voting.pdf)" - VOTING'22, April, 2022.
 * Panel: "Covid Vaccination Credentials" - Brown University, February, 2022.
 * "[Lattice-Based Proof of Shuffle and Applications to Electronic Voting](https://tjerandsilde.no/files/UMD_talk.pdf)" - UMD Crypto Reading Group, October, 2021.
