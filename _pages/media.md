@@ -7,6 +7,8 @@ author_profile: true
 
 ## Interviews
 
+[Gav NATO råd i Brussel](https://grannar.no/2022/05/gav-nato-rad-i-brussel), Grannar, May 25th, 2022.
+
 [Ny EU-lov kan føre til massiv overvåking](https://tv.nrk.no/serie/helgemorgen-tv/202205/DNRR62004122#t=4589s), Helgemorgen NRK1/P2, May 14, 2022.
 
 [Ny EU-lov mot overgrepsmateriale kan føre til omfattende overvåkning](https://nrkbeta.no/2022/05/11/ny-eu-lov-mot-overgrepsmateriale-kan-fore-til-omfattende-overvakning), NRK.no, May 11th, 2022.
