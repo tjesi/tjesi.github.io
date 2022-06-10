@@ -7,7 +7,7 @@ author_profile: true
 
 ## Coming Talks:
 
-* No upcoming talks....
+* Panel: "Passord er farlig og utdatert. Hva nå?" - Arendalsuka, August, 2022.
 
 ## Cryptography and Information Security Talks:
 
