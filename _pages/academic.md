@@ -55,7 +55,7 @@ I organized the [Norwegian Crypto Seminar 2020](https://wiki.math.ntnu.no/nks/nk
 I am organizing the NTNU Post-Quantum Cryptography Reading Group together with Anamaria Costache.
 
 I am/have been on the program committee for the following conferences:
-- 2022: 10th Workshop on Encrypted Computing & Applied Homomorphic Cryptography
+- 2022: The 10th Workshop on Encrypted Computing & Applied Homomorphic Cryptography
 
  I am/have been a reviewer for the following conferences:
  - 2020: CT-RSA and SAC.
