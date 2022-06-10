@@ -20,6 +20,7 @@ I have previously been working as a project manager at [Lær Kidsa Koding](https
 I am a member of the [International Association for Cryptologic Research](https://iacr.org) (IACR).
 
 **News**:
+- I am on the program committee for the 10th Workshop on Encrypted Computing & Applied Homomorphic Cryptography ([WAHC 2022](https://homomorphicencryption.org/workshops/wahc22)). Please submit your best work!
 - Paper: [Verifiable Decryption in the Head](https://eprint.iacr.org/2021/558.pdf), is accepted at ACISP 2022. Joint work with Kristian Gjøsteen, Thomas Haines, Johannes Müller and Peter Rønne.
 - Manuscript: [Verifiable Mix-Nets and Distributed Decryption for Voting from Lattice-Based Assumptions](https://eprint.iacr.org/2022/422.pdf), is available on IACR ePrint. Joint work with Diego F. Aranha, Carsten Baum and Kristian Gjøsteen.
 - Short Paper: [Verifiable Decryption for BGV](https://eprint.iacr.org/2021/1693.pdf), is accepted at VOTING 2022.
