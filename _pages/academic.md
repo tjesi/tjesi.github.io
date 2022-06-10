@@ -48,13 +48,16 @@ I am currently supervising the following students:
 - Guro Rio Berge (Bachelor's thesis)
 
 ## Professional Service
+I was on the organizing committee for [Eurocrypt 2022](https://eurocrypt.iacr.org/2022) in Trondheim. Colin Boyd was the General Chair.
+
 I organized the [Norwegian Crypto Seminar 2020](https://wiki.math.ntnu.no/nks/nks20) together with Kristian Gjøsteen and Martin Strand, and organized the [Norwegian Crypto Seminar 2021](https://wiki.math.ntnu.no/nks/nks21) together with Lise Millerjord and Martin Strand.
 
 I am organizing the NTNU Post-Quantum Cryptography Reading Group together with Anamaria Costache.
 
-I am on the organizing committee for [Eurocrypt 2022](https://eurocrypt.iacr.org/2022) in Trondheim. Colin Boyd is the General Chair.
+I am/have been on the program committee for the following conferences:
+- 2022: 10th Workshop on Encrypted Computing & Applied Homomorphic Cryptography
 
- I have been a reviewer for the following conferences:
+ I am/have been a reviewer for the following conferences:
  - 2020: CT-RSA and SAC.
  - 2021: Financial Crypto, Eurocrypt, CT-RSA, ACISP, CCS, ESORICS, MathCrypt and SAC.
- - 2022: Public Key Cryptography, PETS, ANTS.
+ - 2022: PKC, PETS, ANTS, CCS, PQCrypto and ESORICS.
