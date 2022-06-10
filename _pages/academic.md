@@ -42,10 +42,10 @@ Joint work with Anushua Hossain and Kristina Nelson. ([Presentation](https://tje
 
 ## Students
 
-I am currently supervising the following students:
-- Audhild Høgåsen - "Return Codes from Lattice Assumptions" (Master's thesis)
-- Alejandro Rodriguez - "Implementing Lattice-Based Cryptography" (Bachelor's thesis)
-- Guro Rio Berge - "Cryptographic Protocols from Lattice Assumptions" (Bachelor's thesis)
+I am currently/have been supervising the following students:
+- Audhild Høgåsen - "Return Codes from Lattice Assumptions" (Master's thesis 2022)
+- Alejandro Rodriguez - "Implementing Lattice-Based Cryptography" (Bachelor's thesis 2022)
+- Guro Rio Berge - "Cryptographic Protocols from Lattice Assumptions" (Bachelor's thesis 2022)
 
 ## Professional Service
 I was on the organizing committee for [Eurocrypt 2022](https://eurocrypt.iacr.org/2022) in Trondheim. Colin Boyd was the General Chair.
