@@ -24,7 +24,7 @@ Joint work with Diego F. Aranha, Carsten Baum, Kristian Gjøsteen and Thor Tunge
 Joint work with Henrik Walker Moe and Martin Strand. ([Docs](https://github.com/HenrikWM/anonymous-tokens/wiki), [Slides](https://tjerandsilde.no/files/Anonym-Smittesporing.pdf),
 [Award](https://www.datatilsynet.no/aktuelt/aktuelle-nyheter-2021/pris-for-innebygd-personvern-til-anonyme-tokens))
 
-[Where is the Web Still Insecure? Regional Scans for HTTPS Certificates](https://tjerandsilde.no/files/Where_is_the_web_still_insecure__Regional_scans_for_HTTPS_certificates.pdf), NISK 2018.\
+[Short paper: Where is the Web Still Insecure? Regional Scans for HTTPS Certificates](https://tjerandsilde.no/files/Where_is_the_web_still_insecure__Regional_scans_for_HTTPS_certificates.pdf), NISK 2018.\
 Joint work with Anushua Hossain and Kristina Nelson. ([Presentation](https://tjerandsilde.no/files/NISK_presentation.pdf), [Code](https://github.com/tjesi/security-scan))
 
 ## Work in Progress
