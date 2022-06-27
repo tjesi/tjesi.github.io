@@ -9,7 +9,7 @@ I have participated or will participate at the following conferences, seminars a
 
 **Lattices**: Workshop on Foundations and Applications of Lattice-based Cryptography. July 25.-28., 2022 - Edinburgh, Scotland. [sites.google.com/view/lattice-research-workshop-2022](https://sites.google.com/view/lattice-research-workshop-2022)
 
-**Eurocrypt 2022**: The 41th Annual International Conference on the Theory and Applications of Cryptographic Techniques. May, 2022 – Trondheim, Norway. [eurocrypt.iacr.org/2022](https://eurocrypt.iacr.org/2022)
+**Eurocrypt 2022**: The 41th Annual International Conference on the Theory and Applications of Cryptographic Techniques. May 30-June 3, 2022 – Trondheim, Norway. [eurocrypt.iacr.org/2022](https://eurocrypt.iacr.org/2022)
 
 **RWC 2022**: Real World Crypto Symposium. April 13.-15., 2022 – Amsterdam, Netherlands. [rwc.iacr.org/2022](https://rwc.iacr.org/2022)
 
