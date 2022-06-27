@@ -7,6 +7,8 @@ author_profile: true
 
 ## Publications
 
+Short paper: Return Codes from Lattice Assumptions, E-Vote-ID Conference 2022. Joint work with Audhild Høgåsen.
+
 [Verifiable Decryption in the Head](https://eprint.iacr.org/2021/558.pdf), Australasian Conference on Information Security and Privacy 2022.\
 Joint work with Kristian Gjøsteen, Thomas Haines, Johannes Müller and Peter Rønne.
 
