@@ -24,6 +24,9 @@ Joint work with Diego F. Aranha, Carsten Baum, Kristian Gjøsteen and Thor Tunge
 Joint work with Henrik Walker Moe and Martin Strand. ([Docs](https://github.com/HenrikWM/anonymous-tokens/wiki), [Slides](https://tjerandsilde.no/files/Anonym-Smittesporing.pdf),
 [Award](https://www.datatilsynet.no/aktuelt/aktuelle-nyheter-2021/pris-for-innebygd-personvern-til-anonyme-tokens))
 
+[Where is the Web Still Insecure? Regional Scans for HTTPS Certificates](https://tjerandsilde.no/files/Where_is_the_web_still_insecure__Regional_scans_for_HTTPS_certificates.pdf), NISK 2018.\
+Joint work with Anushua Hossain and Kristina Nelson. ([Presentation](https://tjerandsilde.no/files/NISK_presentation.pdf), [Code](https://github.com/tjesi/security-scan))
+
 ## Work in Progress
 
 [Verifiable Mix-Nets and Distributed Decryption for Voting from Lattice-Based Assumptions](https://eprint.iacr.org/2022/422.pdf), in submission.\
@@ -36,9 +39,6 @@ Joint work with Diego F. Aranha, Carsten Baum and Kristian Gjøsteen.
 [Challenges in E2E Encrypted Group Messaging](https://tjerandsilde.no/files/GroupMessagingReport.pdf), Technical Report, 2020.
 
 [Comparative Study of ECC Libraries for Embedded Devices](https://tjerandsilde.no/files/Comparative-Study-of-ECC-Libraries-for-Embedded-Devices.pdf), Technical Report, 2019.
-
-[Where is the Web Still Insecure? Regional Scans for HTTPS Certificates](https://tjerandsilde.no/files/Where_is_the_web_still_insecure__Regional_scans_for_HTTPS_certificates.pdf), NISK 2018.\
-Joint work with Anushua Hossain and Kristina Nelson. ([Presentation](https://tjerandsilde.no/files/NISK_presentation.pdf), [Code](https://github.com/tjesi/security-scan))
 
 [Bilinear Pairings of Elliptic Curves](https://tjerandsilde.no/files/Bachelor_Thesis.pdf), Bachelor's Thesis, 2015.
 
