@@ -45,7 +45,7 @@ Joint work with Diego F. Aranha, Carsten Baum and Kristian Gjøsteen.
 ## Students
 
 I am currently/have been supervising the following students:
-- Audhild Høgåsen - "Return Codes from Lattice Assumptions" (Master's thesis 2022)
+- Audhild Høgåsen - "[Return Codes from Lattice Assumptions](https://tjerandsilde.no/files/Audhild-master-thesis.pdf)" (Master's thesis 2022)
 - Alejandro Rodriguez - "Implementing Lattice-Based Cryptography" (Bachelor's thesis 2022)
 - Guro Rio Berge - "Cryptographic Protocols from Lattice Assumptions" (Bachelor's thesis 2022)
 
