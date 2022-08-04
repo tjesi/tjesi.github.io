@@ -7,7 +7,8 @@ author_profile: true
 
 ## Coming Talks:
 
-* Panel: "Passord er farlig og utdatert. Hva nå?" - Arendalsuka, August, 2022.
+* "Smittestopp dissekert" - [Seminar om smittesporing ved UiO](https://www.jus.uio.no/ikrs/om/aktuelt/arrangementer/2022/smittestopp-og-smittesporing-to-ar-med-pandemi.html), September, 2022.
+* Panel: "Passord er farlig og utdatert. Hva nå?" - [Arendalsuka](https://program.arendalsuka.no/event/user-view/18770), August, 2022.
 
 ## Cryptography and Information Security Talks:
 
