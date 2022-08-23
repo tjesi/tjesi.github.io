@@ -53,6 +53,8 @@ author_profile: true
 
 ## Mentioned
 
+[Han hacker deg på sekunder](https://www.agderposten.no/nyheter/han-hacker-deg-pa-sekunder), Agderposten, August 17th, 2022.
+
 [Forskere ga Smittestopp-appen bedre personvern](https://forskning.no/app-data-forsvarets-forskningsinstitutt/forskere-ga-smittestopp-appen-bedre-personvern/1865394), forskning.no, May 29th, 2021.
 
 [Martins team gjorde Smittestopp trygg](https://www.ffi.no/aktuelt/nyheter/martins-team-gjorde-smittestopp-trygg), Forsvarets Forskningsinstitutt, May 8th, 2021.
