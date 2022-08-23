@@ -7,7 +7,8 @@ author_profile: true
 
 ## Publications
 
-Short paper: Return Codes from Lattice Assumptions, E-Vote-ID Conference 2022. Joint work with Audhild Høgåsen.
+Short paper: Return Codes from Lattice Assumptions, E-Vote-ID Conference 2022.\
+Joint work with Audhild Høgåsen.
 
 [Verifiable Decryption in the Head](https://eprint.iacr.org/2021/558.pdf), Australasian Conference on Information Security and Privacy 2022.\
 Joint work with Kristian Gjøsteen, Thomas Haines, Johannes Müller and Peter Rønne.
@@ -34,6 +35,8 @@ Joint work with Diego F. Aranha, Carsten Baum and Kristian Gjøsteen.
 
 ## Theses and Reports
 
+[Privacy-Preserving Cryptography from Zero-Knowledge Proofs](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3012606), PhD Thesis, 2022.
+
 [Verifiable Random Secrets and Subliminal-Free Digital Signatures](https://tjerandsilde.no/files/Master_Thesis.pdf), Master's Thesis, 2020.
 
 [Challenges in E2E Encrypted Group Messaging](https://tjerandsilde.no/files/GroupMessagingReport.pdf), Technical Report, 2020.
@@ -59,7 +62,7 @@ I am organizing the NTNU Post-Quantum Cryptography Reading Group together with A
 I am/have been on the program committee for the following conferences/workshops:
 - 2022: The 10th Workshop on Encrypted Computing & Applied Homomorphic Cryptography
 
- I am/have been a reviewer for the following publications:
+ I am/have been a reviewer for the following conferences/workshops:
  - 2020: CT-RSA and SAC.
  - 2021: Financial Crypto, Eurocrypt, CT-RSA, ACISP, CCS, ESORICS, MathCrypt and SAC.
  - 2022: PKC, PETS, ANTS, CCS, PQCrypto and ESORICS.
