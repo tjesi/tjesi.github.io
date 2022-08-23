@@ -13,6 +13,8 @@ author_profile: true
 
 ## Cryptography and Information Security Talks:
 
+* "[Privacy-Preserving Cryptography from Zero-Knowledge Proofs](https://tjerandsilde.no/files/Defence.pdf)" - Thesis Presentation @ PhD Defence, August, 2022.
+* "[MEGA: Malleable Encryption Goes Awry](https://tjerandsilde.no/files/Trial.pdf)" - Trial Lecture @ PhD Defence, August, 2022.
 * Panel: "Passord er farlig og utdatert. Hva nå?" - [Arendalsuka](https://program.arendalsuka.no/event/user-view/18770), August, 2022.
 * "[Achieving Security from Cryptography AND Biometrics](https://tjerandsilde.no/files/biometrics.pdf)" - [Norwegian Biometric Forum 2022](https://eab.org/events/program/285), May, 2022.
 * "[Verifiable Decryption for BGV](https://tjerandsilde.no/files/voting.pdf)" - VOTING'22, April, 2022.
