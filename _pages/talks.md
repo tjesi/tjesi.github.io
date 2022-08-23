@@ -8,10 +8,12 @@ author_profile: true
 ## Coming Talks:
 
 * "Smittestopp dissekert" - [Seminar om smittesporing ved UiO](https://www.jus.uio.no/ikrs/om/aktuelt/arrangementer/2022/smittestopp-og-smittesporing-to-ar-med-pandemi.html), September, 2022.
-* Panel: "Passord er farlig og utdatert. Hva nå?" - [Arendalsuka](https://program.arendalsuka.no/event/user-view/18770), August, 2022.
+* “The quantum (in-)secure future of the financial sector” - Cyber Security in 20 minutes @ NCE Finance Innovation, September, 2022.
+* "Er cyberangrep nesten ustoppelig? Passordknekking på 1-2-3" - Ctrl/Alt-konferansen, September, 2022.
 
 ## Cryptography and Information Security Talks:
 
+* Panel: "Passord er farlig og utdatert. Hva nå?" - [Arendalsuka](https://program.arendalsuka.no/event/user-view/18770), August, 2022.
 * "[Achieving Security from Cryptography AND Biometrics](https://tjerandsilde.no/files/biometrics.pdf)" - [Norwegian Biometric Forum 2022](https://eab.org/events/program/285), May, 2022.
 * "[Verifiable Decryption for BGV](https://tjerandsilde.no/files/voting.pdf)" - VOTING'22, April, 2022.
 * Panel: "Covid Vaccination Credentials" - Brown University, February, 2022.
