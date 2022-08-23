@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a researcher in cryptography at the [Department of Mathematics](https://www.ntnu.edu/imf) at the Norwegian University of Science and Technology (NTNU) in Trondheim. I am a member of the [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab). I am also working part time as a Security and Cryptography Expert at [Pone Biometrics](https://ponebiometrics.com/the-team).
+Hi! I am a researcher in cryptography at the [Department of Mathematics](https://www.ntnu.edu/imf) at the Norwegian University of Science and Technology (NTNU) in Trondheim. I am a member of the [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab). I am also working as a Security and Cryptography Expert at [Pone Biometrics](https://ponebiometrics.com/the-team).
 
 My main foci of research are lattice-based cryptography and zero-knowledge protocols. My interests also span the areas of secure multiparty computation, homomorphic encryption, password-authenticated key exchange, electronic voting and anonymous communication.
 
