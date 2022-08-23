@@ -19,7 +19,7 @@ I have previously been working as a project manager at [Lær Kidsa Koding](https
 I am a member of the [International Association for Cryptologic Research](https://iacr.org) (IACR).
 
 **News**:
-- I successfully defended my PhD thesis on August 22nd, 2022: [Privacy-Preserving Cryptography from Zero-Knowledge Proofs](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3012606). My main supervisor was [Professor Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen).
+- I defended my PhD thesis on August 22nd, 2022: [Privacy-Preserving Cryptography from Zero-Knowledge Proofs](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3012606). My main supervisor was [Professor Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen).
 - Short Paper: Return Codes from Lattice Assumptions, is accepted at the E-Vote-ID Conference 2022. Joint work with Audhild Høgåsen.
 - Paper: [Verifiable Decryption in the Head](https://eprint.iacr.org/2021/558.pdf), is accepted at ACISP 2022. Joint work with Kristian Gjøsteen, Thomas Haines, Johannes Müller and Peter Rønne.
 - Short Paper: [Verifiable Decryption for BGV](https://eprint.iacr.org/2021/1693.pdf), is accepted at VOTING 2022.
