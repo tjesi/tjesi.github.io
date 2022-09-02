@@ -53,6 +53,8 @@ author_profile: true
 
 ## Mentioned
 
+[Historien om Smittestopp, fra innsida: - Personvern handler om tekniske valg](https://www.kode24.no/artikkel/historien-om-smittestopp-fra-innsida-personvern-handler-om-tekniske-valg/77012938), Kode24.no, August 30th, 2022.
+
 [Han hacker deg på sekunder](https://www.agderposten.no/nyheter/han-hacker-deg-pa-sekunder), Agderposten, August 17th, 2022.
 
 [Forskere ga Smittestopp-appen bedre personvern](https://forskning.no/app-data-forsvarets-forskningsinstitutt/forskere-ga-smittestopp-appen-bedre-personvern/1865394), forskning.no, May 29th, 2021.
