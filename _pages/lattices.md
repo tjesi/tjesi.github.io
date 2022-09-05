@@ -17,6 +17,7 @@ author_profile: true
 
 - Bootland et al.: [On the Security of Cryptographic
 Problems from Linear Algebra](https://eprint.iacr.org/2021/1354.pdf)
+- Li et al: [A tutorial introduction to lattice-based cryptography and homomorphic encryption](https://arxiv.org/pdf/2208.08125.pdf)
 - Lyubashevsky: [Basic Lattice Cryptography: Encryption and Fiat-Shamir Signatures](https://drive.google.com/file/d/1JTdW5ryznp-dUBBjN12QbvWz9R41NDGU/view)
 - Micciancio and Regev: [Lattice-based Cryptography](https://cseweb.ucsd.edu/~daniele/papers/PostQuantum.pdf)
 - Peikert: [A Decade of Lattice Cryptography](https://web.eecs.umich.edu/~cpeikert/pubs/lattice-survey.pdf)
