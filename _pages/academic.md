@@ -52,6 +52,12 @@ I am currently/have been supervising the following students:
 - Alejandro Rodriguez - "[Implementing Lattice-Based Cryptography](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3009053)" (Bachelor's thesis 2022)
 - Guro Rio Berge - "[Cryptographic Protocols from Lattice Assumptions](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3009054)" (Bachelor's thesis 2022)
 
+## Visitors
+
+I have had the pleasure of having the following researchers visiting me at NTNU:
+- [Diego F. Aranha](https://dfaranha.github.io), Associate Professor at Aarhus University (August 2022)
+- [Akira Takahashi](https://akiratk0355.github.io), Postdoc at Aarhus University (May 2022)
+
 ## Professional Service
 I was on the organizing committee for [Eurocrypt 2022](https://eurocrypt.iacr.org/2022) in Trondheim. Colin Boyd was the General Chair.
 
