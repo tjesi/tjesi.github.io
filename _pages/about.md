@@ -19,7 +19,7 @@ I have previously been working as a project manager at [Lær Kidsa Koding](https
 I am a member of the [International Association for Cryptologic Research](https://iacr.org) (IACR).
 
 **News**:
-- I am looking for a postdoc working on Post-Quantum Authentication Protocols. [Apply here by October 1st](https://www.jobbnorge.no/en/available-jobs/job/231938/postdoctoral-fellow-in-cryptography-focusing-on-post-quantum-authentication-protocols).
+- I am looking for a postdoc working on Post-Quantum Authentication Protocols. [Apply here by October 1st](https://www.jobbnorge.no/en/available-jobs/job/231938/postdoctoral-fellow-in-cryptography-focusing-on-post-quantum-authentication-protocols). It is a 2 year research position but 3 years with teaching.
 - I started as an Associate Professor in cryptology at the Department of Information Security and Communication Technology at NTNU on September 1st, 2022.
 - I defended my PhD thesis on August 22nd, 2022, titled: [Privacy-Preserving Cryptography from Zero-Knowledge Proofs](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3012606). My main supervisor was [Professor Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen).
 - Short Paper: Return Codes from Lattice Assumptions, is accepted at the E-Vote-ID Conference 2022. Joint work with Audhild Høgåsen.
