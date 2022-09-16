@@ -45,9 +45,17 @@ Joint work with Diego F. Aranha, Carsten Baum and Kristian Gjøsteen.
 
 [Bilinear Pairings of Elliptic Curves](https://tjerandsilde.no/files/Bachelor_Thesis.pdf), Bachelor's Thesis, 2015.
 
-## Students
+## PhD Students
 
-I am currently/have been supervising the following students:
+I am currently (co-)supervising the following PhD students:
+- [Caroline Sandsbråten](https://www.ntnu.edu/employees/caroline.sandsbraten) (with Danilo Gligoroski)
+- [Emil August Olaisen](https://www.ntnu.edu/employees/emil.august.olaisen) (with Danilo Gligoroski)
+- [Cristian Baeza](https://www.ntnu.edu/employees/cristian.baeza) (with Anamaria Costache)
+
+## Bachelor's and Master's Students
+
+I am currently/have been (co-)supervising the following students:
+- Matej Poljuha - "Benchmarking post-quantum secure biometrics-authenticated key exchange" (Master's thesis 2023, co-supervised with Pia Bauspiess)
 - Audhild Høgåsen - "[Return Codes from Lattice Assumptions](https://tjerandsilde.no/files/Audhild-master-thesis.pdf)" (Master's thesis 2022)
 - Alejandro Rodriguez - "[Implementing Lattice-Based Cryptography](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3009053)" (Bachelor's thesis 2022)
 - Guro Rio Berge - "[Cryptographic Protocols from Lattice Assumptions](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3009054)" (Bachelor's thesis 2022)

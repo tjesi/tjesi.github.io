@@ -8,7 +8,7 @@ author_profile: true
 ## Coming Talks:
 
 * "Smittestopp dissekert" - [Seminar om smittesporing ved UiO](https://www.jus.uio.no/ikrs/om/aktuelt/arrangementer/2022/smittestopp-og-smittesporing-to-ar-med-pandemi.html), September, 2022.
-* “The quantum (in-)secure future of the financial sector” - Cyber Security in 20 minutes @ NCE Finance Innovation, September, 2022.
+* “The quantum (in-)secure future of the financial sector” - [Cyber Security in 20 minutes](https://financeinnovation.no/events/cyber-security-in-20-minutes-the-quantum-threat) @ NCE Finance Innovation, September, 2022.
 * "Er cyberangrep nesten ustoppelig? Passordknekking på 1-2-3" - Ctrl/Alt-konferansen, September, 2022.
 
 ## Cryptography and Information Security Talks:
