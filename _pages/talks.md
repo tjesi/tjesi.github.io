@@ -8,12 +8,12 @@ author_profile: true
 ## Coming Talks:
 
 * "Smittestopp dissekert" - [Seminar om smittesporing ved UiO](https://www.jus.uio.no/ikrs/om/aktuelt/arrangementer/2022/smittestopp-og-smittesporing-to-ar-med-pandemi.html), September, 2022.
-* “The quantum (in-)secure future of the financial sector” - [Cyber Security in 20 minutes](https://financeinnovation.no/events/cyber-security-in-20-minutes-the-quantum-threat) @ NCE Finance Innovation, September, 2022.
-* "Er cyberangrep nesten ustoppelig? Passordknekking på 1-2-3" - Ctrl/Alt-konferansen, September, 2022.
 
 ## Cryptography and Information Security Talks:
 
-* "[Privacy-Preserving Cryptography from Zero-Knowledge Proofs](https://tjerandsilde.no/files/Defence.pdf)" - Thesis Presentation @ PhD Defence, August, 2022.
+* “[The quantum (in-)secure future of the financial sector](https://tjerandsilde.no/files/finance.pdf)” - [Cyber Security in 20 minutes](https://financeinnovation.no/events/cyber-security-in-20-minutes-the-quantum-threat), September, 2022.
+* "[Er cyberangrep nesten ustoppelig? Passordknekking på 1-2-3](https://tjerandsilde.no/files/CtrlAlt-Tjerand.pdf)" - Ctrl/Alt-konferansen, September, 2022.
+* "[Privacy-Preserving Cryptography from Zero-Knowledge Proofs](https://tjerandsilde.no/files/Defence.pdf)" - Thesis @ PhD Defence, August, 2022.
 * "[MEGA: Malleable Encryption Goes Awry](https://tjerandsilde.no/files/Trial.pdf)" - Trial Lecture @ PhD Defence, August, 2022.
 * Panel: "Passord er farlig og utdatert. Hva nå?" - [Arendalsuka](https://program.arendalsuka.no/event/user-view/18770), August, 2022.
 * "[Achieving Security from Cryptography AND Biometrics](https://tjerandsilde.no/files/biometrics.pdf)" - [Norwegian Biometric Forum 2022](https://eab.org/events/program/285), May, 2022.
@@ -38,7 +38,8 @@ author_profile: true
 
 ## Other Talks:
 
-* "[Experiences and challenges being i PhD-candidate](https://tjerandsilde.no/files/PhD-Intro.pdf)" - Introduction seminar for new PhD students at the IE faculty.
+* "[Scientific Dissemination and Public Outreach](https://tjerandsilde.no/files/outreach.pdf)" - PhD and postdoc seminar at the Department of Physics at NTNU, September 2022.
+* "[Experiences and challenges being i PhD-candidate](https://tjerandsilde.no/files/PhD-Intro.pdf)" - Introduction seminar for new PhD students at the IE faculty, April 2022.
 * "[Programmering og algoritmisk tenking](https://tjerandsilde.no/files/Programmering_og_algoritmisk_tenking.pdf)" - [Math. Mod. and ICT in the Teaching of Mathematics](https://www.ntnu.edu/studies/courses/SKOLE6232), March 2021.
 * "[Koderessurser og erfaringer](https://tjerandsilde.no/files/LKK20.pdf)" - [Applied Programming for Teachers](https://www.ntnu.edu/studies/courses/IT6204), Trondheim, March 2020.
 * “[Pedagogikk-kurs for Vektorassistenter](https://tjerandsilde.no/files/Pedagogikk_kurs_for_vektorprogrammet_FEB20.pdf)” – [Vektorprogrammet](https://vektorprogrammet.no), Trondheim, February 2020.
