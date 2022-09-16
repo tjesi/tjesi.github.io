@@ -7,6 +7,8 @@ author_profile: true
 
 ## Interviews
 
+[Kan de rike redde krypto? Med en helt ny metode skal miljøproblemet løses.](https://www.aftenposten.no/kultur/i/XbwGJg/kan-de-rike-redde-krypto-med-en-helt-ny-metode-skal-miljoeproblemet-loeses), Aftenposten, September 15th, 2022.
+
 [Maskiner som denne kan drepe internett](https://www.aftenposten.no/kultur/i/v5a7lp/maskiner-som-denne-kan-drepe-internett), Aftenposten, July 18th, 2022.
 
 [Gav NATO råd i Brussel](https://grannar.no/2022/05/gav-nato-rad-i-brussel), Grannar, May 25th, 2022.
