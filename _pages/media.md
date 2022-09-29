@@ -7,8 +7,9 @@ author_profile: true
 
 ## Interviews
 
-[Algoritmen skulle beskytte oss på internett. Den ble knekt på én time.
-](https://www.aftenposten.no/kultur/i/rlLx7w/algoritmen-skulle-beskytte-oss-paa-internett-den-ble-knekt-paa-en-time), Aftenposten, September 24th, 2022.
+[Er kvantemaskiner en sikkerhetstrussel? Vi spør Tjerand Silde i jakten på svar](https://www.aplia.no/blogg/er-kvantemaskiner-en-sikkerhetstrussel-vi-spor-tjerand-silde-i-jakten-pa-svar), Aplia.no, September 29th, 2022.
+
+[Algoritmen skulle beskytte oss på internett. Den ble knekt på én time](https://www.aftenposten.no/kultur/i/rlLx7w/algoritmen-skulle-beskytte-oss-paa-internett-den-ble-knekt-paa-en-time), Aftenposten, September 24th, 2022.
 
 [Kan de rike redde krypto? Med en helt ny metode skal miljøproblemet løses](https://www.aftenposten.no/kultur/i/XbwGJg/kan-de-rike-redde-krypto-med-en-helt-ny-metode-skal-miljoeproblemet-loeses), Aftenposten, September 15th, 2022.
 
