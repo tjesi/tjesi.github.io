@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications
 
-Short paper: Return Codes from Lattice Assumptions, E-Vote-ID Conference 2022.\
+[Short paper: Return Codes from Lattice Assumptions](https://dspace.ut.ee/bitstream/handle/10062/84323/12.pdf?sequence=1&isAllowed=y), E-Vote-ID Conference 2022.\
 Joint work with Audhild Høgåsen.
 
 [Verifiable Decryption in the Head](https://eprint.iacr.org/2021/558.pdf), Australasian Conference on Information Security and Privacy 2022.\
