@@ -7,6 +7,10 @@ author_profile: true
 
 I have participated or will participate at the following conferences, seminars and workshops in cryptography and information security.
 
+**ACISP 2022**: The 27th Australasian Conference on Information Security and Privacy. November 28-30., 2022 – Wollongong, Australia. [uow-ic2.github.io/acisp2022](https://uow-ic2.github.io/acisp2022)
+
+**Norsk Kryptoseminar 2022**: October 28, 2022 – Bergen, Norway. [simula-uib.com/norsk-kryptoseminar-2022](hhttps://simula-uib.com/norsk-kryptoseminar-2022)
+
 **Lattices**: Workshop on Foundations and Applications of Lattice-based Cryptography. July 25.-28., 2022 - Edinburgh, Scotland. [sites.google.com/view/lattice-research-workshop-2022](https://sites.google.com/view/lattice-research-workshop-2022)
 
 **Eurocrypt 2022**: The 41th Annual International Conference on the Theory and Applications of Cryptographic Techniques. May 30-June 3, 2022 – Trondheim, Norway. [eurocrypt.iacr.org/2022](https://eurocrypt.iacr.org/2022)
