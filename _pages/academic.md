@@ -58,7 +58,7 @@ I am currently (co-)supervising the following PhD students:
 ## Bachelor's and Master's Students
 
 I am currently/have been (co-)supervising the following students:
-- Emil Marstrander (Master's thesis 2023, co-supervised with Martin Strand)
+- Emil Marstrander - "Use of Messaging Layer Security in military drones" (Master's thesis 2023, co-supervised with Martin Strand)
 - Matej Poljuha - "Benchmarking post-quantum secure biometrics-authenticated key exchange" (Master's thesis 2023, co-supervised with Pia Bauspiess)
 - Audhild Høgåsen - "[Return Codes from Lattice Assumptions](https://tjerandsilde.no/files/Audhild-master-thesis.pdf)" (Master's thesis 2022)
 - Alejandro Rodriguez - "[Implementing Lattice-Based Cryptography](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3009053)" (Bachelor's thesis 2022)
