@@ -50,10 +50,10 @@ Joint work with Pia Bauspieß, Alexandre Tullot, Anamaria Costache, Christian Ra
 
 ## PhD Students
 
-I am currently (co-)supervising the following PhD students:
-- [Caroline Sandsbråten](https://www.ntnu.edu/employees/caroline.sandsbraten) (with Danilo Gligoroski)
-- [Emil August Olaisen](https://www.ntnu.edu/employees/emil.august.olaisen) (with Danilo Gligoroski)
-- [Cristian Baeza](https://www.ntnu.edu/employees/cristian.baeza) (with Anamaria Costache)
+I am currently supervising the following PhD students:
+- [Caroline Sandsbråten](https://www.ntnu.edu/employees/caroline.sandsbraten) (main supervisor, Danilo Gligoroski is co-supervior)
+- [Emil August Olaisen](https://www.ntnu.edu/employees/emil.august.olaisen) (main supervisor, Danilo Gligoroski is co-supervior)
+- [Cristian Baeza](https://www.ntnu.edu/employees/cristian.baeza) (co-superisor, Anamaria Costache is the main supervisor)
 
 ## Bachelor's and Master's Students
 
