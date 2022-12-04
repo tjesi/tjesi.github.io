@@ -33,8 +33,8 @@ Joint work with Anushua Hossain and Kristina Nelson. ([Presentation](https://tje
 [Verifiable Mix-Nets and Distributed Decryption for Voting from Lattice-Based Assumptions](https://eprint.iacr.org/2022/422.pdf), in submission.\
 Joint work with Diego F. Aranha, Carsten Baum and Kristian Gjøsteen.
 
-[Improved Biometrics-Authenticated Key Exchange](https://eprint.iacr.org/2022/1408.pdf), in submission.\
-Joint work with Pia Bauspieß, Alexandre Tullot, Anamaria Costache, Christian Rathgeb, Jascha Kolberg and Christoph Busch.
+[BRAKE: Biometric Resilient Authenticated Key Exchange](https://eprint.iacr.org/2022/1408.pdf), in submission.\
+Joint work w/ Pia Bauspieß, Alexandre Tullot, Anamaria Costache, Christian Rathgeb, Jascha Kolberg and Christoph Busch.
 
 ## Theses and Reports
 
