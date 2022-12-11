@@ -5,7 +5,18 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Current teaching:
+## Current and future teaching:
+
+**Fall 2023:**
+
+* Secure Cryptographic Implementations (TTM4205) at NTNU (Lecturer)
+
+**Spring 2023:**
+
+* Digital sikkerhet i praksis - Identitet
+ ([Description](https://www.ntnu.no/videre/gen/-/courses/nv22186)) at NTNU (Lecturer)
+* Digital sikkerhet i praksis - Informasjonsbeskyttelse
+ ([Description](https://www.ntnu.no/videre/gen/-/courses/nv21828)) at NTNU (Lecturer)
 
 **Fall 2022:**
 
