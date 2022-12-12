@@ -51,7 +51,7 @@ Joint work with Pia Bauspieß, Alexandre Tullot, Anamaria Costache, Christian Ra
 ## PhD Students and Postdocs
 
 I am currently supervising/hosting the following PhD students/postdocs:
-- [Hans Heum](https://www.simula.no/people/hans) (2023-, hosted at the Department of Matemathical Sciences at NTNU)
+- [Hans Heum](https://www.simula.no/people/hans) (Postdoc 2023-, hosted at the Department of Matemathical Sciences at NTNU)
 - [Caroline Sandsbråten](https://www.ntnu.edu/employees/caroline.sandsbraten) (PhD 2022-, main supervisor, Danilo Gligoroski is the co-supervisor)
 - [Emil August Olaisen](https://www.ntnu.edu/employees/emil.august.olaisen) (PhD 2022-, main supervisor, Danilo Gligoroski is the co-supervisor)
 - [Cristian Baeza](https://www.ntnu.edu/employees/cristian.baeza) (PhD 2022-, co-supervisor, Anamaria Costache is the main supervisor)
@@ -59,8 +59,8 @@ I am currently supervising/hosting the following PhD students/postdocs:
 ## Bachelor's and Master's Students
 
 I am currently/have been (co-)supervising the following students:
-- Emil Marstrander - "Use of Messaging Layer Security in military drones" (Master's thesis 2023, co-supervised with Martin Strand)
-- Matej Poljuha - "Benchmarking post-quantum secure biometrics recilient authenticated key exchange" (Master's thesis 2023, co-supervised with Pia Bauspiess)
+- Emil Marstrander - "Use of Messaging Layer Security in Military Drones" (Master's thesis 2023, co-supervised with Martin Strand)
+- Matej Poljuha - "Benchmarking Post-Quantum Secure Biometrics Recilient Authenticated Key Exchange" (Master's thesis 2023, co-supervised with Pia Bauspiess)
 - Audhild Høgåsen - "[Return Codes from Lattice Assumptions](https://tjerandsilde.no/files/Audhild-master-thesis.pdf)" (Master's thesis 2022)
 - Alejandro Rodriguez - "[Implementing Lattice-Based Cryptography](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3009053)" (Bachelor's thesis 2022)
 - Guro Rio Berge - "[Cryptographic Protocols from Lattice Assumptions](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3009054)" (Bachelor's thesis 2022)
