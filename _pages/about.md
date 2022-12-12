@@ -19,7 +19,7 @@ I have previously been working as a project manager at [Lær Kidsa Koding](https
 I am a member of the [International Association for Cryptologic Research](https://iacr.org) (IACR).
 
 **News**:
-- I am happy to share that [Hans Heum](https://www.simula.no/people/hans) starts as a postdoctoral researcher in January 2023.
+- I am happy to share that [Hans Heum](https://www.simula.no/people/hans) start as a postdoctoral researcher in January 2023.
 - I am on the program committee of [E-Vote-ID 2023](https://e-vote-id.org/wp-content/uploads/2022/11/CFP2023_3.pdf) to be organised in Luxembourg.
 - I started as an Associate Professor in cryptology at the Department of Information Security and Communication Technology at NTNU on September 1st, 2022.
 - I defended my PhD thesis on August 22nd, 2022, titled: [Privacy-Preserving Cryptography from Zero-Knowledge Proofs](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3012606). My main supervisor was [Professor Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen).
