@@ -59,7 +59,7 @@ I am currently supervising the following PhD students:
 
 I am currently/have been (co-)supervising the following students:
 - Emil Marstrander - "Use of Messaging Layer Security in military drones" (Master's thesis 2023, co-supervised with Martin Strand)
-- Matej Poljuha - "Benchmarking post-quantum secure biometrics-authenticated key exchange" (Master's thesis 2023, co-supervised with Pia Bauspiess)
+- Matej Poljuha - "Benchmarking post-quantum secure biometrics recilient authenticated key exchange" (Master's thesis 2023, co-supervised with Pia Bauspiess)
 - Audhild Høgåsen - "[Return Codes from Lattice Assumptions](https://tjerandsilde.no/files/Audhild-master-thesis.pdf)" (Master's thesis 2022)
 - Alejandro Rodriguez - "[Implementing Lattice-Based Cryptography](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3009053)" (Bachelor's thesis 2022)
 - Guro Rio Berge - "[Cryptographic Protocols from Lattice Assumptions](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3009054)" (Bachelor's thesis 2022)
@@ -67,6 +67,7 @@ I am currently/have been (co-)supervising the following students:
 ## Visitors
 
 I have had the pleasure of having the following researchers visiting me at NTNU:
+- [Patrick Hough](https://www.patrick-hough.com), PhD student at Oxford University (November 2022)
 - [Diego F. Aranha](https://dfaranha.github.io), Associate Professor at Aarhus University (August 2022)
 - [Akira Takahashi](https://akiratk0355.github.io), Postdoc at Aarhus University (May 2022)
 
@@ -78,7 +79,8 @@ I organized the [Norwegian Crypto Seminar 2020](https://wiki.math.ntnu.no/nks/nk
 I am organizing the NTNU Post-Quantum Cryptography Reading Group together with Anamaria Costache.
 
 I am/have been on the program committee for the following conferences/workshops:
-- 2022: The 10th Workshop on Encrypted Computing & Applied Homomorphic Cryptography
+- 2022: WAHC - The 10th Workshop on Encrypted Computing & Applied Homomorphic Cryptography
+- 2023: E-VOTE-ID - The 8th International Joint Conference on Electronic Voting
 
  I am/have been a reviewer for the following conferences/workshops:
  - 2020: CT-RSA and SAC.
