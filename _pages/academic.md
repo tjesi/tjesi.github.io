@@ -34,7 +34,7 @@ Joint work with Anushua Hossain and Kristina Nelson. ([Presentation](https://tje
 Joint work with Diego F. Aranha, Carsten Baum and Kristian Gjøsteen.
 
 [BRAKE: Biometric Resilient Authenticated Key Exchange](https://eprint.iacr.org/2022/1408.pdf), in submission.\
-Joint work w/ Pia Bauspieß, Alexandre Tullot, Anamaria Costache, Christian Rathgeb, Jascha Kolberg and Christoph Busch.
+Joint work with Pia Bauspieß, Alexandre Tullot, Anamaria Costache, Christian Rathgeb, Jascha Kolberg and Christoph Busch.
 
 ## Theses and Reports
 
@@ -52,9 +52,9 @@ Joint work w/ Pia Bauspieß, Alexandre Tullot, Anamaria Costache, Christian Rath
 
 I am currently supervising/hosting the following PhD students/postdocs:
 - [Hans Heum](https://www.simula.no/people/hans) (2023-, hosted at the Department of Matemathical Sciences at NTNU)
-- [Caroline Sandsbråten](https://www.ntnu.edu/employees/caroline.sandsbraten) (2022-, main supervisor, Danilo Gligoroski is the co-supervisor)
-- [Emil August Olaisen](https://www.ntnu.edu/employees/emil.august.olaisen) (2022-, main supervisor, Danilo Gligoroski is the co-supervisor)
-- [Cristian Baeza](https://www.ntnu.edu/employees/cristian.baeza) (2022-, co-supervisor, Anamaria Costache is the main supervisor)
+- [Caroline Sandsbråten](https://www.ntnu.edu/employees/caroline.sandsbraten) (PhD 2022-, main supervisor, Danilo Gligoroski is the co-supervisor)
+- [Emil August Olaisen](https://www.ntnu.edu/employees/emil.august.olaisen) (PhD 2022-, main supervisor, Danilo Gligoroski is the co-supervisor)
+- [Cristian Baeza](https://www.ntnu.edu/employees/cristian.baeza) (PhD 2022-, co-supervisor, Anamaria Costache is the main supervisor)
 
 ## Bachelor's and Master's Students
 
