@@ -48,12 +48,13 @@ Joint work w/ Pia Bauspieß, Alexandre Tullot, Anamaria Costache, Christian Rath
 
 [Bilinear Pairings of Elliptic Curves](https://tjerandsilde.no/files/Bachelor_Thesis.pdf), Bachelor's Thesis, 2015.
 
-## PhD Students
+## PhD Students and Postdocs
 
-I am currently supervising the following PhD students:
-- [Caroline Sandsbråten](https://www.ntnu.edu/employees/caroline.sandsbraten) (main supervisor, Danilo Gligoroski is the co-supervisor)
-- [Emil August Olaisen](https://www.ntnu.edu/employees/emil.august.olaisen) (main supervisor, Danilo Gligoroski is the co-supervisor)
-- [Cristian Baeza](https://www.ntnu.edu/employees/cristian.baeza) (co-supervisor, Anamaria Costache is the main supervisor)
+I am currently supervising/hosting the following PhD students/postdocs:
+- [Hans Heum](https://www.simula.no/people/hans) (2023-, hosted at the Department of Matemathical Sciences at NTNU)
+- [Caroline Sandsbråten](https://www.ntnu.edu/employees/caroline.sandsbraten) (2022-, main supervisor, Danilo Gligoroski is the co-supervisor)
+- [Emil August Olaisen](https://www.ntnu.edu/employees/emil.august.olaisen) (2022-, main supervisor, Danilo Gligoroski is the co-supervisor)
+- [Cristian Baeza](https://www.ntnu.edu/employees/cristian.baeza) (2022-, co-supervisor, Anamaria Costache is the main supervisor)
 
 ## Bachelor's and Master's Students
 
