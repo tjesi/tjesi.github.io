@@ -19,7 +19,7 @@ I have previously been working as a project manager at [Lær Kidsa Koding](https
 I am a member of the [International Association for Cryptologic Research](https://iacr.org) (IACR).
 
 **News**:
-- I am glad to announce that I have received a grant of NOK 58K to develop teaching material for my new course "Security Cryptographic Implementations" from the [Excited Mini Project Fund](https://www.ntnu.edu/excited/mini-projects)
+- I have received a grant of NOK 58K to develop teaching material for my new course "Security Cryptographic Implementations" from the [Excited Mini Project Fund](https://www.ntnu.edu/excited/mini-projects).
 - I am happy to share that [Hans Heum](https://www.simula.no/people/hans) start as a postdoctoral researcher in January 2023.
 - I am on the program committee of [E-Vote-ID 2023](https://e-vote-id.org/wp-content/uploads/2022/11/CFP2023_3.pdf) to be organised in Luxembourg.
 - I started as an Associate Professor in cryptology at the Department of Information Security and Communication Technology at NTNU on September 1st, 2022.
