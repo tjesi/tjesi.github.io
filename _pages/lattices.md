@@ -25,6 +25,7 @@ Problems from Linear Algebra](https://eprint.iacr.org/2021/1354.pdf)
 ## Talks
 
 - BIU Winter School: [Lattice-based cryptography and applications](http://cyber.biu.ac.il/event/the-2nd-biu-winter-school)
+- [Foundations and Applications of Lattice-based Cryptography](https://www.icms.org.uk/workshops/2022/foundations-and-applications-lattice-based-cryptography)
 - Nguyen: [Lattice-Based Cryptography](https://youtu.be/MG6g04R_Ims)
 - Peikert: [Lattice-Based Cryptography](https://youtu.be/FVFw_qb1ZkY)
 - Peikert: [Lattice Cryptography for the Internet](https://youtu.be/uycY1O9f2Nw)
