@@ -3,8 +3,8 @@ main:
   - title: "Academic"
     url: /academic/
 
-  - title: "Cryptographic Engineering"
-    url: /ce/
+#  - title: "Cryptographic Engineering"
+#    url: /ce/
 
   - title: "Events"
     url: /events/
