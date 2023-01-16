@@ -58,6 +58,8 @@ Cohen: [Cryptography Online Talks Calendar](https://www.ccs.neu.edu/~rancohen/cr
 - Courses:
   - [TTM4135 - Applied Cryptography and Network Security](https://www.ntnu.edu/studies/courses/TTM4135)
   - [TTM4195 - Blockchain Technologies and Cryptocurrencies](https://www.ntnu.edu/studies/courses/TTM4195)
+  - [TTM4137 - Wireless Network Security](https://www.ntnu.edu/studies/courses/TTM4137)
+  - [IMT4217 - Introduction to Data Privacy](https://www.ntnu.edu/studies/courses/IMT4217)
   - [TMA4160 - Cryptography](https://www.ntnu.edu/studies/courses/TMA4160)
   - [TMA4162 - Computational Algebra](https://www.ntnu.edu/studies/courses/TMA4162)
   - [MA8206 - Advanced Cryptography](https://www.ntnu.edu/studies/courses/MA8206)
