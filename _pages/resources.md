@@ -13,6 +13,7 @@ Cohen: [Cryptography Online Talks Calendar](https://www.ccs.neu.edu/~rancohen/cr
 - Green: [A Few Thoughts on Cryptographic Engineering](https://blog.cryptographyengineering.com)
 - KU Leuven: [COSIC Cryptography Blog](https://www.esat.kuleuven.be/cosic/blog)
 - Partisia: [Particia MPC](https://partisiampc.medium.com)
+- Sandbox: [The Crypto Caffè](https://cryptocaffe.sandboxaq.com)
 - The Sugar Beet: [Applied MPC: Developments in multiparty computation](https://medium.com/applied-mpc)
 - Unbound Tech: [Blog](https://www.unboundtech.com/blog)
 - zkproof.org: [The Art of Zero Knowledge](https://zkproof.org/blog)
@@ -72,6 +73,8 @@ Cohen: [Cryptography Online Talks Calendar](https://www.ccs.neu.edu/~rancohen/cr
 
 - BUI: [WINTER SCHOOL ON CRYPTOGRAPHY](http://cyber.biu.ac.il/events)
 - Boneh: [Stanford’s online cryptography course](https://www.coursera.org/learn/crypto)
+- Boneh et al.: [Zero Knowledge Proofs MOOC](https://zk-learning.org)
+- Chiesa: [Probabilistically Checkable and Interactive Proof Systems](https://youtube.com/playlist?list=PLkFD6_40KJIyWWtxCPBHwGsrutjvwM5_U)
 - Katz: [Cryptography](https://www.coursera.org/learn/cryptography)
 
 ## Podcasts
