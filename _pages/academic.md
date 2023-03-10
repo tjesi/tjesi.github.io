@@ -51,7 +51,7 @@ Joint work with Pia Bauspieß, Alexandre Tullot, Anamaria Costache, Christian Ra
 ## PhD Students and Postdocs
 
 I am currently supervising/hosting the following PhD students/postdocs:
-- [Hans Heum](https://www.ntnu.edu/employees/hans.heum) (Postdoc 2023-, hosted at the Department of Matemathical Sciences at NTNU)
+- [Hans Heum](https://www.ntnu.edu/employees/hans.heum) (Researcher/Postdoc 2023-, hosted at the Department of Matemathical Sciences at NTNU)
 - [Caroline Sandsbråten](https://www.ntnu.edu/employees/caroline.sandsbraten) (PhD 2022-, main supervisor, Danilo Gligoroski is the co-supervisor)
 - [Emil August Olaisen](https://www.ntnu.edu/employees/emil.august.olaisen) (PhD 2022-, main supervisor, Danilo Gligoroski is the co-supervisor)
 - [Cristian Baeza](https://www.ntnu.edu/employees/cristian.baeza) (PhD 2022-, co-supervisor, Anamaria Costache is the main supervisor)
