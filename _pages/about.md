@@ -20,6 +20,7 @@ I am a member of the [International Association for Cryptologic Research](https:
 
 **News**:
 
+- Our paper [Verifiable Mix-Nets and Distributed Decryption for Voting from Lattice-Based Assumptions](https://eprint.iacr.org/2022/422.pdf) is accepted at ACM CCS 2023. This is joint work with Diego F. Aranha, Carsten Baum and Kristian Gjøsteen.
 - I started as an Associate Professor in cryptology at the Department of Information Security and Communication Technology at NTNU on September 1st, 2022.
 - I defended my PhD thesis on August 22nd, 2022, titled: [Privacy-Preserving Cryptography from Zero-Knowledge Proofs](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3012606). My main supervisor was [Professor Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen).
 - Our project "[OffPAD -- Optimizing balance between high security and usability](https://prosjektbanken.forskningsradet.no/en/project/FORISS/321619)" got funded 16M NOK by the Norwegian Research Council for research on lightweight and PQ crypto.
