@@ -7,6 +7,9 @@ author_profile: true
 
 ## Publications
 
+[Verifiable Mix-Nets and Distributed Decryption for Voting from Lattice-Based Assumptions](https://eprint.iacr.org/2022/422.pdf), ACM CCS 2023.\
+Joint work with Diego F. Aranha, Carsten Baum and Kristian Gjøsteen.
+
 [Short paper: Return Codes from Lattice Assumptions](https://dspace.ut.ee/bitstream/handle/10062/84323/12.pdf?sequence=1&isAllowed=y), E-Vote-ID Conference 2022.\
 Joint work with Audhild Høgåsen.
 
@@ -29,9 +32,6 @@ Joint work with Henrik Walker Moe and Martin Strand. ([Docs](https://github.com/
 Joint work with Anushua Hossain and Kristina Nelson. ([Presentation](https://tjerandsilde.no/files/NISK_presentation.pdf), [Code](https://github.com/tjesi/security-scan))
 
 ## Work in Progress
-
-[Verifiable Mix-Nets and Distributed Decryption for Voting from Lattice-Based Assumptions](https://eprint.iacr.org/2022/422.pdf), in submission.\
-Joint work with Diego F. Aranha, Carsten Baum and Kristian Gjøsteen.
 
 [BRAKE: Biometric Resilient Authenticated Key Exchange](https://eprint.iacr.org/2022/1408.pdf), in submission.\
 Joint work with Pia Bauspieß, Alexandre Tullot, Anamaria Costache, Christian Rathgeb, Jascha Kolberg and Christoph Busch.
