@@ -7,6 +7,8 @@ author_profile: true
 
 ## Interviews
 
+[Nå kan du skjule alle dine meldinger, bilder og video mye lettere. Rettsvesenet er bekymret.](https://www.aftenposten.no/kultur/i/xg56nR/naa-kan-du-skjule-alle-dine-meldinger-bilder-og-video-mye-lettere-rettsvesenet-er-bekymret), Aftenposten, March 14th, 2023.
+
 [Er kvantemaskiner en sikkerhetstrussel? Vi spør Tjerand Silde i jakten på svar](https://www.aplia.no/blogg/er-kvantemaskiner-en-sikkerhetstrussel-vi-spor-tjerand-silde-i-jakten-pa-svar), Aplia.no, September 29th, 2022.
 
 [Algoritmen skulle beskytte oss på internett. Den ble knekt på én time](https://www.aftenposten.no/kultur/i/rlLx7w/algoritmen-skulle-beskytte-oss-paa-internett-den-ble-knekt-paa-en-time), Aftenposten, September 24th, 2022.
