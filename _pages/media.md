@@ -7,6 +7,8 @@ author_profile: true
 
 ## Interviews
 
+[EU vil ta nettovergripere ved å overvåke oss alle](https://www.aftenposten.no/kultur/i/q1QK10/eu-vil-ta-nettovergripere-ved-aa-overvaake-oss-alle), Aftenposten, March 27th, 2023.
+
 [Nå kan du skjule alle dine meldinger, bilder og video mye lettere. Rettsvesenet er bekymret.](https://www.aftenposten.no/kultur/i/xg56nR/naa-kan-du-skjule-alle-dine-meldinger-bilder-og-video-mye-lettere-rettsvesenet-er-bekymret), Aftenposten, March 14th, 2023.
 
 [Er kvantemaskiner en sikkerhetstrussel? Vi spør Tjerand Silde i jakten på svar](https://www.aplia.no/blogg/er-kvantemaskiner-en-sikkerhetstrussel-vi-spor-tjerand-silde-i-jakten-pa-svar), Aplia.no, September 29th, 2022.
