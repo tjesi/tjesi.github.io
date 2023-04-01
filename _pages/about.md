@@ -20,6 +20,7 @@ I am a member of the [International Association for Cryptologic Research](https:
 
 **News**:
 
+- We are looking for a postdoc in ["Lightweight Post-Quantum Cryptography"](https://www.jobbnorge.no/en/available-jobs/job/243244/postdoctoral-fellow-in-lightweight-post-quantum-cryptography). Application deadline is May 1st, 2023.
 - Our paper [Verifiable Mix-Nets and Distributed Decryption for Voting from Lattice-Based Assumptions](https://eprint.iacr.org/2022/422.pdf) is accepted at ACM CCS 2023. This is joint work with Diego F. Aranha, Carsten Baum and Kristian Gjøsteen.
 - I started as an Associate Professor in cryptology at the Department of Information Security and Communication Technology at NTNU on September 1st, 2022.
 - I defended my PhD thesis on August 22nd, 2022, titled: [Privacy-Preserving Cryptography from Zero-Knowledge Proofs](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3012606). My main supervisor was [Professor Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen).
