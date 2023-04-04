@@ -18,11 +18,11 @@ author_profile: true
 * Digital sikkerhet i praksis - Informasjonsbeskyttelse
  ([Description](https://www.ntnu.no/videre/gen/-/courses/nv21828)) at NTNU (Lecturer)
 
+## Previous semesters:
+
 **Fall 2022:**
 
 * Discrete Mathematics ([TMA4140](https://www.ntnu.no/studier/emner/TMA4140)) at NTNU (Lecturer)
-
-## Previous semesters:
 
 **Spring 2021:**
 

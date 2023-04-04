@@ -7,7 +7,7 @@ author_profile: true
 
 I have participated or will participate at the following conferences, seminars and workshops in cryptography and information security.
 
-**Lattices Meet Hashes**: Recent Advances in Post-Quantum Zero-Knowledge Proofs, May 1.-3., 2023 - Lausanne, Switzerland. [lattices-meet-hashes23.epfl.ch](https://lattices-meet-hashes23.epfl.ch/index.html)
+**Lattices Meet Hashes**: Recent Advances in Post-Quantum Zero-Knowledge Proofs, May 1.-3., 2023 – Lausanne, Switzerland. [lattices-meet-hashes23.epfl.ch](https://lattices-meet-hashes23.epfl.ch/index.html)
 
 **Eurocrypt 2023**: The 42nd Annual International Conference on the Theory and Applications of Cryptographic Techniques. April 23.-27., 2023 – Lyon, France. [eurocrypt.iacr.org/2023](https://eurocrypt.iacr.org/2023)
 

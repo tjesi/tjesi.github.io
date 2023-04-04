@@ -7,8 +7,8 @@ author_profile: true
 
 ## Postdocs
 
-I am currently hosting the following postdocs / researchers:
-- [Hans Heum](https://www.ntnu.edu/employees/hans.heum) (Researcher/Postdoc 2023-, hosted at the Department of Matemathical Sciences at NTNU)
+I am currently hosting the following researchers / postdocs:
+- [Hans Heum](https://www.ntnu.edu/employees/hans.heum) (Researcher / Postdoc 2023-, hosted at the Department of Matemathical Sciences at NTNU)
 
 ## PhD Students
 
@@ -29,6 +29,7 @@ I am currently/have been (co-)supervising the following students:
 ## Visitors
 
 I have had the pleasure of having the following researchers visiting me at NTNU:
+- [Katharina Boudgoust](https://katinkabou.github.io), Postdoc at Aarhus University (January 2023)
 - [Patrick Hough](https://www.patrick-hough.com), PhD student at Oxford University (November 2022)
 - [Diego F. Aranha](https://dfaranha.github.io), Associate Professor at Aarhus University (August 2022)
 - [Akira Takahashi](https://akiratk0355.github.io), Postdoc at Aarhus University (May 2022)
