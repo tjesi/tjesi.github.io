@@ -12,18 +12,14 @@ Hi! I am an Associate Professor in cryptology at the [Department of Information 
 
 My main foci of research are lattice-based cryptography and zero-knowledge protocols. My interests also span the areas of secure multiparty computation, homomorphic encryption, password-authenticated key exchange, electronic voting and anonymous communication.
 
-I graduated from NTNU with a B.Sc. in 2017, a M.Sc. in 2020 and a Ph.D. in Mathematics in 2022, respectively. During my master's, I spent the academic year 2017-2018 at UC Berkeley, USA. During my PhD, I spent the fall of 2020 visiting [Assistant Professor Carsten Baum](http://carstenbaum.com) and [Associate Professor Diego Aranha](https://dfaranha.github.io) at the [Aarhus Crypto Group](https://users-cs.au.dk/orlandi/cryptogroup), Denmark, and I spent the winter 2021/2022 visiting [Professor Jonathan Katz](http://www.cs.umd.edu/~jkatz) at the [Maryland Cybersecurity Center](https://cyber.umd.edu), USA.
-
-I have previously been working as a project manager at [Lær Kidsa Koding](https://www.kidsakoder.no) (2015-17), as a university college teacher at [Western Norway University of Applied Sciences](https://www.hvl.no/en) (2017-20), and I had a 3 months internship in 2018 at the IoT-security company [Intrinsic-ID](https://www.intrinsic-id.com) in Eindhoven, NL.
-
 I am a member of the [International Association for Cryptologic Research](https://iacr.org) (IACR).
 
 **News**:
 
-- We are looking for a postdoc in ["Lightweight Post-Quantum Cryptography"](https://www.jobbnorge.no/en/available-jobs/job/243244/postdoctoral-fellow-in-lightweight-post-quantum-cryptography). Application deadline is May 1st, 2023.
+- We are looking for a postdoctoral researcher in ["Lightweight Post-Quantum Cryptography"](https://www.jobbnorge.no/en/available-jobs/job/243244/postdoctoral-fellow-in-lightweight-post-quantum-cryptography). The application deadline is May 1st, 2023.
+- I am on the program committee for [E-Vote-ID 2023](https://e-vote-id.org) (deadline May 15th) and [PETS 2024](https://www.petsymposium.org) (First deadline May 31st). Submit your best voting and privacy papers!
 - Our paper [Verifiable Mix-Nets and Distributed Decryption for Voting from Lattice-Based Assumptions](https://eprint.iacr.org/2022/422.pdf) is accepted at ACM CCS 2023. This is joint work with Diego F. Aranha, Carsten Baum and Kristian Gjøsteen.
 - I started as an Associate Professor in cryptology at the Department of Information Security and Communication Technology at NTNU on September 1st, 2022.
-- I defended my PhD thesis on August 22nd, 2022, titled: [Privacy-Preserving Cryptography from Zero-Knowledge Proofs](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3012606). My main supervisor was [Professor Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen).
 - Our project "[OffPAD -- Optimizing balance between high security and usability](https://prosjektbanken.forskningsradet.no/en/project/FORISS/321619)" got funded 16M NOK by the Norwegian Research Council for research on lightweight and PQ crypto.
 
 I support the [Electronic Frontier Foundation](https://supporters.eff.org/donate/join-eff-4), the [Tor Project](https://donate.torproject.org) and the [Signal Foundation](https://signal.org/donate).
