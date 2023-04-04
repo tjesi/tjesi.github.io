@@ -1,7 +1,13 @@
 # main links links
 main:
-  - title: "Academic"
-    url: /academic/
+  - title: "Research"
+    url: /research/
+
+- title: "People"
+    url: /People/
+
+- title: "Service"
+    url: /service/
 
 #  - title: "Cryptographic Engineering"
 #    url: /ce/
