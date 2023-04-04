@@ -6,11 +6,17 @@ main:
   - title: "People"
     url: /people/
 
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Talks"
+    url: /talks/
+
+  - title: "Media"
+    url: /media/
+
   - title: "Service"
     url: /service/
-
-#  - title: "Cryptographic Engineering"
-#    url: /ce/
 
   - title: "Events"
     url: /events/
@@ -18,14 +24,8 @@ main:
   - title: "Lattices"
     url: /lattices/
 
-  - title: "Media"
-    url: /media/
-
   - title: "Resources"
     url: /resources/
 
-  - title: "Talks"
-    url: /talks/
-
-  - title: "Teaching"
-    url: /teaching/
+#  - title: "Cryptographic Engineering"
+#    url: /ce/
