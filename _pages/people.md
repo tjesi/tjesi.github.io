@@ -29,7 +29,7 @@ I am currently/have been (co-)supervising the following students:
 ## Visitors
 
 I have had the pleasure of having the following researchers visiting me at NTNU:
-- [Katharina Boudgoust](https://katinkabou.github.io), Postdoc at Aarhus University (January 2023)
+- [Katharina Boudgoust](https://katinkabou.github.io), Postdoc at Aarhus University (January 2023, with Anamaria Costache)
 - [Patrick Hough](https://www.patrick-hough.com), PhD student at Oxford University (November 2022)
 - [Diego F. Aranha](https://dfaranha.github.io), Associate Professor at Aarhus University (August 2022)
 - [Akira Takahashi](https://akiratk0355.github.io), Postdoc at Aarhus University (May 2022)

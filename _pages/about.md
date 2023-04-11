@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am an Associate Professor in Cryptology at the [Department of Information Security and Communication Technology](https://www.ntnu.edu/iik) at the Norwegian University of Science and Technology (NTNU) in Trondheim, where I am a permanent member of the [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab). 
+Hi! I am an Associate Professor in Cryptology at the [Department of Information Security and Communication Technology](https://www.ntnu.edu/iik) at the Norwegian University of Science and Technology (NTNU) in Trondheim, where I am a permanent member of the [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab).
 
 I am also a Security and Cryptography Expert at the cybersecurity company [Pone Biometrics](https://ponebiometrics.com/the-team).
 
-My main foci of research are lattice-based cryptography and zero-knowledge protocols. My interests also span the areas of secure multiparty computation, homomorphic encryption, password-authenticated key exchange, electronic voting and anonymous communication.
+My main foci of research are lattice-based cryptography and zero-knowledge protocols. My interests also span the areas of post-quantum cryptography, secure multiparty computation, homomorphic encryption, electronic voting and anonymous communication.
 
 I am a member of the [International Association for Cryptologic Research](https://iacr.org) (IACR).
 
