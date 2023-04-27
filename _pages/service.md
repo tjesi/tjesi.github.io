@@ -14,6 +14,8 @@ I am organizing the NTNU Post-Quantum Cryptography Reading Group together with A
 
 I am/have been on the program committee for the following conferences/workshops:
 - 2024: PETS - The annual Privacy Enhancing Technologies Symposium
+- 2023: WAHC - The 11th Workshop on Encrypted Computing & Applied Homomorphic Cryptography
+- 2023: LATINCRYPT - The 8th International Conference on Cryptology and Information Security in Latin America
 - 2023: E-VOTE-ID - The 8th International Joint Conference on Electronic Voting
 - 2022: WAHC - The 10th Workshop on Encrypted Computing & Applied Homomorphic Cryptography
 
