@@ -11,6 +11,8 @@ author_profile: true
 
 [Nå kan du skjule alle dine meldinger, bilder og video mye lettere.](https://www.aftenposten.no/kultur/i/xg56nR/naa-kan-du-skjule-alle-dine-meldinger-bilder-og-video-mye-lettere-rettsvesenet-er-bekymret), Aftenposten, March 14th, 2023.
 
+[Gjekk rett inn i professor-jobb](https://grannar.no/2022/10/gjekk-rett-inn-i-professor-jobb), Grannar, October 18th, 2022.
+
 [Er kvantemaskiner en sikkerhetstrussel? Vi spør Tjerand Silde i jakten på svar](https://www.aplia.no/blogg/er-kvantemaskiner-en-sikkerhetstrussel-vi-spor-tjerand-silde-i-jakten-pa-svar), Aplia.no, September 29th, 2022.
 
 [Algoritmen skulle beskytte oss på internett. Den ble knekt på én time](https://www.aftenposten.no/kultur/i/rlLx7w/algoritmen-skulle-beskytte-oss-paa-internett-den-ble-knekt-paa-en-time), Aftenposten, September 24th, 2022.
