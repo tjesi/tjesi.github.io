@@ -7,7 +7,7 @@ author_profile: true
 
 ## Postdocs
 
-I am currently hosting the following researchers / postdocs:
+I am currently hosting the following postdocs:
 - [Hans Heum](https://www.ntnu.edu/employees/hans.heum) (Researcher / Postdoc 2023-, hosted at the Department of Matemathical Sciences at NTNU)
 
 ## PhD Students
