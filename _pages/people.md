@@ -29,6 +29,8 @@ I am currently/have been (co-)supervising the following students:
 ## Visitors
 
 I have had the pleasure of having the following researchers visiting me at NTNU:
+- [Daniel Slamanig](https://danielslamanig.info), Senior Scientist at Austrian Institute of Technology (May 2023)
+- [Anca Nitulescu](https://www.di.ens.fr/~nitulesc), Researcher at Protocol Labs (May 2023, with Anamaria Costache)
 - [Katharina Boudgoust](https://katinkabou.github.io), Postdoc at Aarhus University (January 2023, with Anamaria Costache)
 - [Patrick Hough](https://www.patrick-hough.com), PhD student at Oxford University (November 2022)
 - [Diego F. Aranha](https://dfaranha.github.io), Associate Professor at Aarhus University (August 2022)
