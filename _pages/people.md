@@ -13,8 +13,8 @@ I am currently hosting the following postdocs:
 ## PhD Students
 
 I am currently supervising the following PhD students:
-- [Caroline Sandsbråten](https://www.ntnu.edu/employees/caroline.sandsbraten) (PhD 2022-, main supervisor, Danilo Gligoroski is the co-supervisor)
-- [Emil August Olaisen](https://www.ntnu.edu/employees/emil.august.olaisen) (PhD 2022-, main supervisor, Danilo Gligoroski is the co-supervisor)
+- [Caroline Sandsbråten](https://www.ntnu.edu/employees/caroline.sandsbraten) (PhD 2022-, main supervisor)
+- [Emil August Olaisen](https://www.ntnu.edu/employees/emil.august.olaisen) (PhD 2022-, main supervisor)
 - [Cristian Baeza](https://www.ntnu.edu/employees/cristian.baeza) (PhD 2022-, co-supervisor, Anamaria Costache is the main supervisor)
 
 ## Bachelor's and Master's Students
