@@ -9,7 +9,10 @@ author_profile: true
 
 **Fall 2023:**
 
-* Secure Cryptographic Implementations (TTM4205) at NTNU (Lecturer)
+* Secure Cryptographic Implementations ([TTM4205](https://www.ntnu.edu/studies/courses/TTM4205)) at NTNU (Lecturer)
+
+
+## Previous semesters:
 
 **Spring 2023:**
 
@@ -17,8 +20,6 @@ author_profile: true
  ([Description](https://www.ntnu.no/videre/gen/-/courses/nv22186)) at NTNU (Lecturer)
 * Digital sikkerhet i praksis - Informasjonsbeskyttelse
  ([Description](https://www.ntnu.no/videre/gen/-/courses/nv21828)) at NTNU (Lecturer)
-
-## Previous semesters:
 
 **Fall 2022:**
 
