@@ -7,6 +7,8 @@ author_profile: true
 
 ## Interviews
 
+[Foreslår BankID på innlogging i sosiale medier](https://www.nrk.no/norge/foreslar-bankid-pa-innlogging-i-sosiale-medier-1.16429728), NRK.no, June 5th, 2023.
+
 [EU vil ta nettovergripere ved å overvåke oss alle](https://www.aftenposten.no/kultur/i/q1QK10/eu-vil-ta-nettovergripere-ved-aa-overvaake-oss-alle), Aftenposten, March 27th, 2023.
 
 [Nå kan du skjule alle dine meldinger, bilder og video mye lettere.](https://www.aftenposten.no/kultur/i/xg56nR/naa-kan-du-skjule-alle-dine-meldinger-bilder-og-video-mye-lettere-rettsvesenet-er-bekymret), Aftenposten, March 14th, 2023.
