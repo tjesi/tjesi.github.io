@@ -18,6 +18,7 @@ I am a member of the [International Association for Cryptologic Research](https:
 
 **News**:
 
+- New "[Concrete NTRU Security and Advances in Practical Lattice-Based Electronic Voting](https://eprint.iacr.org/2023/933)" is available on ePrint. This is joint work with Patrick Hough and Caroline Sandsbråten. - We are looking for a PhD student in Cryptographic Engineering with application deadline September 15, [see announcement here](https://www.jobbnorge.no/en/available-jobs/job/246480/phd-candidate-in-cryptography-engineering).
 - I am on the program committee for [E-Vote-ID 2023](https://e-vote-id.org/call-for-papers-2023) (deadline May 15th), [Latincrypt 2023](https://www.espe.edu.ec/latincrypt) (deadline May 26th), [PETS 2024](https://www.petsymposium.org/cfp24.php) (first deadline May 31st, 2023) and [WAHC 2023](https://homomorphicencryption.org/workshops-wahc23) (deadline July 7th). Submit your best voting / crypto / privacy / FHE papers!
 - Our paper [Verifiable Mix-Nets and Distributed Decryption for Voting from Lattice-Based Assumptions](https://eprint.iacr.org/2022/422.pdf) is accepted at ACM CCS 2023. This is joint work with Diego F. Aranha, Carsten Baum and Kristian Gjøsteen.
 - I started as an Associate Professor in Cryptology at the Department of Information Security and Communication Technology at NTNU on September 1st, 2022.
