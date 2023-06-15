@@ -31,7 +31,8 @@ Joint work with Anushua Hossain and Kristina Nelson. ([Presentation](https://tje
 
 ## Manuscripts
 
-[Concrete NTRU Security and Advances in Practical Lattice-Based Electronic Voting](https://eprint.iacr.org/2023/933), in submission.\ Joint work with Patrick Hough and Caroline Sandsbråten.
+[Concrete NTRU Security and Advances in Practical Lattice-Based Electronic Voting](https://eprint.iacr.org/2023/933), in submission.\
+Joint work with Patrick Hough and Caroline Sandsbråten.
 
 [BRAKE: Biometric Resilient Authenticated Key Exchange](https://eprint.iacr.org/2022/1408.pdf), in submission.\
 Joint work with Pia Bauspieß, Alexandre Tullot, Anamaria Costache, Christian Rathgeb, Jascha Kolberg and Christoph Busch.
