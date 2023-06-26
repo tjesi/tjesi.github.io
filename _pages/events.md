@@ -7,6 +7,12 @@ author_profile: true
 
 I have participated or will participate at the following conferences, seminars and workshops in cryptography and information security.
 
+**CCS 2023**: The ACM Conference on Computer and Communications Security, November 26.-30., 2023 - Copenhagen, Denmark. [sigsac.org/ccs/CCS2023](https://www.sigsac.org/ccs/CCS2023)
+
+**Norsk Kryptoseminar 2023**: October 27, 2023 – Oslo, Norway. [wiki.math.ntnu.no/nks](https://wiki.math.ntnu.no/nks)
+
+**Sikkerhetsfestivalen 2023**: August 28.-30., 2019 – Lillehammer, Norway. [sikkerhetsfestivalen.no](https://sikkerhetsfestivalen.no)
+
 **TPMPC 2023**: Theory and Practice of Multi-Party Computation Workshop, June 8.-9., 2023 – Aarhus, Denmark. [multipartycomputation.com/tpmpc-2023](https://www.multipartycomputation.com/tpmpc-2023)
 
 **Lattices Meet Hashes**: Recent Advances in Post-Quantum Zero-Knowledge Proofs, May 1.-3., 2023 – Lausanne, Switzerland. [lattices-meet-hashes23.epfl.ch](https://lattices-meet-hashes23.epfl.ch/index.html)
@@ -17,7 +23,7 @@ I have participated or will participate at the following conferences, seminars a
 
 **ACISP 2022**: The 27th Australasian Conference on Information Security and Privacy. November 28.-30., 2022 – Wollongong, Australia. [uow-ic2.github.io/acisp2022](https://uow-ic2.github.io/acisp2022)
 
-**Norsk Kryptoseminar 2022**: October 28, 2022 – Bergen, Norway. [simula-uib.com/norsk-kryptoseminar-2022](hhttps://simula-uib.com/norsk-kryptoseminar-2022)
+**Norsk Kryptoseminar 2022**: October 28, 2022 – Bergen, Norway. [simula-uib.com/norsk-kryptoseminar-2022](https://simula-uib.com/norsk-kryptoseminar-2022)
 
 **Lattices**: Workshop on Foundations and Applications of Lattice-based Cryptography. July 25.-28., 2022 - Edinburgh, Scotland. [sites.google.com/view/lattice-research-workshop-2022](https://sites.google.com/view/lattice-research-workshop-2022)
 
