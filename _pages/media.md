@@ -7,6 +7,8 @@ author_profile: true
 
 ## Interviews
 
+[Denne Brikken fjerner alle passord](https://tjerandsilde.no/files/TU-2023-04.pdf), Teknisk Ukeblad, June 28th, 2023.
+
 [Foreslår BankID på innlogging i sosiale medier](https://www.nrk.no/norge/foreslar-bankid-pa-innlogging-i-sosiale-medier-1.16429728), NRK.no, June 5th, 2023.
 
 [EU vil ta nettovergripere ved å overvåke oss alle](https://www.aftenposten.no/kultur/i/q1QK10/eu-vil-ta-nettovergripere-ved-aa-overvaake-oss-alle), Aftenposten, March 27th, 2023.
