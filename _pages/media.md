@@ -7,6 +7,10 @@ author_profile: true
 
 ## Interviews
 
+[300 forskere advarer mot EU-lov: – Farlig teknologi om den hadde fungert](https://www.morgenbladet.no/aktuelt/2023/07/05/300-forskere-advarer-mot-eu-lov-farlig-teknologi-om-den-hadde-fungert/), Morgenbladet, July 5th, 2023.
+
+[Massivt opprop mot å skanne mobiler for overgrepsmateriale](https://nrkbeta.no/2023/07/05/massivt-opprop-mot-a-skanne-mobiler-for-overgrepsmateriale/#comments-76619), NRK.no, July 5th, 2023.
+
 [Denne Brikken fjerner alle passord](https://tjerandsilde.no/files/TU-2023-04.pdf), Teknisk Ukeblad, June 28th, 2023.
 
 [Foreslår BankID på innlogging i sosiale medier](https://www.nrk.no/norge/foreslar-bankid-pa-innlogging-i-sosiale-medier-1.16429728), NRK.no, June 5th, 2023.
