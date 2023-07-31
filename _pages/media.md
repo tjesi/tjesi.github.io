@@ -7,13 +7,13 @@ author_profile: true
 
 ## Interviews
 
-[EU vil skanne mobilen din i jakten på nettovergripere. Nå advarer mer enn 300 forskere mot forslaget.](https://www.aftenposten.no/kultur/i/bgwX83/eu-vil-skanne-mobilen-din-i-jakten-paa-nettovergripere-naa-advarer-mer-enn-300-forskere-mot-forslaget), Aftenposten, July 6th, 2023.
+[Denne brikken fjerner behovet for passord](https://www.digi.no/artikler/denne-brikken-fjerner-behovet-for-passord/534501?key=dEHlfzjo), digi.no/TU, July 29th, 2023.
+
+[EU vil skanne mobilen din i jakten på nettovergripere](https://www.aftenposten.no/kultur/i/bgwX83/eu-vil-skanne-mobilen-din-i-jakten-paa-nettovergripere-naa-advarer-mer-enn-300-forskere-mot-forslaget), Aftenposten, July 6th, 2023.
 
 [300 forskere advarer mot EU-lov: – Farlig teknologi om den hadde fungert](https://www.morgenbladet.no/aktuelt/2023/07/05/300-forskere-advarer-mot-eu-lov-farlig-teknologi-om-den-hadde-fungert/), Morgenbladet, July 5th, 2023.
 
 [Massivt opprop mot å skanne mobiler for overgrepsmateriale](https://nrkbeta.no/2023/07/05/massivt-opprop-mot-a-skanne-mobiler-for-overgrepsmateriale/#comments-76619), NRK.no, July 5th, 2023.
-
-[Denne Brikken fjerner alle passord](https://tjerandsilde.no/files/TU-2023-04.pdf), Teknisk Ukeblad, June 28th, 2023.
 
 [Foreslår BankID på innlogging i sosiale medier](https://www.nrk.no/norge/foreslar-bankid-pa-innlogging-i-sosiale-medier-1.16429728), NRK.no, June 5th, 2023.
 
