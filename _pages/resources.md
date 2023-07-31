@@ -21,6 +21,8 @@ Cohen: [Cryptography Online Talks Calendar](https://www.ccs.neu.edu/~rancohen/cr
 ## Books and Lecture Notes in Cryptography
 
 - Anderson: [Security Engineering](https://www.cl.cam.ac.uk/~rja14/book.html)
+- Barak: [An Intensive Introduction to Cryptography
+](https://intensecrypto.org/public/index.html)
 - Bellare: [Lectures on NIZKs: A Concrete Security Treatment](https://cseweb.ucsd.edu/~mihir/cse208-Wi20/main.pdf)
 - Boneh and Shoup: [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us)
 - Galbraith: [Mathematics of Public Key Cryptography](https://www.math.auckland.ac.nz/~sgal018/crypto-book/crypto-book.html)
