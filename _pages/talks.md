@@ -5,9 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
-## Coming Talks:
+## Upcoming Talks:
 
-* No upcoming talks at the moment...
+* "Kvantesikker kryptografi 1: slutten på starten" - Sikkerhetsfestivalen, August 2023.
+* "Secure authentication with FIDO, Biometrics and Security Keys" - Sikkerhetsfestivalen, August 2023.
 
 ## Cryptography and Information Security Talks:
 
