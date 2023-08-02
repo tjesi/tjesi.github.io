@@ -7,9 +7,7 @@ author_profile: true
 
 I think it is important to contribute to the community by organizing seminars and conferences so that members can meet and discuss joint interestes, and be on program committies to promote and support the progress of scientific research.
 
-## Professional Service
-
-# Organization
+## Organization
 
 I was on the organizing committee for [Eurocrypt 2022](https://eurocrypt.iacr.org/2022) in Trondheim. Colin Boyd was the General Chair.
 
@@ -17,7 +15,7 @@ I organized the [Norwegian Crypto Seminar 2020](https://wiki.math.ntnu.no/nks/nk
 
 I previously organized the NTNU Post-Quantum Cryptography Reading Group together with Anamaria Costache.
 
-# Program Committees
+## Program Committees
 
 - 2024: PETS - The annual Privacy Enhancing Technologies Symposium
 - 2023: WAHC - The 11th Workshop on Encrypted Computing & Applied Homomorphic Cryptography
@@ -25,7 +23,7 @@ I previously organized the NTNU Post-Quantum Cryptography Reading Group together
 - 2023: E-VOTE-ID - The 8th International Joint Conference on Electronic Voting
 - 2022: WAHC - The 10th Workshop on Encrypted Computing & Applied Homomorphic Cryptography
 
-# Reviewer
+## Reviewer
 
 - 2023: PETS and ESORICS.
 - 2022: PKC, PETS, ANTS, CCS, PQCrypto and ESORICS.
