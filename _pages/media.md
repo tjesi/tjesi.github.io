@@ -73,7 +73,7 @@ author_profile: true
 
 [Digital kompetanse i norsk skole er en bløff](https://www.digi.no/artikler/digital-kompetanse-i-norsk-skole-er-en-bloff/348037), Digi.no, April 26th, 2016.
 
-## Mentioned
+## Mentiones
 
 [Historien om Smittestopp, fra innsida: - Personvern handler om tekniske valg](https://www.kode24.no/artikkel/historien-om-smittestopp-fra-innsida-personvern-handler-om-tekniske-valg/77012938), Kode24.no, August 30th, 2022.
 
