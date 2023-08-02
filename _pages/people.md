@@ -7,19 +7,18 @@ author_profile: true
 
 ## Postdocs
 
-I am currently hosting the following postdocs:
-- [Hans Heum](https://www.ntnu.edu/employees/hans.heum) (Researcher / Postdoc 2023-, hosted at the Department of Matemathical Sciences at NTNU)
+- [Hans Heum](https://www.ntnu.edu/employees/hans.heum) (Postdoc 2023-, hosted at the Department of Matemathical Sciences at NTNU)
 
 ## PhD Students
 
-I am currently supervising the following PhD students:
 - [Caroline Sandsbråten](https://www.ntnu.edu/employees/caroline.sandsbraten) (PhD 2022-, main supervisor)
 - [Emil August Olaisen](https://www.ntnu.edu/employees/emil.august.olaisen) (PhD 2022-, main supervisor)
 - [Cristian Baeza](https://www.ntnu.edu/employees/cristian.baeza) (PhD 2022-, co-supervisor, Anamaria Costache is the main supervisor)
 
 ## Bachelor's and Master's Students
 
-I am currently/have been (co-)supervising the following students:
+- Carl Ludvig Digné - "Implementing Quantum Secure Passwordless Authentication" (Master's thesis 2024, co-supervised with Trond Peder Hagen and Magnus Ringerud)
+- Sondre Rishøi and Jonatan Såstad Østgaard - "Next Generation Electronic Voting in Switzerland" (Master's thesis 2024, co-supervised with Audhild Høgåsen)
 - Emil Marstrander - "Use of Messaging Layer Security in Military Drones" (Master's thesis 2023, co-supervised with Martin Strand)
 - Matej Poljuha - "[Benchmarking Post-Quantum Secure Biometric Resilient Authenticated Key Exchange](https://tjerandsilde.no/files/Matej.pdf)" (Master's thesis 2023, co-supervised with Pia Bauspiess)
 - Audhild Høgåsen - "[Return Codes from Lattice Assumptions](https://tjerandsilde.no/files/Audhild-master-thesis.pdf)" (Master's thesis 2022)

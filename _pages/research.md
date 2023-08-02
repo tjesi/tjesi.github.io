@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-I believe that all scientific publications should be freely available online, given that researchers and peer-reviewers are largely supported by public funding. Therefore I am committed to make all my papers availabe to the general public. If there is a paper of mine you would like to read but do not have access to, please write me an email and I will be happy to share a copy with you. (Statement replicated from [Claudio Orlandi](https://cs.au.dk/~orlandi).)
+I believe that all scientific publications should be freely available online, given that researchers and peer-reviewers are largely supported by public funding. Therefore I am committed to make all my papers availabe to the general public. If there is a paper of mine you would like to read but do not have access to, please write me an email and I will be happy to share a copy with you. (Statement replicated from [Claudio Orlandi](https://cs.au.dk/~orlandi))
 
 ## Publications
 
