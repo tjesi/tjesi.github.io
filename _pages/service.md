@@ -5,7 +5,7 @@ permalink: /service/
 author_profile: true
 ---
 
-I think it is important to contribute to the community by organizing seminars and conferences so that members can meet and discuss joint interestes, and be on program committies to promote and support the progress of scientific research.
+I believe it is important to contribute to the community by organizing seminars and conferences so that members can meet and discuss joint interestes, and be on program committies to promote and support the progress of scientific research.
 
 ## Organization
 
