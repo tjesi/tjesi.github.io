@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<base target="_blank">
-
 Hi! I am an Associate Professor in Cryptology at the [Department of Information Security and Communication Technology](https://www.ntnu.edu/iik) at the Norwegian University of Science and Technology (NTNU) in Trondheim, where I am the Research Group Leader of the [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab).
 
 I am also a Security and Cryptography Expert at the cybersecurity company [Pone Biometrics](https://ponebiometrics.com/the-team).
