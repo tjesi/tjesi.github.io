@@ -27,7 +27,7 @@ author_profile: true
 
 ## Supervisors
 
-I am grateful to [Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen) for supervising my Bachelor's (2017), Master's (2020), and PhD thesis (2022) and to [Colin Boyd](https://scholar.google.no/citations?user=CIfBKmMAAAAJ) for co-supervising my PhD thesis. I am also grateful to [Carsten Baum](http://carstenbaum.com) and [Diego F. Aranha](https://dfaranha.github.io) at Aarhus Unviersity and [Jonathan Katz](https://www.cs.umd.edu/~jkatz) at University of Maryland for hosing me during my PhD.
+I am grateful to [Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen) for supervising my Bachelor's (2017), Master's (2020), and PhD thesis (2022) and to [Colin Boyd](https://scholar.google.no/citations?user=CIfBKmMAAAAJ) for co-supervising my PhD thesis. I am also grateful to [Carsten Baum](http://carstenbaum.com) and [Diego F. Aranha](https://dfaranha.github.io) at Aarhus Unviersity and [Jonathan Katz](https://www.cs.umd.edu/~jkatz) at the University of Maryland for hosting and mentoring me during my PhD.
 
 ## Visitors
 
