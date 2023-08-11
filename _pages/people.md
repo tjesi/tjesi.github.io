@@ -27,7 +27,7 @@ author_profile: true
 
 ## Supervisors
 
-I am grateful to [Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen) for supervising my Bachelor's, Master's, and PhD thesis and to [Colin Boyd](https://scholar.google.no/citations?user=CIfBKmMAAAAJ) for co-supervising my PhD thesis.
+I am grateful to [Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen) for supervising my Bachelor's, Master's, and PhD thesis and to [Colin Boyd](https://scholar.google.no/citations?user=CIfBKmMAAAAJ) for co-supervising my PhD thesis. I am also grateful to [Carsten Baum](http://carstenbaum.com), [Diego F. Aranha](https://dfaranha.github.io) and [Jonathan Katz](https://www.cs.umd.edu/~jkatz) for hosing me during my PhD.
 
 ## Visitors
 
