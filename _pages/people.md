@@ -42,8 +42,8 @@ I have had the pleasure of having the following researchers visiting me at NTNU:
 ## Research Visits
 
 I have had the pleasure of visiting the following researchers outside of NTNU:
-- [Diego F. Aranha](https://dfaranha.github.io) at Aarhus University (June 2023)
-- [Thomas Haines](https://cecc.anu.edu.au/people/thomas-haines) at the Australian National University (December 2022)
-- [Jonathan Katz](https://www.cs.umd.edu/~jkatz) at the University of Maryland (October 2021 to February 2022)
-- [Carsten Baum](http://carstenbaum.com) and [Diego F. Aranha](https://dfaranha.github.io) at Aarhus University (August to December 2020)
-- [Carsten Baum](http://carstenbaum.com) at Aarhus University (November 2019)
+- [Diego F. Aranha](https://dfaranha.github.io) at Aarhus University, DK (June 2023)
+- [Thomas Haines](https://cecc.anu.edu.au/people/thomas-haines) at the Australian National University, AUS (December 2022)
+- [Jonathan Katz](https://www.cs.umd.edu/~jkatz) at the University of Maryland, USA (October 2021 to February 2022)
+- [Carsten Baum](http://carstenbaum.com) and [Diego F. Aranha](https://dfaranha.github.io) at Aarhus University, DK (August to December 2020)
+- [Carsten Baum](http://carstenbaum.com) at Aarhus University, DK (November 2019)
