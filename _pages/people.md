@@ -25,6 +25,10 @@ author_profile: true
 - Alejandro Rodriguez - "[Implementing Lattice-Based Cryptography](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3009053)" (Bachelor's thesis 2022)
 - Guro Rio Berge - "[Cryptographic Protocols from Lattice Assumptions](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3009054)" (Bachelor's thesis 2022)
 
+## Supervisors
+
+I am grateful to [Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen) for supervising my Bachelor's, Master's, and PhD thesis and to [Colin Boyd](https://scholar.google.no/citations?user=CIfBKmMAAAAJ) for co-supervising my PhD thesis.
+
 ## Visitors
 
 I have had the pleasure of having the following researchers visiting me at NTNU:
