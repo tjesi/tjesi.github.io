@@ -18,7 +18,7 @@ I am a member of the [International Association for Cryptologic Research](https:
 
 **News**:
 
-- We are looking for a [PhD student in Cryptographic Engineering](https://www.jobbnorge.no/en/available-jobs/job/246480/phd-candidate-in-cryptography-engineering) and a [postdoctoral fellow in Lightweight Post-Quantum Cryptography](https://www.jobbnorge.no/en/available-jobs/job/248833/postdoctoral-fellow-in-lightweight-post-quantum-cryptography). Application deadline is September 15th.
+- We are looking for a [PhD Student in Cryptographic Engineering](https://www.jobbnorge.no/en/available-jobs/job/246480/phd-candidate-in-cryptography-engineering) and a [Postdoctoral Fellow in Lightweight Post-Quantum Cryptography](https://www.jobbnorge.no/en/available-jobs/job/248833/postdoctoral-fellow-in-lightweight-post-quantum-cryptography). Application deadline is September 15th.
 - I am teaching the new course [TTM4205 Secure Cryptographic Implementations](https://tjerandsilde.no/TTM4205) this fall. The first lecture is Tuesday August 22nd at 12:15 in [R92](https://link.mazemap.com/H5vy03ul).
 - I have together with 464 other cryptography and privacy researchers from all over the world signed a [joint statement of scientists and researchers on EU’s proposed Child Sexual Abuse Regulation](https://docs.google.com/document/d/13Aeex72MtFBjKhExRTooVMWN9TC-pbH-5LEaAbMF91Y/edit). The regulation must change. Now.
 - New paper "[Concrete NTRU Security and Advances in Practical Lattice-Based Electronic Voting](https://eprint.iacr.org/2023/933)" is available on ePrint. Joint work with Patrick Hough and Caroline Sandsbråten.
