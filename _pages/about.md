@@ -18,9 +18,9 @@ I am a member of the [International Association for Cryptologic Research](https:
 
 **News**:
 
+- We are looking for a [PhD student in Cryptographic Engineering](https://www.jobbnorge.no/en/available-jobs/job/246480/phd-candidate-in-cryptography-engineering) and a [postdoctoral fellow in Lightweight Post-Quantum Cryptography](https://www.jobbnorge.no/en/available-jobs/job/248833/postdoctoral-fellow-in-lightweight-post-quantum-cryptography). Application deadline is September 15th for both.
 - I am teaching the new course [TTM4205 Secure Cryptographic Implementations](https://tjerandsilde.no/TTM4205) this fall. The first lecture is Tuesday August 22nd at 12:15 in [R92](https://link.mazemap.com/H5vy03ul).
 - I have together with 464 other cryptography and privacy researchers from all over the world signed a [joint statement of scientists and researchers on EU’s proposed Child Sexual Abuse Regulation](https://docs.google.com/document/d/13Aeex72MtFBjKhExRTooVMWN9TC-pbH-5LEaAbMF91Y/edit). The regulation must change. Now.
-- We are looking for a PhD student in [Cryptographic Engineering](https://www.jobbnorge.no/en/available-jobs/job/246480/phd-candidate-in-cryptography-engineering). Apply by September 15th.
 - New paper "[Concrete NTRU Security and Advances in Practical Lattice-Based Electronic Voting](https://eprint.iacr.org/2023/933)" is available on ePrint. Joint work with Patrick Hough and Caroline Sandsbråten.
 - Our paper [Verifiable Mix-Nets and Distributed Decryption for Voting from Lattice-Based Assumptions](https://eprint.iacr.org/2022/422.pdf) is accepted at ACM CCS 2023. This is joint work with Diego F. Aranha, Carsten Baum and Kristian Gjøsteen.
 - I started as an Associate Professor in Cryptology at the Department of Information Security and Communication Technology at NTNU on September 1st, 2022.
