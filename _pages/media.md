@@ -7,6 +7,8 @@ author_profile: true
 
 ## Interviews
 
+[Trodde nesten det var en aprilspøk da hun leste om overvåkning av ansatte](https://khrono.no/trodde-nesten-det-var-en-aprilspok-da-hun-leste-om-overvakning-av-ansatte/804519), khrono.no, August 25th, 2023.
+
 [Denne brikken fjerner behovet for passord](https://www.digi.no/artikler/denne-brikken-fjerner-behovet-for-passord/534501?key=dEHlfzjo), digi.no/TU, July 29th, 2023.
 
 [EU vil skanne mobilen din i jakten på nettovergripere](https://www.aftenposten.no/kultur/i/bgwX83/eu-vil-skanne-mobilen-din-i-jakten-paa-nettovergripere-naa-advarer-mer-enn-300-forskere-mot-forslaget), Aftenposten, July 6th, 2023.
