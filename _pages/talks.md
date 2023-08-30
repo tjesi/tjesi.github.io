@@ -7,11 +7,13 @@ author_profile: true
 
 ## Upcoming Talks:
 
-* "Kvantesikker kryptografi 1: slutten på starten" - Sikkerhetsfestivalen, August 2023.
-* "Secure authentication with FIDO, Biometrics and Security Keys" - Sikkerhetsfestivalen, August 2023.
+* No planned upcoming talks...
+
 
 ## Cryptography and Information Security Talks:
 
+* "[Kvantesikker kryptografi 1: slutten på starten](https://tjerandsilde.no/files/Sikkerhetsfestivalen-2023-kvante.pdf)" - Sikkerhetsfestivalen, August 2023.
+* "[Secure authentication with FIDO, Biometrics and Security Keys](https://tjerandsilde.no/files/Sikkerhetsfestivalen-2023-fido.pdf)" - Sikkerhetsfestivalen, August 2023.
 * "[Sikker autentisering i en kvanteverden](https://tjerandsilde.no/files/autentisering.pdf)" - Sikkerhetsfagkveld hos Bekk, September, 2022.
 * "[Smittestopp dissekert](https://tjerandsilde.no/files/Smittestopp-dissekert.pdf)" - [Seminar om smittesporing ved UiO](https://www.jus.uio.no/ikrs/om/aktuelt/arrangementer/2022/smittestopp-og-smittesporing-to-ar-med-pandemi.html), September, 2022.
 * “[The quantum (in-)secure future of the financial sector](https://tjerandsilde.no/files/finance.pdf)” - [Cyber Security in 20 minutes](https://financeinnovation.no/events/cyber-security-in-20-minutes-the-quantum-threat), September, 2022.
