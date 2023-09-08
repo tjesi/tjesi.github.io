@@ -10,7 +10,7 @@ author_profile: true
 **Fall 2023:**
 
 * Secure Cryptographic Implementations ([TTM4205](https://www.ntnu.edu/studies/courses/TTM4205)) at NTNU (Lecturer)
-
+* Privacy Enhancing Technologies (PhD Seminar [TM8110](https://www.ntnu.edu/studies/courses/TM8110)) at NTNU (Lecturer)
 
 ## Previous semesters:
 
