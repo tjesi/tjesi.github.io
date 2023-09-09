@@ -19,6 +19,7 @@ author_profile: true
 
 - Carl Ludvig Digné - "Implementing Quantum Secure Passwordless Authentication" (Master's thesis 2024, co-supervised with Trond Peder Hagen and Magnus Ringerud)
 - Sondre Rishøi and Jonatan Såstad Østgaard - "Next Generation Electronic Voting in Switzerland" (Master's thesis 2024, co-supervised with Audhild Høgåsen)
+- Lottelise Bergsrud and Abita Vaseeharanathan - "Crypto for the People" (Master's thesis 2024, co-supervised with Katrien De Moor)
 - Emil Marstrander - "Use of Messaging Layer Security in Military Drones" (Master's thesis 2023, co-supervised with Martin Strand)
 - Matej Poljuha - "[Benchmarking Post-Quantum Secure Biometric Resilient Authenticated Key Exchange](https://tjerandsilde.no/files/Matej.pdf)" (Master's thesis 2023, co-supervised with Pia Bauspiess)
 - Audhild Høgåsen - "[Return Codes from Lattice Assumptions](https://tjerandsilde.no/files/Audhild-master-thesis.pdf)" (Master's thesis 2022)
