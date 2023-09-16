@@ -7,6 +7,8 @@ author_profile: true
 
 I have participated or will participate at the following conferences, seminars and workshops in cryptography and information security.
 
+**Zero-Knowledge**: Workshop on Foundations and Applications of Zero-Knowledge Proofs, September 2.-6., 2024 - Edinburgh, Scotland. [icms.org.uk/ZeroKnowledgeProofs](https://www.icms.org.uk/ZeroKnowledgeProofs)
+
 **CCS 2023**: The ACM Conference on Computer and Communications Security, November 26.-30., 2023 - Copenhagen, Denmark. [sigsac.org/ccs/CCS2023](https://www.sigsac.org/ccs/CCS2023)
 
 **Norsk Kryptoseminar 2023**: October 27, 2023 – Oslo, Norway. [wiki.math.ntnu.no/nks](https://wiki.math.ntnu.no/nks)
