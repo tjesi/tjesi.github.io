@@ -18,6 +18,7 @@ I am a member of the [International Association for Cryptologic Research](https:
 
 **News**:
 
+- I am organising a workshop on "[Foundations and Applications of Zero-Knowledge Proofs](https://www.icms.org.uk/ZeroKnowledgeProofs)" together with Elizabeth Crites, Markulf Kohlweiss, and Akira Takahashi at the ICMS in Edinburg from September 2nd to 6th, 2024.
 - I published an opinion piece in Morgenbladet about end-to-end encryption and surveillance with respect to the new EU proposal Chat Control 2.0 (in Norwegian): [EU-kommisjonens forsvar for Chat Control 2.0 bygger på enten løgn eller inkompetanse](https://www.morgenbladet.no/ideer/kronikk/2023/09/05/eu-kommisjonens-forsvar-for-chat-control-20-bygger-pa-enten-logn-eller-inkompetanse).
 - We are looking for a [PhD Student in Cryptographic Engineering](https://www.jobbnorge.no/en/available-jobs/job/246480/phd-candidate-in-cryptography-engineering) and a [Postdoctoral Fellow in Lightweight Post-Quantum Cryptography](https://www.jobbnorge.no/en/available-jobs/job/248833/postdoctoral-fellow-in-lightweight-post-quantum-cryptography). Application deadline is September 15th.
 - I am teaching the new course [TTM4205 Secure Cryptographic Implementations](https://tjerandsilde.no/TTM4205) this fall. 
