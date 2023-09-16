@@ -27,7 +27,7 @@ I have participated or will participate at the following conferences, seminars a
 
 **Norsk Kryptoseminar 2022**: October 28, 2022 – Bergen, Norway. [simula-uib.com/norsk-kryptoseminar-2022](https://simula-uib.com/norsk-kryptoseminar-2022)
 
-**Lattices**: Workshop on Foundations and Applications of Lattice-based Cryptography. July 25.-28., 2022 - Edinburgh, Scotland. [sites.google.com/view/lattice-research-workshop-2022](https://sites.google.com/view/lattice-research-workshop-2022)
+**Lattices**: Workshop on Foundations and Applications of Lattice-based Cryptography. July 25.-28., 2022 - Edinburgh, Scotland. [icms.org.uk/workshops/2022/foundations-and-applications-lattice-based-cryptography](https://www.icms.org.uk/workshops/2022/foundations-and-applications-lattice-based-cryptography)
 
 **Eurocrypt 2022**: The 41th Annual International Conference on the Theory and Applications of Cryptographic Techniques. May 30.-June 3., 2022 – Trondheim, Norway. [eurocrypt.iacr.org/2022](https://eurocrypt.iacr.org/2022)
 
