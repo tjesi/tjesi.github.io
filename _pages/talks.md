@@ -7,6 +7,7 @@ author_profile: true
 
 ## Upcoming Talks:
 
+* "Lattice-Based Threshold Signatures" - NTNU Applied Cryptology Lab, September, 2023.
 * "Lattice-Based Electronic Voting" - IMDEA Software Madrid, September, 2023.
 
 
