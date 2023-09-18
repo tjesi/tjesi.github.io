@@ -12,11 +12,11 @@ I believe that all scientific publications should be freely available online, gi
 [Verifiable Mix-Nets and Distributed Decryption for Voting from Lattice-Based Assumptions](https://eprint.iacr.org/2022/422), ACM CCS 2023.  
 Joint work with Diego F. Aranha, Carsten Baum and Kristian Gjøsteen.
 
-[Short paper: Return Codes from Lattice Assumptions](https://dspace.ut.ee/bitstream/handle/10062/84323/12.pdf?sequence=1&isAllowed=y), E-Vote-ID Conference 2022.  
-Joint work with Audhild Høgåsen.
-
 [Verifiable Decryption in the Head](https://eprint.iacr.org/2021/558), Australasian Conference on Information Security and Privacy 2022.  
 Joint work with Kristian Gjøsteen, Thomas Haines, Johannes Müller and Peter Rønne.
+
+[Short paper: Return Codes from Lattice Assumptions](https://dspace.ut.ee/bitstream/handle/10062/84323/12.pdf?sequence=1&isAllowed=y), E-Vote-ID Conference 2022.  
+Joint work with Audhild Høgåsen.
 
 [Short paper: Verifiable Decryption for BGV](https://eprint.iacr.org/2021/1693), the Workshop on Advances in Secure Electronic Voting 2022.
 
@@ -39,6 +39,11 @@ Joint work with Patrick Hough and Caroline Sandsbråten.
 
 [BRAKE: Biometric Resilient Authenticated Key Exchange](https://eprint.iacr.org/2022/1408)  
 Joint work with Pia Bauspieß, Alexandre Tullot, Anamaria Costache, Christian Rathgeb, Jascha Kolberg and Christoph Busch.
+
+## Projects
+
+Our project "[OffPAD -- Optimizing balance between high security and usability](https://prosjektbanken.forskningsradet.no/en/project/FORISS/321619)" got funded 16M NOK by the Norwegian Research Council for research on lightweight and PQ crypto.
+
 
 ## Theses, Reports and Implementations
 
