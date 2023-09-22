@@ -42,7 +42,7 @@ Joint work with Pia Bauspieß, Alexandre Tullot, Anamaria Costache, Christian Ra
 
 ## Projects
 
-Our project "[OffPAD -- Optimizing balance between high security and usability](https://prosjektbanken.forskningsradet.no/en/project/FORISS/321619)" got funded 16M NOK by the Norwegian Research Council for research on lightweight and PQ crypto.
+I am the co-PI of the project "[OffPAD -- Optimizing balance between high security and usability](https://prosjektbanken.forskningsradet.no/en/project/FORISS/321619)" that got funded 16M NOK by the Research Council Norwegian for research on lightweight and post-quantum secure cryptography. We are hiring two postdoctoral researchers to work on these topics.
 
 
 ## Theses, Reports and Implementations
