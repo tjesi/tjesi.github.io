@@ -57,7 +57,7 @@ author_profile: true
 
 ## Commentaries and Blog Posts
 
-[EU-kommisjonens forsvar for Chat Control 2.0 bygger på enten løgn eller inkompetanse](https://www.morgenbladet.no/ideer/kronikk/2023/09/05/eu-kommisjonens-forsvar-for-chat-control-20-bygger-pa-enten-logn-eller-inkompetanse), morgenbladet.no, September 5th, 2023.
+[EU-kommisjonens forsvar for Chat Control 2.0 bygger på enten løgn eller inkompetanse](https://www.morgenbladet.no/ideer/kronikk/2023/09/05/eu-kommisjonens-forsvar-for-chat-control-20-bygger-pa-enten-logn-eller-inkompetanse), Morgenbladet, September 5th, 2023.
 
 [Vilkårlig politiovervåkning undergraver befolkningens tillit](https://www.digi.no/artikler/debatt-vilkarlig-politiovervakning-undergraver-befolkningens-tillit/516205), digi.no, January 4th, 2022.
 
