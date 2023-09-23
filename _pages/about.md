@@ -13,7 +13,7 @@ in Trondheim, where I am the Research Group Leader of the [NTNU Applied Cryptolo
 
 I am also a Security and Cryptography Expert at the cybersecurity company [Pone Biometrics](https://ponebiometrics.com/the-team).
 
-My main foci of research are lattice-based cryptography and zero-knowledge protocols. My interests also span the broader areas of post-quantum cryptography, anonymous communication, multiparty computation, homomorphic encryption, electronic voting and secure implementation.
+My main foci of research are lattice-based cryptography and zero-knowledge protocols. My interests also span the areas of post-quantum cryptography, anonymous communication, multiparty computation, homomorphic encryption, electronic voting and secure implementation.
 
 I am a member of the [International Association for Cryptologic Research](https://iacr.org) (IACR).
 
