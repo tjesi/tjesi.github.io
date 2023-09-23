@@ -44,7 +44,7 @@ I have had the pleasure of having the following researchers visiting me at NTNU:
 ## Research Visits
 
 I have had the pleasure of visiting the following researchers outside of NTNU:
-- [Maria Isabel Gonzalez Vasco](https://sites.google.com/site/maribelurjc) and [Dario Fiore](https://www.dariofiore.it) at IMEDEA, ES (September 2023) 
+- [Maria Isabel Gonzalez Vasco](https://sites.google.com/site/maribelurjc) and [Dario Fiore](https://www.dariofiore.it) at IMDEA, ES (September 2023) 
 - [Diego F. Aranha](https://dfaranha.github.io) at Aarhus University, DK (June 2023)
 - [Thomas Haines](https://cecc.anu.edu.au/people/thomas-haines) at the Australian National University, AUS (December 2022)
 - [Jonathan Katz](https://www.cs.umd.edu/~jkatz) at the University of Maryland, USA (October 2021 to February 2022)
