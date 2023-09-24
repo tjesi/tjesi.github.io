@@ -12,7 +12,7 @@ I believe that all scientific publications should be freely available online, gi
 [Verifiable Mix-Nets and Distributed Decryption for Voting from Lattice-Based Assumptions](https://eprint.iacr.org/2022/422), ACM CCS 2023.  
 Joint work with Diego F. Aranha, Carsten Baum and Kristian Gjøsteen.
 
-[Verifiable Decryption in the Head](https://eprint.iacr.org/2021/558), Australasian Conference on Information Security and Privacy 2022.  
+[Verifiable Decryption in the Head](https://eprint.iacr.org/2021/558), Australasian Conference on Information Security and Privacy (ACISP) 2022.  
 Joint work with Kristian Gjøsteen, Thomas Haines, Johannes Müller and Peter Rønne.
 
 [Short paper: Return Codes from Lattice Assumptions](https://dspace.ut.ee/bitstream/handle/10062/84323/12.pdf?sequence=1&isAllowed=y), E-Vote-ID Conference 2022.  
@@ -38,11 +38,12 @@ Joint work with Kamil Doruk Gur and Jonathan Katz.
 Joint work with Patrick Hough and Caroline Sandsbråten.
 
 [BRAKE: Biometric Resilient Authenticated Key Exchange](https://eprint.iacr.org/2022/1408)  
-Joint work with Pia Bauspieß, Alexandre Tullot, Anamaria Costache, Christian Rathgeb, Jascha Kolberg and Christoph Busch.
+Joint work with Pia Bauspieß, Alexandre Tullot, Anamaria Costache,  
+Christian Rathgeb, Jascha Kolberg and Christoph Busch.
 
 ## Projects
 
-I am the co-PI of the project "[OffPAD -- Optimizing balance between high security and usability](https://prosjektbanken.forskningsradet.no/en/project/FORISS/321619)" that got funded 16M NOK by the Research Council Norwegian for research on lightweight and post-quantum secure cryptography. We are hiring two postdoctoral researchers to work on these topics.
+I am Co-Principal Investigator of the project "[OffPAD -- Optimizing balance between high security and usability](https://prosjektbanken.forskningsradet.no/en/project/FORISS/321619)" that got funded 16M NOK by the Research Council Norwegian for research on lightweight and post-quantum secure cryptography. We are hiring two postdoctoral researchers to work on these topics.
 
 
 ## Theses, Reports and Implementations

@@ -12,16 +12,21 @@ author_profile: true
 ## PhD Students
 
 - [Caroline Sandsbråten](https://www.ntnu.edu/employees/caroline.sandsbraten) (PhD 2022-, main supervisor)
-- [Emil August Olaisen](https://www.ntnu.edu/employees/emil.august.olaisen) (PhD 2022-, main supervisor)
+- [Emil August Hovd Olaisen](https://www.ntnu.edu/employees/emil.august.olaisen) (PhD 2022-, main supervisor)
 - [Cristian Baeza](https://www.ntnu.edu/employees/cristian.baeza) (PhD 2022-, co-supervisor, Anamaria Costache is the main supervisor)
 
 ## Bachelor's and Master's Students
 
-- Carl Ludvig Digné - "Implementing Quantum Secure Passwordless Authentication" (Master's thesis 2024, co-supervised with Trond Peder Hagen and Magnus Ringerud)
-- Sondre Rishøi and Jonatan Såstad Østgaard - "Next Generation Electronic Voting in Switzerland" (Master's thesis 2024, co-supervised with Audhild Høgåsen)
-- Lottelise Bergsrud and Abita Vaseeharanathan - "Crypto for the People" (Master's thesis 2024, co-supervised with Katrien De Moor)
-- Emil Marstrander - "Use of Messaging Layer Security in Military Drones" (Master's thesis 2023, co-supervised with Martin Strand)
-- Matej Poljuha - "[Benchmarking Post-Quantum Secure Biometric Resilient Authenticated Key Exchange](https://tjerandsilde.no/files/Matej.pdf)" (Master's thesis 2023, co-supervised with Pia Bauspiess)
+- Carl Ludvig Digné - "Implementing Quantum Secure Passwordless Authentication"  
+(Master's thesis 2024, co-supervised with Trond Peder Hagen and Magnus Ringerud)
+- Sondre Rishøi and Jonatan Såstad Østgaard - "Next Generation Electronic Voting in Switzerland"  
+(Master's thesis 2024, co-supervised with Audhild Høgåsen)
+- Lottelise Bergsrud and Abita Vaseeharanathan - "Crypto for the People"  
+(Master's thesis 2024, co-supervised with Katrien De Moor)
+- Emil Marstrander - "Use of Messaging Layer Security in Military Drones"  
+(Master's thesis 2023, co-supervised with Martin Strand)
+- Matej Poljuha - "[Benchmarking Post-Quantum Secure Biometric Resilient Authenticated Key Exchange](https://tjerandsilde.no/files/Matej.pdf)"  
+(Master's thesis 2023, co-supervised with Pia Bauspiess)
 - Audhild Høgåsen - "[Return Codes from Lattice Assumptions](https://tjerandsilde.no/files/Audhild-master-thesis.pdf)" (Master's thesis 2022)
 - Alejandro Rodriguez - "[Implementing Lattice-Based Cryptography](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3009053)" (Bachelor's thesis 2022)
 - Guro Rio Berge - "[Cryptographic Protocols from Lattice Assumptions](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3009054)" (Bachelor's thesis 2022)
