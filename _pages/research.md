@@ -43,7 +43,7 @@ Christian Rathgeb, Jascha Kolberg and Christoph Busch.
 
 ## Projects
 
-I am Co-Principal Investigator of the project "[OffPAD -- Optimizing balance between high security and usability](https://prosjektbanken.forskningsradet.no/en/project/FORISS/321619)" funded by the Research Council Norwegian with 6M NOK for research on lightweight and post-quantum secure cryptography.
+I am Co-Principal Investigator of the project "[OffPAD -- Optimizing balance between high security and usability](https://prosjektbanken.forskningsradet.no/en/project/FORISS/321619)" funded by the Research Council Norwegian with 16M NOK for research on lightweight and post-quantum secure cryptography.
 
 ## Theses, Reports and Implementations
 
