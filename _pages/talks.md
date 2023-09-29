@@ -7,7 +7,7 @@ author_profile: true
 
 ## Upcoming Talks:
 
-* "Lattice-Based Electronic Voting" - IMDEA Software Madrid, September, 2023.
+* "[Lattice-Based Electronic Voting](https://tjerandsilde.no/files/IMDEA.pdf)" - IMDEA Software Madrid, September, 2023.
 
 
 ## Cryptography and Information Security Talks:
