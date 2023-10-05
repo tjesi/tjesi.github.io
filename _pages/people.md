@@ -37,7 +37,6 @@ I am grateful to [Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gj
 
 ## Visitors
 
-I have had the pleasure of having the following researchers visiting me at NTNU:
 - [Vadim Lyubashevsky](https://research.ibm.com/people/vadim-lyubashevsky), Cryptography Researcher at IBM Research Europe (November 2023)
 - [Daniel Slamanig](https://danielslamanig.info), Senior Scientist at Austrian Institute of Technology (May 2023)
 - [Anca Nitulescu](https://www.di.ens.fr/~nitulesc), Researcher at Protocol Labs (May 2023, with Anamaria Costache)
@@ -48,7 +47,6 @@ I have had the pleasure of having the following researchers visiting me at NTNU:
 
 ## Research Visits
 
-I have had the pleasure of visiting the following researchers outside of NTNU:
 - [Maria Isabel Gonzalez Vasco](https://sites.google.com/site/maribelurjc) and [Dario Fiore](https://www.dariofiore.it) at IMDEA, ES (September 2023) 
 - [Diego F. Aranha](https://dfaranha.github.io) at Aarhus University, DK (June 2023)
 - [Thomas Haines](https://cecc.anu.edu.au/people/thomas-haines) at the Australian National University, AUS (December 2022)
