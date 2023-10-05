@@ -7,11 +7,12 @@ author_profile: true
 
 ## Upcoming Talks:
 
-* "[Lattice-Based Electronic Voting](https://tjerandsilde.no/files/IMDEA.pdf)" - IMDEA Software Madrid, September, 2023.
+* No upcoming talks...
 
 
 ## Cryptography and Information Security Talks:
 
+"[Lattice-Based Electronic Voting](https://tjerandsilde.no/files/IMDEA.pdf)" - IMDEA Software Madrid, September, 2023.
 * "[Lattice-Based Threshold Signatures](https://tjerandsilde.no/files/Threshold-Signatures.pdf)" - NTNU Applied Cryptology Lab, September, 2023.
 * "[Kvantesikker kryptografi 1: slutten på starten](https://tjerandsilde.no/files/Sikkerhetsfestivalen-2023-kvante.pdf)" - Sikkerhetsfestivalen, August 2023.
 * "[Secure authentication with FIDO, Biometrics and Security Keys](https://tjerandsilde.no/files/Sikkerhetsfestivalen-2023-fido.pdf)" - Sikkerhetsfestivalen, August 2023.
