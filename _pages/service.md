@@ -25,6 +25,7 @@ I previously organized the NTNU Post-Quantum Cryptography Reading Group together
 
 ## Reviewer
 
+- 2024: Eurocrypt
 - 2023: PETS and ESORICS.
 - 2022: PKC, PETS, ANTS, CCS, PQCrypto and ESORICS.
 - 2021: Financial Crypto, Eurocrypt, CT-RSA, ACISP, CCS, ESORICS, MathCrypt and SAC.
