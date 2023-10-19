@@ -47,6 +47,7 @@ I am grateful to [Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gj
 
 ## Research Visits
 
+- [Christian Majenz](https://www.christianmajenz.info/about-me.html) at DTU Compute, DK (November 2023)
 - [Maria Isabel Gonzalez Vasco](https://sites.google.com/site/maribelurjc) and [Dario Fiore](https://www.dariofiore.it) at IMDEA, ES (September 2023) 
 - [Diego F. Aranha](https://dfaranha.github.io) at Aarhus University, DK (June 2023)
 - [Thomas Haines](https://cecc.anu.edu.au/people/thomas-haines) at the Australian National University, AUS (December 2022)
