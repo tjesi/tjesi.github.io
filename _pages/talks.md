@@ -7,7 +7,7 @@ author_profile: true
 
 ## Upcoming Talks:
 
-* No upcoming talks...
+* "[Verifiable Mix-Nets and Distributed Decryption for Voting from Lattice-Based Assumptions](https://eprint.iacr.org/2022/422)" - [ACM CCS](https://www.sigsac.org/ccs/CCS2023/program.html), November, 2023.
 
 
 ## Cryptography and Information Security Talks:
