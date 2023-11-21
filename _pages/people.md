@@ -17,6 +17,8 @@ author_profile: true
 
 ## Bachelor's and Master's Students
 
+- Simen Urnes - "The cost of transitioning to post-quantum cryptography"  
+(Master's thesis 2024, co-supervised with Iwona Windekilde)
 - Carl Ludvig Digné - "Implementing Quantum Secure Passwordless Authentication"  
 (Master's thesis 2024, co-supervised with Trond Peder Hagen and Magnus Ringerud)
 - Sondre Rishøi and Jonatan Såstad Østgaard - "Next Generation Electronic Voting in Switzerland"  
