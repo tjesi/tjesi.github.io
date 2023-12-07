@@ -7,11 +7,12 @@ author_profile: true
 
 ## Upcoming Talks:
 
-* "[Verifiable Mix-Nets and Distributed Decryption for Voting from Lattice-Based Assumptions](https://tjerandsilde.no/files/zkp.pdf)" - [ACM CCS](https://www.sigsac.org/ccs/CCS2023/program.html), November, 2023.
+* No upcoming talks...
 
 
 ## Cryptography and Information Security Talks:
 
+* "[Verifiable Mix-Nets and Distributed Decryption for Voting from Lattice-Based Assumptions](https://tjerandsilde.no/files/zkp.pdf)" - [ACM CCS](https://www.sigsac.org/ccs/CCS2023/program.html), Nov, 2023.
 * "[Lattice-Based Electronic Voting](https://tjerandsilde.no/files/IMDEA.pdf)" - IMDEA Software Madrid, September, 2023.
 * "[Lattice-Based Threshold Signatures](https://tjerandsilde.no/files/Threshold-Signatures.pdf)" - NTNU Applied Cryptology Lab, September, 2023.
 * "[Kvantesikker kryptografi: slutten på starten](https://tjerandsilde.no/files/Sikkerhetsfestivalen-2023-kvante.pdf)" - Sikkerhetsfestivalen, August 2023.

@@ -7,6 +7,8 @@ author_profile: true
 
 **Zero-Knowledge**: Workshop on Foundations and Applications of Zero-Knowledge Proofs, September 2.-6., 2024 - Edinburgh, Scotland. [icms.org.uk/ZeroKnowledgeProofs](https://www.icms.org.uk/ZeroKnowledgeProofs)
 
+**Eurocrypt 2024**: The 43rd Annual International Conference on the Theory and Applications of Cryptographic Techniques. May 26.-30., 2024 – Zurich, Switzerland. [eurocrypt.iacr.org/2024](https://eurocrypt.iacr.org/2024)
+
 **CCS 2023**: The ACM Conference on Computer and Communications Security, November 26.-30., 2023 - Copenhagen, Denmark. [sigsac.org/ccs/CCS2023](https://www.sigsac.org/ccs/CCS2023)
 
 **Norsk Kryptoseminar 2023**: October 27, 2023 – Oslo, Norway. [wiki.math.ntnu.no/nks](https://wiki.math.ntnu.no/nks)

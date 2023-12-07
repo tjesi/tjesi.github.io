@@ -60,8 +60,9 @@ Cohen: [Cryptography Online Talks Calendar](https://www.ccs.neu.edu/~rancohen/cr
   - [The International Conference on PASSWORDS 2014](http://passwords14.item.ntnu.no)
 - Courses:
   - [TTM4135 - Applied Cryptography and Network Security](https://www.ntnu.edu/studies/courses/TTM4135)
-  - [TTM4195 - Blockchain Technologies and Cryptocurrencies](https://www.ntnu.edu/studies/courses/TTM4195)
   - [TTM4137 - Wireless Network Security](https://www.ntnu.edu/studies/courses/TTM4137)
+  - [TTM4205 - Secure Cryptographic Implementations](https://www.ntnu.edu/studies/courses/TTM4205)
+  - [TTM4195 - Blockchain Technologies and Cryptocurrencies](https://www.ntnu.edu/studies/courses/TTM4195)
   - [IMT4217 - Introduction to Data Privacy](https://www.ntnu.edu/studies/courses/IMT4217)
   - [TMA4160 - Cryptography](https://www.ntnu.edu/studies/courses/TMA4160)
   - [TMA4162 - Computational Algebra](https://www.ntnu.edu/studies/courses/TMA4162)
