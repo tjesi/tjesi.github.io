@@ -31,8 +31,6 @@ Joint work with Anushua Hossain and Kristina Nelson. ([Presentation](https://tje
 
 ## Manuscripts
 
-[Computational FHE Circuit Privacy for Free](https://eprint.iacr.org/2023/1597)  
-Joint work with Anamaria Costache and Lea Nürnberger.
 
 [Two-Round Threshold Lattice Signatures from Threshold Homomorphic Encryption](https://eprint.iacr.org/2023/1318)  
 Joint work with Kamil Doruk Gur and Jonathan Katz.
