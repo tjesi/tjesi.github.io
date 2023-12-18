@@ -9,6 +9,8 @@ I believe it is important to contribute to the community by organizing seminars 
 
 ## Organization
 
+I am organising a workshop on "[Foundations and Applications of Zero-Knowledge Proofs](https://www.icms.org.uk/ZeroKnowledgeProofs)" together with [Elizabeth Crites](https://elizabeth-crites.github.io/), [Markulf Kohlweiss](https://homepages.inf.ed.ac.uk/mkohlwei), and [Akira Takahashi](https://akiratk0355.github.io/) at the International Centre for Mathematical Sciences in Edinburgh from September 2nd to 6th, 2024.
+
 I was on the organizing committee for [Eurocrypt 2022](https://eurocrypt.iacr.org/2022) in Trondheim. Colin Boyd was the General Chair.
 
 I organized the [Norwegian Crypto Seminar 2020](https://wiki.math.ntnu.no/nks/nks20) together with Kristian Gjøsteen and Martin Strand, and organized the [Norwegian Crypto Seminar 2021](https://wiki.math.ntnu.no/nks/nks21) together with Lise Millerjord and Martin Strand.
