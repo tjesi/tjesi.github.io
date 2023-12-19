@@ -19,6 +19,7 @@ I previously organized the NTNU Post-Quantum Cryptography Reading Group together
 
 ## Program Committees
 
+- 2024: CCS - The ACM Conference on Computer and Communications Security 
 - 2024: PETS - The annual Privacy Enhancing Technologies Symposium
 - 2023: WAHC - The 11th Workshop on Encrypted Computing & Applied Homomorphic Cryptography
 - 2023: LATINCRYPT - The 8th International Conference on Cryptology and Information Security in Latin America
