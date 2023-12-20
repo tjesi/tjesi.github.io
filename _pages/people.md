@@ -25,7 +25,7 @@ author_profile: true
 (Master's thesis 2024, co-supervised with Audhild Høgåsen)
 - Lottelise Bergsrud and Abita Vaseeharanathan - "Crypto for the People"  
 (Master's thesis 2024, co-supervised with Katrien De Moor)
-- Emil Marstrander - "Use of Messaging Layer Security in Military Drones"  
+- Emil Marstrander - "[Use of Messaging Layer Security in Military Drones](https://tjerandsilde.no/files/EmilM.pdf)"  
 (Master's thesis 2023, co-supervised with Martin Strand)
 - Matej Poljuha - "[Benchmarking Post-Quantum Secure Biometric Resilient Authenticated Key Exchange](https://tjerandsilde.no/files/Matej.pdf)"  
 (Master's thesis 2023, co-supervised with Pia Bauspiess)
@@ -49,10 +49,10 @@ I am grateful to [Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gj
 
 ## Research Visits
 
-- [Christian Majenz](https://www.christianmajenz.info/about-me.html) at DTU Compute, DK (November 2023)
-- [Maria Isabel Gonzalez Vasco](https://sites.google.com/site/maribelurjc) and [Dario Fiore](https://www.dariofiore.it) at IMDEA, ES (September 2023) 
-- [Diego F. Aranha](https://dfaranha.github.io) at Aarhus University, DK (June 2023)
-- [Thomas Haines](https://cecc.anu.edu.au/people/thomas-haines) at the Australian National University, AUS (December 2022)
-- [Jonathan Katz](https://www.cs.umd.edu/~jkatz) at the University of Maryland, USA (October 2021 to February 2022)
-- [Carsten Baum](http://carstenbaum.com) and [Diego F. Aranha](https://dfaranha.github.io) at Aarhus University, DK (August to December 2020)
-- [Carsten Baum](http://carstenbaum.com) at Aarhus University, DK (November 2019)
+- [Christian Majenz](https://www.christianmajenz.info/about-me.html) at DTU Compute (November 2023)
+- [Maria Isabel Gonzalez Vasco](https://sites.google.com/site/maribelurjc) and [Dario Fiore](https://www.dariofiore.it) at IMDEA (September 2023) 
+- [Diego F. Aranha](https://dfaranha.github.io) at Aarhus University (June 2023)
+- [Thomas Haines](https://cecc.anu.edu.au/people/thomas-haines) at the Australian National University (December 2022)
+- [Jonathan Katz](https://www.cs.umd.edu/~jkatz) at the University of Maryland (October 2021 to February 2022)
+- [Carsten Baum](http://carstenbaum.com) and [Diego F. Aranha](https://dfaranha.github.io) at Aarhus University (August to December 2020)
+- [Carsten Baum](http://carstenbaum.com) at Aarhus University (November 2019)
