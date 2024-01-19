@@ -1,9 +1,11 @@
 ---
 layout: archive
-title: "People"
-permalink: /people/
+title: "Collaboration"
+permalink: /collaboration/
 author_profile: true
 ---
+
+[Are you interested in working with me? Click here for more information.](https://tjerandsilde.no/work)
 
 ## Postdocs
 

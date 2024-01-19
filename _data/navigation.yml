@@ -3,8 +3,8 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "People"
-    url: /people/
+  - title: "Collaboration"
+    url: /collaboration/
 
   - title: "Teaching"
     url: /teaching/
@@ -26,6 +26,3 @@ main:
 
   - title: "Resources"
     url: /resources/
-
-#  - title: "Cryptographic Engineering"
-#    url: /ce/
