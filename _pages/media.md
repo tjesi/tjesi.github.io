@@ -93,6 +93,8 @@ author_profile: true
 
 [Pris for Smittestopp-app](https://grannar.no/2021/05/pris-for-smittestopp-app), Grannar, May 4th, 2021.
 
+[Ny kryptografianvendelse vant Datatilsynets personvern-pris](https://www.cw.no/datatilsynet-personvern-priser-og-utmerkelser/ny-kryptografianvendelse-vant-datatilsynets-personvern-pris/431987), ComputerWorld, April 29th, 2021.
+
 [Pris for innebygd personvern til Anonyme Tokens](https://www.datatilsynet.no/aktuelt/aktuelle-nyheter-2021/pris-for-innebygd-personvern-til-anonyme-tokens), Datatilsynet, April 28th, 2021.
 
 [Sånn jobba utviklerne i fagrådet til Smittestopp-appen](https://www.kode24.no/koden-bak/sann-jobba-utviklerne-i-fagradet-til-smittestopp-appen/73254266), Kode24.no, January 11th, 2021.
