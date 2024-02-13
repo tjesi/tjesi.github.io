@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Current and future teaching:
+## Current and future teaching: 
 
 
 **Spring 2024:**
