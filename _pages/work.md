@@ -9,8 +9,8 @@ author_profile: true
 ## Internships or Research Visits
 
 I am happy to host intership students interested in my area of research, but I do not have funding for this myself. You
-need to apply for scholarships, for example [Erasmus+](https://erasmus-plus.ec.europa.eu) or [Fulbright](https://us.fulbrightonline.org), and we can offer affordable housing. Please also see  
-the NTNU page about [placement students](https://www.ntnu.edu/studies/placement) before sending me an email.
+need to apply for scholarships, for example [Erasmus+](https://erasmus-plus.ec.europa.eu) or [Fulbright](https://us.fulbrightonline.org), and then we can offer affordable housing. Please also  
+see the NTNU page about [placement students](https://www.ntnu.edu/studies/placement) before sending me an email.
 
 ## Master's Thesis
 
@@ -19,4 +19,4 @@ I am happy to supservise master's students in the [Mathematical Sciences](https:
 
 ## PhD or Postdoc Positions
 
-All of my open positions will be announced on [my homepage](https://tjerandsilde.no) and at [iacr.org/jobs](https://iacr.org/jobs). All applications needs to go through the application portal on [jobbnorge.no](https://www.jobbnorge.no/search/en) to be evaluated. I expect all applicants to have a strong background in cryptography, and preferably also a solid background in either algebra and number theory, algorithms and programming, theoretical computer science, or electrical engineering.
+All of my open positions will be announced on [my homepage](https://tjerandsilde.no) and at [iacr.org/jobs](https://iacr.org/jobs). All applications needs to go through the application portal on [jobbnorge.no](https://www.jobbnorge.no/search/en) to be evaluated. I expect all applicants to have a strong background in cryptography, and preferably also a solid background in either information security, algebra and number theory, algorithms and programming, theoretical computer science, or electrical engineering.
