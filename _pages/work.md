@@ -8,9 +8,9 @@ author_profile: true
 
 ## Internships or Research Visits
 
-I am happy to host intership students interested in my area of research, but I do not have funding for this myself. You
-need to apply for scholarships, for example [Erasmus+](https://erasmus-plus.ec.europa.eu) or [Fulbright](https://us.fulbrightonline.org), and then we can offer affordable housing. Please also  
-see the NTNU page about [placement students](https://www.ntnu.edu/studies/placement) before sending me an email.
+I am happy to host intership students interested in my area of research, but I do not have funding for this myself.  
+You need to apply for scholarships, for example [Erasmus+](https://erasmus-plus.ec.europa.eu) or [Fulbright](https://us.fulbrightonline.org), and then we can offer affordable housing.  
+Please also see the NTNU page about [placement students](https://www.ntnu.edu/studies/placement) before sending me an email.
 
 ## Master's Thesis
 
