@@ -7,6 +7,8 @@ author_profile: true
 
 ## Interviews
 
+[Hørt om «sovende agenter»? Slik kan de lure deg](https://www.tv2.no/nyheter/utenriks/hort-om-sovende-agenter-slik-kan-de-lure-deg/16407544), TV2, February 14th, 2024.
+
 [– Et stort gjennombrudd innen personvernbevarende beregninger](https://www.digi.no/artikler/et-stort-gjennombrudd-innen-personvernbevarende-beregninger/543127), digi.no, February 1st, 2024.
 
 [Skal sikre oss mot kvantedatamaskiner](https://tjerandsilde.no/files/TU-2023-07.pdf), Teknisk Ukeblad, December 12th, 2023.
