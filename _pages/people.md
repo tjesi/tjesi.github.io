@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Collaboration"
-permalink: /People/
+title: "People"
+permalink: /people/
 author_profile: true
 ---
 
