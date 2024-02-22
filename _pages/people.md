@@ -19,13 +19,13 @@ author_profile: true
 
 ## Bachelor's and Master's Students
 
-- Simen Urnes - "The cost of transitioning to post-quantum cryptography"  
+<!-- Simen Urnes - "The cost of transitioning to post-quantum cryptography" -->
 (Master's thesis 2024, co-supervised with Iwona Windekilde)
 - Carl Ludvig Digné - "Implementing Quantum Secure Passwordless Authentication"  
 (Master's thesis 2024, co-supervised with Trond Peder Hagen and Magnus Ringerud)
 - Sondre Rishøi and Jonatan Såstad Østgaard - "Next Generation Electronic Voting in Switzerland"  
 (Master's thesis 2024, co-supervised with Audhild Høgåsen)
-- Lottelise Bergsrud and Abita Vaseeharanathan - "Crypto for the People"  
+- Lottelise Bergsrud and Abita Vaseeharanathan - "Surveillance in a Smart City Context: A Case Study of Vulnerable Groups"  
 (Master's thesis 2024, co-supervised with Katrien De Moor)
 - Emil Marstrander - "[Use of Messaging Layer Security in Military Drones](https://tjerandsilde.no/files/EmilM.pdf)"  
 (Master's thesis 2023, co-supervised with Martin Strand)
