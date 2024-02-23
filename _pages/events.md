@@ -5,9 +5,13 @@ permalink: /events/
 author_profile: true
 ---
 
+**PKC 2025**: The International Conference on Practice and Theory in Public Key Cryptography. May 12.-15., 2025 - Røros, Norway. [pkc.iacr.org/2025](https://pkc.iacr.org/2025)
+
 **Zero-Knowledge**: Workshop on Foundations and Applications of Zero-Knowledge Proofs, September 2.-6., 2024 - Edinburgh, Scotland. [icms.org.uk/ZeroKnowledgeProofs](https://www.icms.org.uk/ZeroKnowledgeProofs)
 
 **Eurocrypt 2024**: The 43rd Annual International Conference on the Theory and Applications of Cryptographic Techniques. May 26.-30., 2024 – Zurich, Switzerland. [eurocrypt.iacr.org/2024](https://eurocrypt.iacr.org/2024)
+
+**PKC 2024**: The International Conference on Practice and Theory in Public Key Cryptography. April 15.-17., 2024 - Sydney, Australia. [pkc.iacr.org/2024](https://pkc.iacr.org/2024)
 
 **CCS 2023**: The ACM Conference on Computer and Communications Security, November 26.-30., 2023 - Copenhagen, Denmark. [sigsac.org/ccs/CCS2023](https://www.sigsac.org/ccs/CCS2023)
 

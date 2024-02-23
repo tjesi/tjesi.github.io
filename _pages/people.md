@@ -25,8 +25,7 @@ author_profile: true
 (Master's thesis 2024, co-supervised with Trond Peder Hagen and Magnus Ringerud)
 - Sondre Rishøi and Jonatan Såstad Østgaard - "Next Generation Electronic Voting in Switzerland"  
 (Master's thesis 2024, co-supervised with Audhild Høgåsen)
-- Lottelise Bergsrud and Abita Vaseeharanathan - "Surveillance in a Smart City Context: A Case Study of Vulnerable Groups"  
-(Master's thesis 2024, co-supervised with Katrien De Moor)
+- Lottelise Bergsrud and Abita Vaseeharanathan - "Surveillance in a Smart City Context: A Case Study of Vulnerable Groups" (Master's thesis 2024, co-supervised with Katrien De Moor)
 - Emil Marstrander - "[Use of Messaging Layer Security in Military Drones](https://tjerandsilde.no/files/EmilM.pdf)"  
 (Master's thesis 2023, co-supervised with Martin Strand)
 - Matej Poljuha - "[Benchmarking Post-Quantum Secure Biometric Resilient Authenticated Key Exchange](https://tjerandsilde.no/files/Matej.pdf)"  
