@@ -19,8 +19,9 @@ I organized the [Norwegian Crypto Seminar 2020](https://wiki.math.ntnu.no/nks/nk
 
 I previously organized the NTNU Post-Quantum Cryptography Reading Group together with Anamaria Costache.
 
-## Program Committees
+## Program Committees and Editoral Boards
 
+- 2024: IACR CiC - IACR journal of Communications in Cryptology
 - 2024: CCS - The ACM Conference on Computer and Communications Security 
 - 2024: PETS - The annual Privacy Enhancing Technologies Symposium
 - 2023: WAHC - The 11th Workshop on Encrypted Computing & Applied Homomorphic Cryptography
