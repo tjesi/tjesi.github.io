@@ -32,7 +32,7 @@ Joint work with Anushua Hossain and Kristina Nelson. ([Presentation](https://tje
 ## Manuscripts
 
 
-[Two-Round Threshold Lattice Signatures from Threshold Homomorphic Encryption](https://eprint.iacr.org/2023/1318)  
+[Two-Round Threshold Lattice-Based Signatures from Threshold Homomorphic Encryption](https://eprint.iacr.org/2023/1318)  
 Joint work with Kamil Doruk Gur and Jonathan Katz.
 
 [Concrete NTRU Security and Advances in Practical Lattice-Based Electronic Voting](https://eprint.iacr.org/2023/933)  
