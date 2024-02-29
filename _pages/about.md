@@ -18,7 +18,7 @@ I am a member of the [International Association for Cryptologic Research](https:
 
 **News**:
 
-- I am on the editorial board of [IACR Communications in Cryptology](https://cic.iacr.org). Submit your best papers!
+- I am on the [IACR Communications in Cryptology](https://cic.iacr.org) editorial board. Submit your best papers!
 - I will be the general co-chair for IACR PKC 2025 in [Røros](https://www.visitnorway.com/places-to-go/trondelag/roros) together with [Bor de Kock](https://bordekock.nl)!
 - I am on the program committee for [PETS 2024](https://www.petsymposium.org/cfp24.php) and [CCS 2024](https://www.sigsac.org/ccs/CCS2024). Submit your best papers!
 - I am organising a workshop on "[Foundations and Applications of Zero-Knowledge Proofs](https://www.icms.org.uk/ZeroKnowledgeProofs)" together with Elizabeth Crites, Markulf Kohlweiss, and Akira Takahashi at the International Centre for Mathematical Sciences in Edinburgh from September 2nd to 6th, 2024.
