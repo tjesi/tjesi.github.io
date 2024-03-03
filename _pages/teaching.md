@@ -8,13 +8,11 @@ author_profile: true
 ## Current and future teaching:
 
 
-**Spring 2024:**
-* Privacy Enhancing Technologies (PhD Seminar [TM8110](https://www.ntnu.edu/studies/courses/TM8110)) at NTNU (Lecturer)
-
 **Fall 2024:**
 
 * Secure Cryptographic Implementations ([TTM4205](https://www.ntnu.edu/studies/courses/TTM4205)) at NTNU (Lecturer)
 * Post-Quantum Cryptography (New PhD course IIK8105) at NTNU (Lecturer)
+
 
 ## Previous semesters:
 
