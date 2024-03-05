@@ -7,7 +7,7 @@ author_profile: true
 
 ## Upcoming Talks:
 
-* No upcoming talks...
+* "Recent Advances in Lattice-Based Electronic Voting" - Queensland University of Technology, April, 2024.
 
 
 ## Cryptography and Information Security Talks:
