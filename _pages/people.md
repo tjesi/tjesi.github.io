@@ -39,6 +39,7 @@ I am grateful to [Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gj
 
 ## Visitors
 
+- [Ngoc Khanh Nguyen](https://www.kcl.ac.uk/people/ngoc-khanh-nguyen), Lecturer at King's College London (May 2024)
 - [Vadim Lyubashevsky](https://research.ibm.com/people/vadim-lyubashevsky), Cryptography Researcher at IBM Research Europe (November 2023)
 - [Daniel Slamanig](https://danielslamanig.info), Senior Scientist at Austrian Institute of Technology (May 2023)
 - [Anca Nitulescu](https://www.di.ens.fr/~nitulesc), Researcher at Protocol Labs (May 2023, with Anamaria Costache)
