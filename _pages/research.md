@@ -35,7 +35,7 @@ Joint work with Anushua Hossain and Kristina Nelson. ([Presentation](https://tje
 [Two-Round Threshold Lattice-Based Signatures from Threshold Homomorphic Encryption](https://eprint.iacr.org/2023/1318)  
 Joint work with Kamil Doruk Gur and Jonathan Katz.
 
-[Concrete NTRU Security and Advances in Practical Lattice-Based Electronic Voting](https://eprint.iacr.org/2023/933)  
+[More Efficient Post-Quantum Electronic Voting from NTRU](https://eprint.iacr.org/2023/933)  
 Joint work with Patrick Hough and Caroline Sandsbråten.
 
 [BRAKE: Biometric Resilient Authenticated Key Exchange](https://eprint.iacr.org/2022/1408)  
