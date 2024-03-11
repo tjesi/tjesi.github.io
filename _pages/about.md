@@ -18,6 +18,7 @@ I am a member of the [International Association for Cryptologic Research](https:
 
 **News**:
 
+- I am on the program committee for [ArcticCrypt](https://simula-uib.com/arcticcrypt2025). Submit your best papers for presentation!
 - I am on the [IACR Communications in Cryptology](https://cic.iacr.org) editorial board. Submit your best papers!
 - I will be the general co-chair for IACR PKC 2025 in [Røros](https://www.visitnorway.com/places-to-go/trondelag/roros) together with [Bor de Kock](https://bordekock.nl)!
 - I am on the program committee for [PETS 2024](https://www.petsymposium.org/cfp24.php) and [CCS 2024](https://www.sigsac.org/ccs/CCS2024). Submit your best papers!
