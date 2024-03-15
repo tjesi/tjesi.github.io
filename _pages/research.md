@@ -13,8 +13,8 @@ I believe that all scientific publications should be freely available online, gi
 Joint work with Kamil Doruk Gur and Jonathan Katz.
 
 [BRAKE: Biometric Resilient Authenticated Key Exchange](https://eprint.iacr.org/2022/1408), IEEE Access 2024.  
-Joint work with Pia Bauspieß, Matej Poljuha, Alexandre Tullot, Anamaria Costache,  
-Christian Rathgeb, Jascha Kolberg and Christoph Busch.
+Joint work with Pia Bauspieß, Matej Poljuha, Alexandre Tullot and Anamaria Costache   
+(and Christian Rathgeb, Jascha Kolberg and Christoph Busch).
 
 [Verifiable Mix-Nets and Distributed Decryption for Voting from Lattice-Based Assumptions](https://eprint.iacr.org/2022/422), ACM CCS 2023.  
 Joint work with Diego F. Aranha, Carsten Baum and Kristian Gjøsteen.
