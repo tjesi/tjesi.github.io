@@ -9,10 +9,13 @@ I believe that all scientific publications should be freely available online, gi
 
 ## Publications
 
+[BRAKE: Biometric Resilient Authenticated Key Exchange](https://eprint.iacr.org/2022/1408), IEEE Access 2024.  
+Joint work with Pia Bauspieß, Matej Poljuha, Alexandre Tullot, Anamaria Costache, Christian Rathgeb, Jascha Kolberg and Christoph Busch.
+
 [Verifiable Mix-Nets and Distributed Decryption for Voting from Lattice-Based Assumptions](https://eprint.iacr.org/2022/422), ACM CCS 2023.  
 Joint work with Diego F. Aranha, Carsten Baum and Kristian Gjøsteen.
 
-[Verifiable Decryption in the Head](https://eprint.iacr.org/2021/558), Australasian Conference on Information Security and Privacy (ACISP) 2022.  
+[Verifiable Decryption in the Head](https://eprint.iacr.org/2021/558), Australasian Conference on Information Security and Privacy 2022.  
 Joint work with Kristian Gjøsteen, Thomas Haines, Johannes Müller and Peter Rønne.
 
 [Short paper: Return Codes from Lattice Assumptions](https://dspace.ut.ee/bitstream/handle/10062/84323/12.pdf?sequence=1&isAllowed=y), E-Vote-ID Conference 2022.  
@@ -38,9 +41,6 @@ Joint work with Kamil Doruk Gur and Jonathan Katz.
 [More Efficient Post-Quantum Electronic Voting from NTRU](https://eprint.iacr.org/2023/933)  
 Joint work with Patrick Hough and Caroline Sandsbråten.
 
-[BRAKE: Biometric Resilient Authenticated Key Exchange](https://eprint.iacr.org/2022/1408)  
-Joint work with Pia Bauspieß, Alexandre Tullot, Anamaria Costache,  
-Christian Rathgeb, Jascha Kolberg and Christoph Busch.
 
 ## Projects
 
