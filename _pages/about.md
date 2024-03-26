@@ -18,7 +18,8 @@ I am a member of the [International Association for Cryptologic Research](https:
 
 **News**:
 
-- [Two-Round Threshold Lattice-Based Signatures from Threshold Homomorphic Encryption](https://eprint.iacr.org/2023/1318) is accepted to [PQCrypto 2024](https://www.maths.ox.ac.uk/events/conferences/pqcrypto-2024)! Joint work with Kamil Doruk Gur and Jonathan Katz.
+- "[Two-Round Threshold Lattice-Based Signatures from Threshold Homomorphic Encryption](https://eprint.iacr.org/2023/1318)" is accepted to [PQCrypto 2024](https://www.maths.ox.ac.uk/events/conferences/pqcrypto-2024)! Joint work with Kamil Doruk Gur and Jonathan Katz.
+- "[BRAKE: Biometric Resilient Authenticated Key Exchange](https://eprint.iacr.org/2022/1408)" is accepted to [IEEE Access 2024](https://ieeexplore.ieee.org/document/10478011)! Joint work with Pia Bauspieß, Matej Poljuha, Alexandre Tullot and Anamaria Costache.
 - I am on the program committee for [ArcticCrypt](https://simula-uib.com/arcticcrypt2025). Submit your best papers for presentation!
 - I am on the [IACR Communications in Cryptology](https://cic.iacr.org) editorial board. Submit your best papers!
 - I will be the general co-chair for IACR PKC 2025 in [Røros](https://www.visitnorway.com/places-to-go/trondelag/roros) together with [Bor de Kock](https://bordekock.nl)!
