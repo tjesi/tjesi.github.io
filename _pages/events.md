@@ -9,6 +9,10 @@ author_profile: true
 
 **Zero-Knowledge**: Workshop on Foundations and Applications of Zero-Knowledge Proofs, September 2.-6., 2024 - Edinburgh, Scotland. [icms.org.uk/ZeroKnowledgeProofs](https://www.icms.org.uk/ZeroKnowledgeProofs)
 
+**PQCrypto 2024**: The 15th International Conference on Post-Quantum Cryptography. June 12-14, 2024 – Oxford, United Kingdom. [maths.ox.ac.uk/events/conferences/pqcrypto-2024](https://www.maths.ox.ac.uk/events/conferences/pqcrypto-2024)
+
+**newtpqc 2024**: The New Trends in Post-Quantum Cryptography workshop. June 10-11, 2024 – Oxford, United Kingdom. [newtpqc.org](https://newtpqc.org)
+
 **Eurocrypt 2024**: The 43rd Annual International Conference on the Theory and Applications of Cryptographic Techniques. May 26.-30., 2024 – Zurich, Switzerland. [eurocrypt.iacr.org/2024](https://eurocrypt.iacr.org/2024)
 
 **PKC 2024**: The International Conference on Practice and Theory in Public Key Cryptography. April 15.-17., 2024 - Sydney, Australia. [pkc.iacr.org/2024](https://pkc.iacr.org/2024)
