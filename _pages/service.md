@@ -21,6 +21,7 @@ I previously organized the NTNU Post-Quantum Cryptography Reading Group together
 
 ## Program Committees and Editoral Boards
 
+- 2025: PETS - The annual Privacy Enhancing Technologies Symposium
 - 2025: ArcticCrypt - The world’s northernmost cryptography conference 
 - 2024: IACR CiC - The IACR journal of Communications in Cryptology
 - 2024: Sikkerhetsfestivalen - Norges største møteplass for cybersikkerhet
