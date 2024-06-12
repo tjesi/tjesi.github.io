@@ -22,7 +22,7 @@ author_profile: true
 - Emil Bragstad and Marius Andreas Arder - "Improving Messaging Layer Security in a Military UAV Swarm"  
 (Master's thesis 2025, co-supervised with Martin Strand)
 - Michaela Kralova - "Post-Quantum Password-Authenticated Key Exchange" (Master's thesis 2025)
-- Ludvig Digné - "[Towards Quantum-Resilient Authentication: Implementing Hybrid Signatures in FIDO2 Authenticators](https://tjerandsilde.no/files/Ludvig.pdf)"  
+- Carl Ludvig Digné - "[Towards Quantum-Resilient Authentication: Implementing Hybrid Signatures in FIDO2 Authenticators](https://tjerandsilde.no/files/Ludvig.pdf)"  
 (Master's thesis 2024, co-supervised with Trond Peder Hagen, Magnus Ringerud, and Sigurhjörtur Snorrason)
 - Sondre Rishøi and Jonatan Såstad Østgaard - "Next Generation Electronic Voting in Switzerland"  
 (Master's thesis 2024, co-supervised with Audhild Høgåsen)
