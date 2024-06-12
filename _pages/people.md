@@ -21,7 +21,8 @@ author_profile: true
 
 <!-- Simen Urnes - "The cost of transitioning to post-quantum cryptography"
 (Master's thesis 2024, co-supervised with Iwona Windekilde) -->
-- Carl Ludvig Digné - "[Towards Quantum-Resilient Authentication: Implementing Hybrid Signatures in FIDO2 Authenticators](https://tjerandsilde.no/files/Ludvig.pdf)" (Master's thesis 2024, co-supervised with Trond Peder Hagen, Magnus Ringerud, and Sigurhjörtur Snorrason)
+- Ludvig Digné - "[Towards Quantum-Resilient Authentication: Implementing Hybrid Signatures in FIDO2 Authenticators](https://tjerandsilde.no/files/Ludvig.pdf)"  
+(Master's thesis 2024, co-supervised with Trond Peder Hagen, Magnus Ringerud, and Sigurhjörtur Snorrason)
 - Sondre Rishøi and Jonatan Såstad Østgaard - "Next Generation Electronic Voting in Switzerland"  
 (Master's thesis 2024, co-supervised with Audhild Høgåsen)
 - Emil Marstrander - "[Use of Messaging Layer Security in a Military UAV Swarm](https://tjerandsilde.no/files/EmilM.pdf)"  
