@@ -19,6 +19,7 @@ author_profile: true
 
 ## Bachelor's and Master's Students
 
+- Sunniva Engan - "Zero-Knowledge from VOLE-in-the-Head" (Master's thesis 2025, co-supervised with Peter Scholl)
 - Emil Bragstad and Marius Andreas Arder - "Improving Messaging Layer Security in a Military UAV Swarm"  
 (Master's thesis 2025, co-supervised with Martin Strand)
 - Michaela Kralova - "Post-Quantum Password-Authenticated Key Exchange" (Master's thesis 2025)
