@@ -19,13 +19,15 @@ author_profile: true
 
 ## Bachelor's and Master's Students
 
+- Javier García Martínez - "Threshold Signatures for FIDO Authentication"   
+(Master's thesis 2025, co-supervised with Trond Peder Hagen, Magnus Ringerud, and Sigurhjörtur Snorrason)
 - Sunniva Engan - "Zero-Knowledge from VOLE-in-the-Head" (Master's thesis 2025, co-supervised with Peter Scholl)
 - Emil Bragstad and Marius Andreas Arder - "Improving Messaging Layer Security in a Military UAV Swarm"  
 (Master's thesis 2025, co-supervised with Martin Strand)
 - Michaela Kralova - "Post-Quantum Password-Authenticated Key Exchange" (Master's thesis 2025)
 - Carl Ludvig Digné - "[Towards Quantum-Resilient Authentication: Implementing Hybrid Signatures in FIDO2 Authenticators](https://tjerandsilde.no/files/Ludvig.pdf)"  
 (Master's thesis 2024, co-supervised with Trond Peder Hagen, Magnus Ringerud, and Sigurhjörtur Snorrason)
-- Sondre Rishøi and Jonatan Såstad Østgaard - "Next Generation Electronic Voting in Switzerland"  
+- Sondre Rishøi and Jonatan Såstad Østgaard - "[Unbiased Distributed Key Generation](https://tjerandsilde.no/files/Swiss-post-thesis.pdf)"  
 (Master's thesis 2024, co-supervised with Audhild Høgåsen)
 - Emil Marstrander - "[Use of Messaging Layer Security in a Military UAV Swarm](https://tjerandsilde.no/files/EmilM.pdf)"  
 (Master's thesis 2023, co-supervised with Martin Strand)
