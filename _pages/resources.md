@@ -25,6 +25,7 @@ Cohen: [Cryptography Online Talks Calendar](https://www.ccs.neu.edu/~rancohen/cr
 - Bellare: [Lectures on NIZKs: A Concrete Security Treatment](https://cseweb.ucsd.edu/~mihir/cse208-Wi20/main.pdf)
 - Boneh and Shoup: [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us)
 - Chiesa and Yogev: [Building Cryptographic Proofs from Hash Functions](https://hash-based-snargs-book.github.io)
+- Evans, Kolesnikov, and Rosulek: [A Pragmatic Introduction to Secure Multi-Party Computation](https://securecomputation.org)
 - Galbraith: [Mathematics of Public Key Cryptography](https://www.math.auckland.ac.nz/~sgal018/crypto-book/crypto-book.html)
 - Goldwasser and Bellare: [Lecture Notes on Cryptography](https://cseweb.ucsd.edu/~mihir/papers/gb.pdf)
 - Gjøsteen: [Cryptography](https://wiki.math.ntnu.no/tma4160/notes)
