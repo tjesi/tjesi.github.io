@@ -15,17 +15,16 @@ author_profile: true
 
 ## Surveys
 
-- Bootland et al.: [On the Security of Cryptographic
-Problems from Linear Algebra](https://eprint.iacr.org/2021/1354.pdf)
+- Bootland et al.: [On the Security of Cryptographic Problems from Linear Algebra](https://eprint.iacr.org/2021/1354.pdf)
 - Li et al: [A tutorial introduction to lattice-based cryptography and homomorphic encryption](https://arxiv.org/pdf/2208.08125.pdf)
-- Lyubashevsky: [Basic Lattice Cryptography: Encryption and Fiat-Shamir Signatures](https://drive.google.com/file/d/1JTdW5ryznp-dUBBjN12QbvWz9R41NDGU/view)
+- Lyubashevsky: [Lattice Cryptography: Understanding Kyber (ML-KEM) and Dilithium (ML-DSA)](https://github.com/VadimLyubash/LatticeTutorial/blob/main/tutorial.pdf)
 - Micciancio and Regev: [Lattice-based Cryptography](https://cseweb.ucsd.edu/~daniele/papers/PostQuantum.pdf)
 - Peikert: [A Decade of Lattice Cryptography](https://web.eecs.umich.edu/~cpeikert/pubs/lattice-survey.pdf)
 
 ## Talks
 
 - BIU Winter School: [Lattice-based cryptography and applications](http://cyber.biu.ac.il/event/the-2nd-biu-winter-school)
-- [Foundations and Applications of Lattice-based Cryptography](https://www.icms.org.uk/workshops/2022/foundations-and-applications-lattice-based-cryptography)
+- ICMS: [Foundations and Applications of Lattice-based Cryptography](https://www.icms.org.uk/workshops/2022/foundations-and-applications-lattice-based-cryptography)
 - Nguyen: [Lattice-Based Cryptography](https://youtu.be/MG6g04R_Ims)
 - Peikert: [Lattice-Based Cryptography](https://youtu.be/FVFw_qb1ZkY)
 - Peikert: [Lattice Cryptography for the Internet](https://youtu.be/uycY1O9f2Nw)

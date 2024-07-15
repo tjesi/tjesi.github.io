@@ -15,7 +15,7 @@ I am organising a workshop on "[Foundations and Applications of Zero-Knowledge P
 
 I was on the organizing committee for [Eurocrypt 2022](https://eurocrypt.iacr.org/2022) in Trondheim. Colin Boyd was the General Chair.
 
-I organized the [Norwegian Crypto Seminar 2020](https://wiki.math.ntnu.no/nks/nks20) together with Kristian Gjøsteen and Martin Strand, and organized the [Norwegian Crypto Seminar 2021](https://wiki.math.ntnu.no/nks/nks21) together with Lise Millerjord and Martin Strand.
+I am organizing [Norwegian Crypto Seminar 2024](https://wiki.math.ntnu.no/nks/nks24) together with Slobodan Petrovic. I organized [Norwegian Crypto Seminar 2020](https://wiki.math.ntnu.no/nks/nks20) together with Kristian Gjøsteen and Martin Strand and [Norwegian Crypto Seminar 2021](https://wiki.math.ntnu.no/nks/nks21) together with Lise Millerjord and Martin Strand.
 
 I previously organized the NTNU Post-Quantum Cryptography Reading Group together with Anamaria Costache.
 
@@ -34,7 +34,7 @@ I previously organized the NTNU Post-Quantum Cryptography Reading Group together
 
 ## Reviewer
 
-- 2024: IACR Eurocrypt, IACR Crypto.
+- 2024: IACR Eurocrypt, IACR Crypto, Journal of Cryptology.
 - 2023: PETS and ESORICS.
 - 2022: IACR PKC, PETS, ANTS, ACM CCS, PQCrypto and ESORICS.
 - 2021: Financial Crypto, IACR Eurocrypt, CT-RSA, ACISP, ACM CCS, ESORICS, MathCrypt and SAC.
