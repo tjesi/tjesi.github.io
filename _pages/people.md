@@ -55,7 +55,7 @@ I am grateful to [Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gj
 
 ## Research Visits
 
-- [Xavier Boyen][https://www.qut.edu.au/about/our-people/academic-profiles/xavier.boyen] at Queensland University of Technology (April 2024)
+- [Xavier Boyen](https://www.qut.edu.au/about/our-people/academic-profiles/xavier.boyen) at Queensland University of Technology (April 2024)
 - [Christian Majenz](https://www.christianmajenz.info/about-me.html) at DTU Compute (November 2023)
 - [Maria Isabel Gonzalez Vasco](https://sites.google.com/site/maribelurjc) and [Dario Fiore](https://www.dariofiore.it) at IMDEA (September 2023) 
 - [Diego F. Aranha](https://dfaranha.github.io) at Aarhus University (June 2023)

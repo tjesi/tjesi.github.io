@@ -10,7 +10,7 @@ redirect_from:
 Hi! I am an Associate Professor in Cryptology at the [Department of Information Security and Communication Technology](https://www.ntnu.edu/iik) at the Norwegian University of Science and Technology (NTNU)  
 in Trondheim, where I am the Research Group Leader of the [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab).
 
-I am also a Security and Cryptography Expert at the cybersecurity company [Pone Biometrics](https://ponebiometrics.com/the-team).
+I am also a Security and Cryptography Expert at the cybersecurity company [Pone Biometrics](https://ponebiometrics.com).
 
 My main foci of research are lattice-based cryptography and zero-knowledge protocols. My interests generally span the areas of post-quantum crypto, anonymous communication, multiparty computation, homomorphic encryption, electronic voting and secure implementation.
 

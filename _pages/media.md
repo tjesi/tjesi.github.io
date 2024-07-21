@@ -7,6 +7,8 @@ author_profile: true
 
 ## Interviews
 
+[«Blue screen of death» rammet virksomheter i hele verden. Hvordan kunne det skje?](https://www.aftenposten.no/verden/i/bmmdeB/blue-screen-of-death-rammet-virksomheter-i-hele-verden-hvordan-kunne-det-skje), Aftenposten, July 21st, 2024.
+
 [Hørt om «sovende agenter»? Slik kan de lure deg](https://www.tv2.no/nyheter/utenriks/hort-om-sovende-agenter-slik-kan-de-lure-deg/16407544), TV2, February 14th, 2024.
 
 [– Et stort gjennombrudd innen personvernbevarende beregninger](https://www.digi.no/artikler/et-stort-gjennombrudd-innen-personvernbevarende-beregninger/543127), digi.no, February 1st, 2024.
