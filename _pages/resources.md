@@ -92,6 +92,7 @@ Cohen: [Cryptography Online Talks Calendar](https://www.ccs.neu.edu/~rancohen/cr
 
 ## Simons Institute Programs
 
+- [Obfuscation, Proof Systems, and Secure Computation](https://simons.berkeley.edu/programs/cryptography-10-years-later-obfuscation-proof-systems-secure-computation)
 - [The Quantum Wave in Computing](https://simons.berkeley.edu/programs/quantum2020)
 - [Lattices: Algorithms, Complexity, and Cryptography](https://simons.berkeley.edu/programs/lattices2020)
 - [Proofs, Consensus, and Decentralizing Society](https://simons.berkeley.edu/programs/proofs2019)
@@ -99,6 +100,9 @@ Cohen: [Cryptography Online Talks Calendar](https://www.ccs.neu.edu/~rancohen/cr
 
 ## Useful Links
 
+- [CryptoBib](https://cryptobib.di.ens.fr)
+- [CryptoBib Search](https://publish.iacr.org/cryptobib)
+- [CSPapers](https://cspapers.org)
 - [CSRankings](http://csrankings.org/#/index?sec&crypt)
 - [Crypto Stackexchange](https://crypto.stackexchange.com)
 - [Cryptography and Security arXiv](https://arxiv.org/list/cs.CR/recent)
