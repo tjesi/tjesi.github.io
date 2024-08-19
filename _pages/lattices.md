@@ -17,7 +17,7 @@ author_profile: true
 
 - Bootland et al.: [On the Security of Cryptographic Problems from Linear Algebra](https://eprint.iacr.org/2021/1354.pdf)
 - Li et al: [A tutorial introduction to lattice-based cryptography and homomorphic encryption](https://arxiv.org/pdf/2208.08125.pdf)
-- Lyubashevsky: [Lattice Cryptography: Understanding Kyber (ML-KEM) and Dilithium (ML-DSA)](https://github.com/VadimLyubash/LatticeTutorial/blob/main/tutorial.pdf)
+- Lyubashevsky: [Basic Lattice Cryptography: The concepts behind Kyber (ML-KEM) and Dilithium (ML-DSA)](https://eprint.iacr.org/2024/1287)
 - Micciancio and Regev: [Lattice-based Cryptography](https://cseweb.ucsd.edu/~daniele/papers/PostQuantum.pdf)
 - Peikert: [A Decade of Lattice Cryptography](https://web.eecs.umich.edu/~cpeikert/pubs/lattice-survey.pdf)
 
