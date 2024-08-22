@@ -7,6 +7,8 @@ author_profile: true
 
 ## Interviews
 
+[«Kvantesikker kryptering»](https://radio.nrk.no/serie/poensj/sesong/202408/MYNN16011924#t=1h6m10s), NRK P3 Pønsj, August 21st, 2024.
+
 [«Blue screen of death» rammet virksomheter i hele verden. Hvordan kunne det skje?](https://www.aftenposten.no/verden/i/bmmdeB/blue-screen-of-death-rammet-virksomheter-i-hele-verden-hvordan-kunne-det-skje), Aftenposten, July 21st, 2024.
 
 [Hørt om «sovende agenter»? Slik kan de lure deg](https://www.tv2.no/nyheter/utenriks/hort-om-sovende-agenter-slik-kan-de-lure-deg/16407544), TV2, February 14th, 2024.
