@@ -7,7 +7,7 @@ author_profile: true
 
 ## Upcoming Talks:
 
-* No upcoming talks...
+* "Overview Talk on Zero-Knowledge Proofs" - [NIST Workshop on Privacy-Enhancing Cryptography](https://csrc.nist.gov/events/2024/wpec2024), September, 2024.
 
 
 ## Cryptography and Information Security Talks:
