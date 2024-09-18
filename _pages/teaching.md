@@ -5,11 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching projects
+## Teaching Projects
 
 I was awarded 58K NOK to the [Excited](https://www.ntnu.edu/excited) mini-project "[Cracking the Code: The Key to Quality Cryptography Education](https://www.ntnu.edu/excited/insights-from-mini-projects).
 
-## Current and future teaching:
+## Current and Future Teaching:
 
 **Fall 2024:**
 
