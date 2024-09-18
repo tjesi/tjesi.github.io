@@ -7,9 +7,11 @@ author_profile: true
 
 **PKC 2025**: The International Conference on Practice and Theory in Public Key Cryptography. May 12.-15., 2025 - Røros, Norway. [pkc.iacr.org/2025](https://pkc.iacr.org/2025)
 
-**Norsk Kryptoseminar 2024**: October 25, 2024 – Gjøvik, Norway. [wiki.math.ntnu.no/nks/nks24](https://wiki.math.ntnu.no/nks/nks24)
+**NKS 2024**: Norsk Kryptoseminar. October 25, 2024 – Gjøvik, Norway. [wiki.math.ntnu.no/nks/nks24](https://wiki.math.ntnu.no/nks/nks24)
 
-**Zero-Knowledge**: Workshop on Foundations and Applications of Zero-Knowledge Proofs, September 2.-6., 2024 - Edinburgh, Scotland. [icms.org.uk/ZeroKnowledgeProofs](https://www.icms.org.uk/ZeroKnowledgeProofs)
+**WPEC 2024**: NIST Workshop on Privacy-Enhancing Cryptography. September 24.-26., 2024 - Online. [csrc.nist.gov/events/2024/wpec2024](https://csrc.nist.gov/events/2024/wpec2024)
+
+**Zero-Knowledge**: Workshop on Foundations and Applications of Zero-Knowledge Proofs. September 2.-6., 2024 - Edinburgh, Scotland. [icms.org.uk/ZeroKnowledgeProofs](https://www.icms.org.uk/ZeroKnowledgeProofs)
 
 **PQCrypto 2024**: The 15th International Conference on Post-Quantum Cryptography. June 12-14, 2024 – Oxford, United Kingdom. [maths.ox.ac.uk/events/conferences/pqcrypto-2024](https://www.maths.ox.ac.uk/events/conferences/pqcrypto-2024)
 
@@ -21,7 +23,7 @@ author_profile: true
 
 **CCS 2023**: The ACM Conference on Computer and Communications Security, November 26.-30., 2023 - Copenhagen, Denmark. [sigsac.org/ccs/CCS2023](https://www.sigsac.org/ccs/CCS2023)
 
-**Norsk Kryptoseminar 2023**: October 27, 2023 – Oslo, Norway. [wiki.math.ntnu.no/nks](https://wiki.math.ntnu.no/nks)
+**NKS 2023**: Norsk Kryptoseminar. October 27, 2023 – Oslo, Norway. [wiki.math.ntnu.no/nks](https://wiki.math.ntnu.no/nks)
 
 **Sikkerhetsfestivalen 2023**: August 28.-30., 2019 – Lillehammer, Norway. [sikkerhetsfestivalen.no](https://sikkerhetsfestivalen.no)
 
@@ -35,7 +37,7 @@ author_profile: true
 
 **ACISP 2022**: The 27th Australasian Conference on Information Security and Privacy. November 28.-30., 2022 – Wollongong, Australia. [uow-ic2.github.io/acisp2022](https://uow-ic2.github.io/acisp2022)
 
-**Norsk Kryptoseminar 2022**: October 28, 2022 – Bergen, Norway. [simula-uib.com/norsk-kryptoseminar-2022](https://simula-uib.com/norsk-kryptoseminar-2022)
+**NKS 2022**: Norsk Kryptoseminar. October 28, 2022 – Bergen, Norway. [simula-uib.com/norsk-kryptoseminar-2022](https://simula-uib.com/norsk-kryptoseminar-2022)
 
 **Lattices**: Workshop on Foundations and Applications of Lattice-based Cryptography. July 25.-28., 2022 - Edinburgh, Scotland. [icms.org.uk/workshops/2022/foundations-and-applications-lattice-based-cryptography](https://www.icms.org.uk/workshops/2022/foundations-and-applications-lattice-based-cryptography)
 
@@ -61,7 +63,7 @@ author_profile: true
 
 **Lattices: Geometry, Algorithms and Hardness**: Workshop at Simons Institute at UC Berkeley. February 18.-22., 2020 - Berkeley, USA. [simons.berkeley.edu/workshops/lattices-2020-1](https://simons.berkeley.edu/workshops/lattices-2020-1)
 
-**Norsk Kryptoseminar 2020**: January 30, 2020 – Kjeller, Norway. [wiki.math.ntnu.no/nks/nks20](https://wiki.math.ntnu.no/nks/nks20)
+**NKS 2020**: Norsk Kryptoseminar. January 30, 2020 – Kjeller, Norway. [wiki.math.ntnu.no/nks/nks20](https://wiki.math.ntnu.no/nks/nks20)
 
 **Sikkerhetsfestivalen 2019**: August 26.-28., 2019 – Lillehammer, Norway. [sikkerhetsfestivalen.no](https://sikkerhetsfestivalen.no)
 
