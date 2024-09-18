@@ -46,7 +46,7 @@ Joint work with Patrick Hough and Caroline Sandsbråten.
 
 I am Co-Principal Investigator of the project "[OffPAD -- Optimizing balance between high security and usability](https://prosjektbanken.forskningsradet.no/en/project/FORISS/321619)" funded by the Research Council Norwegian with 16M NOK for research on lightweight and post-quantum secure cryptography. This is a joint project with among others [Danilo Gligoroski](https://www.ntnu.edu/employees/danilo.gligoroski) at NTNU and the cybersecurity company [Pone Biometrics](https://ponebiometrics.com).
 
-I received 765K NOK from the scientific equipment fund at [IE Faculty - Research](https://www.ntnu.edu/ie/research) to built a cryptology lab for theoretical and practical cryptographic reserch and education. The CRYPTO-LAB is located at [Electro A176](https://link.mazemap.com/nYuDTF8q).
+I received 765K NOK from the scientific equipment fund at [IE Faculty - Research](https://www.ntnu.edu/ie/research) to build a cryptology lab for theoretical and practical cryptographic research and education. The CRYPTO-LAB is located at [Electro A176](https://link.mazemap.com/nYuDTF8q).
 
 We received seed funding of 200K NOK from [NTNU Community](https://www.ntnu.edu/community) to the project "Cryptography and social life", joint work with [Katrien De Moor](https://www.ntnu.edu/employees/katrien.demoor), [Emil André Røyrvik](https://www.ntnu.edu/employees/emil.royrvik), and [Petter Grytten Almklov](https://www.ntnu.edu/employees/petter.almklov).
 
