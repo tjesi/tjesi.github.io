@@ -19,11 +19,9 @@ I am a member of the [International Association for Cryptologic Research](https:
 
 **News**:
 
-- [Two-Round Threshold Lattice-Based Signatures from Threshold Homomorphic Encryption](https://eprint.iacr.org/2023/1318) is accepted to [PQCrypto 2024](https://www.maths.ox.ac.uk/events/conferences/pqcrypto-2024)! Joint work with Kamil Doruk Gur and Jonathan Katz.
-- I am on the program committee for [ArcticCrypt](https://simula-uib.com/arcticcrypt2025). Submit your best papers for presentation!
-- I am on the [IACR Communications in Cryptology](https://cic.iacr.org) editorial board. Submit your best papers!
+- I will be on sabbathical leave from January 15th to July 15th during spring 2025.
+- [Two-Round Threshold Lattice-Based Signatures from Threshold Homomorphic Encryption](https://eprint.iacr.org/2023/1318) is published at [PQCrypto 2024](https://www.maths.ox.ac.uk/events/conferences/pqcrypto-2024)! Joint work with Kamil Doruk Gur and Jonathan Katz.
 - I will be the general co-chair for [IACR PKC 2025](https://pkc.iacr.org/2025) in [Røros](https://www.visitnorway.com/places-to-go/trondelag/roros) together with [Bor de Kock](https://bordekock.nl)!
-- I am organising a workshop on [Foundations and Applications of Zero-Knowledge Proofs](https://www.icms.org.uk/ZeroKnowledgeProofs) together with Elizabeth Crites, Markulf Kohlweiss, and Akira Takahashi at the International Centre for Mathematical Sciences in Edinburgh from September 2nd to 6th, 2024.
 - I started as an Associate Professor in Cryptology at the Department of Information Security and Communication Technology at NTNU on September 1st, 2022.
 
 I support the [Electronic Frontier Foundation](https://supporters.eff.org/donate/join-eff-4), the [Tor Project](https://donate.torproject.org) and the [Signal Foundation](https://signal.org/donate).
