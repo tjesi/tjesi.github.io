@@ -7,12 +7,9 @@ author_profile: true
 
 ## Current and future teaching:
 
-
 **Fall 2024:**
 
 * Secure Cryptographic Implementations ([TTM4205](https://www.ntnu.edu/studies/courses/TTM4205)) at NTNU (Lecturer)
-* Post-Quantum Cryptography (New PhD course [IIK8105](https://www.ntnu.edu/studies/courses/IIK8105)) at NTNU (Lecturer)
-
 
 ## Previous semesters:
 
