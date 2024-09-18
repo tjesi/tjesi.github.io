@@ -9,7 +9,8 @@ author_profile: true
 
 ## Postdocs / Researchers
 
-- [Hans Heum](https://www.ntnu.edu/employees/hans.heum) (Postdoc 2023-, hosted at the Department of Matemathical Sciences at NTNU)
+- [Hans Heum](https://www.ntnu.edu/employees/hans.heum) (Postdoc 2023-, hosted at the Department of Matemathical Sciences)
+- [Dan Zhang](https://www.ntnu.edu/employees/dan.zhang) (Researcher 2025-, hosted jointly with Danilo Gligoroski)
 
 ## PhD Students
 
@@ -21,7 +22,7 @@ author_profile: true
 
 - Javier García Martínez - "Threshold Signatures for FIDO Authentication"   
 (Master's thesis 2025, co-supervised with Trond Peder Hagen, Magnus Ringerud, and Sigurhjörtur Snorrason)
-- Sunniva Engan - "Zero-Knowledge from VOLE-in-the-Head" (Master's thesis 2025, co-supervised with Peter Scholl)
+- Sunniva Engan - "Foundations and Applications of Sigma Protocols" (Master's thesis 2025)
 - Emil Bragstad and Marius Andreas Arder - "Improving Messaging Layer Security in a Military UAV Swarm"  
 (Master's thesis 2025, co-supervised with Martin Strand)
 - Michaela Kralova - "Post-Quantum Password-Authenticated Key Exchange" (Master's thesis 2025)
@@ -55,7 +56,7 @@ I am grateful to [Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gj
 
 ## Research Visits
 
-- [Xavier Boyen](https://www.qut.edu.au/about/our-people/academic-profiles/xavier.boyen) at Queensland University of Technology (April 2024)
+- [Xavier Boyen](https://www.qut.edu.au/about/our-people/academic-profiles/xavier.boyen) at Queensland University of Technology (April 2024, March to April 2025)
 - [Christian Majenz](https://www.christianmajenz.info/about-me.html) at DTU Compute (November 2023)
 - [Maria Isabel Gonzalez Vasco](https://sites.google.com/site/maribelurjc) and [Dario Fiore](https://www.dariofiore.it) at IMDEA (September 2023) 
 - [Diego F. Aranha](https://dfaranha.github.io) at Aarhus University (June 2023)
