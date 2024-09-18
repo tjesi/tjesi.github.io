@@ -7,6 +7,8 @@ author_profile: true
 
 **PKC 2025**: The International Conference on Practice and Theory in Public Key Cryptography. May 12.-15., 2025 - Røros, Norway. [pkc.iacr.org/2025](https://pkc.iacr.org/2025)
 
+**Norsk Kryptoseminar 2024**: October 25, 2024 – Gjøvik, Norway. [wiki.math.ntnu.no/nks/nks24](https://wiki.math.ntnu.no/nks/nks24)
+
 **Zero-Knowledge**: Workshop on Foundations and Applications of Zero-Knowledge Proofs, September 2.-6., 2024 - Edinburgh, Scotland. [icms.org.uk/ZeroKnowledgeProofs](https://www.icms.org.uk/ZeroKnowledgeProofs)
 
 **PQCrypto 2024**: The 15th International Conference on Post-Quantum Cryptography. June 12-14, 2024 – Oxford, United Kingdom. [maths.ox.ac.uk/events/conferences/pqcrypto-2024](https://www.maths.ox.ac.uk/events/conferences/pqcrypto-2024)
