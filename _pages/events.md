@@ -7,7 +7,7 @@ author_profile: true
 
 **PKC 2025**: The International Conference on Practice and Theory in Public Key Cryptography. May 12.-15., 2025 - Røros, Norway. [pkc.iacr.org/2025](https://pkc.iacr.org/2025)
 
-**NDC Sec 2025**: Norwegian Developer Conference Security. January 23, 2025 - Oslo, Norway. [ndc-security.com](https://ndc-security.com)
+**NDC Sec 2025**: Norwegian Developer Conference Security. January 20.-23., 2025 - Oslo, Norway. [ndc-security.com](https://ndc-security.com)
 
 **NKS 2024**: Norsk Kryptoseminar. October 25, 2024 – Gjøvik, Norway. [wiki.math.ntnu.no/nks/nks24](https://wiki.math.ntnu.no/nks/nks24)
 
