@@ -8,7 +8,7 @@ author_profile: true
 ## Upcoming Talks:
 
 * "Zero Knowledge Proofs: Technical Challenges, Applications, and Real-world Deployment" - [NIST Workshop on Privacy-Enhancing Cryptography](https://csrc.nist.gov/events/2024/wpec2024), September, 2024.
-
+* "Challenges and Opportunities from Quantum-Safe Cryptography" - [NDC Security](https://ndc-security.com/speakers/tjerand-silde) in Oslo, January, 2025.
 
 ## Cryptography and Information Security Talks:
 

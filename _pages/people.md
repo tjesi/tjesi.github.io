@@ -10,7 +10,7 @@ author_profile: true
 ## Postdocs / Researchers
 
 - [Hans Heum](https://www.ntnu.edu/employees/hans.heum) (Postdoc 2023-, hosted at the Department of Matemathical Sciences)
-- [Dan Zhang](https://www.ntnu.edu/employees/dan.zhang) (Researcher 2025-, hosted jointly with Danilo Gligoroski)
+- [Dan Zhang](https://www.ntnu.edu/employees/dan.zhang) (Researcher 2025-, jointly hosted with Danilo Gligoroski)
 
 ## PhD Students
 
