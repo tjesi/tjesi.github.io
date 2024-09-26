@@ -7,7 +7,7 @@ author_profile: true
 
 ## Upcoming Talks:
 
-* "Zero Knowledge Proofs: Technical Challenges, Applications, and Real-world Deployment" [1](https://tjerandsilde.no/files/NIST-WPEC-Akira.pdf)[2](https://tjerandsilde.no/files/NIST-WPEC-Tjerand.pdf) - [NIST Workshop on Privacy-Enhancing Cryptography](https://csrc.nist.gov/events/2024/wpec2024), September, 2024. Joint talk with [Akira Takahashi](https://akiratk0355.github.io)
+* "Zero Knowledge Proofs: Technical Challenges, Applications, and Real-world Deployment" [First half](https://tjerandsilde.no/files/NIST-WPEC-Akira.pdf), [Second half](https://tjerandsilde.no/files/NIST-WPEC-Tjerand.pdf) - [NIST Workshop on Privacy-Enhancing Cryptography](https://csrc.nist.gov/events/2024/wpec2024), September, 2024. Joint talk with [Akira Takahashi](https://akiratk0355.github.io).
 * "Challenges and Opportunities from Quantum-Safe Cryptography" - [NDC Security](https://ndc-security.com/speakers/tjerand-silde) in Oslo, January, 2025.
 
 ## Cryptography and Information Security Talks:
