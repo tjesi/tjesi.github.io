@@ -7,11 +7,11 @@ author_profile: true
 
 ## Upcoming Talks:
 
-* "Zero Knowledge Proofs: Technical Challenges, Applications, and Real-world Deployment" ([first half](https://tjerandsilde.no/files/NIST-WPEC-Akira.pdf), [second half](https://tjerandsilde.no/files/NIST-WPEC-Tjerand.pdf)) - [NIST Workshop on Privacy-Enhancing Cryptography](https://csrc.nist.gov/events/2024/wpec2024), September, 2024. Joint talk with [Akira Takahashi](https://akiratk0355.github.io).
 * "Challenges and Opportunities from Quantum-Safe Cryptography" - [NDC Security](https://ndc-security.com/speakers/tjerand-silde) in Oslo, January, 2025.
 
 ## Cryptography and Information Security Talks:
 
+* "Zero Knowledge Proofs: Technical Challenges, Applications, and Real-world Deployment" ([first half](https://tjerandsilde.no/files/NIST-WPEC-Akira.pdf), [second half](https://tjerandsilde.no/files/NIST-WPEC-Tjerand.pdf)) - [NIST Workshop on Privacy-Enhancing Cryptography](https://csrc.nist.gov/events/2024/wpec2024), September, 2024. Joint talk with [Akira Takahashi](https://akiratk0355.github.io).
 * "[Recent Advances in Lattice-Based Electronic Voting](https://tjerandsilde.no/files/QUT.pdf)" - Queensland University of Technology, April, 2024.
 * "[Verifiable Mix-Nets and Distributed Decryption for Voting from Lattice-Based Assumptions](https://tjerandsilde.no/files/zkp.pdf)" - [ACM CCS](https://www.sigsac.org/ccs/CCS2023/program.html), Nov, 2023.
 * "[Lattice-Based Electronic Voting](https://tjerandsilde.no/files/IMDEA.pdf)" - IMDEA Software Madrid, September, 2023.
