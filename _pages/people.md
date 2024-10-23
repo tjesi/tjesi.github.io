@@ -16,7 +16,6 @@ author_profile: true
 
 - [Caroline Sandsbråten](https://www.ntnu.edu/employees/caroline.sandsbraten) (PhD 2022-, main supervisor)
 - [Emil August Hovd Olaisen](https://www.ntnu.edu/employees/emil.august.olaisen) (PhD 2022-, main supervisor)
-- [Cristian Baeza](https://www.ntnu.edu/employees/cristian.baeza) (PhD 2022-, co-supervisor, Anamaria Costache is the main supervisor)
 
 ## Bachelor's and Master's Students
 
