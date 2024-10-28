@@ -81,7 +81,7 @@ author_profile: true
 
 **ZK Day 2019**: Blockchains, Micropayments and Zero Knowledge. April 13, 2019 – Berkeley, USA. [simons.berkeley.edu/events/zero-knowledge-day-2019](https://simons.berkeley.edu/events/zero-knowledge-day-2019)
 
-**ZKP Workshop 2019**: The 2nd ZKProof Standards Workshop. April 10.-12., 2019 – Berkeley, USA. [zkproof.org/workshop2/main](https://zkproof.org/workshop2/main)
+**ZKP Workshop 2019**: The 2nd ZKProof Standards Workshop. April 10.-12., 2019 – Berkeley, USA. [zkpstandard.github.io/zkproof.github.io/workshop2/main.html](https://zkpstandard.github.io/zkproof.github.io/workshop2/main.html)
 
 **RWC 2019**: Real World Crypto Symposium. January 9.-11., 2019 – San Jose, USA. [rwc.iacr.org/2019](https://rwc.iacr.org/2019)
 

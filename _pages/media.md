@@ -81,8 +81,6 @@ author_profile: true
 
 [From Coils to Curves - A Primer on Elliptic Curve Cryptography](https://bekk-christmas.vercel.app/post/2020/5/from-coils-to-curves-a-primer-on-elliptic-curve-cryptography), Security.Christmas, December 5th, 2020.
 
-[Utdanning og Teknologi](https://talentblogg.no/tjerand-silde), Talentblogg.no, 2016/2017.
-
 [Ditt privatliv beskyttes av primtall](https://titan.uio.no/naturvitenskap-teknologi/2016/ditt-privatliv-beskyttes-av-primtall), Titan.UiO.no, December 1st, 2016.
 
 [Digitale barn trenger digitale foreldre](https://www.nrk.no/ytring/digitale-barn-trenger-digitale-foreldre-1.13007819), NRK Ytring, June 25th, 2016.
@@ -93,7 +91,7 @@ author_profile: true
 
 [Historien om Smittestopp, fra innsida: - Personvern handler om tekniske valg](https://www.kode24.no/artikkel/historien-om-smittestopp-fra-innsida-personvern-handler-om-tekniske-valg/77012938), Kode24.no, August 30th, 2022.
 
-[Han hacker deg på sekunder](https://www.agderposten.no/nyheter/han-hacker-deg-pa-sekunder), Agderposten, August 17th, 2022.
+[Han hacker deg på sekunder](https://www.agderposten.no/nyheter/i/kEW1vj/han-hacker-deg-paa-sekunder), Agderposten, August 17th, 2022.
 
 [Forskere ga Smittestopp-appen bedre personvern](https://forskning.no/app-data-forsvarets-forskningsinstitutt/forskere-ga-smittestopp-appen-bedre-personvern/1865394), forskning.no, May 29th, 2021.
 
@@ -111,14 +109,12 @@ author_profile: true
 
 [Møter framtida med teknologi og programmering](https://www.hvl.no/aktuelt/moter-framtida-med-teknologi-og-programmering), HVL.no, March 30th, 2017.
 
-[- Lær kidsa koding](https://www.adressa.no/pluss/nyheter/2015/11/11/L%C3%A6r-kidsa-koding-11796276.ece), Adresseavisen, November 11th, 2015.
+[- Lær kidsa koding](https://www.adressa.no/nyheter/i/EwrWBK/laer-kidsa-koding), Adresseavisen, November 11th, 2015.
 
 [Her lærer barna det «hemmelige» kodespråket](https://www.online.no/trender/kidsakoder.jsp), Online.no, June 29th, 2015.
-
-[Ny realfagssatsing i norsk skole](https://www.regjeringen.no/no/aktuelt/Ny-realfagssatsing-i-norsk-skole/id755393), Regjeringen.no, April 7th, 2014.
 
 [22 «realfagshelter» skal løfte elevenes mattekunnskaper](https://www.tu.no/artikler/22-realfagshelter-skal-lofte-elevenes-mattekunnskaper/231597), Teknisk Ukeblad, April 7th, 2014.
 
 [Ungdom lærte seg kodespråk](https://www.h-avis.no/etne/nyheter/siste-nytt/ungdom-larte-seg-kodesprak/s/2-2.921-1.8506076), Haugesunds Avis, July 10th, 2014.
 
-[Der kidsa får kode](https://www.midtnorskdebatt.no/meninger/snakkut/article9383255.ece), Adresseavisen, March 24th, 2014.
+[Der kidsa får kode](https://www.adressa.no/debatt/i/m1l14v/der-kidsa-far-kode), Adresseavisen, March 24th, 2014.

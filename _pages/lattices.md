@@ -23,14 +23,14 @@ author_profile: true
 
 ## Talks
 
-- BIU Winter School: [Lattice-based cryptography and applications](http://cyber.biu.ac.il/event/the-2nd-biu-winter-school)
+- BIU Winter School: [Lattice-based cryptography and applications](https://youtube.com/playlist?list=PL8Vt-7cSFnw2OmpCmPLLwSx0-Yqb2ptqO&si=bNDxNvRNjpZBnIeH)
 - ICMS: [Foundations and Applications of Lattice-based Cryptography](https://www.icms.org.uk/workshops/2022/foundations-and-applications-lattice-based-cryptography)
 - Nguyen: [Lattice-Based Cryptography](https://youtu.be/MG6g04R_Ims)
 - Peikert: [Lattice-Based Cryptography](https://youtu.be/FVFw_qb1ZkY)
 - Peikert: [Lattice Cryptography for the Internet](https://youtu.be/uycY1O9f2Nw)
-- Simons Institute: [Algorithms, Complexity, and Cryptography Boot Camp](https://simons.berkeley.edu/workshops/schedule/10563)
-- Simons Institute: [Geometry, Algorithms and Hardness](https://simons.berkeley.edu/workshops/schedule/10564)
-- Simons Institute: [Quantum Cryptanalysis of Post-Quantum Cryptography](https://simons.berkeley.edu/workshops/schedule/14097)
-- Simons Institute: [New Cryptographic Capabilities](https://simons.berkeley.edu/workshops/schedule/10566)
-- Simons Institute: [From Theory to Practice](https://simons.berkeley.edu/workshops/schedule/10565)
+- Simons Institute: [Algorithms, Complexity, and Cryptography Boot Camp](https://simons.berkeley.edu/workshops/lattices-algorithms-complexity-cryptography-boot-camp)
+- Simons Institute: [Geometry, Algorithms and Hardness](https://simons.berkeley.edu/workshops/lattices-geometry-algorithms-hardness)
+- Simons Institute: [Quantum Cryptanalysis of Post-Quantum Cryptography](https://old.simons.berkeley.edu/workshops/lattices2020-quantum2020-joint)
+- Simons Institute: [New Cryptographic Capabilities](https://simons.berkeley.edu/workshops/lattices-new-cryptographic-capabilities)
+- Simons Institute: [From Theory to Practice](https://simons.berkeley.edu/workshops/lattices-theory-practice)
 - Vaikuntanathan: [Lattices and Cryptography: A Match Made in Heaven](https://youtu.be/5LGwaICJ5sw)

@@ -15,7 +15,6 @@ Cohen: [Cryptography Online Talks Calendar](https://www.ccs.neu.edu/~rancohen/cr
 - Partisia: [Particia MPC](https://partisiampc.medium.com)
 - Sandbox: [The Crypto Caffè](https://cryptocaffe.sandboxaq.com)
 - The Sugar Beet: [Applied MPC: Developments in multiparty computation](https://medium.com/applied-mpc)
-- Unbound Tech: [Blog](https://www.unboundtech.com/blog)
 - zkproof.org: [The Art of Zero Knowledge](https://zkproof.org/blog)
 
 ## Books and Lecture Notes in Cryptography
@@ -35,7 +34,7 @@ Cohen: [Cryptography Online Talks Calendar](https://www.ccs.neu.edu/~rancohen/cr
 - Pass and Shelat: [A Course in Cryptography](https://www.cs.cornell.edu/courses/cs4830/2010fa/lecnotes.pdf)
 - Rosulek: [The Joy of Cryptography](https://web.engr.oregonstate.edu/~rosulekm/crypto)
 - Schoenmakers: [Lecture Notes Cryptographic Protocols](https://www.win.tue.nl/~berry/CryptographicProtocols/LectureNotes.pdf)
-- Smart: [Cryptography Made Simple](https://link.springer.com/book/10.1007%2F978-3-319-21936-3)
+- Smart: [Cryptography Made Simple](https://link.springer.com/book/10.1007/978-3-319-21936-3)
 - Thaler: [Proofs, Arguments, and Zero-Knowledge](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
 
 ## International Association for Cryptologic Research
@@ -77,7 +76,7 @@ Cohen: [Cryptography Online Talks Calendar](https://www.ccs.neu.edu/~rancohen/cr
 
 ## Online Courses
 
-- BUI: [WINTER SCHOOL ON CRYPTOGRAPHY](http://cyber.biu.ac.il/events)
+- BUI: [WINTER SCHOOL ON CRYPTOGRAPHY](https://www.youtube.com/@thebiuresearchcenteronappl8783/playlists)
 - Boneh: [Stanford’s online cryptography course](https://www.coursera.org/learn/crypto)
 - Boneh et al.: [Zero Knowledge Proofs MOOC](https://zk-learning.org)
 - Chiesa: [Probabilistically Checkable and Interactive Proof Systems](https://youtube.com/playlist?list=PLkFD6_40KJIyWWtxCPBHwGsrutjvwM5_U)
