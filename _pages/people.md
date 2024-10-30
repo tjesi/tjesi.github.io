@@ -41,6 +41,10 @@ author_profile: true
 
 I am grateful to [Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen) for supervising my Bachelor's (2017), Master's (2020), and PhD thesis (2022) and to [Colin Boyd](https://scholar.google.no/citations?user=CIfBKmMAAAAJ) for co-supervising my PhD thesis. I am also grateful to [Carsten Baum](http://carstenbaum.com) and [Diego F. Aranha](https://dfaranha.github.io) at Aarhus University and [Jonathan Katz](https://www.cs.umd.edu/~jkatz) at the University of Maryland for hosting and mentoring me during my PhD.
 
+## PhD Committees
+
+- 2025: [Simon Erfurth](https://serfurth.dk) at University of Southern Denmark, supervised by [Joan Boyar](https://imada.sdu.dk/u/joan).
+
 ## Visitors
 
 - [Scott Griffy](https://scottgriffy.com), PhD student at Brown University (July and August 2024)

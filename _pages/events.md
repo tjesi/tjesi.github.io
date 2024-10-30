@@ -5,6 +5,8 @@ permalink: /events/
 author_profile: true
 ---
 
+**DS Voting**: Dagstuhl Seminar on Trustworthy Evidence-Based Elections. October 5.-10., 2025 - Dagstuhl, Germany. [dagstuhl.de/seminars/seminar-calendar/seminar-details/25411](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/25411)
+
 **PKC 2025**: The International Conference on Practice and Theory in Public Key Cryptography. May 12.-15., 2025 - Røros, Norway. [pkc.iacr.org/2025](https://pkc.iacr.org/2025)
 
 **NDC Sec 2025**: Norwegian Developer Conference Security. January 20.-23., 2025 - Oslo, Norway. [ndc-security.com](https://ndc-security.com)
