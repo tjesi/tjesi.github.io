@@ -35,8 +35,8 @@ I previously organized the NTNU Post-Quantum Cryptography Reading Group together
 
 ## Reviewer
 
-- 2025: IACR Eurocrypt
-- 2024: IACR Eurocrypt, IACR Crypto, Journal of Cryptology.
+- 2025: IACR Eurocrypt, Journal of Cryptology.
+- 2024: IACR Eurocrypt, IACR Crypto.
 - 2023: PETS and ESORICS.
 - 2022: IACR PKC, PETS, ANTS, ACM CCS, PQCrypto and ESORICS.
 - 2021: Financial Crypto, IACR Eurocrypt, CT-RSA, ACISP, ACM CCS, ESORICS, MathCrypt and SAC.
