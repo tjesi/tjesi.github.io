@@ -9,13 +9,13 @@ I believe that all scientific publications should be freely available online, gi
 
 ## Publications
 
-[More Efficient Post-Quantum Electronic Voting from NTRU](https://eprint.iacr.org/2023/933), IACR Communications in Cryptology, Volume 1, Issue 4.  
+[More Efficient Post-Quantum Electronic Voting from NTRU](https://eprint.iacr.org/2023/933), IACR Communications in Cryptology, Volume 1, 2024.  
 Joint work with Patrick Hough and Caroline Sandsbråten.
 
 [Two-Round Threshold Lattice-Based Signatures from Threshold Homomorphic Encryption](https://eprint.iacr.org/2023/1318), PQCrypto 2024.  
 Joint work with Kamil Doruk Gur and Jonathan Katz.
 
-[BRAKE: Biometric Resilient Authenticated Key Exchange](https://eprint.iacr.org/2022/1408), IEEE Access 2024.  
+[BRAKE: Biometric Resilient Authenticated Key Exchange](https://eprint.iacr.org/2022/1408), IEEE Access, Volume 12, 2024.  
 Joint work with Pia Bauspieß, Matej Poljuha, Alexandre Tullot and Anamaria Costache.
 
 [Verifiable Mix-Nets and Distributed Decryption for Voting from Lattice-Based Assumptions](https://eprint.iacr.org/2022/422), ACM CCS 2023.  
