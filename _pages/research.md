@@ -9,6 +9,9 @@ I believe that all scientific publications should be freely available online, gi
 
 ## Publications
 
+[More Efficient Post-Quantum Electronic Voting from NTRU](https://eprint.iacr.org/2023/933), IACR Communications in Cryptology, Volume 1, Issue 4.  
+Joint work with Patrick Hough and Caroline Sandsbråten.
+
 [Two-Round Threshold Lattice-Based Signatures from Threshold Homomorphic Encryption](https://eprint.iacr.org/2023/1318), PQCrypto 2024.  
 Joint work with Kamil Doruk Gur and Jonathan Katz.
 
@@ -35,12 +38,12 @@ Joint work with Diego F. Aranha, Carsten Baum, Kristian Gjøsteen and Thor Tunge
 [Short paper: Where is the Web Still Insecure? Regional Scans for HTTPS Certificates](https://tjerandsilde.no/files/Where_is_the_web_still_insecure__Regional_scans_for_HTTPS_certificates.pdf), NISK 2018.  
 Joint work with Anushua Hossain and Kristina Nelson. ([Presentation](https://tjerandsilde.no/files/NISK_presentation.pdf), [Code](https://github.com/tjesi/security-scan))
 
+<!--
 ## Manuscripts
 
 
-[More Efficient Post-Quantum Electronic Voting from NTRU](https://eprint.iacr.org/2023/933)  
-Joint work with Patrick Hough and Caroline Sandsbråten.
 
+-->
 
 ## Projects
 
