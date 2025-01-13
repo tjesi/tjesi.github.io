@@ -9,7 +9,7 @@ I believe that all scientific publications should be freely available online, gi
 
 ## Publications
 
-[More Efficient Post-Quantum Electronic Voting from NTRU](https://eprint.iacr.org/2023/933), IACR Communications in Cryptology, Volume 1, 2024.  
+[More Efficient Lattice-Based Electronic Voting from NTRU](https://eprint.iacr.org/2023/933), IACR Communications in Cryptology, Volume 1, 2024.  
 Joint work with Patrick Hough and Caroline Sandsbråten.
 
 [Two-Round Threshold Lattice-Based Signatures from Threshold Homomorphic Encryption](https://eprint.iacr.org/2023/1318), PQCrypto 2024.  
