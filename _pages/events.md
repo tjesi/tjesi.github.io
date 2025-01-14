@@ -9,6 +9,8 @@ author_profile: true
 
 **ArcticCrypt 2025**: The World’s Northernmost Cryptography Conference. July 6.-11., 2025 - Longyearbyen, Svalbard. [simula-uib.com/arcticcrypt2025](https://simula-uib.com/arcticcrypt2025)
 
+**PrivCrypt 2025**: International Workshop on Foundations and Applications of Privacy-Enhancing Cryptography. June 24th, 2025 - Munich, Germany. [privcryptworkshop.github.io](https://privcryptworkshop.github.io)
+
 **PKC 2025**: The International Conference on Practice and Theory in Public Key Cryptography. May 12.-15., 2025 - Røros, Norway. [pkc.iacr.org/2025](https://pkc.iacr.org/2025)
 
 **NDC Sec 2025**: Norwegian Developer Conference Security. January 20.-23., 2025 - Oslo, Norway. [ndc-security.com](https://ndc-security.com)
