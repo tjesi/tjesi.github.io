@@ -22,7 +22,6 @@ I am a member of the [International Association for Cryptologic Research](https:
 - I will be on sabbatical leave from January 15th to July 15th during spring 2025.
 - [More Efficient Lattice-Based Electronic Voting from NTRU](https://eprint.iacr.org/2023/933) is accepted to [IACR Communications in Cryptology](https://cic.iacr.org)! Joint work with Patrick Hough and Caroline Sandsbråten.
 - We recently opened the [CRYPTO-LAB](cryptolab) for theoretical and practical cryptographic research and education, currently used in [TTM4205 Secure Cryptographic Implementations](http://ttm4205.iik.ntnu.no).
-- [Two-Round Threshold Lattice-Based Signatures from Threshold Homomorphic Encryption](https://eprint.iacr.org/2023/1318) is published at [PQCrypto 2024](https://www.maths.ox.ac.uk/events/conferences/pqcrypto-2024)! Joint work with Kamil Doruk Gur and Jonathan Katz.
 - I will be the general co-chair for [IACR PKC 2025](https://pkc.iacr.org/2025) in [Røros](https://www.visitnorway.com/places-to-go/trondelag/roros) together with [Bor de Kock](https://bordekock.nl)!
 - I started as an Associate Professor in Cryptology at the Department of Information Security and Communication Technology at NTNU on September 1st, 2022.
 
