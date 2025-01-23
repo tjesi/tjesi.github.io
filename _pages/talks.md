@@ -7,7 +7,7 @@ author_profile: true
 
 ## Upcoming Talks:
 
-* "Challenges and Opportunities from Quantum-Safe Cryptography" - [NDC Security](https://ndc-security.com/speakers/tjerand-silde) in Oslo, January, 2025.
+* "[Challenges and Opportunities from Quantum-Safe Cryptography](https://tjerandsilde.no/files/PQC.pdf)" - [NDC Security](https://ndc-security.com/speakers/tjerand-silde) in Oslo, January, 2025.
 
 ## Cryptography and Information Security Talks:
 

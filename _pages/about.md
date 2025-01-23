@@ -19,6 +19,7 @@ I am a member of the [International Association for Cryptologic Research](https:
 
 **News**:
 
+- I gave a talk on  "[Challenges and Opportunities from Quantum-Safe Cryptography](https://tjerandsilde.no/files/PQC.pdf)” at the [NDC Security](https://ndc-security.com/speakers/tjerand-silde) conferene in Oslo, January, 2025.
 - I will be on sabbatical leave from January 15th to July 15th during spring 2025.
 - [More Efficient Lattice-Based Electronic Voting from NTRU](https://eprint.iacr.org/2023/933) is accepted to [IACR Communications in Cryptology](https://cic.iacr.org)! Joint work with Patrick Hough and Caroline Sandsbråten.
 - We recently opened the [CRYPTO-LAB](cryptolab) for theoretical and practical cryptographic research and education, currently used in [TTM4205 Secure Cryptographic Implementations](http://ttm4205.iik.ntnu.no).
