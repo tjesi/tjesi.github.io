@@ -19,6 +19,8 @@ author_profile: true
 
 ## Bachelor's and Master's Students
 
+- Paulina Wesolowska - "Quantum Threats and Mitigations"  
+(Master's thesis 2025, co-supervised with Hans Heum)
 - Mostafa Ghozal - "Analysis of a Post-Quantum Extension of the EMV Protocol in Tamarin"  
 (Master's thesis 2025, co-supervised with Chris Brzuska)
 - Henrik Hansen Stormyhr - "Modern-day Steganography"  
