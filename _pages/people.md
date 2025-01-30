@@ -19,6 +19,8 @@ author_profile: true
 
 ## Bachelor's and Master's Students
 
+- Noah Starckjohann - "Organizing cloud TEE-based applications for data from multiple parties"  
+(Master's thesis 2025, co-supervised with Xeni Kristine Dimakos and Li Chun Zhang)
 - Paulina Wesolowska - "Quantum Threats and Mitigations"  
 (Master's thesis 2025, co-supervised with Hans Heum)
 - Mostafa Ghozal - "Analysis of a Post-Quantum Extension of the EMV Protocol in Tamarin"  
