@@ -29,7 +29,8 @@ author_profile: true
 (Master's thesis 2025, co-supervised with Bor de Kock and Emil August Hovd Olaisen)
 - Javier García Martínez - "Threshold Signatures for FIDO Authentication"   
 (Master's thesis 2025, co-supervised with Trond Peder Hagen, Magnus Ringerud, and Sigurhjörtur Snorrason)
-- Sunniva Engan - "Foundations and Applications of Sigma Protocols" (Master's thesis 2025)
+- Sunniva Engan - "Foundations and Applications of Sigma Protocols"  
+(Master's thesis 2025, co-supervised with Kristian Gjøsteen)
 - Emil Bragstad and Marius Andreas Arder - "Improving Messaging Layer Security in a Military UAV Swarm"  
 (Master's thesis 2025, co-supervised with Martin Strand)
 - Michaela Kralova - "Post-Quantum Password-Authenticated Key Exchange" (Master's thesis 2025)
