@@ -28,7 +28,7 @@ author_profile: true
 - Henrik Hansen Stormyhr - "Modern-day Steganography"  
 (Master's thesis 2025, co-supervised with Bor de Kock and Emil August Hovd Olaisen)
 - Javier García Martínez - "Threshold Signatures for FIDO Authentication"   
-(Master's thesis 2025, co-supervised with Trond Peder Hagen, Magnus Ringerud, and Sigurhjörtur Snorrason)
+(Master's thesis 2025, co-supervised with Trond Peder Hagen and Magnus Ringerud)
 - Sunniva Engan - "Foundations and Applications of Sigma Protocols"  
 (Master's thesis 2025, co-supervised with Kristian Gjøsteen)
 - Emil Bragstad and Marius Andreas Arder - "Improving Messaging Layer Security in a Military UAV Swarm"  
