@@ -14,6 +14,8 @@ I was awarded 58K NOK for the [Excited](https://www.ntnu.edu/excited) mini-proje
 **Fall 2025:**
 
 * Secure Cryptographic Implementations ([TTM4205](https://www.ntnu.edu/studies/courses/TTM4205)) at NTNU (Lecturer)
+* Introduction to Cyber Security and Data Communication ([TTM4175](https://www.ntnu.edu/studies/courses/TTM4175)) at NTNU (crypto module)
+
 
 **Spring 2026:**
 
