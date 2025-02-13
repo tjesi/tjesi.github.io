@@ -14,12 +14,12 @@ I was awarded 58K NOK for the [Excited](https://www.ntnu.edu/excited) mini-proje
 **Fall 2025:**
 
 * Secure Cryptographic Implementations ([TTM4205](https://www.ntnu.edu/studies/courses/TTM4205)) at NTNU (Lecturer)
-* Introduction to Cyber Security and Data Communication ([TTM4175](https://www.ntnu.edu/studies/courses/TTM4175)) at NTNU (crypto module)
+* Introduction to Cyber Security and Data Communication ([TTM4175](https://www.ntnu.edu/studies/courses/TTM4175)) at NTNU (Crypto Module)
 
 
 **Spring 2026:**
 
-* Experts in Teamwork - Cybersecurity ([TTM4850](https://www.ntnu.no/eit/ttm4850)) at NTNU (Lecturer)
+* Experts in Teamwork - Cybersecurity ([TTM4850](https://www.ntnu.no/eit/ttm4850)) at NTNU (Lecturer, with [Jeongeun Park](https://www.ntnu.edu/employees/jeongeun.park))
 
 ## Previous semesters:
 
