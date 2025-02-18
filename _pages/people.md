@@ -23,8 +23,6 @@ author_profile: true
 (Master's thesis 2025, co-supervised with Xeni Kristine Dimakos and Li Chun Zhang)
 - Paulina Wesolowska - "Quantum Threats and Mitigations"  
 (Master's thesis 2025, co-supervised with Hans Heum)
-- Mostafa Ghozal - "Analysis of a Post-Quantum Extension of the EMV Protocol in Tamarin"  
-(Master's thesis 2025, co-supervised with Chris Brzuska)
 - Henrik Hansen Stormyhr - "Modern-day Steganography"  
 (Master's thesis 2025, co-supervised with Bor de Kock and Emil August Hovd Olaisen)
 - Javier García Martínez - "Threshold Signatures for FIDO Authentication"   
