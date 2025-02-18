@@ -11,7 +11,7 @@ author_profile: true
 
 ## Cryptography and Information Security Talks:
 
-* "[Quantum-Safe Threshold Signatures](https://tjerandsilde.no/files/Threshold-Signatures.pdf)" - [University of Southern Denmark](https://algorithms.sdu.dk/talks.php), February, 2025.
+* "[Quantum-Safe Threshold Signatures](https://tjerandsilde.no/files/Threshold-Signatures.pdf)" - [University of Southern Denmark](https://algorithms.sdu.dk/talks.php) in Odense, February, 2025.
 * "[Challenges and Opportunities from Quantum-Safe Cryptography](https://tjerandsilde.no/files/PQC.pdf)" - [NDC Security](https://ndc-security.com/speakers/tjerand-silde) in Oslo, January, 2025.
 * "Zero Knowledge Proofs: Technical Challenges, Applications, and Real-world Deployment" ([first half](https://tjerandsilde.no/files/NIST-WPEC-Akira.pdf), [second half](https://tjerandsilde.no/files/NIST-WPEC-Tjerand.pdf)) - [NIST Workshop on Privacy-Enhancing Cryptography](https://csrc.nist.gov/events/2024/wpec2024), September, 2024. Joint talk with [Akira Takahashi](https://akiratk0355.github.io).
 * "[Recent Advances in Lattice-Based Electronic Voting](https://tjerandsilde.no/files/QUT.pdf)" - Queensland University of Technology, April, 2024.
