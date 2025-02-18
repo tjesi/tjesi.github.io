@@ -7,16 +7,16 @@ author_profile: true
 
 ## Upcoming Talks:
 
-* "Quantum-Safe Threshold Signatures" - [University of Southern Denmark](https://algorithms.sdu.dk/talks.php), February, 2025.
+* No upcoming talks...
 
 ## Cryptography and Information Security Talks:
 
+* "[Quantum-Safe Threshold Signatures](https://tjerandsilde.no/files/Threshold-Signatures.pdf)" - [University of Southern Denmark](https://algorithms.sdu.dk/talks.php), February, 2025.
 * "[Challenges and Opportunities from Quantum-Safe Cryptography](https://tjerandsilde.no/files/PQC.pdf)" - [NDC Security](https://ndc-security.com/speakers/tjerand-silde) in Oslo, January, 2025.
 * "Zero Knowledge Proofs: Technical Challenges, Applications, and Real-world Deployment" ([first half](https://tjerandsilde.no/files/NIST-WPEC-Akira.pdf), [second half](https://tjerandsilde.no/files/NIST-WPEC-Tjerand.pdf)) - [NIST Workshop on Privacy-Enhancing Cryptography](https://csrc.nist.gov/events/2024/wpec2024), September, 2024. Joint talk with [Akira Takahashi](https://akiratk0355.github.io).
 * "[Recent Advances in Lattice-Based Electronic Voting](https://tjerandsilde.no/files/QUT.pdf)" - Queensland University of Technology, April, 2024.
 * "[Verifiable Mix-Nets and Distributed Decryption for Voting from Lattice-Based Assumptions](https://tjerandsilde.no/files/zkp.pdf)" - [ACM CCS](https://www.sigsac.org/ccs/CCS2023/program.html), Nov, 2023.
 * "[Lattice-Based Electronic Voting](https://tjerandsilde.no/files/IMDEA.pdf)" - IMDEA Software Madrid, September, 2023.
-* "[Lattice-Based Threshold Signatures](https://tjerandsilde.no/files/Threshold-Signatures.pdf)" - NTNU Applied Cryptology Lab, September, 2023.
 * "[Kvantesikker kryptografi: slutten på starten](https://tjerandsilde.no/files/Sikkerhetsfestivalen-2023-kvante.pdf)" - Sikkerhetsfestivalen, August 2023.
 * "[Secure authentication with FIDO, Biometrics and Security Keys](https://tjerandsilde.no/files/Sikkerhetsfestivalen-2023-fido.pdf)" - Sikkerhetsfestivalen, August 2023.
 * "[Sikker autentisering i en kvanteverden](https://tjerandsilde.no/files/autentisering.pdf)" - Sikkerhetsfagkveld hos Bekk, September, 2022.
