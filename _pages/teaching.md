@@ -9,7 +9,7 @@ author_profile: true
 
 I was awarded 58K NOK for the [Excited](https://www.ntnu.edu/excited) mini-project "[Cracking the Code: The Key to Quality Cryptography Education](https://www.ntnu.edu/excited/insights-from-mini-projects)".
 
-The content of the TTM4205 Secure cryptographic implementations course are publicly available at [ttm4205.iik.ntnu.no](http://ttm4205.iik.ntnu.no).
+The content of the TTM4205 Secure Cryptographic Implementations course is publicly available at [ttm4205.iik.ntnu.no](http://ttm4205.iik.ntnu.no).
 
 ## Current and Future Teaching:
 
