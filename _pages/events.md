@@ -7,6 +7,8 @@ author_profile: true
 
 **Trustworthy Elections**: Dagstuhl Seminar on Trustworthy Evidence-Based Elections. October 5.-10., 2025 - Dagstuhl, Germany. [dagstuhl.de/seminars/seminar-calendar/seminar-details/25411](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/25411)
 
+**Sikkerhetsfestivalen 2025**: August 25.-27., 2025 – Lillehammer, Norway. [sikkerhetsfestivalen.no](https://sikkerhetsfestivalen.no)
+
 **ArcticCrypt 2025**: The World’s Northernmost Cryptography Conference. July 6.-11., 2025 - Longyearbyen, Svalbard. [simula-uib.com/arcticcrypt2025](https://simula-uib.com/arcticcrypt2025)
 
 **PrivCrypt 2025**: International Workshop on Foundations and Applications of Privacy-Enhancing Cryptography. June 24th, 2025 - Munich, Germany. [privcryptworkshop.github.io](https://privcryptworkshop.github.io)
@@ -33,7 +35,7 @@ author_profile: true
 
 **NKS 2023**: Norsk Kryptoseminar. October 27, 2023 – Oslo, Norway. [wiki.math.ntnu.no/nks](https://wiki.math.ntnu.no/nks)
 
-**Sikkerhetsfestivalen 2023**: August 28.-30., 2019 – Lillehammer, Norway. [sikkerhetsfestivalen.no](https://sikkerhetsfestivalen.no)
+**Sikkerhetsfestivalen 2023**: August 28.-30., 2023 – Lillehammer, Norway. [sikkerhetsfestivalen.no](https://sikkerhetsfestivalen.no)
 
 **TPMPC 2023**: Theory and Practice of Multi-Party Computation Workshop, June 8.-9., 2023 – Aarhus, Denmark. [multipartycomputation.com/tpmpc-2023](https://www.multipartycomputation.com/tpmpc-2023)
 
