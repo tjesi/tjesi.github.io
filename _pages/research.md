@@ -49,7 +49,7 @@ I am Co-Principal Investigator of the project "[OffPAD -- Optimizing balance bet
 
 I received 765K NOK from the scientific equipment fund at [IE Faculty - Research](https://www.ntnu.edu/ie/research) to build a cryptology lab for theoretical and practical cryptographic research and education. The [CRYPTO-LAB](cryptolab) is located at [Electro A176](https://link.mazemap.com/nYuDTF8q).
 
-I am leading the [ToppForsk@IE:Cryptography research](https://www.ntnu.edu/web/iik/toppforsk-ie-cryptography), focusing on quantum safe and privacy-preserving cryptography, funded with 200K NOK by the NTNU IE Faculty, a collaboration with [Anamaria Costache](https://www.ntnu.edu/employees/anamaria.costache), [Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen), and [Jeongeun Park](https://www.ntnu.edu/employees/jeongeun.park).
+I am leading the [ToppForsk@IE:Cryptography research](https://www.ntnu.edu/web/iik/toppforsk-ie-cryptography), focusing on quantum safe and privacy-preserving cryptography, funded 200K NOK by the NTNU IE Faculty, a collaboration with [Anamaria Costache](https://www.ntnu.edu/employees/anamaria.costache), [Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen), and [Jeongeun Park](https://www.ntnu.edu/employees/jeongeun.park).
 
 We received seed funding of 200K NOK from [NTNU Community](https://www.ntnu.edu/community) to the project "[Cryptology and social life](https://www.ntnu.edu/iik/cryptology-and-social-life)", joint work with [Katrien De Moor](https://www.ntnu.edu/employees/katrien.demoor), [Emil André Røyrvik](https://www.ntnu.edu/employees/emil.royrvik), and [Petter Grytten Almklov](https://www.ntnu.edu/employees/petter.almklov).
 
