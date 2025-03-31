@@ -72,7 +72,6 @@ Cohen: [Cryptography Online Talks Calendar](https://www.ccs.neu.edu/~rancohen/cr
   - [IIK8105 - Post-Quantum Cryptography](https://www.ntnu.edu/studies/courses/IIK8105)
   - [TM8107 - Cryptographic Protocols and Their Applications](https://www.ntnu.edu/studies/courses/TM8107)
 - Research School: [COINS](https://coinsrs.no)
-- Twitter: [NTNU Applied Cryptology Lab](https://twitter.com/ntnucrypto)
 
 ## Online Courses
 
