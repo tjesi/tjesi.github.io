@@ -5,7 +5,7 @@ permalink: /people/
 author_profile: true
 ---
 
-[Are you interested in working with me? Click here for more information.](https://tjerandsilde.no/collaboration)
+[Are you interested in working with me? Click here for more information.](https://tjerandsilde.no/supervision)
 
 ## Postdocs / Researchers
 
