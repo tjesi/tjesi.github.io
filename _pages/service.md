@@ -5,19 +5,19 @@ permalink: /service/
 author_profile: true
 ---
 
-I believe it is important to contribute to the community by organizing seminars and conferences for members to meet and discuss joint interests, and be on program committees to promote and support the progress of scientific research.
+I believe it is important to contribute to the community by organizing seminars and conferences for members to meet and discuss joint interests, and be on program committees to promote and support the progress of open scientific research.
 
 ## Organization
 
-I will be the general co-chair for [IACR PKC 2025](https://pkc.iacr.org/2025) in [Røros](https://www.visitnorway.com/places-to-go/trondelag/roros) together with [Bor de Kock](https://bordekock.nl) to be organised May 12.-15., 2025.
+I am the general co-chair for [IACR PKC 2025](https://pkc.iacr.org/2025) in [Røros](https://www.visitnorway.com/places-to-go/trondelag/roros) together with [Bor de Kock](https://bordekock.nl) to be organised May 12.-15., 2025.
 
-I organized the workshop on "[Foundations and Applications of Zero-Knowledge Proofs](https://www.icms.org.uk/ZeroKnowledgeProofs)" together with [Elizabeth Crites](https://elizabeth-crites.github.io/), [Markulf Kohlweiss](https://homepages.inf.ed.ac.uk/mkohlwei), and [Akira Takahashi](https://akiratk0355.github.io/) at the International Centre for Mathematical Sciences in Edinburgh from September 2nd to 6th, 2024.
+I organized the workshop on "[Foundations and Applications of Zero-Knowledge Proofs](https://www.icms.org.uk/ZeroKnowledgeProofs)" together with [Elizabeth Crites](https://elizabeth-crites.github.io), [Markulf Kohlweiss](https://homepages.inf.ed.ac.uk/mkohlwei), and [Akira Takahashi](https://akiratk0355.github.io) at the International Centre for Mathematical Sciences in Edinburgh in 2024.
 
-I was on the organizing committee for [Eurocrypt 2022](https://eurocrypt.iacr.org/2022) in Trondheim. Colin Boyd was the General Chair.
+I was on the organizing committee for [IACR Eurocrypt 2022](https://eurocrypt.iacr.org/2022) in Trondheim. [Colin Boyd](https://scholar.google.com/citations?user=CIfBKmMAAAAJ&hl) was the General Chair.
 
 I organized [Norwegian Crypto Seminar 2020](https://wiki.math.ntnu.no/nks/nks20) with Kristian Gjøsteen and Martin Strand, [Norwegian Crypto Seminar 2021](https://wiki.math.ntnu.no/nks/nks21) with Lise Millerjord and Martin Strand, and [Norwegian Crypto Seminar 2024](https://wiki.math.ntnu.no/nks/nks24) with Slobodan Petrovic.
 
-I previously organized the NTNU Post-Quantum Cryptography Reading Group together with Anamaria Costache.
+I previously organized the NTNU Post-Quantum Cryptography Reading Group together with [Anamaria Costache](https://anamariacostache.github.io/anamariacostache).
 
 ## Program Committees and Editoral Boards
 
