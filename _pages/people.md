@@ -66,9 +66,12 @@ I am grateful to [Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gj
 
 ## Research Visits
 
-- [Xavier Boyen](https://www.qut.edu.au/about/our-people/academic-profiles/xavier.boyen) at Queensland University of Technology (April 2024, March to April 2025)
+- [Daniel Slamanig](https://danielslamanig.info) at University of the Bundeswehr Munich (June 2025)
+- [Jiaxin Pan](https://sites.google.com/view/jiaxinpan) at University of Kassel (June 2025)
+- [Xavier Boyen](https://www.qut.edu.au/about/our-people/academic-profiles/xavier.boyen) at Queensland University of Technology (April 2024, March and April 2025)
+- [Ngoc Khanh Nguyen](https://khanhcrypto.github.io), at King's College London (February 2025)
 - [Christian Majenz](https://www.christianmajenz.info/about-me.html) at DTU Compute (November 2023)
-- [Maria Isabel Gonzalez Vasco](https://sites.google.com/site/maribelurjc) and [Dario Fiore](https://www.dariofiore.it) at IMDEA (September 2023) 
+- [Maria Isabel Gonzalez Vasco](https://sites.google.com/site/maribelurjc) and [Dario Fiore](https://www.dariofiore.it) at IMDEA (September 2023, May 2025) 
 - [Diego F. Aranha](https://dfaranha.github.io) at Aarhus University (June 2023)
 - [Thomas Haines](hhttps://comp.anu.edu.au/people/thomas-haines) at the Australian National University (December 2022)
 - [Jonathan Katz](https://www.cs.umd.edu/~jkatz) at the University of Maryland (October 2021 to February 2022)
