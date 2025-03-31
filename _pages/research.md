@@ -49,9 +49,9 @@ I am Co-Principal Investigator of the project "[OffPAD -- Optimizing balance bet
 
 I received 765K NOK from the scientific equipment fund at [IE Faculty - Research](https://www.ntnu.edu/ie/research) to build a cryptology lab for theoretical and practical cryptographic research and education. The [CRYPTO-LAB](cryptolab) is located at [Electro A176](https://link.mazemap.com/nYuDTF8q).
 
-I am leading [ToppForsk@IE:Cryptography](https://www.ntnu.edu/web/iik/toppforsk-ie-cryptography), focusing on quantum safe and privacy-preserving cryptography, funded 200K NOK by the [NTNU IE Faculty](https://www.ntnu.edu/ie), a collaboration with [Anamaria Costache](https://www.ntnu.edu/employees/anamaria.costache), [Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen), and [Jeongeun Park](https://www.ntnu.edu/employees/jeongeun.park).
+I am leading [ToppForsk@IE:Cryptography](https://www.ntnu.edu/web/iik/toppforsk-ie-cryptography), focusing on quantum safe and privacy-preserving cryptography, funded 200K NOK by the [NTNU IE Faculty](https://www.ntnu.edu/ie). This is a collaboration with [Anamaria Costache](https://www.ntnu.edu/employees/anamaria.costache), [Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen), and [Jeongeun Park](https://www.ntnu.edu/employees/jeongeun.park).
 
-I am leading the "[Cryptology and social life](https://www.ntnu.edu/iik/cryptology-and-social-life)" project, funded 200K NOK from [NTNU Community](https://www.ntnu.edu/community), a collaboration with [Katrien De Moor](https://www.ntnu.edu/employees/katrien.demoor), [Emil André Røyrvik](https://www.ntnu.edu/employees/emil.royrvik), and [Petter Grytten Almklov](https://www.ntnu.edu/employees/petter.almklov).
+I am leading the "[Cryptology and Social Life](https://www.ntnu.edu/iik/cryptology-and-social-life)" project, funded 200K NOK from [NTNU Community](https://www.ntnu.edu/community). This is a collaboration with [Katrien De Moor](https://www.ntnu.edu/employees/katrien.demoor), [Emil André Røyrvik](https://www.ntnu.edu/employees/emil.royrvik), and [Petter Grytten Almklov](https://www.ntnu.edu/employees/petter.almklov).
 
 
 ## Theses, Reports and Implementations
