@@ -49,17 +49,17 @@ I am Co-Principal Investigator of the project "[OffPAD -- Optimizing balance bet
 
 I received 765K NOK from the scientific equipment fund at [IE Faculty - Research](https://www.ntnu.edu/ie/research) to build a cryptology lab for theoretical and practical cryptographic research and education. The [CRYPTO-LAB](cryptolab) is located at [Electro A176](https://link.mazemap.com/nYuDTF8q).
 
-I am leading the [ToppForsk@IE:Cryptography research](https://www.ntnu.edu/web/iik/toppforsk-ie-cryptography), focusing on quantum safe and privacy-preserving cryptography, funded 200K NOK by the NTNU IE Faculty, a collaboration with [Anamaria Costache](https://www.ntnu.edu/employees/anamaria.costache), [Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen), and [Jeongeun Park](https://www.ntnu.edu/employees/jeongeun.park).
+I am leading [ToppForsk@IE:Cryptography](https://www.ntnu.edu/web/iik/toppforsk-ie-cryptography), focusing on quantum safe and privacy-preserving cryptography, funded 200K NOK by the [NTNU IE Faculty](https://www.ntnu.edu/ie), a collaboration with [Anamaria Costache](https://www.ntnu.edu/employees/anamaria.costache), [Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen), and [Jeongeun Park](https://www.ntnu.edu/employees/jeongeun.park).
 
-We received seed funding of 200K NOK from [NTNU Community](https://www.ntnu.edu/community) to the project "[Cryptology and social life](https://www.ntnu.edu/iik/cryptology-and-social-life)", joint work with [Katrien De Moor](https://www.ntnu.edu/employees/katrien.demoor), [Emil André Røyrvik](https://www.ntnu.edu/employees/emil.royrvik), and [Petter Grytten Almklov](https://www.ntnu.edu/employees/petter.almklov).
+I am leading the "[Cryptology and social life](https://www.ntnu.edu/iik/cryptology-and-social-life)" project, funded 200K NOK from [NTNU Community](https://www.ntnu.edu/community), a collaboration with [Katrien De Moor](https://www.ntnu.edu/employees/katrien.demoor), [Emil André Røyrvik](https://www.ntnu.edu/employees/emil.royrvik), and [Petter Grytten Almklov](https://www.ntnu.edu/employees/petter.almklov).
+
 
 ## Theses, Reports and Implementations
 
 [Privacy-Preserving Cryptography from Zero-Knowledge Proofs](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3012606), PhD Thesis, 2022.
 
-[Library: Anonymous Tokens](https://github.com/HenrikWM/anonymous-tokens), open-source library, 2020.  
-Joint work with Henrik Walker Moe and Martin Strand. ([Docs](https://github.com/HenrikWM/anonymous-tokens/wiki), [Slides](https://tjerandsilde.no/files/Anonym-Smittesporing.pdf),
-[Award](https://www.datatilsynet.no/aktuelt/aktuelle-nyheter-2021/pris-for-innebygd-personvern-til-anonyme-tokens))
+[Library: Anonymous Tokens](https://github.com/HenrikWM/anonymous-tokens), open-source library, 2020. "[Privacy by Design Award](https://www.datatilsynet.no/aktuelt/aktuelle-nyheter-2021/pris-for-innebygd-personvern-til-anonyme-tokens)".  
+Joint work with Henrik Walker Moe and Martin Strand. ([Docs](https://github.com/HenrikWM/anonymous-tokens/wiki), [Slides](https://tjerandsilde.no/files/Anonym-Smittesporing.pdf))
 
 [Verifiable Random Secrets and Subliminal-Free Digital Signatures](https://tjerandsilde.no/files/Master_Thesis.pdf), Master's Thesis, 2020.
 
