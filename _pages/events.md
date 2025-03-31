@@ -5,6 +5,8 @@ permalink: /events/
 author_profile: true
 ---
 
+**NKS 2025**: Norsk Kryptoseminar. November 7, 2025 – Oslo, Norway. [wiki.math.ntnu.no/nks](https://wiki.math.ntnu.no/nks)
+
 **Trustworthy Elections**: Dagstuhl Seminar on Trustworthy Evidence-Based Elections. October 5.-10., 2025 - Dagstuhl, Germany. [dagstuhl.de/seminars/seminar-calendar/seminar-details/25411](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/25411)
 
 **Sikkerhetsfestivalen 2025**: August 25.-27., 2025 – Lillehammer, Norway. [sikkerhetsfestivalen.no](https://sikkerhetsfestivalen.no)
