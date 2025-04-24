@@ -19,6 +19,11 @@ I organized [Norwegian Crypto Seminar 2020](https://wiki.math.ntnu.no/nks/nks20)
 
 I previously organized the NTNU Post-Quantum Cryptography Reading Group together with [Anamaria Costache](https://anamariacostache.github.io/anamariacostache).
 
+## External Assignments
+
+I testified as an expert witness on the encryption used and the data collection performed via a Man-in-the-Middle
+attach performed by Europol against the E2EE service SKY ECC in Borgarting Court of Appeal in Oslo in April 2025.
+
 ## Program Committees and Editoral Boards
 
 - 2025: PrivCrypt - Workshop on Foundations and Applications of Privacy-Enhancing Cryptography
