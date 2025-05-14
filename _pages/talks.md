@@ -9,7 +9,7 @@ author_profile: true
 
 * "Olingo: Efficient, Distributed, Non-Interactive, and Identifiable Threshold Lattice Signatures" - [Universidad Carlos III de Madrid CryptoClub Seminar](https://sites.google.com/view/cryptclub/seminarios), May 2025.
 * "Kvantedatamaskiner og digital sikkerhet" - [KiNS Webinar: Kvantemigrasjon: Derfor må du handle nå!](https://www.kins.no/arrangementer/fagwebinar-kvantemigrasjon), June 2025.
-* "Privacy-Preserving Cryptography from Lattices" - Keynote at [PrivCrypt](https://privcryptworkshop.github.io), June 2025.
+* "Privacy-Enhancing Cryptography from Lattices" - Invited Keynote at [PrivCrypt@ACNS](https://privcryptworkshop.github.io), June 2025.
 * "Zero-Knowledge Proofs: Simultaneously ensuring integrity and privacy" - [Sikkerhetsfestivalen](https://www.sikkerhetsfestivalen.no/program), August 2025.
 
 ## Cryptography and Information Security Talks:
