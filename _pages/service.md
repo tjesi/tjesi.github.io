@@ -9,7 +9,7 @@ I believe it is important to contribute to the community by organizing seminars 
 
 ## Organization
 
-I am the general co-chair for [IACR PKC 2025](https://pkc.iacr.org/2025) in [Røros](https://www.visitnorway.com/places-to-go/trondelag/roros) together with [Bor de Kock](https://bordekock.nl) to be organised May 12.-15., 2025.
+I was the general chair for [IACR PKC 2025](https://pkc.iacr.org/2025) in [Røros](https://www.visitnorway.com/places-to-go/trondelag/roros) together with [Bor de Kock](https://bordekock.nl) which was organised May 12.-15., 2025.
 
 I organized the workshop on "[Foundations and Applications of Zero-Knowledge Proofs](https://www.icms.org.uk/ZeroKnowledgeProofs)" together with [Elizabeth Crites](https://elizabeth-crites.github.io), [Markulf Kohlweiss](https://homepages.inf.ed.ac.uk/mkohlwei), and [Akira Takahashi](https://akiratk0355.github.io) at the International Centre for Mathematical Sciences in Edinburgh in 2024.
 
