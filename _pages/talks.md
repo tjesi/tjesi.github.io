@@ -11,6 +11,7 @@ author_profile: true
 * "Kvantedatamaskiner og digital sikkerhet" - [KiNS Webinar: Kvantemigrasjon: Derfor må du handle nå!](https://www.kins.no/arrangementer/fagwebinar-kvantemigrasjon), June 2025.
 * "Privacy-Enhancing Cryptography from Lattices" - Invited Keynote at [PrivCrypt@ACNS](https://privcryptworkshop.github.io), June 2025.
 * "Zero-Knowledge Proofs: Simultaneously ensuring integrity and privacy" - [Sikkerhetsfestivalen](https://www.sikkerhetsfestivalen.no/program), August 2025.
+* "Cryptographic Side-Channels on Embedded Devices" - [NDC TechTown](https://ndctechtown.com), September 2025.
 
 ## Cryptography and Information Security Talks:
 
