@@ -9,6 +9,9 @@ author_profile: true
 
 **Trustworthy Elections**: Dagstuhl Seminar on Trustworthy Evidence-Based Elections. October 5.-10., 2025 - Dagstuhl, Germany. [dagstuhl.de/seminars/seminar-calendar/seminar-details/25411](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/25411)
 
+**NDC Tech**: Norwegian Developer Conference Tech Town. September 22.-25., 2025 - Kongsberg, Norway. [ndctechtown.com](https://ndctechtown.com)
+
+
 **Sikkerhetsfestivalen 2025**: August 25.-27., 2025 – Lillehammer, Norway. [sikkerhetsfestivalen.no](https://sikkerhetsfestivalen.no)
 
 **ArcticCrypt 2025**: The World’s Northernmost Cryptography Conference. July 6.-11., 2025 - Longyearbyen, Svalbard. [simula-uib.com/arcticcrypt2025](https://simula-uib.com/arcticcrypt2025)
