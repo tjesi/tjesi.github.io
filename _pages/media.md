@@ -7,6 +7,8 @@ author_profile: true
 
 ## Interviews
 
+[Gjør deg klar for ny teknologi-revolusjon](https://www.tu.no/artikler/gjor-deg-klar-for-ny-teknologi-revolusjon/558552), Teknisk Ukeblad, May 12th, 2025.
+
 [Ønsker nasjonale krav om datalagring](https://tv.nrk.no/serie/distriktsnyheter-midtnytt/sesong/202505/episode/DKTL98050525), NRK Midtnytt, May 5th, 2025.
 
 [Kvantesikker kryptering](https://radio.nrk.no/serie/poensj/sesong/202408/MYNN16011924#t=1h6m10s), NRK P3 Pønsj, August 21st, 2024.
