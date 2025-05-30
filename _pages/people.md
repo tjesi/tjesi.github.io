@@ -23,8 +23,7 @@ author_profile: true
 (Master's thesis 2025, co-supervised with Xeni Kristine Dimakos and Li Chun Zhang)
 - Paulina Wesolowska - "Quantum Computing and Cryptographic Risk: A Threat Assessment for the EU and Norway"  
 (Master's thesis 2025, co-supervised with Hans Heum)
-- Henrik Hansen Stormyhr - "A comparative analysis of MOS-LQO algorithms for perceptual transparency testing in audio steganography"  
-(Master's thesis 2025, co-supervised with Bor de Kock and Emil August Hovd Olaisen)
+- Henrik Hansen Stormyhr - "A comparative analysis of MOS-LQO algorithms for perceptual transparency testing in audio steganography" (Master's thesis 2025, co-supervised with Bor de Kock and Emil August Hovd Olaisen)
 - Javier García Martínez - "Threshold Signatures for FIDO Authentication"   
 (Master's thesis 2025, co-supervised with Trond Peder Hagen and Magnus Ringerud)
 - Sunniva Engan - "Constructing Compressed Σ-Protocols from Different Underlying Assumptions"  
