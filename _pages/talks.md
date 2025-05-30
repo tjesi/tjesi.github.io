@@ -7,7 +7,6 @@ author_profile: true
 
 ## Upcoming Talks:
 
-* "Olingo: Efficient, Distributed, Non-Interactive, and Identifiable Threshold Lattice Signatures" - [Universidad Carlos III de Madrid CryptoClub Seminar](https://sites.google.com/view/cryptclub/seminarios), May 2025.
 * "Kvantedatamaskiner og digital sikkerhet" - [KiNS Webinar: Kvantemigrasjon: Derfor må du handle nå!](https://www.kins.no/arrangementer/fagwebinar-kvantemigrasjon), June 2025.
 * "Privacy-Enhancing Cryptography from Lattices" - Invited Keynote at [PrivCrypt@ACNS](https://privcryptworkshop.github.io), June 2025.
 * "Zero-Knowledge Proofs: Simultaneously ensuring integrity and privacy" - [Sikkerhetsfestivalen](https://www.sikkerhetsfestivalen.no/program), August 2025.
@@ -15,6 +14,8 @@ author_profile: true
 
 ## Cryptography and Information Security Talks:
 
+* "[Olingo: Threshold Lattice Signatures with DKG and Identifiable Abort](https://tjerandsilde.no/files/Olingo.pdf)" - [Universidad Carlos III de Madrid CryptoClub Seminar](https://sites.google.com/view/cryptclub/seminarios), May 2025.
+* "[Teaching Cryptography at NTNU](https://tjerandsilde.no/files/teaching-crypto-NTNU.pdf)" - [Universidad Carlos III de Madrid CryptoClub Seminar](https://sites.google.com/view/cryptclub/seminarios), May 2025.
 * "[Quantum-Safe Threshold Signatures](https://tjerandsilde.no/files/Threshold-Signatures.pdf)" - [University of Southern Denmark](https://algorithms.sdu.dk/talks.php) in Odense, February, 2025.
 * "[Challenges and Opportunities from Quantum-Safe Cryptography](https://www.youtube.com/watch?v=Ph8yoeN6ZwE)" ([PDF](https://tjerandsilde.no/files/PQC.pdf)) - [NDC Security](https://ndc-security.com/speakers/tjerand-silde) in Oslo, January, 2025.
 * "Zero Knowledge Proofs: Technical Challenges, Applications, and Real-world Deployment" ([first half](https://tjerandsilde.no/files/NIST-WPEC-Akira.pdf), [second half](https://tjerandsilde.no/files/NIST-WPEC-Tjerand.pdf)) - [NIST Workshop on Privacy-Enhancing Cryptography](https://csrc.nist.gov/events/2024/wpec2024), September, 2024. Joint talk with [Akira Takahashi](https://akiratk0355.github.io).
