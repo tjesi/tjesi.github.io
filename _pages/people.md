@@ -9,8 +9,8 @@ author_profile: true
 
 ## Postdocs / Researchers
 
-- [Hans Heum](https://www.ntnu.edu/employees/hans.heum) (Postdoc 2023-, hosted at the Department of Matemathical Sciences)
-- [Dan Zhang](https://www.ntnu.edu/employees/dan.zhang) (Researcher 2025-, jointly hosted with Danilo Gligoroski)
+- [Hans Heum](https://www.ntnu.edu/employees/hans.heum) (Postdoc 2023-2026, hosted at the Department of Matemathical Sciences)
+- [Dan Zhang](https://www.ntnu.edu/employees/dan.zhang) (Researcher 2025-2026, jointly hosted with Danilo Gligoroski)
 
 ## PhD Students
 
@@ -21,13 +21,13 @@ author_profile: true
 
 - Noah Starckjohann - "Organizing cloud TEE-based applications for data from multiple parties"  
 (Master's thesis 2025, co-supervised with Xeni Kristine Dimakos and Li Chun Zhang)
-- Paulina Wesolowska - "Quantum Threats and Mitigations"  
+- Paulina Wesolowska - "Quantum Computing and Cryptographic Risk: A Threat Assessment for the EU and Norway"  
 (Master's thesis 2025, co-supervised with Hans Heum)
-- Henrik Hansen Stormyhr - "Modern-day Steganography"  
+- Henrik Hansen Stormyhr - "A comparative analysis of MOS-LQO algorithms for perceptual transparency testing in audio steganography"  
 (Master's thesis 2025, co-supervised with Bor de Kock and Emil August Hovd Olaisen)
 - Javier García Martínez - "Threshold Signatures for FIDO Authentication"   
 (Master's thesis 2025, co-supervised with Trond Peder Hagen and Magnus Ringerud)
-- Sunniva Engan - "Foundations and Applications of Sigma Protocols"  
+- Sunniva Engan - "Constructing Compressed Σ-Protocols from Different Underlying Assumptions"  
 (Master's thesis 2025, co-supervised with Kristian Gjøsteen)
 - Emil Bragstad and Marius Andreas Arder - "Improving Messaging Layer Security in a Military UAV Swarm"  
 (Master's thesis 2025, co-supervised with Martin Strand)
