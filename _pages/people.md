@@ -26,7 +26,7 @@ author_profile: true
 - Henrik Hansen Stormyhr - "A comparative analysis of MOS-LQO algorithms for perceptual transparency testing in audio steganography" (Master's thesis 2025, co-supervised with Bor de Kock and Emil August Hovd Olaisen)
 - Javier García Martínez - "Threshold Signatures for FIDO Authentication"   
 (Master's thesis 2025, co-supervised with Trond Peder Hagen and Magnus Ringerud)
-- Sunniva Engan - "Constructing Compressed Σ-Protocols from Different Underlying Assumptions"  
+- Sunniva Engan - "[Constructing Compressed Σ-Protocols from Different Underlying Assumptions](https://tjerandsilde.no/files/Sunniva.pdf)"  
 (Master's thesis 2025, co-supervised with Kristian Gjøsteen)
 - Emil Bragstad and Marius Andreas Arder - "Improving Messaging Layer Security in a Military UAV Swarm"  
 (Master's thesis 2025, co-supervised with Martin Strand)
