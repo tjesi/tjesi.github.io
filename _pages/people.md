@@ -19,10 +19,11 @@ author_profile: true
 
 ## Bachelor's and Master's Students
 
-- Noah Starckjohann - "Organizing cloud TEE-based applications for data from multiple parties"  
-(Master's thesis 2025, co-supervised with Xeni Kristine Dimakos and Li Chun Zhang)
+- Michaela Kralova - "Post-Quantum Password-Authenticated Key Exchange" (Master's thesis 2025)
 - Paulina Wesolowska - "Quantum Computing and Cryptographic Risk: A Threat Assessment for the EU and Norway"  
 (Master's thesis 2025, co-supervised with Hans Heum)
+- Noah Starckjohann - "Organizing cloud TEE-based applications for data from multiple parties"  
+(Master's thesis 2025, co-supervised with Xeni Kristine Dimakos and Li Chun Zhang)
 - Henrik Hansen Stormyhr - "A comparative analysis of MOS-LQO algorithms for perceptual transparency testing in audio steganography" (Master's thesis 2025, co-supervised with Bor de Kock and Emil August Hovd Olaisen)
 - Javier García Martínez - "Threshold Signatures for FIDO Authentication"   
 (Master's thesis 2025, co-supervised with Trond Peder Hagen and Magnus Ringerud)
@@ -30,7 +31,6 @@ author_profile: true
 (Master's thesis 2025, co-supervised with Kristian Gjøsteen)
 - Emil Bragstad and Marius Andreas Arder - "Improving Messaging Layer Security in a Military UAV Swarm"  
 (Master's thesis 2025, co-supervised with Martin Strand)
-- Michaela Kralova - "Post-Quantum Password-Authenticated Key Exchange" (Master's thesis 2025)
 - Carl Ludvig Digné - "[Towards Quantum-Resilient Authentication: Implementing Hybrid Signatures in FIDO2 Authenticators](https://tjerandsilde.no/files/Ludvig.pdf)"  
 (Master's thesis 2024, co-supervised with Trond Peder Hagen, Magnus Ringerud, and Sigurhjörtur Snorrason)
 - Sondre Rishøi and Jonatan Såstad Østgaard - "[Unbiased Distributed Key Generation](https://tjerandsilde.no/files/Swiss-post-thesis.pdf)"  
