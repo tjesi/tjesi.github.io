@@ -30,7 +30,7 @@ author_profile: true
 (Master's thesis 2025, co-supervised with Trond Peder Hagen and Magnus Ringerud)
 - Sunniva Engan - "[Constructing Compressed Σ-Protocols from Different Underlying Assumptions](https://tjerandsilde.no/files/Sunniva.pdf)"  
 (Master's thesis 2025, co-supervised with Kristian Gjøsteen)
-- Emil Bragstad and Marius Andreas Arder - "Improving Messaging Layer Security in a Military UAV Swarm"  
+- Emil Bragstad and Marius Andreas Arder - "[Improving Messaging Layer Security in a Military UAV Swarm](https://tjerandsilde.no/files/Emil-Marius.pdf)"  
 (Master's thesis 2025, co-supervised with Martin Strand)
 - Carl Ludvig Digné - "[Towards Quantum-Resilient Authentication: Implementing Hybrid Signatures in FIDO2 Authenticators](https://tjerandsilde.no/files/Ludvig.pdf)"  
 (Master's thesis 2024, co-supervised with Trond Peder Hagen, Magnus Ringerud, and Sigurhjörtur Snorrason)
