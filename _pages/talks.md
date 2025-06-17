@@ -7,13 +7,13 @@ author_profile: true
 
 ## Upcoming Talks:
 
-* "Kvantedatamaskiner og digital sikkerhet" - [KiNS Webinar: Kvantemigrasjon: Derfor må du handle nå!](https://www.kins.no/arrangementer/fagwebinar-kvantemigrasjon), June 2025.
 * "Privacy-Enhancing Cryptography from Lattices" - Invited Keynote at [PrivCrypt@ACNS](https://privcryptworkshop.github.io), June 2025.
 * "Zero-Knowledge Proofs: Simultaneously ensuring integrity and privacy" - [Sikkerhetsfestivalen](https://www.sikkerhetsfestivalen.no/program), August 2025.
 * "Cryptographic Side-Channels on Embedded Devices" - [NDC TechTown](https://ndctechtown.com), September 2025.
 
 ## Cryptography and Information Security Talks:
 
+* "[Quantum Computers and Digital Security](https://tjerandsilde.no/files/KiNS-Tjerand-Silde.pdf)" - [KiNS Webinar: Kvantemigrasjon: Derfor må du handle nå!](https://www.kins.no/arrangementer/fagwebinar-kvantemigrasjon), June 2025.
 * "[Olingo: Threshold Lattice Signatures with DKG and Identifiable Abort](https://tjerandsilde.no/files/Olingo.pdf)" - [Universidad Carlos III de Madrid](https://sites.google.com/view/cryptclub/seminarios), May 2025.
 * "[Teaching Cryptography at NTNU](https://tjerandsilde.no/files/teaching-crypto-NTNU.pdf)" - [Universidad Carlos III de Madrid](https://sites.google.com/view/cryptclub/seminarios), May 2025.
 * "[Quantum-Safe Threshold Signatures](https://tjerandsilde.no/files/Threshold-Signatures.pdf)" - [University of Southern Denmark](https://algorithms.sdu.dk/talks.php) in Odense, February, 2025.
