@@ -5,6 +5,8 @@ permalink: /events/
 author_profile: true
 ---
 
+**Privacy-Preserving Authentication**: Dagstuhl Seminar on Privacy-Preserving Authentication. April 19.-24., 2026 - Dagstuhl, Germany. [dagstuhl.de/seminars/seminar-calendar/seminar-details/26171](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/26171)
+
 **NKS 2025**: Norsk Kryptoseminar. November 7, 2025 – Oslo, Norway. [wiki.math.ntnu.no/nks/nks25](https://wiki.math.ntnu.no/nks/nks25)
 
 **Trustworthy Elections**: Dagstuhl Seminar on Trustworthy Evidence-Based Elections. October 5.-10., 2025 - Dagstuhl, Germany. [dagstuhl.de/seminars/seminar-calendar/seminar-details/25411](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/25411)
