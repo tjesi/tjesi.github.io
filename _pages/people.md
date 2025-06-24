@@ -20,6 +20,16 @@ author_profile: true
 
 ## Bachelor's and Master's Students
 
+- Amund Fredrik Strømsnes - "Verifying the Swiss Electronic Voting System"    
+(Master's thesis 2026, co-supervised with Audhild Høgåsen) 
+- Jonatan Kifle Assefa Aalen - "Analysing a new devastating side-channel attack on elliptic curve cryptography"  
+(Master's thesis 2026, co-supervised with Caroline Sandsbråten and Jonathan Eriksen) 
+- Noah Krogh Anderson - “Deploying Messaging Layer Security in a Military UAV Swarm”  
+(Master's thesis 2026, co-supervised with Martin Strand) 
+- Eirik Gjerde Buset - “Cryptographic Evidence in Norwegian Courts”  
+(Master's thesis 2026, co-supervised with Katrien De Moor) 
+- Harald Haaland Paaske - “Investigating the new post-quantum key encapsulation mechanism HQC”  
+(Master's thesis 2026, co-supervised with Emil August Hovd Olaisen)  
 - Michaela Kralova - "Post-Quantum Password-Authenticated Key Exchange" (Master's thesis 2025)
 - Paulina Wesolowska - "Quantum Computing and Cryptographic Risk: A Threat Assessment for the EU and Norway"  
 (Master's thesis 2025, co-supervised with Hans Heum)
