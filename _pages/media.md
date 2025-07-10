@@ -7,6 +7,10 @@ author_profile: true
 
 ## Interviews
 
+[Å stemme fra sofakroken er trygt nok. Men får du lov?](https://gemini.no/2025/07/a-stemme-fra-sofakroken-er-trygt-nok-men-far-du-lov), Gemini, July 10th, 2025.
+
+[Mener vi nå kan stemme med mobilen: Foreslår en «angreknapp»](https://www.nrk.no/buskerud/du-kan-ikke-stemme-med-mobilen-i-norge-_-eksperter-mener-de-har-losningen-pa-utfordringene-1.17484470), NRK, July 10th, 2025.
+
 [Gjør deg klar for ny teknologi-revolusjon](https://www.tu.no/artikler/gjor-deg-klar-for-ny-teknologi-revolusjon/558552), Teknisk Ukeblad, May 12th, 2025.
 
 [Ønsker nasjonale krav om datalagring](https://tv.nrk.no/serie/distriktsnyheter-midtnytt/sesong/202505/episode/DKTL98050525), NRK Midtnytt, May 5th, 2025.
@@ -29,9 +33,9 @@ author_profile: true
 
 [300 forskere advarer mot EU-lov: – Farlig teknologi om den hadde fungert](https://www.morgenbladet.no/aktuelt/2023/07/05/300-forskere-advarer-mot-eu-lov-farlig-teknologi-om-den-hadde-fungert/), Morgenbladet, July 5th, 2023.
 
-[Massivt opprop mot å skanne mobiler for overgrepsmateriale](https://nrkbeta.no/2023/07/05/massivt-opprop-mot-a-skanne-mobiler-for-overgrepsmateriale/#comments-76619), NRK.no, July 5th, 2023.
+[Massivt opprop mot å skanne mobiler for overgrepsmateriale](https://nrkbeta.no/2023/07/05/massivt-opprop-mot-a-skanne-mobiler-for-overgrepsmateriale/#comments-76619), NRK, July 5th, 2023.
 
-[Foreslår BankID på innlogging i sosiale medier](https://www.nrk.no/norge/foreslar-bankid-pa-innlogging-i-sosiale-medier-1.16429728), NRK.no, June 5th, 2023.
+[Foreslår BankID på innlogging i sosiale medier](https://www.nrk.no/norge/foreslar-bankid-pa-innlogging-i-sosiale-medier-1.16429728), NRK, June 5th, 2023.
 
 [EU vil ta nettovergripere ved å overvåke oss alle](https://www.aftenposten.no/kultur/i/q1QK10/eu-vil-ta-nettovergripere-ved-aa-overvaake-oss-alle), Aftenposten, March 27th, 2023.
 
@@ -51,9 +55,9 @@ author_profile: true
 
 [Ny EU-lov kan føre til massiv overvåking](https://tv.nrk.no/serie/helgemorgen-tv/202205/DNRR62004122#t=4589s), Helgemorgen NRK1/P2, May 14, 2022.
 
-[Ny EU-lov mot overgrepsmateriale kan føre til omfattende overvåkning](https://nrkbeta.no/2022/05/11/ny-eu-lov-mot-overgrepsmateriale-kan-fore-til-omfattende-overvakning), NRK.no, May 11th, 2022.
+[Ny EU-lov mot overgrepsmateriale kan føre til omfattende overvåkning](https://nrkbeta.no/2022/05/11/ny-eu-lov-mot-overgrepsmateriale-kan-fore-til-omfattende-overvakning), NRK, May 11th, 2022.
 
-[Ledende eksperter advarer mot å skanne mobiler for overgrepsmateriale](https://nrkbeta.no/2021/10/15/ledende-eksperter-advarer-mot-a-skanne-mobiler-for-overgrepsmateriale), NRK.no, October 15th, 2021.
+[Ledende eksperter advarer mot å skanne mobiler for overgrepsmateriale](https://nrkbeta.no/2021/10/15/ledende-eksperter-advarer-mot-a-skanne-mobiler-for-overgrepsmateriale), NRK, October 15th, 2021.
 
 [Apple skal skanne mobiler for overgrepsbilder. Eksperter frykter angrep på personvernet.](https://www.aftenposten.no/kultur/i/g6PWRk/apple-skal-skanne-mobiler-for-overgrepsbilder-eksperter-frykter-angre), Aftenposten, August 7th, 2021.
 
