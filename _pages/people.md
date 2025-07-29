@@ -33,7 +33,8 @@ author_profile: true
 - Michaela Kralova - "Post-Quantum Password-Authenticated Key Exchange" (Master's thesis 2025)
 - Paulina Wesolowska - "Quantum Computing and Cryptographic Risk: A Threat Assessment for the EU and Norway"  
 (Master's thesis 2025, co-supervised with Hans Heum)
-- Noah Starckjohann - "Organizing cloud TEE-based applications for data from multiple parties"  
+- Noah Starckjohann - "[Trusted Execution Environments for
+Privacy-Preserving Statistical Computation in the Cloud](https://tjerandsilde.no/files/Starckjohann.pdf)"  
 (Master's thesis 2025, co-supervised with Xeni Kristine Dimakos and Li Chun Zhang)
 - Henrik Hansen Stormyhr - "[A comparative analysis of MOS-LQO algorithms for perceptual transparency testing in audio steganography](https://tjerandsilde.no/files/Henrik.pdf)" (Master's thesis 2025, co-supervised with Bor de Kock and Emil August Hovd Olaisen)
 - Javier García - "[Threshold Signatures for FIDO Authentication](https://tjerandsilde.no/files/Javier.pdf)"   
