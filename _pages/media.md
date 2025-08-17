@@ -7,6 +7,8 @@ author_profile: true
 
 ## Interviews
 
+[Aner ikke hvem som står bak](https://dinside.dagbladet.no/data/aner-ikke-hvem-som-star-bak/83448115), Dagbladet, August 16th, 2025.
+
 [Å stemme fra sofakroken er trygt nok. Men får du lov?](https://gemini.no/2025/07/a-stemme-fra-sofakroken-er-trygt-nok-men-far-du-lov), Gemini, July 10th, 2025.
 
 [Mener vi nå kan stemme med mobilen: Foreslår en «angreknapp»](https://www.nrk.no/buskerud/du-kan-ikke-stemme-med-mobilen-i-norge-_-eksperter-mener-de-har-losningen-pa-utfordringene-1.17484470), NRK, July 10th, 2025.
