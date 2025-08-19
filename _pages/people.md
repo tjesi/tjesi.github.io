@@ -65,6 +65,7 @@ I am grateful to [Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gj
 
 ## Visitors
 
+- [Markku-Juhani O. Saarinen](https://mjos.fi), Professor at Tampere University (November 2025)
 - [Scott Griffy](https://scottgriffy.com), PhD student at Brown University (July and August 2024)
 - [Ngoc Khanh Nguyen](https://khanhcrypto.github.io), Lecturer at King's College London (May 2024)
 - [Vadim Lyubashevsky](https://research.ibm.com/people/vadim-lyubashevsky), Cryptography Researcher at IBM Research Europe (November 2023)
