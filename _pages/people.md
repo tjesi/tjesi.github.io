@@ -11,7 +11,7 @@ author_profile: true
 
 - [Hans Heum](https://www.ntnu.edu/employees/hans.heum) (Postdoc 2023-2026, hosted at the Department of Matemathical Sciences)
 - [Dan Zhang](https://www.ntnu.edu/employees/dan.zhang) (Researcher 2025-2026, jointly hosted with Danilo Gligoroski)
-- [Javier Garcia Martinez](https://linkedin.com/in/javiergarc%C3%ADa-mart%C3%ADnez) (Researcher 2025, jointly hosted with Danilo Gligoroski)
+- [Javier Garcia Martinez](https://www.ntnu.edu/employees/javieg) (Researcher 2025, jointly hosted with Danilo Gligoroski)
 
 ## PhD Students
 
