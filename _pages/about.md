@@ -24,10 +24,8 @@ I am a member of the [International Association for Cryptologic Research](https:
 
 - I gave a talk on "[Challenges and Opportunities from Quantum-Safe Cryptography](https://www.youtube.com/watch?v=Ph8yoeN6ZwE)" ([PDF](https://tjerandsilde.no/files/PQC.pdf))  
 at the [NDC Security](https://ndc-security.com/speakers/tjerand-silde) conference in Oslo on January 23rd, 2025.
-- I will be on sabbatical leave from January 15th to July 15th during spring 2025.
 - [More Efficient Lattice-Based Electronic Voting from NTRU](https://eprint.iacr.org/2023/933) is accepted to [IACR Communications in Cryptology](https://cic.iacr.org)! Joint work with Patrick Hough and Caroline Sandsbråten.
 - We recently opened the [CRYPTO-LAB](cryptolab) for theoretical and practical cryptographic research and education, currently used in [TTM4205 Secure Cryptographic Implementations](http://ttm4205.iik.ntnu.no).
-- I was the general chair of [IACR PKC 2025](https://pkc.iacr.org/2025) in [Røros](https://www.visitnorway.com/places-to-go/trondelag/roros) together with [Bor de Kock](https://bordekock.nl).
 - I started as an Associate Professor in Cryptology at the Department of Information Security and Communication Technology at NTNU on September 1st, 2022.
 
 I support the [Electronic Frontier Foundation](https://supporters.eff.org/donate/join-eff-4), the [Tor Project](https://donate.torproject.org) and the [Signal Foundation](https://signal.org/donate).
