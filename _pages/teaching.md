@@ -21,7 +21,7 @@ The content of the TTM4205 Secure Cryptographic Implementations course is public
 
 **Spring 2026:**
 
-* Experts in Teamwork - Cybersecurity ([TTM4850](https://www.ntnu.no/eit/ttm4850)) at NTNU (Lecturer, with [Jeongeun Park](https://www.ntnu.edu/employees/jeongeun.park))
+* Experts in Teamwork - Privacy in a digital world ([TTM4850](https://www.ntnu.no/eit/ttm4850)) at NTNU (Lecturer, with [Jeongeun Park](https://www.ntnu.edu/employees/jeongeun.park))
 
 ## Previous semesters:
 
