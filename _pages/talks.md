@@ -7,12 +7,12 @@ author_profile: true
 
 ## Upcoming Talks:
 
-* "[Privacy-Enhancing Cryptography from Lattices](https://tjerandsilde.no/files/PrivCrypt.pdf)" - Invited Keynote at [PrivCrypt@ACNS](https://privcryptworkshop.github.io), June 2025.
-* "Zero-Knowledge Proofs: Simultaneously ensuring integrity and privacy" - [Sikkerhetsfestivalen](https://www.sikkerhetsfestivalen.no/program), August 2025.
 * "Cryptographic Side-Channels on Embedded Devices" - [NDC TechTown](https://ndctechtown.com), September 2025.
 
 ## Cryptography and Information Security Talks:
 
+* "[Zero-Knowledge Proofs: Simultaneously ensuring integrity and privacy](https://tjerandsilde.no/files/Sikkerhetsfestivalen-ZKP.pdf)" - [Sikkerhetsfestivalen](https://www.sikkerhetsfestivalen.no/program), August 2025.
+* "[Privacy-Enhancing Cryptography from Lattices](https://tjerandsilde.no/files/PrivCrypt.pdf)" - Invited Keynote at [PrivCrypt@ACNS](https://privcryptworkshop.github.io), June 2025.
 * "[Quantum Computers and Digital Security](https://tjerandsilde.no/files/KiNS-Tjerand-Silde.pdf)" - [KiNS Webinar: Kvantemigrasjon: Derfor må du handle nå!](https://www.kins.no/arrangementer/fagwebinar-kvantemigrasjon), June 2025.
 * "[Olingo: Threshold Lattice Signatures with DKG and Identifiable Abort](https://tjerandsilde.no/files/Olingo.pdf)" - [Universidad Carlos III de Madrid](https://sites.google.com/view/cryptclub/seminarios), May 2025.
 * "[Teaching Cryptography at NTNU](https://tjerandsilde.no/files/teaching-crypto-NTNU.pdf)" - [Universidad Carlos III de Madrid](https://sites.google.com/view/cryptclub/seminarios), May 2025.
