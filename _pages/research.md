@@ -7,6 +7,9 @@ author_profile: true
 
 ## Publications
 
+More Efficient Lattice-Based Verifiable Decryption from LWR, WAHC @ ACM CCS 2025.  
+Joint work with Thomas Haines, Emil August Hovd Olaisen, and Peter Rønne. 
+
 [More Efficient Lattice-Based Electronic Voting from NTRU](https://eprint.iacr.org/2023/933), IACR Communications in Cryptology, Volume 1, 2024.  
 Joint work with Patrick Hough and Caroline Sandsbråten.
 
