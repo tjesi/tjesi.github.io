@@ -9,7 +9,7 @@ author_profile: true
 
 [500 eksperter siger nej til EU’s chatkontrol](https://www.version2.dk/artikel/500-eksperter-siger-nej-til-eus-chatkontrol?1f4e2460cfb84ebe8cd48fb29bb9de08=niUGh2jqmBP-LHh_XCK85KrVAmi_euXJjOZid8GqZC4), Ingeniøren, September 10th, 2025.
 
-[500 eksperter sier nei til EUs overvåkingsforslag](https://www.digi.no/artikler/intervju-500-eksperter-sier-nei-til-eus-overvakingsforslag/562187), digi.no, September 9th, 2025 [PDF](http://tjerandsilde.no/files/open-letter-digi.pdf).
+[500 eksperter sier nei til EUs overvåkingsforslag](https://www.digi.no/artikler/intervju-500-eksperter-sier-nei-til-eus-overvakingsforslag/562187), digi.no, September 9th, 2025 ([PDF](http://tjerandsilde.no/files/open-letter-digi.pdf)).
 
 [Aner ikke hvem som står bak](https://dinside.dagbladet.no/data/aner-ikke-hvem-som-star-bak/83448115), Dagbladet, August 16th, 2025.
 
