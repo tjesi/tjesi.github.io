@@ -7,10 +7,11 @@ author_profile: true
 
 ## Upcoming Talks:
 
-* "Cryptographic Side-Channels on Embedded Devices" - [NDC TechTown](https://ndctechtown.com), September 2025.
+* No upcoming talks...
 
 ## Cryptography and Information Security Talks:
 
+* "[Cryptographic Side-Channels on Embedded Devices](https://tjerandsilde.no/files/TechTown.pdf)" - [NDC TechTown](https://ndctechtown.com), September 2025.
 * "[Zero-Knowledge Proofs: Simultaneously ensuring integrity and privacy](https://tjerandsilde.no/files/Sikkerhetsfestivalen-ZKP.pdf)" - [Sikkerhetsfestivalen](https://www.sikkerhetsfestivalen.no/program), August 2025.
 * "[Privacy-Enhancing Cryptography from Lattices](https://tjerandsilde.no/files/PrivCrypt.pdf)" - Invited Keynote at [PrivCrypt@ACNS](https://privcryptworkshop.github.io), June 2025.
 * "[Quantum Computers and Digital Security](https://tjerandsilde.no/files/KiNS-Tjerand-Silde.pdf)" - [KiNS Webinar: Kvantemigrasjon: Derfor må du handle nå!](https://www.kins.no/arrangementer/fagwebinar-kvantemigrasjon), June 2025.
