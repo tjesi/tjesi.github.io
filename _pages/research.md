@@ -39,12 +39,10 @@ Joint work with Diego F. Aranha, Carsten Baum, Kristian Gjøsteen and Thor Tunge
 [Short paper: Where is the Web Still Insecure? Regional Scans for HTTPS Certificates](https://tjerandsilde.no/files/Where_is_the_web_still_insecure__Regional_scans_for_HTTPS_certificates.pdf), NISK 2018.  
 Joint work with Anushua Hossain and Kristina Nelson. ([Presentation](https://tjerandsilde.no/files/NISK_presentation.pdf), [Code](https://github.com/tjesi/security-scan))
 
-<!--
 ## Manuscripts
 
-
-
--->
+[Olingo: Threshold Lattice Signatures with DKG and Identifiable Abort](https://eprint.iacr.org/2025/1789)  
+Joint work with Kamil Doruk Gur, Patrick Hough, Jonathan Katz, and Caroline Sandsbråten.
 
 ## Projects
 
