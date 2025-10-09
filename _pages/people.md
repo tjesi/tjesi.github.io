@@ -67,6 +67,7 @@ I am grateful to [Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gj
 
 ## Visitors
 
+- [Jean-François Blanchette](https://pages.gseis.ucla.edu/faculty/blanchette), Research Professor Emeritus at UCLA (December 2025)
 - [Markku-Juhani O. Saarinen](https://mjos.fi), Professor at Tampere University (November 2025)
 - [Scott Griffy](https://scottgriffy.com), PhD student at Brown University (July and August 2024)
 - [Ngoc Khanh Nguyen](https://khanhcrypto.github.io), Lecturer at King's College London (May 2024)
