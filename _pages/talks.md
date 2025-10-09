@@ -7,7 +7,7 @@ author_profile: true
 
 ## Upcoming Talks:
 
-* No upcoming talks...
+* "[Quantum-Safe Electronic Voting: Status and Challenges](https://tjerandsilde.no/files/PQ-Voting.pdf)" - Dagstuhl
 
 ## Cryptography and Information Security Talks:
 

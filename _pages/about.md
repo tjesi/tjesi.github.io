@@ -22,6 +22,7 @@ I am a member of the [International Association for Cryptologic Research](https:
 
 **News**:
 
+- Join the [Cryptology and Social Life Workshop 2025](https://www.ntnu.edu/iik/cryptology-and-social-life/workshop)!
 - I gave a talk on "[Challenges and Opportunities from Quantum-Safe Cryptography](https://www.youtube.com/watch?v=Ph8yoeN6ZwE)" ([PDF](https://tjerandsilde.no/files/PQC.pdf))  
 at the [NDC Security](https://ndc-security.com/speakers/tjerand-silde) conference in Oslo on January 23rd, 2025.
 - [More Efficient Lattice-Based Electronic Voting from NTRU](https://eprint.iacr.org/2023/933) is accepted to [IACR Communications in Cryptology](https://cic.iacr.org)! Joint work with Patrick Hough and Caroline Sandsbråten.
