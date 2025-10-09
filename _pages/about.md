@@ -23,7 +23,7 @@ I am a member of the [International Association for Cryptologic Research](https:
 **News**:
 
 - Join the [Cryptology and Social Life workshop](https://www.ntnu.edu/iik/cryptology-and-social-life/workshop) at NTNU @ Trondheim on Dec 11-12!
-- [More Efficient Lattice-Based Verifiable Decryption from LWR](https://dl.acm.org/doi/10.1145/3733811.3767315) is accepted to [WAHC @ ACM CCS 2025(https://homomorphicencryption.org/wahc-2025)! Joint work with Thomas Haines, Emil August Hovd Olaisen, and Peter Rønne.
+- [More Efficient Lattice-Based Verifiable Decryption from LWR](https://dl.acm.org/doi/10.1145/3733811.3767315) is accepted to [WAHC @ ACM CCS 2025](https://homomorphicencryption.org/wahc-2025)! Joint work with Thomas Haines, Emil August Hovd Olaisen, and Peter Rønne.
 - I gave a talk on "[Challenges and Opportunities from Quantum-Safe Cryptography](https://www.youtube.com/watch?v=Ph8yoeN6ZwE)" ([PDF](https://tjerandsilde.no/files/PQC.pdf))  
 at the [NDC Security](https://ndc-security.com/speakers/tjerand-silde) conference in Oslo on January 23rd, 2025.
 - We recently opened the [CRYPTO-LAB](cryptolab) for theoretical and practical cryptographic research and education, currently used in [TTM4205 Secure Cryptographic Implementations](http://ttm4205.iik.ntnu.no).
