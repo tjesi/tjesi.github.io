@@ -7,10 +7,11 @@ author_profile: true
 
 ## Upcoming Talks:
 
-* "[Quantum-Safe Electronic Voting: Status and Challenges](https://tjerandsilde.no/files/PQ-Voting.pdf)" - Dagstuhl
+* No upcoming talks...
 
 ## Cryptography and Information Security Talks:
 
+* "[Quantum-Safe Electronic Voting: Status and Challenges](https://tjerandsilde.no/files/PQ-Voting.pdf)" - [Dagstuhl seminar on Trustworthy Evidence-Based Elections](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/25411), October 2025.
 * "[Cryptographic Side-Channels on Embedded Devices](https://tjerandsilde.no/files/TechTown.pdf)" - [NDC TechTown](https://ndctechtown.com), September 2025.
 * "[Zero-Knowledge Proofs: Simultaneously ensuring integrity and privacy](https://tjerandsilde.no/files/Sikkerhetsfestivalen-ZKP.pdf)" - [Sikkerhetsfestivalen](https://www.sikkerhetsfestivalen.no/program), August 2025.
 * "[Privacy-Enhancing Cryptography from Lattices](https://tjerandsilde.no/files/PrivCrypt.pdf)" - Invited Keynote at [PrivCrypt@ACNS](https://privcryptworkshop.github.io), June 2025.

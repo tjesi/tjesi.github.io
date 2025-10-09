@@ -22,10 +22,10 @@ I am a member of the [International Association for Cryptologic Research](https:
 
 **News**:
 
-- Join the [Cryptology and Social Life Workshop 2025](https://www.ntnu.edu/iik/cryptology-and-social-life/workshop)!
+- Join the [Cryptology and Social Life workshop](https://www.ntnu.edu/iik/cryptology-and-social-life/workshop) at NTNU @ Trondheim on Dec 11-12!
+- [More Efficient Lattice-Based Verifiable Decryption from LWR](https://dl.acm.org/doi/10.1145/3733811.3767315) is accepted to [WAHC @ ACM CCS 2025(https://homomorphicencryption.org/wahc-2025)! Joint work with Thomas Haines, Emil August Hovd Olaisen, and Peter Rønne.
 - I gave a talk on "[Challenges and Opportunities from Quantum-Safe Cryptography](https://www.youtube.com/watch?v=Ph8yoeN6ZwE)" ([PDF](https://tjerandsilde.no/files/PQC.pdf))  
 at the [NDC Security](https://ndc-security.com/speakers/tjerand-silde) conference in Oslo on January 23rd, 2025.
-- [More Efficient Lattice-Based Electronic Voting from NTRU](https://eprint.iacr.org/2023/933) is accepted to [IACR Communications in Cryptology](https://cic.iacr.org)! Joint work with Patrick Hough and Caroline Sandsbråten.
 - We recently opened the [CRYPTO-LAB](cryptolab) for theoretical and practical cryptographic research and education, currently used in [TTM4205 Secure Cryptographic Implementations](http://ttm4205.iik.ntnu.no).
 - I started as an Associate Professor in Cryptology at the Department of Information Security and Communication Technology at NTNU on September 1st, 2022.
 
