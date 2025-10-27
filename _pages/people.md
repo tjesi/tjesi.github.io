@@ -67,6 +67,8 @@ I am grateful to [Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gj
 
 ## Visitors
 
+- [Philip Rogaway](https://www.cs.ucdavis.edu/~rogaway), Professor Emeritus at UC Davis (December 2025)
+- [Rikke Bjerg Jensen](https://rikkebjerg.gitlab.io/me), Professor at Royal Holloway (December 2025)
 - [Jean-François Blanchette](https://pages.gseis.ucla.edu/faculty/blanchette), Research Professor Emeritus at UCLA (December 2025)
 - [Markku-Juhani O. Saarinen](https://mjos.fi), Professor at Tampere University (November 2025)
 - [Scott Griffy](https://scottgriffy.com), PhD student at Brown University (July and August 2024)
