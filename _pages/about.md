@@ -25,7 +25,7 @@ I am a member of the [International Association for Cryptologic Research](https:
 - Together with more than 800 scientists, we published [an open letter](https://csa-scientist-open-letter.org/Sep2025) in September to adress the EU Presidency’s new proposal for the Child Sexual Abuse / Chat Control Regulation. We [published another letter](https://csa-scientist-open-letter.org/Nov2025) in November to adress recent changes.
 - Join the [Cryptology and Social Life workshop](https://www.ntnu.edu/iik/cryptology-and-social-life/workshop) at NTNU @ Trondheim on Dec 11-12!
 - [More Efficient Lattice-Based Verifiable Decryption from LWR](https://dl.acm.org/doi/10.1145/3733811.3767315) is accepted to [WAHC @ ACM CCS 2025](https://homomorphicencryption.org/wahc-2025)! Joint work with Thomas Haines, Emil August Hovd Olaisen, and Peter Rønne.
-- I gave a talk on "[Cryptographic Side-Channels on Embedded Devices](https://www.youtube.com/watch?v=Ph8yoeN6ZwE)" ([PDF](https://tjerandsilde.no/files/TechTown.pdf))  
+- I gave a talk on "[Cryptographic Side-Channels on Embedded Devices](https://tjerandsilde.no/files/TechTown.pdf)"  
 at the [NDC TechTown](https://ndctechtown.com/speakers/tjerand-silde) conference in Kongsberg on September 25th, 2025.
 - We recently opened the [CRYPTO-LAB](cryptolab) for theoretical and practical cryptographic research and education, currently used in [TTM4205 Secure Cryptographic Implementations](http://ttm4205.iik.ntnu.no).
 - I started as an Associate Professor in Cryptology at the Department of Information Security and Communication Technology at NTNU on September 1st, 2022.
