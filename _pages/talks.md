@@ -7,7 +7,9 @@ author_profile: true
 
 ## Upcoming Talks:
 
-* No upcoming talks...
+* "Kvantekrypto vs. kvantesikker kryptigrafi: Hva er forskjellen?" – Seminar at University of South-Eastern Norway, January 2026.
+* "Zero-Knowledge Proofs: Simultaneously ensuring integrity and privacy" - [NDC Security](https://ndcsecurity.com) in Oslo, March, 2026.
+* "Introduction to the new post-quantum standards" - [NDC Security](https://ndcsecurity.com) in Oslo, March, 2026.
 
 ## Cryptography and Information Security Talks:
 
