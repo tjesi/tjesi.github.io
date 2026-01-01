@@ -10,6 +10,7 @@ author_profile: true
 * "Kvantekrypto vs. kvantesikker kryptigrafi: Hva er forskjellen?" – Seminar at University of South-Eastern Norway, January 2026.
 * "Zero-Knowledge Proofs: Simultaneously ensuring integrity and privacy" - [NDC Security](https://ndcsecurity.com) in Oslo, March, 2026.
 * "Introduction to the new post-quantum standards" - [NDC Security](https://ndcsecurity.com) in Oslo, March, 2026.
+* "Privacy-Preserving Computation" – [Oslo Tech Show](https://oslotechshow.com/explore-the-program), in Oslo, May, 2026.
 
 ## Cryptography and Information Security Talks:
 
