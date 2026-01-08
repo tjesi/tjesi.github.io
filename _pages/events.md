@@ -5,7 +5,13 @@ permalink: /events/
 author_profile: true
 ---
 
+**Eurocrypt 2026**: The 45th Annual International Conference on the Theory and Applications of Cryptographic Techniques. May 10.-14., 2026 – Rome, Italy. [eurocrypt.iacr.org/2026](https://eurocrypt.iacr.org/2026)
+
+**PrivCrypt 2026**: International Workshop on Foundations and Applications of Privacy-Enhancing Cryptography. May 10th, 2026 - Rome, Italy. [privcryptworkshop.github.io](https://privcryptworkshop.github.io)
+
 **Privacy-Preserving Authentication**: Dagstuhl Seminar on Privacy-Preserving Authentication. April 19.-24., 2026 - Dagstuhl, Germany. [dagstuhl.de/seminars/seminar-calendar/seminar-details/26171](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/26171)
+
+**NDC Sec 2026**: Norwegian Developer Conference Security. March 2.-5., 2026 - Oslo, Norway. [ndc-security.com](https://ndc-security.com)
 
 **CSLW 2025**: Cryptography and Social Life Workshop 2025. December 11.-12., 2025 - Trondheim, Norway. [ntnu.edu/iik/cryptology-and-social-life/workshop](https://www.ntnu.edu/iik/cryptology-and-social-life/workshop)
 
