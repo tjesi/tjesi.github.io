@@ -32,7 +32,7 @@ author_profile: true
 (Master's thesis 2026, co-supervised with Katrien De Moor) 
 - Harald Haaland Paaske - “Investigating the new post-quantum key encapsulation mechanism HQC”  
 (Master's thesis 2026, co-supervised with Emil August Hovd Olaisen)  
-- Michaela Kralova - "Post-Quantum Password-Authenticated Key Exchange" (Master's thesis 2025)
+- Michaela Kralova - "[Post-Quantum Password-Authenticated Key Exchange](https://tjerandsilde.no/files/Michaela.pdf)" (Master's thesis 2025)
 - Paulina Wesolowska - "[Quantum Computing and Cryptographic Risk: A Threat Assessment for Norway](https://tjerandsilde.no/files/Paulina.pdf)"  
 (Master's thesis 2025, co-supervised with Hans Heum)
 - Noah Starckjohann - "[Trusted Execution Environments for
