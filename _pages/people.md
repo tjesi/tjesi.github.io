@@ -21,7 +21,7 @@ author_profile: true
 ## Bachelor's and Master's Students
 
 - Nora Mosand Viken - “Side-channel attacks on post-quantum cryptographic implementations”  
-(Master's thesis 2026, co-supervised with Andreas Sandø Krogen) 
+(Master's thesis 2026, co-supervised with Andreas Sandø Krogen and Ella Kristensen) 
 - Amund Fredrik Strømsnes - "Verifying the Swiss Electronic Voting System"    
 (Master's thesis 2026, co-supervised with Audhild Høgåsen) 
 - Jonatan Kifle Assefa Aalen - "Analysing a new devastating side-channel attack on elliptic curve cryptography"  
