@@ -22,7 +22,7 @@ I am a member of the [International Association for Cryptologic Research](https:
 
 **News**:
 
-- Join the International Workshop on Foundations and Applications of Privacy-Enhancing Cryptography as an affilated event at [IACR Eurocrypt 2026]() in Rome on May 10th! I am co-organising this workshop together with [Lucjan Hanzlik](https://lucjanhanzlik.github.io) and [Daniel Slamanig](https://danielslamanig.info).
+- Join the [International Workshop on Foundations and Applications of Privacy-Enhancing Cryptography](https://privcryptworkshop.github.io) as an affilated event at [IACR Eurocrypt 2026](https://eurocrypt.iacr.org/2026) in Rome on May 10th! I am co-organising this workshop together with [Lucjan Hanzlik](https://lucjanhanzlik.github.io) and [Daniel Slamanig](https://danielslamanig.info).
 - Together with more than 800 scientists, we published [an open letter](https://csa-scientist-open-letter.org/Sep2025) in September to address the EU Presidency’s new proposal for the Child Sexual Abuse / Chat Control Regulation. We [published another letter](https://csa-scientist-open-letter.org/Nov2025) in November to address recent changes.
 - [More Efficient Lattice-Based Verifiable Decryption from LWR](https://dl.acm.org/doi/10.1145/3733811.3767315) is accepted to [WAHC @ ACM CCS 2025](https://homomorphicencryption.org/wahc-2025)! Joint work with Thomas Haines, Emil August Hovd Olaisen, and Peter Rønne.
 - I gave a talk on "[Cryptographic Side-Channels on Embedded Devices](https://tjerandsilde.no/files/TechTown.pdf)" at the [NDC TechTown](https://ndctechtown.com/speakers/tjerand-silde) conference in Kongsberg on September 25th, 2025.
