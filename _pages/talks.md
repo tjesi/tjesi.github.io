@@ -7,13 +7,13 @@ author_profile: true
 
 ## Upcoming Talks:
 
-* "Kvantetrusselen: Fremtidssikker kommunikasjon og personvern" – Seminar at University of South-Eastern Norway, January 2026.
 * "Zero-Knowledge Proofs: Simultaneously ensuring integrity and privacy" - [NDC Security](https://ndcsecurity.com) in Oslo, March, 2026.
 * "Introduction to the new post-quantum standards" - [NDC Security](https://ndcsecurity.com) in Oslo, March, 2026.
 * "Privacy-Preserving Computation" – [Oslo Tech Show](https://oslotechshow.com/explore-the-program), in Oslo, May, 2026.
 
 ## Cryptography and Information Security Talks:
 
+* "[Kvantetrusselen: Fremtidssikker kommunikasjon og personvern](https://tjerandsilde.no/files/kvantetrusselen.pdf)" – Seminar at University of South-Eastern Norway, January 2026.
 * "[Quantum-Safe Electronic Voting: Status and Challenges](https://tjerandsilde.no/files/PQ-Voting.pdf)" - [Trustworthy Evidence-Based Elections](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/25411), October 2025.
 * "[Cryptographic Side-Channels on Embedded Devices](https://tjerandsilde.no/files/TechTown.pdf)" - [NDC TechTown](https://ndctechtown.com), September 2025.
 * "[Zero-Knowledge Proofs: Simultaneously ensuring integrity and privacy](https://tjerandsilde.no/files/Sikkerhetsfestivalen-ZKP.pdf)" - [Sikkerhetsfestivalen](https://www.sikkerhetsfestivalen.no/program), August 2025.
