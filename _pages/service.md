@@ -24,7 +24,7 @@ I previously organized the NTNU Post-Quantum Cryptography Reading Group together
 ## External Assignments
 
 I have testified as an expert witness on the encryption used and the data collection performed via a Man-in-the-Middle attack
-conducted by Europol against the E2EE service SKY ECC at 1) Borgarting Court of Appeal in Oslo in April 2025, 2) Oslo District Court in Oslo in May 2025, and 3) Gulating Court of Appeal in Bergen in June 2025.
+conducted by Europol against the E2EE service SKY ECC at 1) [Borgarting Court of Appeal](https://lovdata.no/dokument/LBSTR/avgjorelse/lb-2024-142625) in Oslo in April 2025, 2) Oslo District Court in Oslo in May 2025, and 3) [Gulating Court of Appeal](https://lovdata.no/dokument/LGSTR/avgjorelse/lg-2025-43360) in Bergen in June 2025.
 
 ## Program Committees and Editoral Boards
 
