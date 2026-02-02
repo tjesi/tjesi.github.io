@@ -20,6 +20,8 @@ author_profile: true
 
 ## Bachelor's and Master's Students
 
+- Prateek Sharma - “Formal verification of garbled circuits using Domino”  
+(Master's thesis 2026, co-supervised with Christopher Brzuska) 
 - Nora Mosand Viken - “Side-channel attacks on post-quantum cryptographic implementations”  
 (Master's thesis 2026, co-supervised with Andreas Sandø Krogen and Ella Kristensen) 
 - Amund Fredrik Strømsnes - "Verifying the Swiss Electronic Voting System"    
