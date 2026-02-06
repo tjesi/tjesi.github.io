@@ -59,6 +59,12 @@ Privacy-Preserving Statistical Computation in the Cloud](https://tjerandsilde.no
 2. Alejandro Rodriguez - "[Implementing Lattice-Based Cryptography](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3009053)" (Bachelor's thesis 2022)
 1. Guro Rio Berge - "[Cryptographic Protocols from Lattice Assumptions](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3009054)" (Bachelor's thesis 2022)
 
+<ol reversed>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
+
 ## Supervisors
 
 I am grateful to [Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen) for supervising my Bachelor's (2017), Master's (2020), and PhD thesis (2022) and to [Colin Boyd](https://scholar.google.no/citations?user=CIfBKmMAAAAJ) for co-supervising my PhD thesis. I am also grateful to [Carsten Baum](http://carstenbaum.com) and [Diego F. Aranha](https://dfaranha.github.io) at Aarhus University and [Jonathan Katz](https://www.cs.umd.edu/~jkatz) at the University of Maryland for hosting and mentoring me during my PhD.
