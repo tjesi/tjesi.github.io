@@ -50,7 +50,7 @@ author_profile: true
     <li>Emil Bragstad and Marius Andreas Arder – <a href="https://tjerandsilde.no/files/Emil-Marius.pdf">Improving Messaging Layer Security in a Military UAV Swarm</a> <br>
     (Master's thesis 2025, co-supervised with Martin Strand)</li>
     <li>Carl Ludvig Digné – <a href="https://tjerandsilde.no/files/Ludvig.pdf">Towards Quantum-Resilient Authentication: Implementing Hybrid Signatures in FIDO2 Authenticators</a> 
-    (Master's thesis 2024, co-supervised with Trond Peder Hagen, Magnus Ringerud, and Sigurhjörtur Snorrason)</li>
+    (Master's thesis 2024, co-supervised with Trond Peder Hagen, Magnus Ringerud, and Sigur Snorrason)</li>
     <li>Sondre Rishøi and Jonatan Såstad Østgaard – <a href="https://tjerandsilde.no/files/Swiss-post-thesis.pdf">Unbiased Distributed Key Generation</a> <br>
     (Master's thesis 2024, co-supervised with Audhild Høgåsen)</li>
     <li>Emil Marstrander – <a href="https://tjerandsilde.no/files/EmilM.pdf">Use of Messaging Layer Security in a Military UAV Swarm</a> <br>
