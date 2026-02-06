@@ -20,44 +20,44 @@ author_profile: true
 
 ## Bachelor's and Master's Students
 
-- Prateek Sharma - “Formal verification of garbled circuits using Domino”  
+21. Prateek Sharma - “Formally Verified Reduction Proof for the Half-Gates Garbling Scheme”  
 (Master's thesis 2026, co-supervised with Christopher Brzuska) 
-- Nora Mosand Viken - “Side-channel attacks on post-quantum cryptographic implementations”  
+20. Nora Mosand Viken - “Side-channel attacks on post-quantum cryptographic implementations”  
 (Master's thesis 2026, co-supervised with Andreas Sandø Krogen and Ella Kristensen) 
-- Amund Fredrik Strømsnes - "Verifying the Swiss Electronic Voting System"    
+19. Amund Fredrik Strømsnes - "Verifying the Swiss Electronic Voting System"    
 (Master's thesis 2026, co-supervised with Audhild Høgåsen) 
-- Jonatan Kifle Assefa Aalen - "Analysing a new devastating side-channel attack on elliptic curve cryptography"  
+18. Jonatan Kifle Assefa Aalen - "Analysing a new devastating side-channel attack on elliptic curve cryptography"  
 (Master's thesis 2026, co-supervised with Caroline Sandsbråten and Jonathan Eriksen) 
-- Noah Krogh Anderson - “Deploying Messaging Layer Security in a Military UAV Swarm”  
+17. Noah Krogh Anderson - “Deploying Messaging Layer Security in a Military UAV Swarm”  
 (Master's thesis 2026, co-supervised with Martin Strand) 
-- Eirik Gjerde Buset - “Cryptographic Evidence in Norwegian Courts”  
+16. Eirik Gjerde Buset - “Cryptographic Evidence in Norwegian Courts”  
 (Master's thesis 2026, co-supervised with Katrien De Moor) 
-- Harald Haaland Paaske - “Investigating the new post-quantum key encapsulation mechanism HQC”  
+15. Harald Haaland Paaske - “Investigating the new post-quantum key encapsulation mechanism HQC”  
 (Master's thesis 2026, co-supervised with Emil August Hovd Olaisen)  
-- Michaela Kralova - "[Post-Quantum Password-Authenticated Key Exchange](https://tjerandsilde.no/files/Michaela.pdf)" (Master's thesis 2025)
-- Paulina Wesolowska - "[Quantum Computing and Cryptographic Risk: A Threat Assessment for Norway](https://tjerandsilde.no/files/Paulina.pdf)"  
+14. Michaela Kralova - "[Post-Quantum Password-Authenticated Key Exchange](https://tjerandsilde.no/files/Michaela.pdf)" (Master's thesis 2025)
+13. Paulina Wesolowska - "[Quantum Computing and Cryptographic Risk: A Threat Assessment for Norway](https://tjerandsilde.no/files/Paulina.pdf)"  
 (Master's thesis 2025, co-supervised with Hans Heum)
-- Noah Starckjohann - "[Trusted Execution Environments for
+12. Noah Starckjohann - "[Trusted Execution Environments for
 Privacy-Preserving Statistical Computation in the Cloud](https://tjerandsilde.no/files/Starckjohann.pdf)"  
 (Master's thesis 2025, co-supervised with Xeni Kristine Dimakos and Li Chun Zhang)
-- Henrik Hansen Stormyhr - "[A comparative analysis of MOS-LQO algorithms for perceptual transparency testing in audio steganography](https://tjerandsilde.no/files/Henrik.pdf)" (Master's thesis 2025, co-supervised with Bor de Kock and Emil August Hovd Olaisen)
-- Javier García - "[Threshold Signatures for FIDO Authentication](https://tjerandsilde.no/files/Javier.pdf)"   
+11. Henrik Hansen Stormyhr - "[A comparative analysis of MOS-LQO algorithms for perceptual transparency testing in audio steganography](https://tjerandsilde.no/files/Henrik.pdf)" (Master's thesis 2025, co-supervised with Bor de Kock and Emil August Hovd Olaisen)
+10. Javier García - "[Threshold Signatures for FIDO Authentication](https://tjerandsilde.no/files/Javier.pdf)"   
 (Master's thesis 2025, co-supervised with Trond Peder Hagen and Magnus Ringerud)
-- Sunniva Engan - "[Constructing Compressed Σ-Protocols from Different Underlying Assumptions](https://tjerandsilde.no/files/Sunniva.pdf)"  
+9. Sunniva Engan - "[Constructing Compressed Σ-Protocols from Different Underlying Assumptions](https://tjerandsilde.no/files/Sunniva.pdf)"  
 (Master's thesis 2025, co-supervised with Kristian Gjøsteen)
-- Emil Bragstad and Marius Andreas Arder - "[Improving Messaging Layer Security in a Military UAV Swarm](https://tjerandsilde.no/files/Emil-Marius.pdf)"  
+8. Emil Bragstad and Marius Andreas Arder - "[Improving Messaging Layer Security in a Military UAV Swarm](https://tjerandsilde.no/files/Emil-Marius.pdf)"  
 (Master's thesis 2025, co-supervised with Martin Strand)
-- Carl Ludvig Digné - "[Towards Quantum-Resilient Authentication: Implementing Hybrid Signatures in FIDO2 Authenticators](https://tjerandsilde.no/files/Ludvig.pdf)"  
+7. Carl Ludvig Digné - "[Towards Quantum-Resilient Authentication: Implementing Hybrid Signatures in FIDO2 Authenticators](https://tjerandsilde.no/files/Ludvig.pdf)"  
 (Master's thesis 2024, co-supervised with Trond Peder Hagen, Magnus Ringerud, and Sigurhjörtur Snorrason)
-- Sondre Rishøi and Jonatan Såstad Østgaard - "[Unbiased Distributed Key Generation](https://tjerandsilde.no/files/Swiss-post-thesis.pdf)"  
+6. Sondre Rishøi and Jonatan Såstad Østgaard - "[Unbiased Distributed Key Generation](https://tjerandsilde.no/files/Swiss-post-thesis.pdf)"  
 (Master's thesis 2024, co-supervised with Audhild Høgåsen)
-- Emil Marstrander - "[Use of Messaging Layer Security in a Military UAV Swarm](https://tjerandsilde.no/files/EmilM.pdf)"  
+5. Emil Marstrander - "[Use of Messaging Layer Security in a Military UAV Swarm](https://tjerandsilde.no/files/EmilM.pdf)"  
 (Master's thesis 2023, co-supervised with Martin Strand)
-- Matej Poljuha - "[Benchmarking Post-Quantum Secure Biometric Resilient Authenticated Key Exchange](https://tjerandsilde.no/files/Matej.pdf)"  
+4. Matej Poljuha - "[Benchmarking Post-Quantum Secure Biometric Resilient Authenticated Key Exchange](https://tjerandsilde.no/files/Matej.pdf)"  
 (Master's thesis 2023, co-supervised with Pia Bauspiess)
-- Audhild Høgåsen - "[Return Codes from Lattice Assumptions](https://tjerandsilde.no/files/Audhild-master-thesis.pdf)" (Master's thesis 2022)
-- Alejandro Rodriguez - "[Implementing Lattice-Based Cryptography](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3009053)" (Bachelor's thesis 2022)
-- Guro Rio Berge - "[Cryptographic Protocols from Lattice Assumptions](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3009054)" (Bachelor's thesis 2022)
+3. Audhild Høgåsen - "[Return Codes from Lattice Assumptions](https://tjerandsilde.no/files/Audhild-master-thesis.pdf)" (Master's thesis 2022)
+2. Alejandro Rodriguez - "[Implementing Lattice-Based Cryptography](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3009053)" (Bachelor's thesis 2022)
+1. Guro Rio Berge - "[Cryptographic Protocols from Lattice Assumptions](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3009054)" (Bachelor's thesis 2022)
 
 ## Supervisors
 
