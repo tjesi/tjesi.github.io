@@ -28,6 +28,7 @@ conducted by Europol against the E2EE service SKY ECC at 1) [Borgarting Court of
 
 ## Program Committees and Editoral Boards
 
+- 2026: IACR CiC - The IACR journal of Communications in Cryptology
 - 2025: PrivCrypt - Workshop on Foundations and Applications of Privacy-Enhancing Cryptography
 - 2025: IACR CiC - The IACR journal of Communications in Cryptology
 - 2025: PETS - The annual Privacy Enhancing Technologies Symposium
