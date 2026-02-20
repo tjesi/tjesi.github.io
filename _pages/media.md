@@ -83,6 +83,8 @@ author_profile: true
 
 ## Commentaries and Blog Posts
 
+[Spekulativ kvanteteknologi løser ikke sikkerhetsproblemene våre](https://www.digi.no/artikler/debatt-spekulativ-kvanteteknologi-loser-ikke-sikkerhetsproblemene-vare/568500), digi.no, February 20th, 2026.
+
 [Bitcoindebatt: Tar fundamentalt feil i sitt forsvar av krypto](https://www.morgenbladet.no/ideer/debatt/2024/09/27/bitcoindebatt-tar-fundamentalt-feil-i-sitt-forsvar-av-krypto), Morgenbladet, September 27th, 2024.
 
 [EU-kommisjonens forsvar for Chat Control 2.0 bygger på enten løgn eller inkompetanse](https://www.morgenbladet.no/ideer/kronikk/2023/09/05/eu-kommisjonens-forsvar-for-chat-control-20-bygger-pa-enten-logn-eller-inkompetanse), Morgenbladet, Sept. 5th, 2023.
