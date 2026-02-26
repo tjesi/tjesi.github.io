@@ -28,6 +28,7 @@ conducted by Europol against the E2EE service SKY ECC at 1) [Borgarting Court of
 
 ## Program Committees and Editoral Boards
 
+- 2027: IACR PKC - The International Conference on Practice and Theory in Public Key Cryptography
 - 2026: IACR CiC - The IACR journal of Communications in Cryptology
 - 2025: PrivCrypt - Workshop on Foundations and Applications of Privacy-Enhancing Cryptography
 - 2025: IACR CiC - The IACR journal of Communications in Cryptology
@@ -44,7 +45,7 @@ conducted by Europol against the E2EE service SKY ECC at 1) [Borgarting Court of
 
 ## Reviewer
 
-- 2025: IACR Eurocrypt, Journal of Cryptology.
+- 2025: IACR Eurocrypt, IACR Journal of Cryptology.
 - 2024: IACR Eurocrypt, IACR Crypto.
 - 2023: PETS and ESORICS.
 - 2022: IACR PKC, PETS, ANTS, ACM CCS, PQCrypto and ESORICS.
