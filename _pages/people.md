@@ -11,7 +11,7 @@ author_profile: true
 
 - [Hans Heum](https://www.ntnu.edu/employees/hans.heum) (Postdoc 2023-2026, hosted at the Department of Matemathical Sciences)
 - [Dan Zhang](https://www.ntnu.edu/employees/dan.zhang) (Researcher 2025-2026, jointly hosted with Danilo Gligoroski)
-- [Javier Garcia Martinez](https://www.ntnu.edu/employees/javieg) (Researcher fall 2025)
+- [Javier Garcia Martinez](https://www.ntnu.edu/employees/javieg) (Researcher on the [OFFPPAD project](https://prosjektbanken.forskningsradet.no/en/project/FORISS/321619) during fall 2025)
 
 ## PhD Students
 
@@ -29,7 +29,7 @@ author_profile: true
     <li>Amund Fredrik Strømsnes – “Verifying the Swiss Electronic Voting System” <br>
     (Master's thesis 2026, co-supervised with Audhild Høgåsen)</li>
     <li>Jonatan Kifle Assefa Aalen – “Analysing a new devastating side-channel attack on elliptic curve cryptography” <br>
-    (Master's thesis 2026, co-supervised with Caroline Sandsbråten and Jonathan Eriksen)</li>
+    (Master's thesis 2026, co-supervised with Caroline Sandsbråten and Jonathan Komada Eriksen)</li>
     <li>Noah Krogh Anderson – “Deploying Messaging Layer Security in a Military UAV Swarm” <br>
     (Master's thesis 2026, co-supervised with Martin Strand)</li>
     <li>Eirik Gjerde Buset – “Cryptographic Evidence in Norwegian Courts” <br>
@@ -72,10 +72,13 @@ I am grateful to [Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gj
 
 ## PhD Committees
 
-- 2025: [Simon Erfurth](https://serfurth.dk) at University of Southern Denmark, supervised by [Joan Boyar](https://imada.sdu.dk/u/joan).
+- 2026: [Juliet Samandari](https://scholar.google.com/citations?user=XQaDsnAAAAAJ&hl=en) at the University of Canterbury, supervised by [Clémentine Gritti](https://perso.citi-lab.fr/cgritti).
+- 2025: [Simon Erfurth](https://serfurth.dk) at the University of Southern Denmark, supervised by [Joan Boyar](https://imada.sdu.dk/u/joan).
 
 ## Visitors
 
+- [Chris Brzuska](https://www.aalto.fi/en/people/chris-brzuska), Associate Professor at Aalto University (February 2026)
+- [Tyge Tiessen](https://orbit.dtu.dk/en/persons/tyge-tiessen), Associate Professor at Danmarks Tekniske Universitet (February 2026)
 - [Philip Rogaway](https://www.cs.ucdavis.edu/~rogaway), Professor Emeritus at UC Davis (December 2025)
 - [Rikke Bjerg Jensen](https://rikkebjerg.gitlab.io/me), Professor at Royal Holloway (December 2025)
 - [Jean-François Blanchette](https://pages.gseis.ucla.edu/faculty/blanchette), Research Professor Emeritus at UCLA (December 2025)
@@ -92,7 +95,7 @@ I am grateful to [Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gj
 
 ## Research Visits
 
-- [Daniel Slamanig](https://danielslamanig.info) at University of the Bundeswehr Munich (June 2025)
+- [Daniel Slamanig](https://danielslamanig.info) at University of the Bundeswehr Munich (June 2025 and April 2026)
 - [Jiaxin Pan](https://sites.google.com/view/jiaxinpan) at University of Kassel (June 2025)
 - [Xavier Boyen](https://www.qut.edu.au/about/our-people/academic-profiles/xavier.boyen) at Queensland University of Technology (April 2024, March and April 2025)
 - [Ngoc Khanh Nguyen](https://khanhcrypto.github.io) at King's College London (February 2025)
