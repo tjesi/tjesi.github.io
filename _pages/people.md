@@ -9,7 +9,7 @@ author_profile: true
 
 ## Postdocs / Researchers
 
-- [Hans Heum](https://www.simula.no/people/hansh](Postdoc 2023-2026, hosted at the Department of Matemathical Sciences)
+- [Hans Heum](https://www.simula.no/people/hansh)(Postdoc 2023-2026, hosted at the Department of Matemathical Sciences)
 - [Dan Zhang](https://www.ntnu.edu/employees/dan.zhang) (Researcher 2025-2026, jointly hosted with Danilo Gligoroski)
 - [Javier Garcia Martinez](https://es.linkedin.com/in/javier-garc%C3%ADa-mart%C3%ADnez-0a2a69231) (Researcher on a FIDO threshold signature project fall 2025)
 
