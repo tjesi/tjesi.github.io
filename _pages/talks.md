@@ -8,7 +8,7 @@ author_profile: true
 ## Upcoming Talks:
 
 * "[Zero-Knowledge Proofs: Simultaneously ensuring integrity and privacy](https://tjerandsilde.no/files/NDC-SEC.pdf)" - [NDC Security](https://ndcsecurity.com) in Oslo, March, 2026.
-* "[Introduction to the new post-quantum standards](https://tjerandsilde.no/files/NDC-SEC-PQC.pdf))" - [NDC Security](https://ndcsecurity.com) in Oslo, March, 2026.
+* "[Introduction to the new post-quantum standards](https://tjerandsilde.no/files/NDC-SEC-PQC.pdf)" - [NDC Security](https://ndcsecurity.com) in Oslo, March, 2026.
 * "Privacy-Preserving Computation" – [Oslo Tech Show](https://oslotechshow.com/explore-the-program), in Oslo, May, 2026.
 * TBA – [Social Foundations of Cryptography School](https://social-foundations-of-cryptography.gitlab.io/school), in London, September, 2026.
 
