@@ -22,6 +22,8 @@ author_profile: true
 
 
 <ol reversed>
+    <li>Kasthuri Nair – “Domino vs ProofFrog: A Comparative Study Based on Formally Verifying the GMW Protocol” <br>
+    (Master's thesis 2026, co-supervised with Christopher Brzuska)</li>
     <li>Prateek Sharma – “Formally Verified Reduction Proof for the Half-Gates Garbling Scheme” <br>
     (Master's thesis 2026, co-supervised with Christopher Brzuska and Russell W. F. Lai)</li>
     <li>Nora Mosand Viken – “Side-channel attacks on post-quantum cryptographic implementations” <br>
