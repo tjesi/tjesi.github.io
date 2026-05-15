@@ -20,14 +20,22 @@ My main foci of research are lattice-based cryptography and zero-knowledge proto
 
 I am a member of the [International Association for Cryptologic Research](https://iacr.org) (IACR).
 
+
 **News**:
 
-- Together with 800 scientists, we published [an open letter](https://csa-scientist-open-letter.org/Sep2025) in September 2025 to address the EU Presidency’s new proposal for the Child Sexual Abuse / Chat Control Regulation. We [published another letter](https://csa-scientist-open-letter.org/Nov2025) in November 2025 to address changes. In February 2026, we raised our conserns related to the [new proposals on digital age verification](https://csa-scientist-open-letter.org/ageverif-Feb2026).
-- Kristian Gjøsteen (NTNU), Jonathan Komada Eriksen (KU Leuven), Øyvind Ytrehus and Morten Øygarden (both UiB), and I published an opinion piece in digi.no about [PQC vs. QKD](https://www.digi.no/artikler/debatt-spekulativ-kvanteteknologi-loser-ikke-sikkerhetsproblemene-vare/568500), arguing that post‑quantum cryptography is the right path forward.
-- The [International Workshop on Foundations and Applications of Privacy-Enhancing Cryptography](https://privcryptworkshop.github.io) were organised as an affilated event at [IACR Eurocrypt 2026](https://eurocrypt.iacr.org/2026) in Rome on May 10th! I co-organised this workshop with [Lucjan Hanzlik](https://lucjanhanzlik.github.io) and [Daniel Slamanig](https://danielslamanig.info).
-- [More Efficient Lattice-Based Verifiable Decryption from LWR](https://dl.acm.org/doi/10.1145/3733811.3767315) is accepted to [WAHC @ ACM CCS 2025](https://homomorphicencryption.org/wahc-2025)! Joint work with Thomas Haines, Emil August Hovd Olaisen, and Peter Rønne.
-- I gave a talk on "[Cryptographic Side-Channels on Embedded Devices](https://tjerandsilde.no/files/TechTown.pdf)" at the [NDC TechTown](https://ndctechtown.com/speakers/tjerand-silde) conference in Kongsberg on September 25th, 2025.
+- Together with over 800 scientists, I co-authored an [open letter](https://csa-scientist-open-letter.org/Sep2025) in September 2025 addressing the EU Presidency’s proposal on the Child Sexual Abuse / Chat Control Regulation. Follow-up letters were published in [November 2025](https://csa-scientist-open-letter.org/Nov2025) and, most recently, in February 2026, raising concerns about [new proposals on digital age verification](https://csa-scientist-open-letter.org/ageverif-Feb2026).
+
+- Together with Kristian Gjøsteen (NTNU), Jonathan Komada Eriksen (KU Leuven), Øyvind Ytrehus, and Morten Øygarden (UiB), I published an opinion piece in digi.no on [PQC vs. QKD](https://www.digi.no/artikler/debatt-spekulativ-kvanteteknologi-loser-ikke-sikkerhetsproblemene-vare/568500), arguing that post-quantum cryptography is the most promising path forward.
+
+- The [International Workshop on Foundations and Applications of Privacy-Enhancing Cryptography](https://privcryptworkshop.github.io) was organised as an affiliated event of [IACR Eurocrypt 2026](https://eurocrypt.iacr.org/2026) in Rome on May 10. I co-organised the workshop with [Lucjan Hanzlik](https://lucjanhanzlik.github.io) and [Daniel Slamanig](https://danielslamanig.info).
+
+- Our paper, [More Efficient Lattice-Based Verifiable Decryption from LWR](https://dl.acm.org/doi/10.1145/3733811.3767315), was accepted to [WAHC @ ACM CCS 2025](https://homomorphicencryption.org/wahc-2025) (joint work with Thomas Haines, Emil August Hovd Olaisen, and Peter Rønne).
+
+- I gave a talk on “[Cryptographic Side-Channels on Embedded Devices](https://tjerandsilde.no/files/TechTown.pdf)” at the [NDC TechTown](https://ndctechtown.com/speakers/tjerand-silde) conference in Kongsberg on September 25, 2025.
+
 - We recently opened the [CRYPTO-LAB](cryptolab) for theoretical and practical cryptographic research and education, currently used in [TTM4205 Secure Cryptographic Implementations](http://ttm4205.iik.ntnu.no).
-- I started as an Associate Professor in Cryptology at the Department of Information Security and Communication Technology at NTNU on September 1st, 2022.
+
+- I joined NTNU as Associate Professor in Cryptology on September 1, 2022.
+
 
 I support the [Electronic Frontier Foundation](https://supporters.eff.org/donate/join-eff-4), the [Tor Project](https://donate.torproject.org) and the [Signal Foundation](https://signal.org/donate).
