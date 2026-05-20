@@ -24,12 +24,12 @@ author_profile: true
 <ol reversed>
     <li>Jakob Severin Gundersen – "Cryptology and Social Life – Privacy in Digital Identity Wallets"<br>
     (Master's thesis 2027, co-supervised with Katrien De Moor)</li>
-    <li>Aksel Sundt Wilhelmsen and Eirik Slettan – "Quantum-Safe Messaging Layer Security for Drone Networks: Integration and Performance Trade-offs"<br>
+    <li>Aksel Sundt Wilhelmsen and Eirik Slettan – "Quantum-Safe Messaging Layer Security for Drone Networks: Integration and Performance Trade-offs"
     (Master's thesis 2027, co-supervised with Martin Strand)</li>
-    <li>Aleksander Thornes Vestlund – "Post-Quantum Privacy-Preserving Credentials in the European Digital Identity Wallet: Schemes for Selective Disclosure"<br>
+    <li>Aleksander Thornes Vestlund – "Post-Quantum Privacy-Preserving Credentials in the European Digital Identity Wallet: Schemes for Selective Disclosure"
     (Master's thesis 2027, co-supervised with Srini Devadas )</li>
     <li>Jo Vassbotn Remvik – "Practical Lattice-Based Zero-Knowledge Proof Systems" 
-    (Master's thesis 2022)</li>
+    (Master's thesis 2027)</li>
     <li>Sindre Holbek Sørbye – "Practical Zero-Knowledge Proof Systems from Hash-Based Assumptions and Applications" <br>
     (Master's thesis 2027, co-supervised with Arne Tobias Malkenes Ødegaard)</li>
     <li>Kasthuri Nair – “Domino vs ProofFrog: A Comparative Study Based on Formally Verifying the GMW Protocol” <br>
