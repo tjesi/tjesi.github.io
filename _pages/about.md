@@ -8,14 +8,14 @@ redirect_from:
 ---
 
 Hi! I am an Associate Professor in Cryptology at the [Department of Information Security and Communication Technology](https://www.ntnu.edu/iik) at the Norwegian University of Science and Technology (NTNU)  
-in Trondheim, where I am the Research Group Leader of the [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab).
+in Trondheim, where I am leading the [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab).
 
 I am leading the Post-Quantum Cryptography work package in the [OFFPAD project](https://prosjektbanken.forskningsradet.no/en/project/FORISS/321619), the [Cryptology and Social Life project](https://www.ntnu.edu/iik/cryptology-and-social-life), and the [ToppForsk@IE:Cryptography research group](https://www.ntnu.edu/web/iik/toppforsk-ie-cryptography).  
 I am coordinating the "Cryptographic Engineering" profile in the [Cyber Security and Data Communication](https://www.ntnu.edu/studies/mtkom) master of science in engineering program at NTNU.
 
 I am also a Security and Cryptography Expert at the cybersecurity company [Pone Biometrics](https://ponebiometrics.com).
 
-My main foci of research are lattice-based cryptography and zero-knowledge protocols. My interests generally span the areas of post-quantum cryptography, anonymous communication, multiparty computation, homomorphic encryption, electronic voting and secure implementation.
+My main foci of research are lattice-based cryptography and zero-knowledge protocols. My interests generally span the areas of post-quantum cryptography, advanced signatures, multiparty computation, homomorphic encryption, electronic voting, and secure implementation.
 
 
 I am a member of the [International Association for Cryptologic Research](https://iacr.org) (IACR).
