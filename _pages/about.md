@@ -15,7 +15,7 @@ I am coordinating the "Cryptographic Engineering" profile in the [Cyber Security
 
 I am also a Security and Cryptography Expert at the cybersecurity company [Pone Biometrics](https://ponebiometrics.com).
 
-My research focuses on lattice-based cryptography as a foundation for advanced digital signatures and zero-knowledge protocols. More broadly, I am interested in post-quantum cryptography, secure multiparty computation, homomorphic encryption, electronic voting, and secure implementations.
+My research focuses on lattice-based cryptography as a foundation for advanced digital signatures and zero-knowledge protocols. More broadly, I am interested in post-quantum cryptography, multiparty computation, homomorphic encryption, and secure implementations.
 
 I am a member of the [International Association for Cryptologic Research](https://iacr.org) (IACR).
 
