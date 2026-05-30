@@ -46,7 +46,7 @@ author_profile: true
     (Master's thesis 2026, co-supervised with Martin Strand)</li>
     <li>Eirik Gjerde Buset – “Cryptographic Evidence in Norwegian Courts” <br>
     (Master's thesis 2026, co-supervised with Katrien De Moor)</li>
-    <li>Harald Haaland Paaske – “Investigating the new post-quantum key encapsulation mechanism HQC” <br>
+    <li>Harald Haaland Paaske – <a href="https://tjerandsilde.no/files/Harald.pdf">Investigating the new post-quantum key encapsulation mechanism HQC</a> <br>
     (Master's thesis 2026, co-supervised with Emil August Hovd Olaisen)</li>
     <li>Michaela Kralova – <a href="https://tjerandsilde.no/files/Michaela.pdf">Post-Quantum Password-Authenticated Key Exchange</a> (Master's thesis 2025)</li>
     <li>Paulina Wesolowska – <a href="https://tjerandsilde.no/files/Paulina.pdf">Quantum Computing and Cryptographic Risk: A Threat Assessment for Norway</a> <br>
