@@ -7,23 +7,26 @@ author_profile: true
 
 ## Publications
 
+[Olingo: Threshold Lattice Signatures with DKG and Identifiable Abort](https://eprint.iacr.org/2025/1789), ACM CCS 2026.  
+Joint work with Kamil Doruk Gur, Patrick Hough, Jonathan Katz, and Caroline Sandsbråten.
+
 [More Efficient Lattice-Based Verifiable Decryption from LWR](https://dl.acm.org/doi/10.1145/3733811.3767315), WAHC @ ACM CCS 2025.  
 Joint work with Thomas Haines, Emil August Hovd Olaisen, and Peter Rønne. 
 
 [More Efficient Lattice-Based Electronic Voting from NTRU](https://eprint.iacr.org/2023/933), IACR Communications in Cryptology, Volume 1, 2024.  
-Joint work with Patrick Hough and Caroline Sandsbråten.
+Joint work with Patrick Hough, and Caroline Sandsbråten.
 
 [Two-Round Threshold Lattice-Based Signatures from Threshold Homomorphic Encryption](https://eprint.iacr.org/2023/1318), PQCrypto 2024.  
 Joint work with Kamil Doruk Gur and Jonathan Katz.
 
 [BRAKE: Biometric Resilient Authenticated Key Exchange](https://eprint.iacr.org/2022/1408), IEEE Access, Volume 12, 2024.  
-Joint work with Pia Bauspieß, Matej Poljuha, Alexandre Tullot and Anamaria Costache.
+Joint work with Pia Bauspieß, Matej Poljuha, Alexandre Tullot, and Anamaria Costache.
 
 [Verifiable Mix-Nets and Distributed Decryption for Voting from Lattice-Based Assumptions](https://eprint.iacr.org/2022/422), ACM CCS 2023.  
-Joint work with Diego F. Aranha, Carsten Baum and Kristian Gjøsteen.
+Joint work with Diego F. Aranha, Carsten Baum, and Kristian Gjøsteen.
 
 [Verifiable Decryption in the Head](https://eprint.iacr.org/2021/558), Australasian Conference on Information Security and Privacy 2022.  
-Joint work with Kristian Gjøsteen, Thomas Haines, Johannes Müller and Peter Rønne.
+Joint work with Kristian Gjøsteen, Thomas Haines, Johannes Müller, and Peter Rønne.
 
 [Short paper: Return Codes from Lattice Assumptions](https://dspace.ut.ee/bitstream/handle/10062/84323/12.pdf?sequence=1&isAllowed=y), E-Vote-ID Conference 2022.  
 Joint work with Audhild Høgåsen.
@@ -34,15 +37,15 @@ Joint work with Audhild Høgåsen.
 Joint work with Martin Strand.
 
 [Lattice-Based Proof of Shuffle and Applications to Electronic Voting](https://eprint.iacr.org/2021/338), Cryptographers’ Track RSA Conference 2021.  
-Joint work with Diego F. Aranha, Carsten Baum, Kristian Gjøsteen and Thor Tunge.
+Joint work with Diego F. Aranha, Carsten Baum, Kristian Gjøsteen, and Thor Tunge.
 
 [Short paper: Where is the Web Still Insecure? Regional Scans for HTTPS Certificates](https://tjerandsilde.no/files/Where_is_the_web_still_insecure__Regional_scans_for_HTTPS_certificates.pdf), NISK 2018.  
 Joint work with Anushua Hossain and Kristina Nelson. ([Presentation](https://tjerandsilde.no/files/NISK_presentation.pdf), [Code](https://github.com/tjesi/security-scan))
 
 ## Manuscripts
 
-[Olingo: Threshold Lattice Signatures with DKG and Identifiable Abort](https://eprint.iacr.org/2025/1789)  
-Joint work with Kamil Doruk Gur, Patrick Hough, Jonathan Katz, and Caroline Sandsbråten.
+[BRaccoon: Concurrently Secure Blind Lattice Signatures from Raccoon](https://eprint.iacr.org/2026/1084)  
+Joint work with Lucjan Hanzlik, Mark Manulis, Marzio Mula, Alan Pulval-Dady, and Daniel Slamanig.
 
 ## Projects
 
