@@ -44,7 +44,7 @@ author_profile: true
     (Master's thesis 2026, co-supervised with Caroline Sandsbråten and Jonathan Komada Eriksen)</li>
     <li>Noah Krogh Anderson – “Deploying Messaging Layer Security in a Military UAV Swarm” <br>
     (Master's thesis 2026, co-supervised with Martin Strand)</li>
-    <li>Eirik Gjerde Buset – “Cryptographic Evidence in Norwegian Courts” <br>
+    <li>Eirik Gjerde Buset – <a href="https://tjerandsilde.no/files/Eirik.pdf">Cryptographic Evidence in Norwegian Courts</a> <br>
     (Master's thesis 2026, co-supervised with Katrien De Moor)</li>
     <li>Harald Haaland Paaske – <a href="https://tjerandsilde.no/files/Harald.pdf">Investigating the new post-quantum key encapsulation mechanism HQC</a> <br>
     (Master's thesis 2026, co-supervised with Emil August Hovd Olaisen)</li>
