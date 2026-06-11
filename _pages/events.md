@@ -5,9 +5,13 @@ permalink: /events/
 author_profile: true
 ---
 
+**RESISTANT 2026**: RESISTANT Symposium. November 23.-26., 2026 – Røros, Norway. [ntnu.edu/iik/resistant](https://www.ntnu.edu/iik/resistant)
+
 **NKS 2026**: Norsk Kryptoseminar. October 23, 2026 – Bergen, Norway. [wiki.math.ntnu.no/nks/nks26](https://wiki.math.ntnu.no/nks/nks26)
 
 **Attack26**: The Attack Conference 2026. October 13., 2026 - Oslo, Norway. [attack-konferansen.no](https://attack-konferansen.no)
+
+**SFC 2026**: Social Foundations of Cryptography Autumn School. September 15.-17., 2026 - London, UK. [social-foundations-of-cryptography.gitlab.io/school](https://social-foundations-of-cryptography.gitlab.io/school)
 
 **Eurocrypt 2026**: The 45th Annual International Conference on the Theory and Applications of Cryptographic Techniques. May 10.-14., 2026 – Rome, Italy. [eurocrypt.iacr.org/2026](https://eurocrypt.iacr.org/2026)
 

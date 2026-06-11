@@ -7,8 +7,8 @@ author_profile: true
 
 ## Upcoming Talks:
 
-* "Privacy-Preserving Computation" – [Oslo Tech Show](https://oslotechshow.com/explore-the-program), in Oslo, May, 2026.
-* TBA – [Social Foundations of Cryptography School](https://social-foundations-of-cryptography.gitlab.io/school), in London, September, 2026.
+* "BRaccoon: Concurrently Secure Blind Lattice Signatures from Raccoon" – [JP Morgan AlgoCRYPT Center of Excellence](https://www.jpmorganchase.com/about/technology/research/ai/algocrypt-center-of-excellence), in NYC, June, 2026.
+* "Cryptographic Evidence in Norwegian Courts" – [Social Foundations of Cryptography School](https://social-foundations-of-cryptography.gitlab.io/school), in London, September, 2026.
 
 ## Cryptography and Information Security Talks:
 

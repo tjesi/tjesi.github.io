@@ -83,6 +83,8 @@ author_profile: true
 
 ## Commentaries and Blog Posts
 
+[Informatikkens nobelpris til pionerene bak kvantekommunikasjon](https://www.digi.no/artikler/debatt-informatikkens-nobelpris-til-pionerene-bak-kvantekommunikasjon/570311), digi.no, April 5th, 2026.
+
 [Spekulativ kvanteteknologi løser ikke sikkerhetsproblemene våre](https://www.digi.no/artikler/debatt-spekulativ-kvanteteknologi-loser-ikke-sikkerhetsproblemene-vare/568500), digi.no, February 20th, 2026.
 
 [Bitcoindebatt: Tar fundamentalt feil i sitt forsvar av krypto](https://www.morgenbladet.no/ideer/debatt/2024/09/27/bitcoindebatt-tar-fundamentalt-feil-i-sitt-forsvar-av-krypto), Morgenbladet, September 27th, 2024.
