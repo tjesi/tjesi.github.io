@@ -107,6 +107,8 @@ I am grateful to [Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gj
 
 ## Research Visits
 
+- [Akira Takahashi](https://akiratk0355.github.io) at J.P. Morgan AI Research & AlgoCRYPT Center of Excellence (June 2026)
+- [Eysa Lee](https://www.eysalee.com) at Barnard College (June 2026)
 - [Daniel Slamanig](https://danielslamanig.info) at University of the Bundeswehr Munich (June 2025 and April 2026)
 - [Jiaxin Pan](https://sites.google.com/view/jiaxinpan) at University of Kassel (June 2025)
 - [Xavier Boyen](https://www.qut.edu.au/about/our-people/academic-profiles/xavier.boyen) at Queensland University of Technology (April 2024, March and April 2025)
