@@ -36,8 +36,8 @@ author_profile: true
     (Master's thesis 2026, co-supervised with Christopher Brzuska)</li>
     <li>Prateek Sharma – “Formally Verified Reduction Proof for the Half-Gates Garbling Scheme” <br>
     (Master's thesis 2026, co-supervised with Christopher Brzuska and Russell W. F. Lai)</li>
-    <li>Nora Mosand Viken – “Side-channel attacks on post-quantum cryptographic implementations” <br>
-    (Master's thesis 2026, co-supervised with Andreas Sandø Krogen and Ella Kristensen)</li>
+    <li>Nora Mosand Viken – <a href="https://tjerandsilde.no/files/Nora.pdf">ide-channel attacks on post-quantum cryptographic implementations</a> <br>
+    (Master's thesis 2026, co-supervised with Andreas Sandø Krogen and Ella Moe Wolff)</li>
     <li>Amund Fredrik Strømsnes – “Verifying the Swiss Electronic Voting System” <br>
     (Master's thesis 2026, co-supervised with Audhild Høgåsen)</li>
     <li>Jonatan Kifle Assefa Aalen – “Analysing a new devastating side-channel attack on elliptic curve cryptography” <br>
