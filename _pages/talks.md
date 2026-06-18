@@ -7,11 +7,11 @@ author_profile: true
 
 ## Upcoming Talks:
 
-* "BRaccoon: Concurrently Secure Blind Lattice Signatures from Raccoon" – [JP Morgan AlgoCRYPT Center of Excellence](https://www.jpmorganchase.com/about/technology/research/ai/algocrypt-center-of-excellence), in NYC, June, 2026.
 * "Cryptographic Evidence in Norwegian Courts" – [Social Foundations of Cryptography School](https://social-foundations-of-cryptography.gitlab.io/school), in London, September, 2026.
 
 ## Cryptography and Information Security Talks:
 
+* "[BRaccoon: Concurrently Secure Blind Lattice Signatures from Raccoon](https://tjerandsilde.no/files/LatticeBS-JPM.pdf)" – [JP Morgan AlgoCRYPT Center of Excellence](https://www.jpmorganchase.com/about/technology/research/ai/algocrypt-center-of-excellence), in NYC, June, 2026.
 * "[Zero-Knowledge Proofs: Simultaneously ensuring integrity and privacy](https://tjerandsilde.no/files/NDC-SEC.pdf)" - [NDC Security](https://ndcsecurity.com) in Oslo, March, 2026.
 * "[Introduction to the new post-quantum standards](https://tjerandsilde.no/files/NDC-SEC-PQC.pdf)" - [NDC Security](https://ndcsecurity.com) in Oslo, March, 2026.
 * "[Kvantetrusselen: Fremtidssikker kommunikasjon og personvern](https://tjerandsilde.no/files/kvantetrusselen.pdf)" – Seminar at USN, January 2026.
