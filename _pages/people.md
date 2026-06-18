@@ -106,6 +106,7 @@ I am grateful to [Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gj
 
 ## Research Visits
 
+- [Anna Lysyanskaya](https://cs.brown.edu/people/alysyans) at Brown University (June 2026)
 - [Akira Takahashi](https://akiratk0355.github.io) at J.P. Morgan AI Research & AlgoCRYPT Center of Excellence (June 2026)
 - [Eysa Lee](https://www.eysalee.com) at Barnard College (June 2026)
 - [Daniel Slamanig](https://danielslamanig.info) at University of the Bundeswehr Munich (June 2025 and April 2026)
