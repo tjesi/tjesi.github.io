@@ -40,7 +40,7 @@ author_profile: true
     (Master's thesis 2026, co-supervised with Andreas Sandø Krogen and Ella Moe Wolff)</li>
     <li>Amund Fredrik Strømsnes – “Verifying the Swiss Electronic Voting System” <br>
     (Master's thesis 2026, co-supervised with Audhild Høgåsen)</li>
-    <li>Jonatan Kifle Assefa Aalen – “Analysing a new devastating side-channel attack on elliptic curve cryptography” <br>
+    <li>Jonatan Kifle Assefa Aalen – <a href="https://tjerandsilde.no/files/Jonatan.pdf">The Monodromy Leak: Analysis of a New Side-Channel Attack on Elliptic Curve Cryptography</a> <br>
     (Master's thesis 2026, co-supervised with Caroline Sandsbråten and Jonathan Komada Eriksen)</li>
     <li>Noah Krogh Anderson – “Deploying Messaging Layer Security in a Military UAV Swarm” <br>
     (Master's thesis 2026, co-supervised with Martin Strand)</li>
