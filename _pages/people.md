@@ -38,7 +38,7 @@ author_profile: true
     (Master's thesis 2026, co-supervised with Christopher Brzuska and Russell W. F. Lai)</li>
     <li>Nora Mosand Viken – <a href="https://tjerandsilde.no/files/Nora.pdf">Power-Based Side-Channel Evaluation of MAYO and Masking Countermeasures</a> <br>
     (Master's thesis 2026, co-supervised with Andreas Sandø Krogen and Ella Moe Wolff)</li>
-    <li>Amund Fredrik Strømsnes – “Verifying the Swiss Electronic Voting System” <br>
+    <li>Amund Fredrik Strømsnes – “A verifier specification development framework for universally verifiable e-voting systems” <br>
     (Master's thesis 2026, co-supervised with Audhild Høgåsen)</li>
     <li>Jonatan Kifle Assefa Aalen – <a href="https://tjerandsilde.no/files/Jonatan.pdf">The Monodromy Leak: Analysis of a New Side-Channel Attack on Elliptic Curve Cryptography</a> (Master's thesis 2026, co-supervised with Caroline Sandsbråten and Jonathan Komada Eriksen)</li>
     <li>Noah Krogh Anderson – <a href="https://tjerandsilde.no/files/Noah.pdf">Implementing Distributed MLS for UAV Swarms</a> <br>

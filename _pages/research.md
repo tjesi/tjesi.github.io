@@ -10,6 +10,9 @@ author_profile: true
 [Olingo: Threshold Lattice Signatures with DKG and Identifiable Abort](https://eprint.iacr.org/2025/1789), ACM CCS 2026.  
 Joint work with Kamil Doruk Gur, Patrick Hough, Jonathan Katz, and Caroline Sandsbråten.
 
+SoK: Recommendations for universally verifiable electronic elections and independent audits, E-Vote-ID 2026.  
+Joint work with Audhild Høgåsen, Chiara Spadafora, and Amund Fredrik Strømsnes.
+
 [More Efficient Lattice-Based Verifiable Decryption from LWR](https://dl.acm.org/doi/10.1145/3733811.3767315), WAHC @ ACM CCS 2025.  
 Joint work with Thomas Haines, Emil August Hovd Olaisen, and Peter Rønne. 
 
