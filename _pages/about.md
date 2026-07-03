@@ -10,19 +10,19 @@ redirect_from:
 Hi! I am an Associate Professor in Cryptology at the [Department of Information Security and Communication Technology](https://www.ntnu.edu/iik) at the Norwegian University of Science and Technology (NTNU)  
 in Trondheim, where I am leading the [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab).
 
+My research focuses on lattice-based cryptography as a foundation for advanced digital signatures and zero-knowledge protocols. More broadly, I am interested in post-quantum cryptography, multiparty computation, homomorphic encryption, and secure implementations.
+
 I am leading the Post-Quantum Cryptography work package in the [OFFPAD project](https://prosjektbanken.forskningsradet.no/en/project/FORISS/321619), the [Cryptology and Social Life project](https://www.ntnu.edu/iik/cryptology-and-social-life), and the [ToppForsk@IE:Cryptography research group](https://www.ntnu.edu/web/iik/toppforsk-ie-cryptography).  
 I am coordinating the "Cryptographic Engineering" profile in the [Cyber Security and Data Communication](https://www.ntnu.edu/studies/mtkom) master of science in engineering program at NTNU.
 
 I am also a Security and Cryptography Expert at the cybersecurity company [Pone Biometrics](https://ponebiometrics.com).
-
-My research focuses on lattice-based cryptography as a foundation for advanced digital signatures and zero-knowledge protocols. More broadly, I am interested in post-quantum cryptography, multiparty computation, homomorphic encryption, and secure implementations.
 
 I am a member of the [International Association for Cryptologic Research](https://iacr.org) (IACR).
 
 
 **News**:
 
-- Our paper, [Olingo: Threshold Lattice Signatures with DKG and Identifiable Abort](https://eprint.iacr.org/2025/1789), was accepted to [ACM CCS 2026](https://www.sigsac.org/ccs/CCS2026) (joint work with Kamil Doruk Gur, Patrick Hough, Jonathan Katz, and Caroline Sandsbråten).
+- Our paper, [Olingo: Threshold Lattice Signatures with DKG and Identifiable Abort](https://eprint.iacr.org/2025/1789), was accepted to [ACM CCS 2026](https://www.sigsac.org/ccs/CCS2026) This is a joint work with Kamil Doruk Gur, Patrick Hough, Jonathan Katz, and Caroline Sandsbråten.
 
 - Together with over 800 scientists, I co-authored an [open letter](https://csa-scientist-open-letter.org/Sep2025) in September 2025 addressing the EU Presidency’s proposal on the Child Sexual Abuse / Chat Control Regulation. Follow-up letters were published in [November 2025](https://csa-scientist-open-letter.org/Nov2025) and, most recently, in February 2026, raising concerns about [new proposals on digital age verification](https://csa-scientist-open-letter.org/ageverif-Feb2026).
 
