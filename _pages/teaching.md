@@ -17,6 +17,7 @@ The content of the TTM4205 Secure Cryptographic Implementations course is public
 
 * Secure Cryptographic Implementations ([TTM4205](https://www.ntnu.edu/studies/courses/TTM4205)) at NTNU (Lecturer)
 * Introduction to Cyber Security and Data Communication ([TTM4175](https://www.ntnu.edu/studies/courses/TTM4175)) at NTNU (Crypto Module)
+* Security and robustness in ICT systems ([TTM4185](https://www.ntnu.edu/studies/courses/TTM4185)) at NTNU (Security Module)
 
 **Spring 2027:**
 

@@ -9,7 +9,7 @@ I believe it is important to contribute to the community by organizing seminars 
 
 ## Organization
 
-I organised the [International Workshop on Foundations and Applications of Privacy-Enhancing Cryptography](https://privcryptworkshop.github.io) as an affilated event at [IACR Eurocrypt 2026](https://eurocrypt.iacr.org/2026) in Rome on May 10., 2026, together with [Lucjan Hanzlik](https://lucjanhanzlik.github.io) and [Daniel Slamanig](https://danielslamanig.info).
+I organized the [International Workshop on Foundations and Applications of Privacy-Enhancing Cryptography](https://privcryptworkshop.github.io) as an affilated event at [IACR Eurocrypt 2026](https://eurocrypt.iacr.org/2026) in Rome on May 10., 2026, together with [Lucjan Hanzlik](https://lucjanhanzlik.github.io) and [Daniel Slamanig](https://danielslamanig.info).
 
 I was the general chair for [IACR PKC 2025](https://pkc.iacr.org/2025) in [Røros](https://www.visitnorway.com/places-to-go/trondelag/roros) together with [Bor de Kock](https://bordekock.nl) which was organised May 12.-15., 2025.
 
@@ -23,6 +23,8 @@ I organized [Norwegian Crypto Seminar 2020](https://wiki.math.ntnu.no/nks/nks20)
 
 I have testified as an expert witness on the encryption used and the data collection performed via a Man-in-the-Middle attack
 conducted by Europol against the E2EE service SKY ECC at 1) [Borgarting Court of Appeal](https://lovdata.no/dokument/LBSTR/avgjorelse/lb-2024-142625) in Oslo in April 2025, 2) Oslo District Court in Oslo in May 2025, and 3) [Gulating Court of Appeal](https://lovdata.no/dokument/LGSTR/avgjorelse/lg-2025-43360) in Bergen in June 2025.
+
+I am a reviewer for the Systems and Electrical Engineering rewiev panel at the Swedish Research Council.
 
 ## Program Committees and Editoral Boards
 
