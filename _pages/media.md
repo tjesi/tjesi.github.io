@@ -7,6 +7,8 @@ author_profile: true
 
 ## Interviews
 
+[EU vil overvåke chat-meldingene dine](https://www.nrk.no/urix/chat-control_-eu-vil-masseovervake-innbyggerne-1.17983785), NRK, August 14th, 2026.
+
 [Politiet vil kunne skanne alle meldingene dine med kunstig intelligens](https://subjekt.no/2025/09/30/politiet-vil-kunne-skanne-alle-meldingene-dine-med-kunstig-intelligens/), Subjekt, September 30th, 2025.
 
 [500 eksperter siger nej til EU’s chatkontrol](https://www.version2.dk/artikel/500-eksperter-siger-nej-til-eus-chatkontrol?1f4e2460cfb84ebe8cd48fb29bb9de08=niUGh2jqmBP-LHh_XCK85KrVAmi_euXJjOZid8GqZC4), Ingeniøren, September 10th, 2025.
