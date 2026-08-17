@@ -15,11 +15,11 @@ author_profile: true
 
 ## PhD Students
 
+- [Pedro Cardona](https://www.ntnu.edu/employees/pedro.p.cardona) (PhD 2026-, co-supervisor with Jeongeun Park)
 - [Caroline Sandsbråten](https://www.ntnu.edu/employees/caroline.sandsbraten) (PhD 2022-, main supervisor)
 - [Emil August Hovd Olaisen](https://www.ntnu.edu/employees/emil.august.olaisen) (PhD 2022-, main supervisor)
 
 ## Bachelor's and Master's Students
-
 
 <ol reversed>
     <li>Jakob Severin Gundersen – "Cryptology and Social Life – Privacy in Digital Identity Wallets"<br>
