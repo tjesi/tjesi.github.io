@@ -53,6 +53,9 @@ Joint work with Anushua Hossain and Kristina Nelson.
 [BRaccoon: Concurrently Secure Blind Lattice Signatures from Raccoon](https://eprint.iacr.org/2026/1084)  
 Joint work with Lucjan Hanzlik, Mark Manulis, Marzio Mula, Alan Pulval-Dady, and Daniel Slamanig.
 
+[Threshold Lattice-Based Zero-Knowledge Proofs](https://eprint.iacr.org/2026/1750)  
+Joint work with Scott Griffy, Victor Youdom Kemmoe, and Ngoc Khanh Nguyen.
+
 ## Projects
 
 I am Co-Principal Investigator of the project "[OffPAD -- Optimizing balance between high security and usability](https://prosjektbanken.forskningsradet.no/en/project/FORISS/321619)" funded by the Research Council Norwegian with 16M NOK for research on lightweight and post-quantum secure cryptography. This is a joint project with among others [Danilo Gligoroski](https://www.ntnu.edu/employees/danilo.gligoroski) at NTNU and the cybersecurity company [Pone Biometrics](https://ponebiometrics.com).
