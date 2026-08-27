@@ -9,6 +9,8 @@ I believe it is important to contribute to the community by organizing seminars 
 
 ## Organization
 
+I am organising the [RESISTANT Symposium](https://www.ntnu.edu/iik/resistant) together with [Poul Einar Heegaard](https://www.ntnu.edu/employees/poul.heegaard), [Stanislav Lange](https://www.ntnu.edu/employees/stanislav.lange), and [Hanno Langweg](https://www.ntnu.edu/employees/hanno.langweg) in Røros from November 23.-26., 2026.
+
 I organized the [International Workshop on Foundations and Applications of Privacy-Enhancing Cryptography](https://privcryptworkshop.github.io) as an affilated event at [IACR Eurocrypt 2026](https://eurocrypt.iacr.org/2026) in Rome on May 10., 2026, together with [Lucjan Hanzlik](https://lucjanhanzlik.github.io) and [Daniel Slamanig](https://danielslamanig.info).
 
 I was the general chair for [IACR PKC 2025](https://pkc.iacr.org/2025) in [Røros](https://www.visitnorway.com/places-to-go/trondelag/roros) together with [Bor de Kock](https://bordekock.nl) which was organised May 12.-15., 2025.

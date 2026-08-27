@@ -88,6 +88,7 @@ I am grateful to [Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gj
 
 ## Visitors
 
+- [Shai Levin](https://science.capetown) at Chalmers University of Technology (September 2026)
 - [Chris Brzuska](https://www.aalto.fi/en/people/chris-brzuska), Associate Professor at Aalto University (February 2026)
 - [Tyge Tiessen](https://orbit.dtu.dk/en/persons/tyge-tiessen), Associate Professor at Danmarks Tekniske Universitet (February 2026)
 - [Philip Rogaway](https://www.cs.ucdavis.edu/~rogaway), Professor Emeritus at UC Davis (December 2025)
@@ -101,7 +102,7 @@ I am grateful to [Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gj
 - [Anca Nitulescu](https://www.di.ens.fr/~nitulesc), Researcher at Protocol Labs (May 2023, with Anamaria Costache)
 - [Katharina Boudgoust](https://katinkabou.github.io), Postdoc at Aarhus University (January 2023, with Anamaria Costache)
 - [Patrick Hough](https://www.patrick-hough.com), PhD student at Oxford University (November 2022)
-- [Diego F. Aranha](https://dfaranha.github.io), Associate Professor at Aarhus University (August 2022)
+- [Diego F. Aranha](https://dfaranha.github.io), Associate Professor at Aarhus University (August 2022 and October 2026)
 - [Akira Takahashi](https://akiratk0355.github.io), Postdoc at Aarhus University (May 2022)
 
 ## Research Visits
