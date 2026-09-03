@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications
 
-Distributed Key Generation for NTRU, CANS 2026.  
+[Distributed Key Generation for NTRU](https://eprint.iacr.org/2026/1854), CANS 2026.  
 Joint work with Patrick Hough, Jérôme Nguyen, and Caroline Sandsbråten.
 
 [Olingo: Threshold Lattice Signatures with DKG and Identifiable Abort](https://eprint.iacr.org/2025/1789), ACM CCS 2026.  
