@@ -21,7 +21,7 @@ I organized the [Norwegian Crypto Seminar 2020](https://wiki.math.ntnu.no/nks/nk
 
 ## External Assignments
 
-I have testified as an expert witness on the encryption used in the end-to-end encrypted service SKY ECC, and on the data collection performed through the man-in-the-middle attack conducted by Europol against it, in 1) the [Borgarting Court of Appeal](https://lovdata.no/dokument/LBSTR/avgjorelse/lb-2024-142625) in Oslo in April 2025, 2) the Oslo District Court in May 2025, and 3) the [Gulating Court of Appeal](https://lovdata.no/dokument/LGSTR/avgjorelse/lg-2025-43360) in Bergen in June 2025.
+I have testified as an expert witness on the encryption used in the end-to-end encrypted service SKY ECC, and on the data collection performed through the man-in-the-middle attack conducted by Europol against it, in 1) the [Borgarting Court of Appeal](https://lovdata.no/dokument/LBSTR/avgjorelse/lb-2024-142625) in Oslo in April 2025, 2) the Oslo District Court in May 2025, 3) the [Gulating Court of Appeal](https://lovdata.no/dokument/LGSTR/avgjorelse/lg-2025-43360) in Bergen in June 2025, and 4) the Borgarting Court of Appeal in Oslo in September 2026.
 
 I am a reviewer for the Systems and Electrical Engineering review panel at the Swedish Research Council.
 

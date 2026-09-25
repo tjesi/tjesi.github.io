@@ -5,7 +5,7 @@ permalink: /talks/
 
 ## Upcoming Talks
 
-- No upcoming talks.
+No upcoming talks.
 
 ## Cryptography and Information Security Talks
 

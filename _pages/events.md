@@ -9,11 +9,9 @@ Conferences, workshops, and seminars I have attended or will attend.
 
 - **[RESISTANT 2026](https://www.ntnu.edu/iik/resistant)**: RESISTANT Symposium. November 23–26, 2026 – Røros, Norway.
 - **[NKS 2026](https://wiki.math.ntnu.no/nks/nks26)**: Norsk Kryptoseminar. October 23, 2026 – Bergen, Norway.
-- **[Attack26](https://attack-konferansen.no)**: The Attack Conference 2026. October 13, 2026 – Oslo, Norway.
 - **[SFC 2026](https://social-foundations-of-cryptography.gitlab.io/school)**: Social Foundations of Cryptography Autumn School. September 15–17, 2026 – London, UK.
 - **[Eurocrypt 2026](https://eurocrypt.iacr.org/2026)**: The 45th Annual International Conference on the Theory and Applications of Cryptographic Techniques. May 10–14, 2026 – Rome, Italy.
 - **[PrivCrypt 2026](https://privcryptworkshop.github.io)**: International Workshop on Foundations and Applications of Privacy-Enhancing Cryptography. May 10, 2026 – Rome, Italy.
-- **[OsloTech](https://oslotechshow.com)**: Oslo Tech Show 2026. May 7, 2026 – Lillestrøm, Norway.
 - **[Privacy-Preserving Authentication](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/26171)**: Dagstuhl Seminar on Privacy-Preserving Authentication. April 19–24, 2026 – Dagstuhl, Germany.
 - **[NDC Sec 2026](https://ndc-security.com)**: Norwegian Developer Conference Security. March 2–5, 2026 – Oslo, Norway.
 
