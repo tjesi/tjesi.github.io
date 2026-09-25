@@ -1,136 +1,104 @@
 ---
-layout: archive
 title: "Events"
 permalink: /events/
-author_profile: true
 ---
 
-**RESISTANT 2026**: RESISTANT Symposium. November 23.-26., 2026 – Røros, Norway. [ntnu.edu/iik/resistant](https://www.ntnu.edu/iik/resistant)
-
-**NKS 2026**: Norsk Kryptoseminar. October 23, 2026 – Bergen, Norway. [wiki.math.ntnu.no/nks/nks26](https://wiki.math.ntnu.no/nks/nks26)
-
-**Attack26**: The Attack Conference 2026. October 13., 2026 - Oslo, Norway. [attack-konferansen.no](https://attack-konferansen.no)
-
-**SFC 2026**: Social Foundations of Cryptography Autumn School. September 15.-17., 2026 - London, UK. [social-foundations-of-cryptography.gitlab.io/school](https://social-foundations-of-cryptography.gitlab.io/school)
-
-**Eurocrypt 2026**: The 45th Annual International Conference on the Theory and Applications of Cryptographic Techniques. May 10.-14., 2026 – Rome, Italy. [eurocrypt.iacr.org/2026](https://eurocrypt.iacr.org/2026)
-
-**PrivCrypt 2026**: International Workshop on Foundations and Applications of Privacy-Enhancing Cryptography. May 10th, 2026 - Rome, Italy. [privcryptworkshop.github.io](https://privcryptworkshop.github.io)
-
-**OsloTech**: Oslo Tech Show 2026. May 7th, 2026 - Lillestrøm, Norway. [oslotechshow.com](https://oslotechshow.com)
-
-**Privacy-Preserving Authentication**: Dagstuhl Seminar on Privacy-Preserving Authentication. April 19.-24., 2026 - Dagstuhl, Germany. [dagstuhl.de/seminars/seminar-calendar/seminar-details/26171](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/26171)
-
-**NDC Sec 2026**: Norwegian Developer Conference Security. March 2.-5., 2026 - Oslo, Norway. [ndc-security.com](https://ndc-security.com)
-
-**CSLW 2025**: Cryptography and Social Life Workshop 2025. December 11.-12., 2025 - Trondheim, Norway. [ntnu.edu/iik/cryptology-and-social-life/workshop](https://www.ntnu.edu/iik/cryptology-and-social-life/workshop)
-
-**Attack25**: The Attack Conference 2025. November 27., 2025 - Oslo, Norway. [attack-konferansen.no/attack-2025](https://attack-konferansen.no/attack-2025)
-
-**NKS 2025**: Norsk Kryptoseminar. October 31, 2025 – Oslo, Norway. [wiki.math.ntnu.no/nks/nks25](https://wiki.math.ntnu.no/nks/nks25)
-
-**Trustworthy Elections**: Dagstuhl Seminar on Trustworthy Evidence-Based Elections. October 5.-10., 2025 - Dagstuhl, Germany. [dagstuhl.de/seminars/seminar-calendar/seminar-details/25411](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/25411)
-
-**NDC Tech**: Norwegian Developer Conference Tech Town. September 22.-25., 2025 - Kongsberg, Norway. [ndctechtown.com](https://ndctechtown.com)
-
-**Sikkerhetsfestivalen 2025**: August 25.-27., 2025 – Lillehammer, Norway. [sikkerhetsfestivalen.no](https://sikkerhetsfestivalen.no)
-
-**ArcticCrypt 2025**: The World’s Northernmost Cryptography Conference. July 6.-11., 2025 - Longyearbyen, Svalbard. [simula-uib.com/arcticcrypt2025](https://simula-uib.com/arcticcrypt2025)
-
-**PrivCrypt 2025**: International Workshop on Foundations and Applications of Privacy-Enhancing Cryptography. June 24th, 2025 - Munich, Germany. [privcryptworkshop.github.io](https://privcryptworkshop.github.io)
-
-**PKC 2025**: The International Conference on Practice and Theory in Public Key Cryptography. May 12.-15., 2025 - Røros, Norway. [pkc.iacr.org/2025](https://pkc.iacr.org/2025)
-
-**NDC Sec 2025**: Norwegian Developer Conference Security. January 20.-23., 2025 - Oslo, Norway. [ndc-security.com](https://ndc-security.com)
-
-**NKS 2024**: Norsk Kryptoseminar. October 25, 2024 – Gjøvik, Norway. [wiki.math.ntnu.no/nks/nks24](https://wiki.math.ntnu.no/nks/nks24)
-
-**WPEC 2024**: NIST Workshop on Privacy-Enhancing Cryptography. September 24.-26., 2024 - Online. [csrc.nist.gov/events/2024/wpec2024](https://csrc.nist.gov/events/2024/wpec2024)
-
-**Zero-Knowledge**: Workshop on Foundations and Applications of Zero-Knowledge Proofs. September 2.-6., 2024 - Edinburgh, Scotland. [icms.org.uk/ZeroKnowledgeProofs](https://www.icms.org.uk/ZeroKnowledgeProofs)
-
-**PQCrypto 2024**: The 15th International Conference on Post-Quantum Cryptography. June 12-14, 2024 – Oxford, United Kingdom. [maths.ox.ac.uk/events/conferences/pqcrypto-2024](https://www.maths.ox.ac.uk/events/conferences/pqcrypto-2024)
-
-**NEWTPQC**: The New Trends in Post-Quantum Cryptography workshop. June 10-11, 2024 – Oxford, United Kingdom. [newtpqc.org](https://newtpqc.org)
-
-**Eurocrypt 2024**: The 43rd Annual International Conference on the Theory and Applications of Cryptographic Techniques. May 26.-30., 2024 – Zurich, Switzerland. [eurocrypt.iacr.org/2024](https://eurocrypt.iacr.org/2024)
-
-**PKC 2024**: The International Conference on Practice and Theory in Public Key Cryptography. April 15.-17., 2024 - Sydney, Australia. [pkc.iacr.org/2024](https://pkc.iacr.org/2024)
-
-**CCS 2023**: The ACM Conference on Computer and Communications Security, November 26.-30., 2023 - Copenhagen, Denmark. [sigsac.org/ccs/CCS2023](https://www.sigsac.org/ccs/CCS2023)
-
-**NKS 2023**: Norsk Kryptoseminar. October 27, 2023 – Oslo, Norway. [wiki.math.ntnu.no/nks](https://wiki.math.ntnu.no/nks)
-
-**Sikkerhetsfestivalen 2023**: August 28.-30., 2023 – Lillehammer, Norway. [sikkerhetsfestivalen.no](https://sikkerhetsfestivalen.no)
-
-**TPMPC 2023**: Theory and Practice of Multi-Party Computation Workshop, June 8.-9., 2023 – Aarhus, Denmark. [multipartycomputation.com/tpmpc-2023](https://www.multipartycomputation.com/tpmpc-2023)
-
-**Lattices Meet Hashes**: Recent Advances in Post-Quantum Zero-Knowledge Proofs, May 1.-3., 2023 – Lausanne, Switzerland. [lattices-meet-hashes23.epfl.ch](https://lattices-meet-hashes23.epfl.ch/index.html)
-
-**Eurocrypt 2023**: The 42nd Annual International Conference on the Theory and Applications of Cryptographic Techniques. April 23.-27., 2023 – Lyon, France. [eurocrypt.iacr.org/2023](https://eurocrypt.iacr.org/2023)
-
-**RWC 2023**: Real World Crypto Symposium. April 27.-29., 2023 – Tokyo, Japan. [rwc.iacr.org/2023](https://rwc.iacr.org/2023)
-
-**ACISP 2022**: The 27th Australasian Conference on Information Security and Privacy. November 28.-30., 2022 – Wollongong, Australia. [uow-ic2.github.io/acisp2022](https://uow-ic2.github.io/acisp2022)
-
-**NKS 2022**: Norsk Kryptoseminar. October 28, 2022 – Bergen, Norway. [simula-uib.com/norsk-kryptoseminar-2022](https://simula-uib.com/norsk-kryptoseminar-2022)
-
-**Lattices**: Workshop on Foundations and Applications of Lattice-based Cryptography. July 25.-28., 2022 - Edinburgh, Scotland. [icms.org.uk/workshops/2022/foundations-and-applications-lattice-based-cryptography](https://www.icms.org.uk/workshops/2022/foundations-and-applications-lattice-based-cryptography)
-
-**Eurocrypt 2022**: The 41th Annual International Conference on the Theory and Applications of Cryptographic Techniques. May 30.-June 3., 2022 – Trondheim, Norway. [eurocrypt.iacr.org/2022](https://eurocrypt.iacr.org/2022)
-
-**RWC 2022**: Real World Crypto Symposium. April 13.-15., 2022 – Amsterdam, Netherlands. [rwc.iacr.org/2022](https://rwc.iacr.org/2022)
-
-**TCC 2021**: The Theory of Cryptography Conference. November 8.-11., 2021 – Raleigh, USA. [tcc.iacr.org/2021](https://tcc.iacr.org/2021)
-
-**DC Area Crypto Day**: Fall 2021 Crypto Day. November 5., 2021 - University of Maryland, USA. [dcareacryptoday.wordpress.com](https://dcareacryptoday.wordpress.com/2021/10/25/fall-2021-crypto-day)
-
-**MSRI Summer School**: Foundations and Frontiers of Probabilistic Proof. July 26.-August 6., 2021 - Online. [msri.org/summer_schools/931](https://www.msri.org/summer_schools/931)
-
-**NIST Workshop**: The Third PQC Standardization Conference. June 7.-9., 2021 – Online. [csrc.nist.gov/Events/2021/third-pqc-standardization-conference](https://csrc.nist.gov/Events/2021/third-pqc-standardization-conference)
-
-**CT-RSA 2021**: Cryptographers' Track RSA Conference, May 17.-21., 2021 - Online. [sites.google.com/site/ctrsa2021](https://sites.google.com/site/ctrsa2021)
-
-**Lattices: From Theory to Practice**: Workshop at Simons Institute at UC Berkeley. April 27.- May 1., 2020 – Online. [simons.berkeley.edu/workshops/lattices-2020-3](https://simons.berkeley.edu/workshops/lattices-2020-3)
-
-**ZKP Workshop 2020**: The 3rd ZKProof Standards Workshop. April 20.- May 21., 2020 – Online. [zkproof.org/events/workshop3](https://zkproof.org/events/workshop3)
-
-**Lattices: New Cryptographic Capabilities**: Workshop at Simons Institute at UC Berkeley. March 23.-27., 2020 - Online. [simons.berkeley.edu/workshops/lattices-2020-2](https://simons.berkeley.edu/workshops/lattices-2020-2)
-
-**Lattices: Geometry, Algorithms and Hardness**: Workshop at Simons Institute at UC Berkeley. February 18.-22., 2020 - Berkeley, USA. [simons.berkeley.edu/workshops/lattices-2020-1](https://simons.berkeley.edu/workshops/lattices-2020-1)
-
-**NKS 2020**: Norsk Kryptoseminar. January 30, 2020 – Kjeller, Norway. [wiki.math.ntnu.no/nks/nks20](https://wiki.math.ntnu.no/nks/nks20)
-
-**Sikkerhetsfestivalen 2019**: August 26.-28., 2019 – Lillehammer, Norway. [sikkerhetsfestivalen.no](https://sikkerhetsfestivalen.no)
-
-**NIST Workshop**: The Second PQC Standardization Conference. August 22.-24., 2019 – Santa Barbara, USA. [csrc.nist.gov/Events/2019/Second-PQC-Standardization-Conference](https://csrc.nist.gov/Events/2019/Second-PQC-Standardization-Conference)
-
-**Crypto 2019**: The 39th International Cryptology Conference. August 18.-22., 2019 – Santa Barbara, USA. [crypto.iacr.org/2019](https://crypto.iacr.org/2019)
-
-**Eurocrypt 2019**: The 38th Annual International Conference on the Theory and Applications of Cryptographic Techniques. May 19.-23., 2019 – Darmstadt, Germany. [eurocrypt.iacr.org/2019](https://eurocrypt.iacr.org/2019)
-
-**SPY Workshop**: Surveillance, Privacy, and You. May 19., 2019 – Darmstadt, Germany. [projectbullrun.org/spy](https://projectbullrun.org/spy)
-
-**COINS Winter School 2019**. May 5.-10., 2019 – Finse, Norway. [coinsrs.no/coins-winter-school-2019-in-finse](https://coinsrs.no/coins-winter-school-2019-in-finse)
-
-**ZK Day 2019**: Blockchains, Micropayments and Zero Knowledge. April 13, 2019 – Berkeley, USA. [simons.berkeley.edu/events/zero-knowledge-day-2019](https://simons.berkeley.edu/events/zero-knowledge-day-2019)
-
-**ZKP Workshop 2019**: The 2nd ZKProof Standards Workshop. April 10.-12., 2019 – Berkeley, USA. [zkpstandard.github.io/zkproof.github.io/workshop2/main.html](https://zkpstandard.github.io/zkproof.github.io/workshop2/main.html)
-
-**RWC 2019**: Real World Crypto Symposium. January 9.-11., 2019 – San Jose, USA. [rwc.iacr.org/2019](https://rwc.iacr.org/2019)
-
-**NISK 2018**: Norwegian Information Security Conference. September 18.-20, 2019 – Svalbard, Norway. [nikt2018.ifi.uio.no/program_nisk_en](http://nikt2018.ifi.uio.no/program_nisk_en)
-
-**COINS Ph.D. Student Seminar 2018.** September 17., 2018 – Svalbard, Norway. [coinsrs.no/coins-ph-d-student-seminar-2018-svalbard](https://coinsrs.no/coins-ph-d-student-seminar-2018-svalbard)
-
-**RSA Conference 2018.** April 16.-20., 2018 – San Francisco, USA. [rsaconference.com/events/us18](https://www.rsaconference.com/events/us18)
-
-**San Francisco CyberTalks.** April 16., 2018 – San Francisco, USA. [cyberscoop.com/events/sf-cybertalks](https://www.cyberscoop.com/events/sf-cybertalks)
-
-**NIST Workshop**: The First PQC Standardization Conference. April 11-13., 2018 – Fort Lauderdale, USA. [csrc.nist.gov/Events/2018/First-PQC-Standardization-Conference](https://csrc.nist.gov/Events/2018/First-PQC-Standardization-Conference)
-
-**PQCrypto 2018**: The Ninth International Conference on Post-Quantum Cryptography. April 9-11, 2018 – Fort Lauderdale, USA. [www.math.fau.edu/pqcrypto2018](http://www.math.fau.edu/pqcrypto2018)
-
-**Bay Area Crypto Day.** November 17, 2017 – Berkeley, USA. [bacrypto.github.io/events/bacryptoday-5](https://bacrypto.github.io/events/bacryptoday-5)
-
-**Crypto vs. Mass Surveillance**: The Uneasy Relationship Workshop 2016. November 14, 2016 – Trondheim, Norway. [cms16.item.ntnu.no](http://cms16.item.ntnu.no)
+Conferences, workshops, and seminars I have attended or will attend.
+
+## 2026
+
+- **[RESISTANT 2026](https://www.ntnu.edu/iik/resistant)**: RESISTANT Symposium. November 23–26, 2026 – Røros, Norway.
+- **[NKS 2026](https://wiki.math.ntnu.no/nks/nks26)**: Norsk Kryptoseminar. October 23, 2026 – Bergen, Norway.
+- **[Attack26](https://attack-konferansen.no)**: The Attack Conference 2026. October 13, 2026 – Oslo, Norway.
+- **[SFC 2026](https://social-foundations-of-cryptography.gitlab.io/school)**: Social Foundations of Cryptography Autumn School. September 15–17, 2026 – London, UK.
+- **[Eurocrypt 2026](https://eurocrypt.iacr.org/2026)**: The 45th Annual International Conference on the Theory and Applications of Cryptographic Techniques. May 10–14, 2026 – Rome, Italy.
+- **[PrivCrypt 2026](https://privcryptworkshop.github.io)**: International Workshop on Foundations and Applications of Privacy-Enhancing Cryptography. May 10, 2026 – Rome, Italy.
+- **[OsloTech](https://oslotechshow.com)**: Oslo Tech Show 2026. May 7, 2026 – Lillestrøm, Norway.
+- **[Privacy-Preserving Authentication](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/26171)**: Dagstuhl Seminar on Privacy-Preserving Authentication. April 19–24, 2026 – Dagstuhl, Germany.
+- **[NDC Sec 2026](https://ndc-security.com)**: Norwegian Developer Conference Security. March 2–5, 2026 – Oslo, Norway.
+
+## 2025
+
+- **[CSLW 2025](https://www.ntnu.edu/iik/cryptology-and-social-life/workshop)**: Cryptography and Social Life Workshop 2025. December 11–12, 2025 – Trondheim, Norway.
+- **[Attack25](https://attack-konferansen.no/attack-2025)**: The Attack Conference 2025. November 27, 2025 – Oslo, Norway.
+- **[NKS 2025](https://wiki.math.ntnu.no/nks/nks25)**: Norsk Kryptoseminar. October 31, 2025 – Oslo, Norway.
+- **[Trustworthy Elections](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/25411)**: Dagstuhl Seminar on Trustworthy Evidence-Based Elections. October 5–10, 2025 – Dagstuhl, Germany.
+- **[NDC Tech](https://ndctechtown.com)**: Norwegian Developer Conference Tech Town. September 22–25, 2025 – Kongsberg, Norway.
+- **[Sikkerhetsfestivalen 2025](https://sikkerhetsfestivalen.no)**: August 25–27, 2025 – Lillehammer, Norway.
+- **[ArcticCrypt 2025](https://simula-uib.com/arcticcrypt2025)**: The World’s Northernmost Cryptography Conference. July 6–11, 2025 – Longyearbyen, Svalbard.
+- **[PrivCrypt 2025](https://privcryptworkshop.github.io)**: International Workshop on Foundations and Applications of Privacy-Enhancing Cryptography. June 24, 2025 – Munich, Germany.
+- **[PKC 2025](https://pkc.iacr.org/2025)**: The International Conference on Practice and Theory in Public Key Cryptography. May 12–15, 2025 – Røros, Norway.
+- **[NDC Sec 2025](https://ndc-security.com)**: Norwegian Developer Conference Security. January 20–23, 2025 – Oslo, Norway.
+
+## 2024
+
+- **[NKS 2024](https://wiki.math.ntnu.no/nks/nks24)**: Norsk Kryptoseminar. October 25, 2024 – Gjøvik, Norway.
+- **[WPEC 2024](https://csrc.nist.gov/events/2024/wpec2024)**: NIST Workshop on Privacy-Enhancing Cryptography. September 24–26, 2024 – Online.
+- **[Zero-Knowledge](https://www.icms.org.uk/ZeroKnowledgeProofs)**: Workshop on Foundations and Applications of Zero-Knowledge Proofs. September 2–6, 2024 – Edinburgh, UK.
+- **[PQCrypto 2024](https://www.maths.ox.ac.uk/events/conferences/pqcrypto-2024)**: The 15th International Conference on Post-Quantum Cryptography. June 12–14, 2024 – Oxford, United Kingdom.
+- **[NEWTPQC](https://newtpqc.org)**: The New Trends in Post-Quantum Cryptography workshop. June 10–11, 2024 – Oxford, United Kingdom.
+- **[Eurocrypt 2024](https://eurocrypt.iacr.org/2024)**: The 43rd Annual International Conference on the Theory and Applications of Cryptographic Techniques. May 26–30, 2024 – Zurich, Switzerland.
+- **[PKC 2024](https://pkc.iacr.org/2024)**: The International Conference on Practice and Theory in Public Key Cryptography. April 15–17, 2024 – Sydney, Australia.
+
+## 2023
+
+- **[CCS 2023](https://www.sigsac.org/ccs/CCS2023)**: The ACM Conference on Computer and Communications Security. November 26–30, 2023 – Copenhagen, Denmark.
+- **[NKS 2023](https://wiki.math.ntnu.no/nks)**: Norsk Kryptoseminar. October 27, 2023 – Oslo, Norway.
+- **[Sikkerhetsfestivalen 2023](https://sikkerhetsfestivalen.no)**: August 28–30, 2023 – Lillehammer, Norway.
+- **[TPMPC 2023](https://www.multipartycomputation.com/tpmpc-2023)**: Theory and Practice of Multi-Party Computation Workshop. June 8–9, 2023 – Aarhus, Denmark.
+- **[Lattices Meet Hashes](https://lattices-meet-hashes23.epfl.ch/index.html)**: Recent Advances in Post-Quantum Zero-Knowledge Proofs. May 1–3, 2023 – Lausanne, Switzerland.
+- **[Eurocrypt 2023](https://eurocrypt.iacr.org/2023)**: The 42nd Annual International Conference on the Theory and Applications of Cryptographic Techniques. April 23–27, 2023 – Lyon, France.
+- **[RWC 2023](https://rwc.iacr.org/2023)**: Real World Crypto Symposium. March 27–29, 2023 – Tokyo, Japan.
+
+## 2022
+
+- **[ACISP 2022](https://uow-ic2.github.io/acisp2022)**: The 27th Australasian Conference on Information Security and Privacy. November 28–30, 2022 – Wollongong, Australia.
+- **[NKS 2022](https://simula-uib.com/norsk-kryptoseminar-2022)**: Norsk Kryptoseminar. October 28, 2022 – Bergen, Norway.
+- **[Lattices](https://www.icms.org.uk/workshops/2022/foundations-and-applications-lattice-based-cryptography)**: Workshop on Foundations and Applications of Lattice-based Cryptography. July 25–28, 2022 – Edinburgh, UK.
+- **[Eurocrypt 2022](https://eurocrypt.iacr.org/2022)**: The 41st Annual International Conference on the Theory and Applications of Cryptographic Techniques. May 30–June 3, 2022 – Trondheim, Norway.
+- **[RWC 2022](https://rwc.iacr.org/2022)**: Real World Crypto Symposium. April 13–15, 2022 – Amsterdam, Netherlands.
+
+## 2021
+
+- **[TCC 2021](https://tcc.iacr.org/2021)**: The Theory of Cryptography Conference. November 8–11, 2021 – Raleigh, USA.
+- **[DC Area Crypto Day](https://dcareacryptoday.wordpress.com/2021/10/25/fall-2021-crypto-day)**: Fall 2021 Crypto Day. November 5, 2021 – University of Maryland, USA.
+- **[MSRI Summer School](https://www.msri.org/summer_schools/931)**: Foundations and Frontiers of Probabilistic Proof. July 26–August 6, 2021 – Online.
+- **[NIST Workshop](https://csrc.nist.gov/Events/2021/third-pqc-standardization-conference)**: The Third PQC Standardization Conference. June 7–9, 2021 – Online.
+- **[CT-RSA 2021](https://sites.google.com/site/ctrsa2021)**: Cryptographers' Track RSA Conference. May 17–21, 2021 – Online.
+
+## 2020
+
+- **[Lattices: From Theory to Practice](https://simons.berkeley.edu/workshops/lattices-2020-3)**: Workshop at Simons Institute at UC Berkeley. April 27–May 1, 2020 – Online.
+- **[ZKP Workshop 2020](https://zkproof.org/events/workshop3)**: The 3rd ZKProof Standards Workshop. April 20–May 21, 2020 – Online.
+- **[Lattices: New Cryptographic Capabilities](https://simons.berkeley.edu/workshops/lattices-2020-2)**: Workshop at Simons Institute at UC Berkeley. March 23–27, 2020 – Online.
+- **[Lattices: Geometry, Algorithms and Hardness](https://simons.berkeley.edu/workshops/lattices-2020-1)**: Workshop at Simons Institute at UC Berkeley. February 18–22, 2020 – Berkeley, USA.
+- **[NKS 2020](https://wiki.math.ntnu.no/nks/nks20)**: Norsk Kryptoseminar. January 30, 2020 – Kjeller, Norway.
+
+## 2019
+
+- **[Sikkerhetsfestivalen 2019](https://sikkerhetsfestivalen.no)**: August 26–28, 2019 – Lillehammer, Norway.
+- **[NIST Workshop](https://csrc.nist.gov/Events/2019/Second-PQC-Standardization-Conference)**: The Second PQC Standardization Conference. August 22–24, 2019 – Santa Barbara, USA.
+- **[Crypto 2019](https://crypto.iacr.org/2019)**: The 39th International Cryptology Conference. August 18–22, 2019 – Santa Barbara, USA.
+- **[Eurocrypt 2019](https://eurocrypt.iacr.org/2019)**: The 38th Annual International Conference on the Theory and Applications of Cryptographic Techniques. May 19–23, 2019 – Darmstadt, Germany.
+- **[SPY Workshop](https://projectbullrun.org/spy)**: Surveillance, Privacy, and You. May 19, 2019 – Darmstadt, Germany.
+- **[COINS Winter School 2019](https://coinsrs.no/coins-winter-school-2019-in-finse)**: May 5–10, 2019 – Finse, Norway.
+- **[ZK Day 2019](https://simons.berkeley.edu/events/zero-knowledge-day-2019)**: Blockchains, Micropayments and Zero Knowledge. April 13, 2019 – Berkeley, USA.
+- **[ZKP Workshop 2019](https://zkpstandard.github.io/zkproof.github.io/workshop2/main.html)**: The 2nd ZKProof Standards Workshop. April 10–12, 2019 – Berkeley, USA.
+- **[RWC 2019](https://rwc.iacr.org/2019)**: Real World Crypto Symposium. January 9–11, 2019 – San Jose, USA.
+
+## 2018
+
+- **[NISK 2018](http://nikt2018.ifi.uio.no/program_nisk_en)**: Norwegian Information Security Conference. September 18–20, 2018 – Svalbard, Norway.
+- **[COINS PhD Student Seminar 2018](https://coinsrs.no/coins-ph-d-student-seminar-2018-svalbard)**: September 17, 2018 – Svalbard, Norway.
+- **[RSA Conference 2018](https://www.rsaconference.com/events/us18)**: April 16–20, 2018 – San Francisco, USA.
+- **[San Francisco CyberTalks](https://www.cyberscoop.com/events/sf-cybertalks)**: April 16, 2018 – San Francisco, USA.
+- **[NIST Workshop](https://csrc.nist.gov/Events/2018/First-PQC-Standardization-Conference)**: The First PQC Standardization Conference. April 11–13, 2018 – Fort Lauderdale, USA.
+- **[PQCrypto 2018](http://www.math.fau.edu/pqcrypto2018)**: The Ninth International Conference on Post-Quantum Cryptography. April 9–11, 2018 – Fort Lauderdale, USA.
+
+## 2017
+
+- **[Bay Area Crypto Day](https://bacrypto.github.io/events/bacryptoday-5)**: November 17, 2017 – Berkeley, USA.
+
+## 2016
+
+- **[Crypto vs. Mass Surveillance](http://cms16.item.ntnu.no)**: The Uneasy Relationship Workshop 2016. November 14, 2016 – Trondheim, Norway.

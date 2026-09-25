@@ -1,0 +1,76 @@
+/* ==========================================================================
+   Site-specific refinements (tjerandsilde.no)
+   ========================================================================== */
+
+/* Links: subtle underline that strengthens on hover */
+.page__content a,
+.archive a {
+  text-decoration: underline;
+  text-decoration-color: rgba($link-color, 0.35);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
+  transition: color 0.15s ease, text-decoration-color 0.15s ease;
+
+  &:hover {
+    color: $link-color-hover;
+    text-decoration: underline;
+    text-decoration-color: currentColor;
+  }
+}
+
+/* Section headings: same look on every page */
+.archive h2 {
+  margin-top: 2em;
+  padding-bottom: 0.4em;
+  border-bottom: 1px solid $border-color;
+}
+
+.archive h1.page__title + h2 {
+  margin-top: 1em;
+}
+
+/* Breathing room in long lists */
+.page__content li,
+.archive li {
+  margin-bottom: 0.45em;
+  line-height: 1.55;
+}
+
+/* Publication lists on the Research page */
+.pubs {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+
+  li {
+    margin-bottom: 1.1em;
+    color: $gray;
+    font-size: 0.95em;
+  }
+
+  strong {
+    font-weight: 600;
+    font-size: 1.05em;
+    color: $text-color;
+  }
+}
+
+/* Images in page content */
+.archive img,
+.page__content img {
+  max-width: unquote("min(100%, 560px)");
+  border-radius: $border-radius;
+}
+
+/* Sidebar */
+.author__avatar img {
+  border: 1px solid $border-color;
+}
+
+.author__urls a {
+  transition: color 0.15s ease;
+
+  &:hover {
+    color: $link-color;
+  }
+}

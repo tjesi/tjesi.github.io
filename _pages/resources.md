@@ -1,19 +1,17 @@
 ---
-layout: archive
 title: "Resources"
 permalink: /resources/
-author_profile: true
 ---
 
-Cohen: [Cryptography Online Talks Calendar](https://www.ccs.neu.edu/~rancohen/cryptotalks.html)
+A collection of cryptography resources I have found useful. See also Ran Cohen's [Cryptography Online Talks Calendar](https://www.ccs.neu.edu/~rancohen/cryptotalks.html) and my list of [lattice resources](/lattices/).
 
 ## Blogs
 
 - Albrecht: [a blog about cryptography, math software and kittens](https://martinralbrecht.wordpress.com)
 - Green: [A Few Thoughts on Cryptographic Engineering](https://blog.cryptographyengineering.com)
 - KU Leuven: [COSIC Cryptography Blog](https://www.esat.kuleuven.be/cosic/blog)
-- Partisia: [Particia MPC](https://partisiampc.medium.com)
-- Sandbox: [The Crypto Caffè](https://cryptocaffe.sandboxaq.com)
+- Partisia: [Partisia MPC](https://partisiampc.medium.com)
+- SandboxAQ: [The Crypto Caffè](https://cryptocaffe.sandboxaq.com)
 - The Sugar Beet: [Applied MPC: Developments in multiparty computation](https://medium.com/applied-mpc)
 - zkproof.org: [The Art of Zero Knowledge](https://zkproof.org/blog)
 
@@ -41,7 +39,7 @@ Cohen: [Cryptography Online Talks Calendar](https://www.ccs.neu.edu/~rancohen/cr
 
 - [Calendar of Events in Cryptology](https://iacr.org/events)
 - [Cryptology ePrint Archive](https://eprint.iacr.org)
-- [IACR Youtube channel](https://www.youtube.com/user/TheIACR)
+- [IACR YouTube channel](https://www.youtube.com/user/TheIACR)
 - [Open Positions in Cryptology](https://iacr.org/jobs)
 
 ## Newsletters
@@ -60,22 +58,22 @@ Cohen: [Cryptography Online Talks Calendar](https://www.ccs.neu.edu/~rancohen/cr
   - [Crypto vs. Mass Surveillance: The Uneasy Relationship Workshop 2016](http://cms16.item.ntnu.no)
   - [The International Conference on PASSWORDS 2014](http://passwords14.item.ntnu.no)
 - Courses:
-  - [TTM4135 - Applied Cryptography and Network Security](https://www.ntnu.edu/studies/courses/TTM4135)
-  - [TTM4138 - Wireless Network Security](https://www.ntnu.edu/studies/courses/TTM4138)
-  - [TTM4205 - Secure Cryptographic Implementations](https://www.ntnu.edu/studies/courses/TTM4205)
-  - [TTM4195 - Blockchain Technologies and Cryptocurrencies](https://www.ntnu.edu/studies/courses/TTM4195)
-  - [IMT4217 - Introduction to Data Privacy](https://www.ntnu.edu/studies/courses/IMT4217)
-  - [TMA4160 - Cryptography](https://www.ntnu.edu/studies/courses/TMA4160)
-  - [TMA4162 - Computational Algebra](https://www.ntnu.edu/studies/courses/TMA4162)
-  - [MA8206 - Advanced Cryptography](https://www.ntnu.edu/studies/courses/MA8206)
-  - [IIK8100 - Selected Topics in Cryptology](https://www.ntnu.edu/studies/courses/IIK8100)
-  - [IIK8105 - Post-Quantum Cryptography](https://www.ntnu.edu/studies/courses/IIK8105)
-  - [TM8107 - Cryptographic Protocols and Their Applications](https://www.ntnu.edu/studies/courses/TM8107)
+  - [TTM4135 – Applied Cryptography and Network Security](https://www.ntnu.edu/studies/courses/TTM4135)
+  - [TTM4138 – Wireless Network Security](https://www.ntnu.edu/studies/courses/TTM4138)
+  - [TTM4205 – Secure Cryptographic Implementations](https://www.ntnu.edu/studies/courses/TTM4205)
+  - [TTM4195 – Blockchain Technologies and Cryptocurrencies](https://www.ntnu.edu/studies/courses/TTM4195)
+  - [IMT4217 – Introduction to Data Privacy](https://www.ntnu.edu/studies/courses/IMT4217)
+  - [TMA4160 – Cryptography](https://www.ntnu.edu/studies/courses/TMA4160)
+  - [TMA4162 – Computational Algebra](https://www.ntnu.edu/studies/courses/TMA4162)
+  - [MA8206 – Advanced Cryptography](https://www.ntnu.edu/studies/courses/MA8206)
+  - [IIK8100 – Selected Topics in Cryptology](https://www.ntnu.edu/studies/courses/IIK8100)
+  - [IIK8105 – Post-Quantum Cryptography](https://www.ntnu.edu/studies/courses/IIK8105)
+  - [TM8107 – Cryptographic Protocols and Their Applications](https://www.ntnu.edu/studies/courses/TM8107)
 - Research School: [COINS](https://coinsrs.no)
 
 ## Online Courses
 
-- BUI: [WINTER SCHOOL ON CRYPTOGRAPHY](https://www.youtube.com/@thebiuresearchcenteronappl8783/playlists)
+- BIU: [Winter School on Cryptography](https://www.youtube.com/@thebiuresearchcenteronappl8783/playlists)
 - Boneh: [Stanford’s online cryptography course](https://www.coursera.org/learn/crypto)
 - Boneh et al.: [Zero Knowledge Proofs MOOC](https://zk-learning.org)
 - Chiesa: [Probabilistically Checkable and Interactive Proof Systems](https://youtube.com/playlist?list=PLkFD6_40KJIyWWtxCPBHwGsrutjvwM5_U)
@@ -102,12 +100,12 @@ Cohen: [Cryptography Online Talks Calendar](https://www.ccs.neu.edu/~rancohen/cr
 - [CryptoBib Search](https://publish.iacr.org/cryptobib)
 - [CSPapers](https://cspapers.org)
 - [CSRankings](http://csrankings.org/#/index?sec&crypt)
-- [Crypto Stackexchange](https://crypto.stackexchange.com)
+- [Cryptography Stack Exchange](https://crypto.stackexchange.com)
 - [Cryptography and Security arXiv](https://arxiv.org/list/cs.CR/recent)
 - [Chrome Extension: Where's That Paper?](https://chrome.google.com/webstore/detail/wheres-that-paper/dkjnkdmoghkbkfkafefhbcnmofdbfdio)
-- [Flaction icons](https://www.flaticon.com)
+- [Flaticon icons](https://www.flaticon.com)
 - [Keynote to PDF Converter](https://www.zamzar.com/convert/key-to-ppt)
-- [Latex-symbols](https://artofproblemsolving.com/wiki/index.php/LaTeX:Symbols)
+- [LaTeX symbols](https://artofproblemsolving.com/wiki/index.php/LaTeX:Symbols)
 - [Lattice Estimator](https://github.com/malb/lattice-estimator)
 - [Security and Privacy Conference Deadlines](https://sec-deadlines.github.io)
 - [The Lattice Club](https://thelatticeclub.com)
