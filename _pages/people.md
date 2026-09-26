@@ -22,12 +22,12 @@ Interested in working with me? See [Working with me](/supervision/) for more inf
 <ol reversed>
   <li>Jakob Severin Gundersen – “Cryptology and Social Life – Privacy in Digital Identity Wallets”<br>
   (Master’s thesis 2027, co-supervised with Katrien De Moor)</li>
-  <li>Aksel Sundt Wilhelmsen and Eirik Slettan – “Quantum-Safe Messaging Layer Security for Drone Networks: Integration and Performance Trade-offs”<br>
+  <li>Aksel Sundt Wilhelmsen and Eirik Slettan – “Quantum-Safe Messaging Layer Security for Drone Networks: Integration and Performance Trade-offs”
   (Master’s thesis 2027, co-supervised with Martin Strand)</li>
-  <li>Aleksander Thornes Vestlund – “Post-Quantum Privacy-Preserving Credentials in the European Digital Identity Wallet: Schemes for Selective Disclosure”<br>
+  <li>Aleksander Thornes Vestlund – “Post-Quantum Privacy-Preserving Credentials in the European Digital Identity Wallet: Schemes for Selective Disclosure”
   (Master’s thesis 2027, co-supervised with Srini Devadas)</li>
   <li>Jo Vassbotn Remvik – “Practical Lattice-Based Zero-Knowledge Proof Systems”<br>
-  (Master’s thesis 2027)</li>
+  (Master’s thesis 2027, co-supervised with Kamil Doruk Gur)</li>
   <li>Sindre Holbek Sørbye – “Practical Zero-Knowledge Proof Systems from Hash-Based Assumptions and Applications”<br>
   (Master’s thesis 2027, co-supervised with Arne Tobias Malkenes Ødegaard)</li>
   <li>Kasthuri Nair – “Domino vs ProofFrog: A Comparative Study Based on Formally Verifying the GMW Protocol”<br>
@@ -38,7 +38,7 @@ Interested in working with me? See [Working with me](/supervision/) for more inf
   (Master’s thesis 2026, co-supervised with Andreas Sandø Krogen and Ella Moe Wolff)</li>
   <li>Amund Fredrik Strømsnes – “<a href="/files/Amund.pdf">Enabling independent audits through verifier specifications</a>”<br>
   (Master’s thesis 2026, co-supervised with Audhild Høgåsen)</li>
-  <li>Jonatan Kifle Assefa Aalen – “<a href="/files/Jonatan.pdf">The Monodromy Leak: Analysis of a New Side-Channel Attack on Elliptic Curve Cryptography</a>”<br>
+  <li>Jonatan Kifle Assefa Aalen – “<a href="/files/Jonatan.pdf">The Monodromy Leak: Analysis of a New Side-Channel Attack on Elliptic Curve Cryptography</a>”
   (Master’s thesis 2026, co-supervised with Caroline Sandsbråten and Jonathan Komada Eriksen)</li>
   <li>Noah Krogh Anderson – “<a href="/files/Noah.pdf">Implementing Distributed MLS for UAV Swarms</a>”<br>
   (Master’s thesis 2026, co-supervised with Martin Strand)</li>
@@ -52,7 +52,7 @@ Interested in working with me? See [Working with me](/supervision/) for more inf
   (Master’s thesis 2025, co-supervised with Hans Heum)</li>
   <li>Noah Starckjohann – “<a href="/files/Starckjohann.pdf">Trusted Execution Environments for Privacy-Preserving Statistical Computation in the Cloud</a>”<br>
   (Master’s thesis 2025, co-supervised with Xeni Kristine Dimakos and Li Chun Zhang)</li>
-  <li>Henrik Hansen Stormyhr – “<a href="/files/Henrik.pdf">A comparative analysis of MOS-LQO algorithms for perceptual transparency testing in audio steganography</a>”<br>
+  <li>Henrik Hansen Stormyhr – “<a href="/files/Henrik.pdf">A comparative analysis of MOS-LQO algorithms for perceptual transparency testing in audio steganography</a>”
   (Master’s thesis 2025, co-supervised with Bor de Kock and Emil August Hovd Olaisen)</li>
   <li>Javier García – “<a href="/files/Javier.pdf">Threshold Signatures for FIDO Authentication</a>”<br>
   (Master’s thesis 2025, co-supervised with Trond Peder Hagen and Magnus Ringerud)</li>
@@ -60,7 +60,7 @@ Interested in working with me? See [Working with me](/supervision/) for more inf
   (Master’s thesis 2025, co-supervised with Kristian Gjøsteen)</li>
   <li>Emil Bragstad and Marius Andreas Arder – “<a href="/files/Emil-Marius.pdf">Improving Messaging Layer Security in a Military UAV Swarm</a>”<br>
   (Master’s thesis 2025, co-supervised with Martin Strand)</li>
-  <li>Carl Ludvig Digné – “<a href="/files/Ludvig.pdf">Towards Quantum-Resilient Authentication: Implementing Hybrid Signatures in FIDO2 Authenticators</a>”<br>
+  <li>Carl Ludvig Digné – “<a href="/files/Ludvig.pdf">Towards Quantum-Resilient Authentication: Implementing Hybrid Signatures in FIDO2 Authenticators</a>”
   (Master’s thesis 2024, co-supervised with Trond Peder Hagen and Magnus Ringerud)</li>
   <li>Sondre Rishøi and Jonatan Såstad Østgaard – “<a href="/files/Swiss-post-thesis.pdf">Unbiased Distributed Key Generation</a>”<br>
   (Master’s thesis 2024, co-supervised with Audhild Høgåsen)</li>
@@ -87,7 +87,8 @@ I am grateful to [Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gj
 
 ## Visitors
 
-- [Shai Levin](https://science.capetown), Chalmers University of Technology (September 2026)
+- [René Mayrhofer](https://www.mayrhofer.eu.org), Professor at Johannes Kepler University (November 2026)
+- [Shai Levin](https://science.capetown), Postdoc at Chalmers University of Technology (September 2026)
 - [Chris Brzuska](https://www.aalto.fi/en/people/chris-brzuska), Associate Professor at Aalto University (February 2026)
 - [Tyge Tiessen](https://orbit.dtu.dk/en/persons/tyge-tiessen), Associate Professor at the Technical University of Denmark (February 2026)
 - [Philip Rogaway](https://www.cs.ucdavis.edu/~rogaway), Professor Emeritus at UC Davis (December 2025)
