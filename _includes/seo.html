@@ -11,6 +11,7 @@
 {% assign canonical_url = page.url | replace: "/index.html", "/" | prepend: seo_url %}
 
 <title>{{ seo_title }}</title>
+{% if page.robots %}<meta name="robots" content="{{ page.robots }}">{% endif %}
 <meta name="description" content="{{ seo_description }}">
 <meta name="author" content="{{ site.author.name }}">
 <link rel="canonical" href="{{ canonical_url }}">
