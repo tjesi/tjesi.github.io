@@ -37,13 +37,16 @@ A collection of cryptography resources I have found useful. See also Ran Cohen's
 
 - Mailing list: [Cryptology in Norway](https://groups.google.com/g/cryptology-in-norway)
 - [Norwegian Crypto Seminar](https://wiki.math.ntnu.no/nks)
-- [Simula UiB](https://simula-uib.no)
+- [Cryptography Department at Simula UiB](https://simula-uib.no/cryptography-department/)
 
 ## Dagstuhl Seminars
 
 - [About Dagstuhl Seminars](https://www.dagstuhl.de/en/seminars/dagstuhl-seminars) and the [Seminar Calendar](https://www.dagstuhl.de/en/seminars/seminar-calendar)
-- [Privacy-Preserving Authentication](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/26171) (26171)
-- [Trustworthy Evidence-Based Elections](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/25411) (25411)
+- [Real-World Cryptography](https://www.dagstuhl.de/26371) (26371, September 2026)
+- [Privacy-Preserving Authentication](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/26171) (26171, April 2026)
+- [Symmetric Cryptography](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/26061) (26061, February 2026)
+- [Quantum Cryptanalysis](https://www.dagstuhl.de/25431) (25431, October 2025)
+- [Trustworthy Evidence-Based Elections](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/25411) (25411, October 2025)
 
 ## Exercises
 
@@ -56,6 +59,14 @@ A collection of cryptography resources I have found useful. See also Ran Cohen's
 - [Cryptology ePrint Archive](https://eprint.iacr.org)
 - [IACR YouTube channel](https://www.youtube.com/user/TheIACR)
 - [Open Positions in Cryptology](https://iacr.org/jobs)
+
+## Libraries
+
+- [LaZer](https://github.com/lazer-crypto/lazer): lattice-based zero-knowledge and succinct proofs
+- [Lattigo](https://github.com/tuneinsight/lattigo): homomorphic encryption and multiparty homomorphic encryption in Go
+- [liboqs](https://openquantumsafe.org): post-quantum key encapsulation and signatures from the Open Quantum Safe project
+- [OpenFHE](https://openfhe.org): fully homomorphic encryption (BGV, BFV, CKKS, FHEW, and TFHE)
+- [TFHE-rs](https://github.com/zama-ai/tfhe-rs): fully homomorphic encryption over booleans and integers in Rust
 
 ## Newsletters
 
@@ -102,6 +113,7 @@ A collection of cryptography resources I have found useful. See also Ran Cohen's
 
 ## Simons Institute Programs
 
+- [Cryptography 10 Years Later: Obfuscation, Proof Systems, and Secure Computation Reunion](https://simons.berkeley.edu/workshops/cryptography-10-years-later-obfuscation-proof-systems-secure-computation-reunion) (July 2026)
 - [Obfuscation, Proof Systems, and Secure Computation](https://simons.berkeley.edu/programs/cryptography-10-years-later-obfuscation-proof-systems-secure-computation)
 - [The Quantum Wave in Computing](https://simons.berkeley.edu/programs/quantum2020)
 - [Lattices: Algorithms, Complexity, and Cryptography](https://simons.berkeley.edu/programs/lattices2020)
@@ -112,6 +124,7 @@ A collection of cryptography resources I have found useful. See also Ran Cohen's
 
 - [IRTF Crypto Forum Research Group (CFRG)](https://www.irtf.org/cfrg.html)
 - [NIST Post-Quantum Cryptography](https://csrc.nist.gov/projects/post-quantum-cryptography)
+- [Lattice Estimator](https://github.com/malb/lattice-estimator)
 - [SageMath](https://www.sagemath.org)
 
 ## Useful Links

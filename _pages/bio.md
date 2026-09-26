@@ -21,4 +21,4 @@ He was General Chair of IACR PKC 2025, serves on the program committees of leadi
 
 ![Tjerand Silde](/images/tjerands.jpg){: width="300"}
 
-[Download the photo](/images/tjerands.jpg) (1600 × 1600 px). A high-resolution version is also available from my [NTNU profile](https://www.ntnu.edu/employees/tjerand.silde). Photo credit: Kai T. Dragland / NTNU.
+[Download the photo](/images/tjerands.jpg) (1600 × 1600 px). Photo credit: Kai T. Dragland / NTNU.
