@@ -45,6 +45,8 @@ permalink: /research/
 
 ## Projects
 
+My research is part of NTNU's [Center for Cyber and Information Security](https://www.ntnu.edu/ccis/center-for-cyber-and-information-security) (CCIS), a national center for research, education, testing, training, and competence development in cyber and information security, with more than 100 partners from industry, government, and academia.
+
 I am Co-Principal Investigator of the project "[OffPAD – Optimizing balance between high security and usability](https://prosjektbanken.forskningsradet.no/en/project/FORISS/321619)" funded with NOK 16 million by the Research Council of Norway, for research on lightweight and post-quantum secure cryptography. This is a joint project with [Danilo Gligoroski](https://www.ntnu.edu/employees/danilo.gligoroski) at NTNU and the cybersecurity company [Pone Biometrics](https://ponebiometrics.com).
 
 I received NOK 765,000 from the scientific equipment fund of the [IE Faculty](https://www.ntnu.edu/ie/research) to build a cryptology lab for theoretical and practical cryptographic research and education. The [CRYPTO-LAB](/cryptolab/) is located at [Electro A175](https://link.mazemap.com/B0eIPDBB).

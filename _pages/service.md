@@ -19,6 +19,12 @@ I was on the organizing committee of [IACR Eurocrypt 2022](https://eurocrypt.iac
 
 I organized the [Norwegian Crypto Seminar 2020](https://wiki.math.ntnu.no/nks/nks20) with Kristian Gjøsteen and Martin Strand, the [Norwegian Crypto Seminar 2021](https://wiki.math.ntnu.no/nks/nks21) with Lise Millerjord and Martin Strand, and the [Norwegian Crypto Seminar 2024](https://wiki.math.ntnu.no/nks/nks24) with Slobodan Petrovic.
 
+## University Service
+
+Since December 2025, I have been one of the two representatives of the permanent academic staff in the [extended management group](https://www.ntnu.edu/iik/people/management) at the Department of Information Security and Communication Technology (IIK).
+
+I have led the [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab) since 2023, and take part in the department's forum of research group leaders, chaired by the Deputy Head of Department for Research. I also serve as his deputy at research meetings at the [Faculty of Information Technology and Electrical Engineering](https://www.ntnu.edu/ie) when he is unavailable.
+
 ## External Assignments
 
 I have testified as an expert witness on the encryption used in the end-to-end encrypted service SKY ECC, and on the data collection performed through the man-in-the-middle attack conducted by Europol against it, in 1) the [Borgarting Court of Appeal](https://lovdata.no/dokument/LBSTR/avgjorelse/lb-2024-142625) in Oslo in April 2025, 2) the Oslo District Court in May 2025, 3) the [Gulating Court of Appeal](https://lovdata.no/dokument/LGSTR/avgjorelse/lg-2025-43360) in Bergen in June 2025, and 4) the Borgarting Court of Appeal in Oslo in September 2026.

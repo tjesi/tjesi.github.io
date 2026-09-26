@@ -3,37 +3,52 @@ title: "Resources"
 permalink: /resources/
 ---
 
-A collection of cryptography resources I have found useful. See also Ran Cohen's [Cryptography Online Talks Calendar](https://www.ccs.neu.edu/~rancohen/cryptotalks.html) and my list of [lattice resources](/lattices/).
+A collection of cryptography resources I have found useful. See also Ran Cohen's [Cryptography Online Talks Calendar](https://cs.idc.ac.il/~ran/cryptotalks.html) and my list of [lattice resources](/lattices/).
 
 ## Blogs
 
 - Albrecht: [a blog about cryptography, math software and kittens](https://martinralbrecht.wordpress.com)
 - Green: [A Few Thoughts on Cryptographic Engineering](https://blog.cryptographyengineering.com)
-- KU Leuven: [COSIC Cryptography Blog](https://www.esat.kuleuven.be/cosic/blog)
-- Partisia: [Partisia MPC](https://partisiampc.medium.com)
-- SandboxAQ: [The Crypto Caffè](https://cryptocaffe.sandboxaq.com)
-- The Sugar Beet: [Applied MPC: Developments in multiparty computation](https://medium.com/applied-mpc)
+- SandboxAQ: [The Crypto Caffè](https://cryptographycaffe.sandboxaq.com)
 - zkproof.org: [The Art of Zero Knowledge](https://zkproof.org/blog)
 
 ## Books and Lecture Notes in Cryptography
 
-- Anderson: [Security Engineering](https://www.cl.cam.ac.uk/~rja14/book.html)
+- Anderson: [Security Engineering](https://www.cl.cam.ac.uk/archive/rja14/book.html)
 - Barak: [An Intensive Introduction to Cryptography](https://intensecrypto.org/public/index.html)
 - Bellare: [Lectures on NIZKs: A Concrete Security Treatment](https://cseweb.ucsd.edu/~mihir/cse208-Wi20/main.pdf)
 - Boneh and Shoup: [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us)
-- Chiesa and Yogev: [Building Cryptographic Proofs from Hash Functions](https://hash-based-snargs-book.github.io)
+- Chiesa and Yogev: [Building Cryptographic Proofs from Hash Functions](https://snargsbook.org)
 - Evans, Kolesnikov, and Rosulek: [A Pragmatic Introduction to Secure Multi-Party Computation](https://securecomputation.org)
 - Galbraith: [Mathematics of Public Key Cryptography](https://www.math.auckland.ac.nz/~sgal018/crypto-book/crypto-book.html)
-- Goldwasser and Bellare: [Lecture Notes on Cryptography](https://cseweb.ucsd.edu/~mihir/papers/gb.pdf)
 - Gjøsteen: [Cryptography](https://wiki.math.ntnu.no/tma4160/notes)
+- Goldwasser and Bellare: [Lecture Notes on Cryptography](https://cseweb.ucsd.edu/~mihir/papers/gb.pdf)
 - Katz: [Introduction to Cryptography](http://www.cs.umd.edu/~jkatz/crypto/s18/lectures.html)
+- Lindell: [How To Simulate It – A Tutorial on the Simulation Proof Technique](https://eprint.iacr.org/2016/046)
 - Menezes, van Oorschot and Vanstone: [Handbook of Applied Cryptography](https://cacr.uwaterloo.ca/hac)
 - Ostrovsky: [Foundations of Cryptography](http://web.cs.ucla.edu/~rafail/PUBLIC/OstrovskyDraftLecNotes2010.pdf)
 - Pass and Shelat: [A Course in Cryptography](https://www.cs.cornell.edu/courses/cs4830/2010fa/lecnotes.pdf)
-- Rosulek: [The Joy of Cryptography](https://web.engr.oregonstate.edu/~rosulekm/crypto)
-- Schoenmakers: [Lecture Notes Cryptographic Protocols](https://www.win.tue.nl/~berry/CryptographicProtocols/LectureNotes.pdf)
+- Rosulek: [The Joy of Cryptography](https://joyofcryptography.com)
+- Shoup: [A Computational Introduction to Number Theory and Algebra](https://shoup.net/ntb/)
 - Smart: [Cryptography Made Simple](https://link.springer.com/book/10.1007/978-3-319-21936-3)
 - Thaler: [Proofs, Arguments, and Zero-Knowledge](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
+
+## Cryptography in Norway
+
+- Mailing list: [Cryptology in Norway](https://groups.google.com/g/cryptology-in-norway)
+- [Norwegian Crypto Seminar](https://wiki.math.ntnu.no/nks)
+- [Simula UiB](https://simula-uib.no)
+
+## Dagstuhl Seminars
+
+- [About Dagstuhl Seminars](https://www.dagstuhl.de/en/seminars/dagstuhl-seminars) and the [Seminar Calendar](https://www.dagstuhl.de/en/seminars/seminar-calendar)
+- [Privacy-Preserving Authentication](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/26171) (26171)
+- [Trustworthy Evidence-Based Elections](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/25411) (25411)
+
+## Exercises
+
+- [CryptoHack](https://cryptohack.org)
+- [Cryptopals Crypto Challenges](https://cryptopals.com)
 
 ## International Association for Cryptologic Research
 
@@ -46,13 +61,12 @@ A collection of cryptography resources I have found useful. See also Ran Cohen's
 
 - IACR: [News](https://iacr.org/news)
 - Schneier: [Crypto-Gram](https://www.schneier.com/crypto-gram)
-- Valsorda: [Cryptography Dispatches](https://buttondown.email/cryptography-dispatches/archive)
+- Valsorda: [Cryptography Dispatches](https://words.filippo.io)
 
 ## Norwegian University of Science and Technology
 
 - Research group: [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab)
 - Events:
-  - [Norwegian Crypto Seminar](https://wiki.math.ntnu.no/nks)
   - [IACR Public Key Cryptography 2025](https://pkc.iacr.org/2025)
   - [IACR Eurocrypt 2022](https://eurocrypt.iacr.org/2022)
   - [Crypto vs. Mass Surveillance: The Uneasy Relationship Workshop 2016](http://cms16.item.ntnu.no)
@@ -62,6 +76,7 @@ A collection of cryptography resources I have found useful. See also Ran Cohen's
   - [TTM4138 – Wireless Network Security](https://www.ntnu.edu/studies/courses/TTM4138)
   - [TTM4205 – Secure Cryptographic Implementations](https://www.ntnu.edu/studies/courses/TTM4205)
   - [TTM4195 – Blockchain Technologies and Cryptocurrencies](https://www.ntnu.edu/studies/courses/TTM4195)
+  - [IMT4124 – Cryptology](https://www.ntnu.edu/studies/courses/IMT4124)
   - [IMT4217 – Introduction to Data Privacy](https://www.ntnu.edu/studies/courses/IMT4217)
   - [TMA4160 – Cryptography](https://www.ntnu.edu/studies/courses/TMA4160)
   - [TMA4162 – Computational Algebra](https://www.ntnu.edu/studies/courses/TMA4162)
@@ -78,13 +93,12 @@ A collection of cryptography resources I have found useful. See also Ran Cohen's
 - Boneh et al.: [Zero Knowledge Proofs MOOC](https://zk-learning.org)
 - Chiesa: [Probabilistically Checkable and Interactive Proof Systems](https://youtube.com/playlist?list=PLkFD6_40KJIyWWtxCPBHwGsrutjvwM5_U)
 - Katz: [Cryptography](https://www.coursera.org/learn/cryptography)
+- Stanford: [CS 355 Topics in Cryptography](https://cs355.stanford.edu)
 
 ## Podcasts
 
-- Connolly, Ptacek, Adrian: [Security. Cryptography. Whatever.](https://securitycryptographywhatever.buzzsprout.com)
-- Gorbunov: [Real World Cryptographers Podcast](https://rwcpodcast.buzzsprout.com)
+- Connolly, Ptacek, Adrian: [Security. Cryptography. Whatever.](https://securitycryptographywhatever.com)
 - Harrysson and Rose: [Zero Knowledge Podcast](https://www.zeroknowledge.fm)
-- Kobeissi: [Cryptography FM](https://www.cryptography.fm)
 
 ## Simons Institute Programs
 
@@ -94,6 +108,12 @@ A collection of cryptography resources I have found useful. See also Ran Cohen's
 - [Proofs, Consensus, and Decentralizing Society](https://simons.berkeley.edu/programs/proofs2019)
 - [Cryptography](https://simons.berkeley.edu/programs/crypto2015)
 
+## Standards and Tools
+
+- [IRTF Crypto Forum Research Group (CFRG)](https://www.irtf.org/cfrg.html)
+- [NIST Post-Quantum Cryptography](https://csrc.nist.gov/projects/post-quantum-cryptography)
+- [SageMath](https://www.sagemath.org)
+
 ## Useful Links
 
 - [CryptoBib](https://cryptobib.di.ens.fr)
@@ -102,10 +122,6 @@ A collection of cryptography resources I have found useful. See also Ran Cohen's
 - [CSRankings](http://csrankings.org/#/index?sec&crypt)
 - [Cryptography Stack Exchange](https://crypto.stackexchange.com)
 - [Cryptography and Security arXiv](https://arxiv.org/list/cs.CR/recent)
-- [Chrome Extension: Where's That Paper?](https://chrome.google.com/webstore/detail/wheres-that-paper/dkjnkdmoghkbkfkafefhbcnmofdbfdio)
-- [Flaticon icons](https://www.flaticon.com)
-- [Keynote to PDF Converter](https://www.zamzar.com/convert/key-to-ppt)
 - [LaTeX symbols](https://artofproblemsolving.com/wiki/index.php/LaTeX:Symbols)
-- [Lattice Estimator](https://github.com/malb/lattice-estimator)
 - [Security and Privacy Conference Deadlines](https://sec-deadlines.github.io)
-- [The Lattice Club](https://thelatticeclub.com)
+- [IACR Cryptology Schools](https://iacr.org/schools/)

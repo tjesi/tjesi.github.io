@@ -19,8 +19,10 @@ Interested in working with me? See [Working with me](/supervision/) for more inf
 
 ## Bachelor's and Master's Students
 
-<ol reversed>
-  <li>Jakob Severin Gundersen – “Cryptology and Social Life – Privacy in Digital Identity Wallets”<br>
+### 2027
+
+<ol reversed start="27">
+  <li>Jakob Severin Gundersen – “Cryptology and Social Life: Privacy in Digital Identity Wallets”<br>
   (Master’s thesis 2027, co-supervised with Katrien De Moor)</li>
   <li>Aksel Sundt Wilhelmsen and Eirik Slettan – “Quantum-Safe Messaging Layer Security for Drone Networks: Integration and Performance Trade-offs”
   (Master’s thesis 2027, co-supervised with Martin Strand)</li>
@@ -30,6 +32,11 @@ Interested in working with me? See [Working with me](/supervision/) for more inf
   (Master’s thesis 2027, co-supervised with Kamil Doruk Gur)</li>
   <li>Sindre Holbek Sørbye – “Practical Zero-Knowledge Proof Systems from Hash-Based Assumptions and Applications”<br>
   (Master’s thesis 2027, co-supervised with Arne Tobias Malkenes Ødegaard)</li>
+</ol>
+
+### 2026
+
+<ol reversed start="22">
   <li>Kasthuri Nair – “Domino vs ProofFrog: A Comparative Study Based on Formally Verifying the GMW Protocol”<br>
   (Master’s thesis 2026, co-supervised with Christopher Brzuska)</li>
   <li>Prateek Sharma – “Formally Verified Reduction Proof for the Half-Gates Garbling Scheme”<br>
@@ -46,6 +53,11 @@ Interested in working with me? See [Working with me](/supervision/) for more inf
   (Master’s thesis 2026, co-supervised with Katrien De Moor)</li>
   <li>Harald Haaland Paaske – “<a href="/files/Harald.pdf">Investigating the new post-quantum key encapsulation mechanism HQC</a>”<br>
   (Master’s thesis 2026, co-supervised with Emil August Hovd Olaisen)</li>
+</ol>
+
+### 2025
+
+<ol reversed start="14">
   <li>Michaela Kralova – “<a href="/files/Michaela.pdf">Post-Quantum Password-Authenticated Key Exchange</a>”<br>
   (Master’s thesis 2025)</li>
   <li>Paulina Wesolowska – “<a href="/files/Paulina.pdf">Quantum Computing and Cryptographic Risk: A Threat Assessment for Norway</a>”<br>
@@ -60,14 +72,29 @@ Interested in working with me? See [Working with me](/supervision/) for more inf
   (Master’s thesis 2025, co-supervised with Kristian Gjøsteen)</li>
   <li>Emil Bragstad and Marius Andreas Arder – “<a href="/files/Emil-Marius.pdf">Improving Messaging Layer Security in a Military UAV Swarm</a>”<br>
   (Master’s thesis 2025, co-supervised with Martin Strand)</li>
+</ol>
+
+### 2024
+
+<ol reversed start="7">
   <li>Carl Ludvig Digné – “<a href="/files/Ludvig.pdf">Towards Quantum-Resilient Authentication: Implementing Hybrid Signatures in FIDO2 Authenticators</a>”
   (Master’s thesis 2024, co-supervised with Trond Peder Hagen and Magnus Ringerud)</li>
   <li>Sondre Rishøi and Jonatan Såstad Østgaard – “<a href="/files/Swiss-post-thesis.pdf">Unbiased Distributed Key Generation</a>”<br>
   (Master’s thesis 2024, co-supervised with Audhild Høgåsen)</li>
+</ol>
+
+### 2023
+
+<ol reversed start="5">
   <li>Emil Marstrander – “<a href="/files/EmilM.pdf">Use of Messaging Layer Security in a Military UAV Swarm</a>”<br>
   (Master’s thesis 2023, co-supervised with Martin Strand)</li>
   <li>Matej Poljuha – “<a href="/files/Matej.pdf">Benchmarking Post-Quantum Secure Biometric Resilient Authenticated Key Exchange</a>”<br>
   (Master’s thesis 2023, co-supervised with Pia Bauspieß)</li>
+</ol>
+
+### 2022
+
+<ol reversed start="3">
   <li>Audhild Høgåsen – “<a href="/files/Audhild-master-thesis.pdf">Return Codes from Lattice Assumptions</a>”<br>
   (Master’s thesis 2022)</li>
   <li>Alejandro Rodriguez – “<a href="https://nva.sikt.no/registration/0198ebf38c2e-06f29c48-a55d-4ba0-95e6-651ec62823e8">Implementing Lattice-Based Cryptography</a>”<br>

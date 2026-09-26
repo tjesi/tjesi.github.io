@@ -36,8 +36,10 @@
     "sameAs": [
       {{ site.author.uri | jsonify }},
       {{ site.author.googlescholar | jsonify }},
+      {{ site.author.dblp | jsonify }},
       {{ site.author.orcid | jsonify }},
-      {{ site.author.github | prepend: "https://github.com/" | jsonify }}
+      {{ site.author.github | prepend: "https://github.com/" | jsonify }},
+      {{ site.author.bluesky | prepend: "https://bsky.app/profile/" | jsonify }}
     ]
   }
 </script>

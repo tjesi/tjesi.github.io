@@ -7,13 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am an Associate Professor in Cryptology at the [Department of Information Security and Communication Technology](https://www.ntnu.edu/iik) at the Norwegian University of Science and Technology (NTNU) in Trondheim, where I lead the [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab).
+Hi! I am an Associate Professor in Cryptology at the [Department of Information Security and Communication Technology](https://www.ntnu.edu/iik) at the Norwegian University of Science and Technology (NTNU) in Trondheim, where I lead the [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab). I am also affiliated with the [Department of Mathematical Sciences](https://www.ntnu.edu/imf) and the [Center for Cyber and Information Security](https://www.ntnu.edu/ccis/center-for-cyber-and-information-security) (CCIS) at NTNU.
 
 My research focuses on lattice-based cryptography as a foundation for advanced digital signatures and zero-knowledge protocols. More broadly, I am interested in post-quantum cryptography, multiparty computation, homomorphic encryption, and secure implementations.
 
 I lead the post-quantum cryptography work package in the [OffPAD project](https://prosjektbanken.forskningsradet.no/en/project/FORISS/321619), the [Cryptology and Social Life project](https://www.ntnu.edu/iik/cryptology-and-social-life), and the [ToppForsk@IE: Cryptography research group](https://www.ntnu.edu/web/iik/toppforsk-ie-cryptography). I also coordinate the Cryptographic Engineering profile in the [Cyber Security and Data Communication](https://www.ntnu.edu/studies/mtkom) Master of Science in Engineering program at NTNU.
 
 I am a Security and Cryptography Expert at the cybersecurity company [Pone Biometrics](https://ponebiometrics.com), and a member of the [International Association for Cryptologic Research](https://iacr.org) (IACR).
+
+A short [biography and press photo](/bio/) are available for talks, events, and press.
 
 ## News
 
