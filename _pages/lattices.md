@@ -35,7 +35,7 @@ NTRU, introduced by Hoffstein, Pipher, and Silverman in 1998, was one of the fir
 
 ## A brief history
 
-The table below gives a rough and admittedly biased history of the foundations of modern lattice-based cryptography, shaped by my own research interests; many other important works have pushed the frontier of the field.
+The table below gives a rough and admittedly biased history of the foundations of modern lattice-based cryptography, shaped by my own research interests; many other important works have also pushed the frontier of the field.
 
 | Year | Milestone | Paper |
 | --- | --- | --- |
@@ -62,7 +62,7 @@ The table below gives a rough and admittedly biased history of the foundations o
 
 ## Where to start
 
-If you want to understand how ML-KEM and ML-DSA work, start with Vadim Lyubashevsky's [Basic Lattice Cryptography: The concepts behind Kyber (ML-KEM) and Dilithium (ML-DSA)](https://eprint.iacr.org/2024/1287) (2024). It is a self-contained tutorial by one of the designers of both schemes, explaining the underlying mathematical concepts and design decisions, as well as the main ideas behind other lattice-based KEMs such as Frodo and NTRU.
+If you want to understand how ML-KEM and ML-DSA work, start with Vadim Lyubashevsky's [Basic Lattice Cryptography: The concepts behind Kyber (ML-KEM) and Dilithium (ML-DSA)](https://eprint.iacr.org/2024/1287). It is a self-contained tutorial by one of the designers of both schemes, explaining the underlying mathematical concepts and design decisions, as well as the main ideas behind other lattice-based KEMs such as Frodo and NTRU.
 
 For a broader and more theoretical view, Chris Peikert's survey [A Decade of Lattice Cryptography](https://eprint.iacr.org/2015/939) covers the foundations of SIS and LWE, worst-case hardness, ring-based variants, trapdoors, and advanced constructions such as fully homomorphic encryption. Oded Regev's short survey [The Learning with Errors Problem](https://cims.nyu.edu/~regev/papers/lwesurvey.pdf) is a good companion for understanding LWE itself.
 
@@ -78,7 +78,7 @@ Vinod Vaikuntanathan's colloquium talk [Lattices and Cryptography: A Match Made 
 
 ## Homomorphic encryption
 
-All practical fully homomorphic encryption (FHE) schemes, such as BGV, BFV, CKKS, and TFHE, are based on (Ring-)LWE. The [Survey on Fully Homomorphic Encryption, Theory, and Applications](https://eprint.iacr.org/2022/1602) by Marcolla et al. (Proceedings of the IEEE, 2022) gives a good overview of the schemes and their applications. The community site [FHE.org](https://fhe.org/resources/) maintains an up-to-date collection of tutorials, courses, conference talks, and libraries, and [OpenFHE](https://openfhe.org) is a widely used open-source library implementing all the major schemes.
+All practical fully homomorphic encryption (FHE) schemes, such as BGV, BFV, CKKS, and TFHE, are based on (Ring-)LWE. The [Survey on Fully Homomorphic Encryption, Theory, and Applications](https://eprint.iacr.org/2022/1602) by Marcolla et al. (Proceedings of the IEEE, 2022) gives a good overview of the schemes and their applications. The community site [FHE.org](https://fhe.org/resources/) maintains an up-to-date collection of tutorials, courses, conference talks, and libraries, and [OpenFHE](https://openfhe.org) is a widely used open-source library implementing all the major schemes. For choosing parameters and implementing FHE securely, see the [Security Guidelines for Implementing Homomorphic Encryption](https://cic.iacr.org/p/1/4/26) by Bossuat et al. (IACR Communications in Cryptology, 2025).
 
 ## Zero-knowledge proofs
 
@@ -91,3 +91,13 @@ Threshold signatures distribute the signing key among several parties so that no
 ## Cryptanalysis and tools
 
 To estimate the concrete security of lattice-based schemes, the [Lattice Estimator](https://github.com/malb/lattice-estimator) is the standard tool, and [fplll](https://github.com/fplll/fplll) and [G6K](https://github.com/fplll/g6k) provide state-of-the-art implementations of lattice reduction and sieving for experiments. As the number of new lattice assumptions grows, Martin Albrecht's overview of [SIS with hints](https://malb.io/sis-with-hints.html) is a useful reference: it catalogues SIS-like assumptions that give out additional hints, and records whether each is known to be standard, equivalent to another assumption, or broken.
+
+## Libraries
+
+Open-source libraries for post-quantum and lattice-based cryptography:
+
+- [LaZer](https://github.com/lazer-crypto/lazer): lattice-based zero-knowledge and succinct proofs
+- [Lattigo](https://github.com/tuneinsight/lattigo): homomorphic encryption and multiparty homomorphic encryption in Go
+- [liboqs](https://openquantumsafe.org): post-quantum key encapsulation and signatures from the Open Quantum Safe project
+- [OpenFHE](https://openfhe.org): fully homomorphic encryption (BGV, BFV, CKKS, FHEW, and TFHE)
+- [TFHE-rs](https://github.com/zama-ai/tfhe-rs): fully homomorphic encryption over booleans and integers in Rust

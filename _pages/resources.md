@@ -60,14 +60,6 @@ A collection of cryptography resources I have found useful. See also Ran Cohen's
 - [IACR YouTube channel](https://www.youtube.com/user/TheIACR)
 - [Open Positions in Cryptology](https://iacr.org/jobs)
 
-## Libraries
-
-- [LaZer](https://github.com/lazer-crypto/lazer): lattice-based zero-knowledge and succinct proofs
-- [Lattigo](https://github.com/tuneinsight/lattigo): homomorphic encryption and multiparty homomorphic encryption in Go
-- [liboqs](https://openquantumsafe.org): post-quantum key encapsulation and signatures from the Open Quantum Safe project
-- [OpenFHE](https://openfhe.org): fully homomorphic encryption (BGV, BFV, CKKS, FHEW, and TFHE)
-- [TFHE-rs](https://github.com/zama-ai/tfhe-rs): fully homomorphic encryption over booleans and integers in Rust
-
 ## Newsletters
 
 - IACR: [News](https://iacr.org/news)
@@ -113,12 +105,12 @@ A collection of cryptography resources I have found useful. See also Ran Cohen's
 
 ## Simons Institute Programs
 
-- [Cryptography 10 Years Later: Obfuscation, Proof Systems, and Secure Computation Reunion](https://simons.berkeley.edu/workshops/cryptography-10-years-later-obfuscation-proof-systems-secure-computation-reunion) (July 2026)
+- [Cryptography 10 Years Later](https://simons.berkeley.edu/workshops/cryptography-10-years-later-obfuscation-proof-systems-secure-computation-reunion)
 - [Obfuscation, Proof Systems, and Secure Computation](https://simons.berkeley.edu/programs/cryptography-10-years-later-obfuscation-proof-systems-secure-computation)
 - [The Quantum Wave in Computing](https://simons.berkeley.edu/programs/quantum2020)
 - [Lattices: Algorithms, Complexity, and Cryptography](https://simons.berkeley.edu/programs/lattices2020)
 - [Proofs, Consensus, and Decentralizing Society](https://simons.berkeley.edu/programs/proofs2019)
-- [Cryptography](https://simons.berkeley.edu/programs/crypto2015)
+- [Cryptography Summer Program](https://simons.berkeley.edu/programs/cryptography)
 
 ## Standards and Tools
 
