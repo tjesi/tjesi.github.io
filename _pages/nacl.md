@@ -23,10 +23,10 @@ Welcome to the unofficial page of the NTNU Applied Cryptology Lab (NaCl), a cryp
 | [Stig Frode Mjølsnes](https://www.ntnu.edu/employees/sfm) | Professor | 1999 | |
 | [Bor de Kock](https://bordekock.nl) | Assistant Professor | 2022 | 2024 |
 | [Anamaria Costache](https://anamariacostache.github.io/anamariacostache/) | Associate Professor | 2020 | 2025 |
-| [Jiaxin Pan](https://sites.google.com/view/jiaxinpan/home) | Associate Professor | 2019 | 2023 |
+| [Jiaxin Pan](https://sites.google.com/view/jiaxinpan/home) | Associate Professor | 2019 | 2025 |
 | [Colin Boyd](https://www.ntnu.edu/employees/colin.boyd) | Professor | 2013 | 2025 |
-| Jan Arild Audestad | Adjunct Professor | 1993 | after 2015 |
-| Svein J. Knapskog | Professor | 1987 | 2016 |
+| Jan Arild Audestad | Adjunct Professor | 1993 | 2012 |
+| Svein J. Knapskog | Professor | 1987 | 2013 |
 
 Years include positions at the Norwegian Institute of Technology (NTH), which became part of NTNU in 1996, and at Gjøvik University College, which merged with NTNU in 2016.
 
@@ -47,6 +47,7 @@ Years include positions at the Norwegian Institute of Technology (NTH), which be
 | [Ruxandra F. Olimid](https://doctorat.unibuc.ro/wp-content/uploads/2024/11/3_cv_ruxandra_olimid.pdf) | Postdoctoral Fellow | 2016 | 2022 |
 | [Markku-Juhani O. Saarinen](https://mjos.fi) | Postdoctoral Fellow | 2014 | 2015 |
 | [Joe-Kai Tsay](https://dblp.org/pid/28/4826.html) | Postdoctoral Fellow | 2011 | 2013 |
+| [Danilo Gligoroski](https://www.ntnu.edu/employees/danilo.gligoroski) | Postdoctoral Fellow | 2005 | 2008 |
 | [Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen) | Postdoctoral Fellow | 2004 | 2008 |
 
 ## PhD candidates
@@ -132,8 +133,10 @@ Papers at IACR Crypto, Eurocrypt, and Asiacrypt, ACM CCS, and IEEE S&P with at l
 | 2026 | ACM CCS | [sPAR: (Somewhat) Practical Anonymous Router](https://eprint.iacr.org/2025/860) | Das, **Park**, and Sung |
 | 2026 | CRYPTO | [Multi-key FHE with Non-Interactive Setup in the Plain Model](https://eprint.iacr.org/2026/322) | Min, **Park**, and Song |
 | 2025 | CRYPTO | [Verifiable Computation for Approximate Homomorphic Encryption Schemes](https://eprint.iacr.org/2025/286) | Cascudo, **Costache**, Cozzo, Fiore, Guimarães, and Soria-Vazquez |
+| 2025 | CRYPTO | [XHMQV: Better Efficiency and Stronger Security for Signal's Initial Handshake based on HMQV](https://eprint.iacr.org/2025/1049) | Fiedler, Günther, **Pan**, and Zeng |
 | 2024 | ASIACRYPT | [HELIOPOLIS: Verifiable Computation over Homomorphically Encrypted Data from Interactive Oracle Proofs is Practical](https://eprint.iacr.org/2023/1949) | Aranha, **Costache**, Guimarães, and Soria-Vazquez |
-| 2024 | EUROCRYPT | [Key Exchange with Tight (Full) Forward Secrecy via Key Confirmation](https://eprint.iacr.org/2024/361) | Pan, Riepel, and **Zeng** |
+| 2024 | EUROCRYPT | [Key Exchange with Tight (Full) Forward Secrecy via Key Confirmation](https://eprint.iacr.org/2024/361) | **Pan**, Riepel, and **Zeng** |
+| 2024 | EUROCRYPT | [Toothpicks: More Efficient Fork-Free Two-Round Multi-Signatures](https://eprint.iacr.org/2023/1613) | **Pan** and Wagner |
 | 2024 | EUROCRYPT | [AprèsSQI: Extra Fast Verification for SQIsign Using Extension-Field Signing](https://eprint.iacr.org/2023/1559) | Corte-Real Santos, **Eriksen**, Meyer, and Reijnders |
 | 2023 | ACM CCS | [Verifiable Mix-Nets and Distributed Decryption for Voting from Lattice-Based Assumptions](https://eprint.iacr.org/2022/422) | Aranha, Baum, **Gjøsteen**, and **Silde** |
 | 2023 | ASIACRYPT | [A Generic Construction of Tightly Secure Password-Based Authenticated Key Exchange](https://eprint.iacr.org/2023/1334) | **Pan** and **Zeng** |
