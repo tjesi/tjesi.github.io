@@ -6,7 +6,7 @@ description: "An introduction to digital identity wallets and the European Digit
 
 Digital identity wallets let people store official credentials, such as their national identity, driving licence, or diplomas, on their own phone, and present them to online and in-person services. Done right, a wallet can give users more control over their data than today's identity solutions, since they can share only what is needed, for example proving that they are over 18 without revealing their name or date of birth. Done wrong, it can become a tool for tracking people across every service they use. Which of these we end up with depends to a large extent on the cryptography inside the wallet.
 
-This page gives an overview of the European Digital Identity Wallet and the Norwegian work on a digital wallet, explains the privacy challenges in the cryptographic design of the wallet and how they can be addressed, and collects the standards, research, and projects that I find most relevant, including my own work.
+This page gives an overview of the European Digital Identity Wallet and the Norwegian work on a digital wallet, explains the privacy challenges in the cryptographic design of the wallet and how they can be addressed, and collects the standards, research, and projects that I find most relevant.
 
 *Last updated: September 2026.*
 
@@ -18,7 +18,7 @@ The technical baseline is the [Architecture and Reference Framework](https://eud
 
 ## Norway
 
-Norway is part of eIDAS 2.0 through the EEA Agreement, so the regulation will also apply here. The Norwegian Digitalisation Agency (Digdir) coordinates the work on a [Norwegian digital wallet](https://samarbeid.digdir.no/digital-lommebok/digital-lommebok/2897) together with public and private actors, including a national sandbox for testing wallets and services, pilots, and hackathons with municipalities and vendors.
+Norway is part of eIDAS 2.0 through the EEA Agreement, so the regulation will also apply here. The Norwegian Digitalisation Agency (Digdir) coordinates the work on a [Norwegian digital wallet](https://samarbeid.digdir.no/digital-lommebok/digital-lommebok/2897) together with public and private actors, including a [national sandbox](https://docs.digdir.no/docs/lommebok/lommebok_om.html) for testing wallets and services, pilots, and hackathons with municipalities and vendors.
 
 ## The privacy challenge
 
@@ -54,12 +54,12 @@ New cryptography can only be deployed in the wallet once it is standardized, so 
 
 ## My work
 
-My research is on advanced digital signatures from lattices, including blind signatures and threshold signatures, with digital identity wallets as an important application: blind signatures are a building block for anonymous credentials, and threshold signatures can protect the keys of issuers and wallets by distributing them across several parties. See my [research page](/research/) for relevant papers, such as our work on blind signatures from Raccoon and on threshold lattice signatures. I currently supervise four master's theses on these topics, three of which aim to test their prototypes in Digdir's national sandbox:
+My research is on advanced digital signatures from lattices, including blind signatures and threshold signatures, with digital identity wallets as an important application: blind signatures are a building block for anonymous credentials, and threshold signatures can protect the keys of issuers and wallets by distributing them across several parties. See my [research page](/research/) for relevant papers, such as our work on blind signatures from Raccoon and on threshold lattice signatures. I currently supervise four master's theses on these topics, three of which aim to test their prototypes in Digdir's [national sandbox](https://docs.digdir.no/docs/lommebok/lommebok_om.html):
 
 - **Jakob Severin Gundersen**, *Cryptology and Social Life: Privacy in Digital Identity Wallets*, studies how privacy is built into the EUDI Wallet technically, through selective disclosure and unlinkability, and compares this with the privacy that users perceive and expect, through interviews with users and stakeholders and a review of the standards. The thesis is part of the Cryptology and Social Life project.
-- **Aleksander Thornes Vestlund**, *Post-Quantum Privacy-Preserving Credentials in the European Digital Identity Wallet: Schemes for Selective Disclosure*, compares ways to build post-quantum and privacy-preserving credentials without large and complex zero-knowledge proofs, and tests them against the requirements for the wallet.
 - **Jo Vassbotn Remvik**, *Practical Lattice-Based Zero-Knowledge Proof Systems*, implements concrete lattice-based zero-knowledge proofs for credentials with the [LaZer](https://github.com/lazer-crypto/lazer) library, and measures their size, speed, and trade-offs, with the goal of a prototype for lattice-based credentials.
 - **Sindre Holbek Sørbye**, *Practical Zero-Knowledge Proof Systems from Hash-Based Assumptions and Applications*, studies zero-knowledge proofs that only rely on hash functions, the most conservative building blocks in cryptography. He implements and benchmarks systems such as Aurora, WHIR, and Flock, explores their use for anonymous authentication and credentials as in Longfellow, and evaluates other post-quantum signature schemes for digital wallets, with the goal of a prototype for hash-based credentials.
+- **Aleksander Thornes Vestlund**, *Post-Quantum Privacy-Preserving Credentials in the European Digital Identity Wallet: Schemes for Selective Disclosure*, compares ways to build post-quantum and privacy-preserving credentials without large and complex zero-knowledge proofs, and tests them against the requirements for the wallet.
 
 ## Cryptology and Social Life
 
