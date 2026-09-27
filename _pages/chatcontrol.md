@@ -159,18 +159,18 @@ I also discuss Chat Control and the history of the crypto wars with my students 
 
 ### Op-ed
 
-- [EU-kommisjonens forsvar for Chat Control 2.0 bygger på enten løgn eller inkompetanse](https://www.morgenbladet.no/ideer/kronikk/2023/09/05/eu-kommisjonens-forsvar-for-chat-control-20-bygger-pa-enten-logn-eller-inkompetanse), Morgenbladet, September 5, 2023.
+- [EU-kommisjonens forsvar for Chat Control 2.0 bygger på enten løgn eller inkompetanse](https://www.morgenbladet.no/ideer/kronikk/2023/09/05/eu-kommisjonens-forsvar-for-chat-control-20-bygger-pa-enten-logn-eller-inkompetanse), Morgenbladet, 05.09.2023.
 
 ### Interviews
 
-- [EU vil overvåke chat-meldingene dine](https://www.nrk.no/urix/chat-control_-eu-vil-masseovervake-innbyggerne-1.17983785), NRK, August 14, 2026.
-- [Politiet vil kunne skanne alle meldingene dine med kunstig intelligens](https://subjekt.no/2025/09/30/politiet-vil-kunne-skanne-alle-meldingene-dine-med-kunstig-intelligens/), Subjekt, September 30, 2025.
-- [500 eksperter siger nej til EU's chatkontrol](https://www.version2.dk/artikel/500-eksperter-siger-nej-til-eus-chatkontrol), Version2, September 10, 2025.
-- [500 eksperter sier nei til EUs overvåkingsforslag](https://www.digi.no/artikler/intervju-500-eksperter-sier-nei-til-eus-overvakingsforslag/562187), digi.no, September 9, 2025 ([PDF](/files/open-letter-digi.pdf)).
-- [EU vil skanne mobilen din i jakten på nettovergripere](https://www.aftenposten.no/kultur/i/bgwX83/eu-vil-skanne-mobilen-din-i-jakten-paa-nettovergripere-naa-advarer-mer-enn-300-forskere-mot-forslaget), Aftenposten, July 6, 2023.
-- [Massivt opprop mot å skanne mobiler for overgrepsmateriale](https://nrkbeta.no/2023/07/05/massivt-opprop-mot-a-skanne-mobiler-for-overgrepsmateriale/), NRK, July 5, 2023.
-- [EU vil ta nettovergripere ved å overvåke oss alle](https://www.aftenposten.no/kultur/i/q1QK10/eu-vil-ta-nettovergripere-ved-aa-overvaake-oss-alle), Aftenposten, March 27, 2023.
-- [Ny EU-lov kan føre til massiv overvåking](https://tv.nrk.no/serie/helgemorgen-tv/202205/DNRR62004122#t=4589s), Helgemorgen NRK1/P2, May 14, 2022.
-- [Ny EU-lov mot overgrepsmateriale kan føre til omfattende overvåkning](https://nrkbeta.no/2022/05/11/ny-eu-lov-mot-overgrepsmateriale-kan-fore-til-omfattende-overvakning), NRK, May 11, 2022.
-- [Ledende eksperter advarer mot å skanne mobiler for overgrepsmateriale](https://nrkbeta.no/2021/10/15/ledende-eksperter-advarer-mot-a-skanne-mobiler-for-overgrepsmateriale), NRK, October 15, 2021.
-- [Apple skal skanne mobiler for overgrepsbilder. Eksperter frykter angrep på personvernet](https://www.aftenposten.no/kultur/i/g6PWRk/apple-skal-skanne-mobiler-for-overgrepsbilder-eksperter-frykter-angre), Aftenposten, August 7, 2021.
+- [EU vil overvåke chat-meldingene dine](https://www.nrk.no/urix/chat-control_-eu-vil-masseovervake-innbyggerne-1.17983785), NRK, 14.08.2026.
+- [Politiet vil kunne skanne alle meldingene dine med kunstig intelligens](https://subjekt.no/2025/09/30/politiet-vil-kunne-skanne-alle-meldingene-dine-med-kunstig-intelligens/), Subjekt, 30.09.2025.
+- [500 eksperter siger nej til EU's chatkontrol](https://www.version2.dk/artikel/500-eksperter-siger-nej-til-eus-chatkontrol), Version2, 10.09.2025.
+- [500 eksperter sier nei til EUs overvåkingsforslag](https://www.digi.no/artikler/intervju-500-eksperter-sier-nei-til-eus-overvakingsforslag/562187), digi.no, 09.09.2025 ([PDF](/files/open-letter-digi.pdf)).
+- [EU vil skanne mobilen din i jakten på nettovergripere](https://www.aftenposten.no/kultur/i/bgwX83/eu-vil-skanne-mobilen-din-i-jakten-paa-nettovergripere-naa-advarer-mer-enn-300-forskere-mot-forslaget), Aftenposten, 06.07.2023.
+- [Massivt opprop mot å skanne mobiler for overgrepsmateriale](https://nrkbeta.no/2023/07/05/massivt-opprop-mot-a-skanne-mobiler-for-overgrepsmateriale/), NRK, 05.07.2023.
+- [EU vil ta nettovergripere ved å overvåke oss alle](https://www.aftenposten.no/kultur/i/q1QK10/eu-vil-ta-nettovergripere-ved-aa-overvaake-oss-alle), Aftenposten, 27.03.2023.
+- [Ny EU-lov kan føre til massiv overvåking](https://tv.nrk.no/serie/helgemorgen-tv/202205/DNRR62004122#t=4589s), Helgemorgen NRK1/P2, 14.05.2022.
+- [Ny EU-lov mot overgrepsmateriale kan føre til omfattende overvåkning](https://nrkbeta.no/2022/05/11/ny-eu-lov-mot-overgrepsmateriale-kan-fore-til-omfattende-overvakning), NRK, 11.05.2022.
+- [Ledende eksperter advarer mot å skanne mobiler for overgrepsmateriale](https://nrkbeta.no/2021/10/15/ledende-eksperter-advarer-mot-a-skanne-mobiler-for-overgrepsmateriale), NRK, 15.10.2021.
+- [Apple skal skanne mobiler for overgrepsbilder. Eksperter frykter angrep på personvernet](https://www.aftenposten.no/kultur/i/g6PWRk/apple-skal-skanne-mobiler-for-overgrepsbilder-eksperter-frykter-angre), Aftenposten, 07.08.2021.
