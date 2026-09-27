@@ -1,144 +1,148 @@
 ---
 title: "NTNU Applied Cryptology Lab (NaCl)"
 permalink: /nacl/
-sitemap: false
-robots: noindex
+description: "An unofficial page for the NTNU Applied Cryptology Lab (NaCl), listing current and former faculty, postdocs, and PhD candidates, together with the group's history, events, publications, and projects."
 ---
 
-Welcome to the unofficial page of the NTNU Applied Cryptology Lab (NaCl), a joint cryptography group between the [Department of Information Security and Communication Technology](https://www.ntnu.edu/iik) and the [Department of Mathematical Sciences](https://www.ntnu.edu/imf) at NTNU in Trondheim. The [official group page](https://www.ntnu.edu/iik/nacl-lab) only lists current members, so this page aims to list everyone who is or has been part of the group. If you find an omission or a mistake, please [send me an email](mailto:tjerand.silde@ntnu.no).
+Welcome to the unofficial page of the NTNU Applied Cryptology Lab (NaCl), a cryptography group at NTNU with members at the [Department of Information Security and Communication Technology](https://www.ntnu.edu/iik) and the [Department of Mathematical Sciences](https://www.ntnu.edu/imf), in Trondheim and Gjøvik. The [official group page](https://www.ntnu.edu/iik/nacl-lab) only lists current members, so this page aims to list everyone who is or has been part of the group. If you find an omission or a mistake, please [send me an email](mailto:tjerand.silde@ntnu.no).
+
+*Last updated: September 2026.*
 
 ![The NTNU Applied Cryptology Lab in 2024](/images/nacl-2024.jpg)
 
-We design and analyze cryptographic protocols for secure and privacy-preserving communication and computation, with research on post-quantum cryptography, digital signatures, zero-knowledge proofs, homomorphic encryption, electronic voting, symmetric cryptography, and cryptographic engineering.
+## History
+
+Research in cryptography and information security at NTNU goes back several decades:
+
+| Year | Milestone |
+| --- | --- |
+| 1986–1987 | The first course in information security is taught at NTH, one of the institutions that later became NTNU, and Svein J. Knapskog takes responsibility for building up teaching and research in the field. |
+| 1990 | Stig Frode Mjølsnes completes his doctoral degree on cryptographic protocols, after a research stay with David Chaum's cryptography group at CWI in Amsterdam. He and Kenneth Iversen are among the first in Norway to defend doctoral theses in information security. |
+| 1990s | Close collaboration with the research institute SINTEF DELAB in Trondheim on security evaluations and the design of network security protocols. |
+| 2000s | Information security becomes a priority area at NTNU. Knapskog becomes full professor in 2000, and security is a central part of the Centre for Quantifiable Quality of Service in Communication Systems (Q2S), a Norwegian Centre of Excellence. |
+| 2016 | Researchers in cryptography at IIK and the Department of Mathematical Sciences come together in the NTNU Applied Cryptology Lab, and the merger with Gjøvik University College brings in the cryptography researchers in Gjøvik. |
+| 2022 | NTNU hosts [IACR Eurocrypt 2022](https://eurocrypt.iacr.org/2022) in Trondheim. |
+| 2025 | NTNU hosts [IACR PKC 2025](https://pkc.iacr.org/2025) in Røros. |
 
 ## Faculty
 
-| Name | Position | Since |
-| --- | --- | --- |
-| [Tjerand Silde](https://www.ntnu.edu/employees/tjerand.silde) | Associate Professor | 2022 |
-| [Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen) | Professor | *TODO* |
-| [Danilo Gligoroski](https://www.ntnu.edu/employees/danilo.gligoroski) | Professor | *TODO* |
-| [Stig Frode Mjølsnes](https://www.ntnu.edu/employees/sfm) | Professor | *TODO* |
-| [Jeongeun Park](https://www.ntnu.edu/employees/jeongeun.park) | Associate Professor | 2024 |
-| [Slobodan Petrovic](https://www.ntnu.edu/employees/slobodan.petrovic) | Professor | 2016 |
-| [Staal A. Vinterbo](https://www.ntnu.edu/employees/staal.vinterbo) | Professor | *TODO* |
+| Name | Position | From | To |
+| --- | --- | --- | --- |
+| [Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen) | Professor | 2004 | |
+| [Danilo Gligoroski](https://www.ntnu.edu/employees/danilo.gligoroski) | Professor | 2008 | |
+| [Stig Frode Mjølsnes](https://www.ntnu.edu/employees/sfm) | Professor | *TODO* | |
+| [Jeongeun Park](https://www.ntnu.edu/employees/jeongeun.park) | Associate Professor | 2024 | |
+| [Slobodan Petrovic](https://www.ntnu.edu/employees/slobodan.petrovic) | Professor | 2004 | |
+| [Tjerand Silde](https://tjerandsilde.no) | Associate Professor | 2022 | |
+| [Staal A. Vinterbo](https://www.ntnu.edu/employees/staal.vinterbo) | Professor | 2017 | |
+| [Anamaria Costache](https://anamariacostache.github.io/anamariacostache/) | Associate Professor | 2020 | 2025 |
+| [Colin Boyd](https://www.ntnu.edu/employees/colin.boyd) | Professor | 2013 | 2025 |
+| [Bor de Kock](https://bordekock.nl) | Assistant, later Associate Professor | 2022 | 2024 |
+| [Jiaxin Pan](https://sites.google.com/view/jiaxinpan/home) | Associate Professor | 2019 | 2023 |
+| Svein J. Knapskog | Professor | 1987 | *TODO* |
+| Jan Arild Audestad | Adjunct Professor | 1993 | *TODO* |
+
+Years include positions at the Norwegian Institute of Technology (NTH), which became part of NTNU in 1996, and at Gjøvik University College, which merged with NTNU in 2016.
 
 ## Postdocs and researchers
 
-| Name | Position | Since |
-| --- | --- | --- |
-| [Kamil Doruk Gur](https://www.ntnu.edu/employees/kamil.d.gur) | Postdoctoral Fellow | 2026 |
-| [Mattia Veroni](https://www.ntnu.edu/employees/mattia.veroni) | Postdoctoral Fellow | *TODO* |
-| [Dan Zhang](https://www.ntnu.edu/employees/dan.zhang) | Researcher | 2025 |
-
-## PhD students
-
-| Name | Since |
-| --- | --- |
-| [Pedro Pablo Cardona Arroyave](https://www.ntnu.edu/employees/pedro.p.cardona) | 2026 |
-| [Ole Martin Edstrøm](https://www.ntnu.edu/employees/ole.m.edstrom) | *TODO* |
-| [Oskar Goldhahn](https://www.ntnu.edu/employees/oskar.goldhahn) | *TODO* |
-| [Sonu Kumar Jha](https://www.ntnu.edu/employees/sonu.k.jha) (Scientific Assistant) | 2019 |
-| [Charlotte Ida Pauline Mylog](https://www.ntnu.edu/employees/charlotte.mylog) | *TODO* |
-| [Emil August Hovd Olaisen](https://www.ntnu.edu/employees/emil.august.olaisen) (now Assistant Professor) | 2022 |
-| [Reem Salman](https://www.ntnu.edu/employees/reem.salman) | *TODO* |
-| [Caroline Sandsbråten](https://www.ntnu.edu/employees/caroline.sandsbraten) | 2022 |
-| [Sahana Sridhar](https://www.ntnu.edu/employees/sahana.sridhar) (Doctoral Researcher) | *TODO* |
-| [Espen Sund](https://www.ntnu.edu/employees/espen.sund) | *TODO* |
-| [Einar Karlsen Thesen](https://www.ntnu.edu/employees/einar.k.thesen) | *TODO* |
-| *TODO: industrial PhD candidate* | 2027 |
-
-## Alumni
-
-### Faculty
-
 | Name | Position | From | To |
 | --- | --- | --- | --- |
-| Svein J. Knapskog | Professor | 2000 | *TODO* |
-| Colin Boyd | Professor | 2013 | *TODO* |
-| [Anamaria Costache](https://anamariacostache.github.io/anamariacostache/) | Associate Professor | 2020 | 2025 |
-| [Jiaxin Pan](https://sites.google.com/view/jiaxinpan/home) | Associate Professor | 2019 | 2023 |
-| [Bor de Kock](https://bordekock.nl) | Assistant, later Associate Professor | 2022 | *TODO* |
+| [Kamil Doruk Gur](https://doruk19.github.io) | Postdoctoral Fellow | 2026 | |
+| [Mattia Veroni](https://www.ntnu.edu/employees/mattia.veroni) | Postdoctoral Fellow | 2023 | |
+| [Hans Heum](https://www.simula.no/people/hansh) | Postdoctoral Fellow | 2023 | 2026 |
+| [Dan Zhang](https://www.ntnu.edu/employees/dan.zhang) | Researcher | 2025 | 2026 |
+| Yao Jiang Galteland | Researcher | 2021 | 2023 |
+| [Chen Qian](https://qianchen92.github.io) | Postdoctoral Fellow | 2019 | 2022 |
+| [Ruxandra F. Olimid](https://doctorat.unibuc.ro/wp-content/uploads/2024/11/3_cv_ruxandra_olimid.pdf) | Postdoctoral Fellow, later Adjunct Associate Professor | 2016 | 2022 |
+| [Thomas Haines](https://comp.anu.edu.au/people/thomas-haines/) | Postdoctoral Fellow | 2019 | 2021 |
+| [Christopher Carr](https://cacarr.com) | Postdoctoral Fellow | 2018 | 2020 |
+| [Clémentine Gritti](https://perso.citi-lab.fr/cgritti/) | Postdoctoral Fellow | 2018 | 2020 |
+| [Gareth T. Davies](https://gareth-t-davies.github.io) | Postdoctoral Fellow | 2016 | 2018 |
+| [Markku-Juhani O. Saarinen](https://mjos.fi) | Postdoctoral Fellow | 2014 | 2015 |
+| [Joe-Kai Tsay](https://dblp.org/pid/28/4826.html) | Postdoctoral Fellow | *TODO* | *TODO* |
 
-### Postdocs and researchers
+## PhD candidates
 
-| Name | From | To |
-| --- | --- | --- |
-| [Hans Heum](https://www.simula.no/people/hansh) | 2023 | 2026 |
-| Chen Qian | 2019 | 2022 |
-| Thomas Haines | 2019 | 2021 |
-| Gareth T. Davies | 2016 | 2018 |
+This list includes PhD candidates and graduates in cryptography and information security from IIK and the Department of Mathematical Sciences, with the main supervisor of the graduates. *[TODO: remove anyone who is not a good fit.]*
 
-### PhD graduates
-
-This list includes PhD graduates in cryptography and information security from IIK and the Department of Mathematical Sciences, with their main supervisor. *[TODO: remove anyone who is not a good fit.]*
-
-| Year | Name | Thesis | Main supervisor |
-| --- | --- | --- | --- |
-| 2026 | Bjørnar Vassøy | [Consumer-side Fairness in Recommender Systems](https://hdl.handle.net/11250/5361160) | Helge Langseth |
-| 2026 | Michael Ziegler | [Privacy of Blockchain Systems: An Analysis of Coinjoin Protocols](https://db.item.ntnu.no/graduated/443) | Mariusz Nowostawski |
-| 2025 | Amir Zarei | [Differential Privacy in Secure Multiparty Computation and Deep Neural Networks](https://hdl.handle.net/11250/3172984) | Staal A. Vinterbo |
-| 2025 | Enio Marku | [SafeLib: Secure and High-Performance Outsourcing of Network Functions Made Easy](https://hdl.handle.net/11250/3186180) | Colin Boyd |
-| 2025 | Lea Nürnberger | [Analysis and Optimisation of Fully Homomorphic Encryption](https://hdl.handle.net/11250/5277545) | Anamaria Costache |
-| 2025 | Lise Millerjord | [Key Exchange in a Post Quantum World](https://hdl.handle.net/11250/4845638) | Colin Boyd |
-| 2024 | Ahmed Baig | [Privacy-Preserving Continuous Authentication](https://db.item.ntnu.no/graduated/507) | Sigurd Eskeland |
-| 2024 | Feiyang Tang | [Analyzing Privacy in Software](https://hdl.handle.net/11250/3123422) | Bjarte M. Østvold |
-| 2024 | Elsie Fondevik | [Key Exchange in Special Circumstances](https://hdl.handle.net/11250/3134889) | Kristian Gjøsteen |
-| 2024 | Jonathan Komada Eriksen | [Supersingular Endomorphism Rings: Algorithms and Applications](https://hdl.handle.net/11250/3150033) | Colin Boyd |
-| 2024 | Pia Bauspieß | [Post-Quantum Secure Biometric Systems](https://hdl.handle.net/11250/3131587) | Anamaria Costache |
-| 2024 | Runzhi Zeng | [Tightly-secure Key Encapsulation Mechanism and its Application](https://hdl.handle.net/11250/3155242) | Jiaxin Pan |
-| 2023 | Ali Esmaeily | [Network Slicing in Beyond 5G: Implementation, Isolation, and Coexistence](https://hdl.handle.net/11250/3103918) | Danilo Gligoroski |
-| 2023 | Anton Hasselgren | [Blockchain for Trust and Transparency in Health Information Systems](https://hdl.handle.net/11250/3064202) | *TODO* |
-| 2023 | Bor de Kock | [From Lattice Crypto to Lættis Krypto: Various Approaches to Post-Quantum Key Exchange](https://hdl.handle.net/11250/3070505) | Colin Boyd |
-| 2023 | Magnus Ringerud | [Tight Security for Authenticated Key Exchange Protocols and Signature Schemes](https://hdl.handle.net/11250/3099817) | Jiaxin Pan |
-| 2023 | Mattia Veroni | [A Study on Tighter and More Efficient Isogeny-Based Cryptographic Protocols](https://hdl.handle.net/11250/3060410) | Danilo Gligoroski |
-| 2023 | Morten Rotvold Solberg | [Security for Electronic Voting Systems](https://hdl.handle.net/11250/3108263) | Colin Boyd |
-| 2023 | Petter Solnør | [Applications of Cryptographic Methods in Feedback Control](https://hdl.handle.net/11250/3070487) | *TODO* |
-| 2023 | Øystein Volden | [Cyber-resilient Aided Inertial Navigation](https://hdl.handle.net/11250/3064086) | Thor I. Fossen |
-| 2022 | Kyle Porter | [Approximate String Matching and Filesystem Metadata Carving](https://hdl.handle.net/11250/2976608) | Slobodan Petrovic |
-| 2022 | Mayank Raikwar | [Cryptography for Innovative Blockchain Services](https://hdl.handle.net/11250/3013816) | Danilo Gligoroski |
-| 2022 | Muhammad Mudassar Yamin | [Modelling and Analyzing Attack-Defense Scenarios for Cyber-Ranges](https://hdl.handle.net/11250/2994131) | Basel Katt |
-| 2022 | Shuang Wu | [Cryptography for Blockchains](https://hdl.handle.net/11250/3017687) | Kristian Gjøsteen *[TODO: check main supervisor]* |
-| 2022 | Tjerand Silde | [Privacy-Preserving Cryptography from Zero-Knowledge Proofs](https://hdl.handle.net/11250/3012606) | Kristian Gjøsteen |
-| 2021 | Georgios Kavallieratos | [Security of the Cyber Enabled Ship](https://hdl.handle.net/11250/3072509) | Sokratis Katsikas |
-| 2021 | Yao Jiang | [Cryptographic Tools for Cloud Security](https://hdl.handle.net/11250/2737251) | Kristian Gjøsteen *[TODO: check main supervisor]* |
-| 2020 | Herman Galteland | [Malicious Cryptography](https://hdl.handle.net/11250/2649323) | Kristian Gjøsteen |
-| 2020 | Håkon Gunleifsen | [Security in Interconnected Network Function Virtualisation Environments](https://db.item.ntnu.no/graduated/337) | Thomas Kemmerich |
-| 2020 | Pawel Drozdowski | [Efficient Privacy-Preserving Biometric Identification in Large-Scale Multibiometric Systems](https://db.item.ntnu.no/graduated/365) | Christoph Busch |
-| 2019 | Christopher Carr | [Towards Fairness and Decentralisation in Modern Cryptocurrencies](https://hdl.handle.net/11250/2603953) | Colin Boyd |
-| 2018 | Andrii Shalaginov | [Advancing Neuro-Fuzzy Algorithm for Automated Classification in Large-scale Forensic and Cybercrime Investigations](https://hdl.handle.net/11250/2491724) | Katrin Franke |
-| 2018 | Martin Strand | [Fully Homomorphic Encryption with Applications to Electronic Voting](https://hdl.handle.net/11250/2491701) | Kristian Gjøsteen |
-| 2017 | Britta Hale | [Low-Latency Key Exchange and Secure Channels](https://hdl.handle.net/11250/2478814) | Colin Boyd |
-| 2017 | Goitom Kahsay Weldehawaryat | [Resilience of Infrastructure Networks](https://hdl.handle.net/11250/2454531) | Stephen Wolthusen |
-| 2017 | Håkon Jacobsen | [A Modular Security Analysis of EAP and IEEE 802.11](https://hdl.handle.net/11250/2468807) | Danilo Gligoroski |
-| 2017 | Vasileios Gkioulos | [Securing Tactical Service Oriented Architectures](https://hdl.handle.net/11250/2485672) | Stephen Wolthusen |
-| 2016 | Katina Kralevska | [Applied Erasure Coding in Networks and Distributed Storage](https://db.item.ntnu.no/graduated/193) | Harald Øverby |
-| 2015 | Maria Bartnes | [Understanding Information Security Incident Management Practices](https://db.item.ntnu.no/graduated/90) | Poul E. Heegaard |
-| 2015 | Simona Samardjiska | [Multivariate Public Key Cryptosystems Produced by Quasigroups](https://db.item.ntnu.no/graduated/69) | Danilo Gligoroski |
-| 2013 | Mark Stegelmann | [Privacy for the Smart Grid: Evaluating and Enhancing Vehicle-to-Grid and Smart Metering Approaches](https://db.item.ntnu.no/graduated/73) | Svein J. Knapskog |
-| 2013 | Peiqing Zhang | [Performability Modeling and Evaluation in P2P Content Delivery Systems under Attacks](https://db.item.ntnu.no/graduated/88) | Bjarne E. Helvik |
-| 2012 | Anton Stolbunov | [Cryptographic Schemes Based on Isogenies](https://db.item.ntnu.no/graduated/75) | Stig Frode Mjølsnes |
-| 2012 | Asgeir Bertelsen Steine | [Privacy-Preserving Cryptographic Protocols](https://hdl.handle.net/11250/258994) | *TODO* |
-| 2012 | Benedikt Westermann | [Challenges of Anonymous Communication: Bridging Gaps between Theory and Practice](https://db.item.ntnu.no/graduated/82) | Svein J. Knapskog |
-| 2012 | Martin Eian | [Robustness in Wireless Network Access Protocols](https://hdl.handle.net/11250/262618) | Stig Frode Mjølsnes |
-| 2012 | Mohamed El-Hadedy Aly | [Implementing Algorithms on FPGA Platforms](https://db.item.ntnu.no/graduated/16) | Svein J. Knapskog |
-| 2012 | Mozhgan Tavakolifard | [On Some Challenges for Online Trust and Reputation Systems](https://db.item.ntnu.no/graduated/77) | Svein J. Knapskog |
-| 2012 | Pern Hui Chia | [Information Security on the Web and App Platforms](https://db.item.ntnu.no/graduated/12) | Svein J. Knapskog |
-| 2012 | Rune Ødegård | [Hash Functions and Gröbner Bases Cryptanalysis](https://db.item.ntnu.no/graduated/60) | Svein J. Knapskog |
-| 2012 | Tord Ingolf Reistad | [A General Framework for Multiparty Computations](https://hdl.handle.net/11250/262579) | Stig Frode Mjølsnes |
-| 2011 | Øystein Øvreås Thuen | [Bilinear Pairings in Cryptography](https://hdl.handle.net/11250/258816) | Kristian Gjøsteen |
-| 2010 | Kjetil Haslum | [Real-time Network Intrusion Prevention](https://db.item.ntnu.no/graduated/114) | Svein J. Knapskog |
-| 2009 | Marie Elisabeth Gaup Moe | [Security, Privacy and Trust in Dynamic Networks](https://db.item.ntnu.no/graduated/116) | Svein J. Knapskog |
-| 2008 | Svein Yngvar Willassen | [Methods for Enhancement of Timestamp Evidence in Digital Investigations](https://db.item.ntnu.no/graduated/83) | Stig Frode Mjølsnes |
-| 2007 | Karin Bernsmed | [Stochastic Models for Combined Security and Dependability Evaluation](https://db.item.ntnu.no/graduated/127) | Svein J. Knapskog |
-| 2006 | André Årnes | [Risk, Privacy, and Security in Computer Networks](https://db.item.ntnu.no/graduated/130) | Svein J. Knapskog |
-| 2004 | Kristian Gjøsteen | [Subgroup Membership Problems and Public Key Cryptosystems](https://hdl.handle.net/11250/249681) |  |
-| 2001 | Tønnes Brekne | [Encrypted Computation](https://db.item.ntnu.no/graduated/138) | Svein J. Knapskog |
-| 2000 | Knut Håkon A. Johannessen | [A Methodology for Engineering Design of Distributed Systems: Application to Security Constrained Systems](https://db.item.ntnu.no/graduated/140) | Svein J. Knapskog |
-| 1998 | Audun Jøsang | [Modelling Trust in Information Security](https://db.item.ntnu.no/graduated/145) | Svein J. Knapskog |
-| 1994 | Åsmund Skomedal | [Formal Analysis of Mechanisms for Access Control in Distributed Computing Systems](https://db.item.ntnu.no/graduated/153) | Svein J. Knapskog |
-| 1991 | Kenneth Roar Iversen | [Applications of Cryptographic "Zero-Knowledge" Techniques in Computerized Secret Ballot Election Schemes](https://db.item.ntnu.no/graduated/154) | Svein J. Knapskog |
-| 1990 | Stig Frode Mjølsnes | [Some Issues in Cryptographic Protocols](https://db.item.ntnu.no/graduated/57) | Svein J. Knapskog |
+| Name | From | To | Thesis | Main supervisor |
+| --- | --- | --- | --- | --- |
+| [Pedro Pablo Cardona Arroyave](https://www.ntnu.edu/employees/pedro.p.cardona) | 2026 | | | |
+| [Ole Martin Edstrøm](https://www.ntnu.edu/employees/ole.m.edstrom) | 2022 | | | |
+| [Oskar Goldhahn](https://www.ntnu.edu/employees/oskar.goldhahn) | 2021 | | | |
+| [Sonu Kumar Jha](https://www.ntnu.edu/employees/sonu.k.jha) | 2019 | | | |
+| [Charlotte Ida Pauline Mylog](https://www.ntnu.edu/employees/charlotte.mylog) | 2023 | | | |
+| [Emil August Hovd Olaisen](https://www.ntnu.edu/employees/emil.august.olaisen) | 2022 | | | |
+| [Reem Salman](https://www.ntnu.edu/employees/reem.salman) | 2026 | | | |
+| [Caroline Sandsbråten](https://www.ntnu.edu/employees/caroline.sandsbraten) | 2022 | | | |
+| [Sahana Sridhar](https://www.ntnu.edu/employees/sahana.sridhar) | 2021 | | | |
+| [Espen Sund](https://www.ntnu.edu/employees/espen.sund) | 2025 | | | |
+| [Einar Karlsen Thesen](https://www.ntnu.edu/employees/einar.k.thesen) | 2026 | | | |
+| Bjørnar Vassøy | | 2026 | [Consumer-side Fairness in Recommender Systems](https://hdl.handle.net/11250/5361160) | Helge Langseth |
+| Michael Ziegler | | 2026 | [Privacy of Blockchain Systems: An Analysis of Coinjoin Protocols](https://db.item.ntnu.no/graduated/443) | Mariusz Nowostawski |
+| Amir Zarei | | 2025 | [Differential Privacy in Secure Multiparty Computation and Deep Neural Networks](https://hdl.handle.net/11250/3172984) | Staal A. Vinterbo |
+| Enio Marku | | 2025 | [SafeLib: Secure and High-Performance Outsourcing of Network Functions Made Easy](https://hdl.handle.net/11250/3186180) | Colin Boyd |
+| Lea Nürnberger | | 2025 | [Analysis and Optimisation of Fully Homomorphic Encryption](https://hdl.handle.net/11250/5277545) | Anamaria Costache |
+| Lise Millerjord | | 2025 | [Key Exchange in a Post Quantum World](https://hdl.handle.net/11250/4845638) | Colin Boyd |
+| Ahmed Baig | | 2024 | [Privacy-Preserving Continuous Authentication](https://db.item.ntnu.no/graduated/507) | Sigurd Eskeland |
+| Feiyang Tang | | 2024 | [Analyzing Privacy in Software](https://hdl.handle.net/11250/3123422) | Bjarte M. Østvold |
+| Elsie Mestl Fondevik | 2021 | 2024 | [Key Exchange in Special Circumstances](https://hdl.handle.net/11250/3134889) | Kristian Gjøsteen |
+| Jonathan Komada Eriksen | | 2024 | [Supersingular Endomorphism Rings: Algorithms and Applications](https://hdl.handle.net/11250/3150033) | Colin Boyd |
+| Pia Bauspieß | | 2024 | [Post-Quantum Secure Biometric Systems](https://hdl.handle.net/11250/3131587) | Anamaria Costache |
+| Runzhi Zeng | | 2024 | [Tightly-secure Key Encapsulation Mechanism and its Application](https://hdl.handle.net/11250/3155242) | Jiaxin Pan |
+| Ali Esmaeily | | 2023 | [Network Slicing in Beyond 5G: Implementation, Isolation, and Coexistence](https://hdl.handle.net/11250/3103918) | Danilo Gligoroski |
+| Anton Hasselgren | | 2023 | [Blockchain for Trust and Transparency in Health Information Systems](https://hdl.handle.net/11250/3064202) | *TODO* |
+| Bor de Kock | | 2023 | [From Lattice Crypto to Lættis Krypto: Various Approaches to Post-Quantum Key Exchange](https://hdl.handle.net/11250/3070505) | Colin Boyd |
+| Magnus Ringerud | | 2023 | [Tight Security for Authenticated Key Exchange Protocols and Signature Schemes](https://hdl.handle.net/11250/3099817) | Jiaxin Pan |
+| Mattia Veroni | | 2023 | [A Study on Tighter and More Efficient Isogeny-Based Cryptographic Protocols](https://hdl.handle.net/11250/3060410) | Danilo Gligoroski |
+| Morten Rotvold Solberg | | 2023 | [Security for Electronic Voting Systems](https://hdl.handle.net/11250/3108263) | Colin Boyd |
+| Petter Solnør | | 2023 | [Applications of Cryptographic Methods in Feedback Control](https://hdl.handle.net/11250/3070487) | *TODO* |
+| Øystein Volden | | 2023 | [Cyber-resilient Aided Inertial Navigation](https://hdl.handle.net/11250/3064086) | Thor I. Fossen |
+| Kyle Porter | | 2022 | [Approximate String Matching and Filesystem Metadata Carving](https://hdl.handle.net/11250/2976608) | Slobodan Petrovic |
+| Mayank Raikwar | | 2022 | [Cryptography for Innovative Blockchain Services](https://hdl.handle.net/11250/3013816) | Danilo Gligoroski |
+| Muhammad Mudassar Yamin | | 2022 | [Modelling and Analyzing Attack-Defense Scenarios for Cyber-Ranges](https://hdl.handle.net/11250/2994131) | Basel Katt |
+| Shuang Wu | | 2022 | [Cryptography for Blockchains](https://hdl.handle.net/11250/3017687) | Kristian Gjøsteen *[TODO: check main supervisor]* |
+| Tjerand Silde | | 2022 | [Privacy-Preserving Cryptography from Zero-Knowledge Proofs](https://hdl.handle.net/11250/3012606) | Kristian Gjøsteen |
+| Georgios Kavallieratos | | 2021 | [Security of the Cyber Enabled Ship](https://hdl.handle.net/11250/3072509) | Sokratis Katsikas |
+| Yao Jiang | | 2021 | [Cryptographic Tools for Cloud Security](https://hdl.handle.net/11250/2737251) | Kristian Gjøsteen *[TODO: check main supervisor]* |
+| Herman Galteland | | 2020 | [Malicious Cryptography](https://hdl.handle.net/11250/2649323) | Kristian Gjøsteen |
+| Håkon Gunleifsen | | 2020 | [Security in Interconnected Network Function Virtualisation Environments](https://db.item.ntnu.no/graduated/337) | Thomas Kemmerich |
+| Pawel Drozdowski | | 2020 | [Efficient Privacy-Preserving Biometric Identification in Large-Scale Multibiometric Systems](https://db.item.ntnu.no/graduated/365) | Christoph Busch |
+| Christopher Carr | | 2019 | [Towards Fairness and Decentralisation in Modern Cryptocurrencies](https://hdl.handle.net/11250/2603953) | Colin Boyd |
+| Andrii Shalaginov | | 2018 | [Advancing Neuro-Fuzzy Algorithm for Automated Classification in Large-scale Forensic and Cybercrime Investigations](https://hdl.handle.net/11250/2491724) | Katrin Franke |
+| Martin Strand | | 2018 | [Fully Homomorphic Encryption with Applications to Electronic Voting](https://hdl.handle.net/11250/2491701) | Kristian Gjøsteen |
+| Britta Hale | | 2017 | [Low-Latency Key Exchange and Secure Channels](https://hdl.handle.net/11250/2478814) | Colin Boyd |
+| Goitom Kahsay Weldehawaryat | | 2017 | [Resilience of Infrastructure Networks](https://hdl.handle.net/11250/2454531) | Stephen Wolthusen |
+| Håkon Jacobsen | | 2017 | [A Modular Security Analysis of EAP and IEEE 802.11](https://hdl.handle.net/11250/2468807) | Danilo Gligoroski |
+| Vasileios Gkioulos | | 2017 | [Securing Tactical Service Oriented Architectures](https://hdl.handle.net/11250/2485672) | Stephen Wolthusen |
+| Katina Kralevska | | 2016 | [Applied Erasure Coding in Networks and Distributed Storage](https://db.item.ntnu.no/graduated/193) | Harald Øverby |
+| Maria Bartnes | | 2015 | [Understanding Information Security Incident Management Practices](https://db.item.ntnu.no/graduated/90) | Poul E. Heegaard |
+| Simona Samardjiska | | 2015 | [Multivariate Public Key Cryptosystems Produced by Quasigroups](https://db.item.ntnu.no/graduated/69) | Danilo Gligoroski |
+| Mark Stegelmann | | 2013 | [Privacy for the Smart Grid: Evaluating and Enhancing Vehicle-to-Grid and Smart Metering Approaches](https://db.item.ntnu.no/graduated/73) | Svein J. Knapskog |
+| Peiqing Zhang | | 2013 | [Performability Modeling and Evaluation in P2P Content Delivery Systems under Attacks](https://db.item.ntnu.no/graduated/88) | Bjarne E. Helvik |
+| Anton Stolbunov | | 2012 | [Cryptographic Schemes Based on Isogenies](https://db.item.ntnu.no/graduated/75) | Stig Frode Mjølsnes |
+| Asgeir Bertelsen Steine | | 2012 | [Privacy-Preserving Cryptographic Protocols](https://hdl.handle.net/11250/258994) | *TODO* |
+| Benedikt Westermann | | 2012 | [Challenges of Anonymous Communication: Bridging Gaps between Theory and Practice](https://db.item.ntnu.no/graduated/82) | Svein J. Knapskog |
+| Martin Eian | | 2012 | [Robustness in Wireless Network Access Protocols](https://hdl.handle.net/11250/262618) | Stig Frode Mjølsnes |
+| Mohamed El-Hadedy Aly | | 2012 | [Implementing Algorithms on FPGA Platforms](https://db.item.ntnu.no/graduated/16) | Svein J. Knapskog |
+| Mozhgan Tavakolifard | | 2012 | [On Some Challenges for Online Trust and Reputation Systems](https://db.item.ntnu.no/graduated/77) | Svein J. Knapskog |
+| Pern Hui Chia | | 2012 | [Information Security on the Web and App Platforms](https://db.item.ntnu.no/graduated/12) | Svein J. Knapskog |
+| Rune Ødegård | | 2012 | [Hash Functions and Gröbner Bases Cryptanalysis](https://db.item.ntnu.no/graduated/60) | Svein J. Knapskog |
+| Tord Ingolf Reistad | | 2012 | [A General Framework for Multiparty Computations](https://hdl.handle.net/11250/262579) | Stig Frode Mjølsnes |
+| Øystein Øvreås Thuen | | 2011 | [Bilinear Pairings in Cryptography](https://hdl.handle.net/11250/258816) | Kristian Gjøsteen |
+| Kjetil Haslum | | 2010 | [Real-time Network Intrusion Prevention](https://db.item.ntnu.no/graduated/114) | Svein J. Knapskog |
+| Marie Elisabeth Gaup Moe | | 2009 | [Security, Privacy and Trust in Dynamic Networks](https://db.item.ntnu.no/graduated/116) | Svein J. Knapskog |
+| Svein Yngvar Willassen | | 2008 | [Methods for Enhancement of Timestamp Evidence in Digital Investigations](https://db.item.ntnu.no/graduated/83) | Stig Frode Mjølsnes |
+| Karin Bernsmed | | 2007 | [Stochastic Models for Combined Security and Dependability Evaluation](https://db.item.ntnu.no/graduated/127) | Svein J. Knapskog |
+| André Årnes | | 2006 | [Risk, Privacy, and Security in Computer Networks](https://db.item.ntnu.no/graduated/130) | Svein J. Knapskog |
+| Kristian Gjøsteen | | 2004 | [Subgroup Membership Problems and Public Key Cryptosystems](https://hdl.handle.net/11250/249681) |  |
+| Tønnes Brekne | | 2001 | [Encrypted Computation](https://db.item.ntnu.no/graduated/138) | Svein J. Knapskog |
+| Knut Håkon A. Johannessen | | 2000 | [A Methodology for Engineering Design of Distributed Systems: Application to Security Constrained Systems](https://db.item.ntnu.no/graduated/140) | Svein J. Knapskog |
+| Audun Jøsang | | 1998 | [Modelling Trust in Information Security](https://db.item.ntnu.no/graduated/145) | Svein J. Knapskog |
+| Åsmund Skomedal | | 1994 | [Formal Analysis of Mechanisms for Access Control in Distributed Computing Systems](https://db.item.ntnu.no/graduated/153) | Svein J. Knapskog |
+| Kenneth Roar Iversen | | 1991 | [Applications of Cryptographic "Zero-Knowledge" Techniques in Computerized Secret Ballot Election Schemes](https://db.item.ntnu.no/graduated/154) | Svein J. Knapskog |
+| Stig Frode Mjølsnes | | 1990 | [Some Issues in Cryptographic Protocols](https://db.item.ntnu.no/graduated/57) | Svein J. Knapskog |
 
 ## Events we have organized
 
@@ -150,6 +154,8 @@ This list includes PhD graduates in cryptography and information security from I
 - [Norwegian Crypto Seminar 2021](https://wiki.math.ntnu.no/nks/nks21), Trondheim, 2021
 - [Norwegian Crypto Seminar 2020](https://wiki.math.ntnu.no/nks/nks20), Kjeller, 2020
 - [Crypto vs. Mass Surveillance: The Uneasy Relationship](http://cms16.item.ntnu.no), Trondheim, 2016
+- [Norwegian Crypto Seminar 2015](https://www.frisc.no/arrangementer/norwegian-crypto-seminar-tuesday-sep-8-2015), Trondheim, 2015
+- Information Security Conference (ISC 2015), Trondheim, 2015
 - [The International Conference on PASSWORDS 2014](http://passwords14.item.ntnu.no), Trondheim, 2014
 - *[TODO: other events, e.g. PhD courses, seminars, and summer schools]*
 
