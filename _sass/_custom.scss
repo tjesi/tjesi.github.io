@@ -125,3 +125,11 @@
 .masthead__menu-item--lg {
   padding-right: 1em;
 }
+
+/* Keep year and venue on one line in the NaCl publications table */
+.pubs-table {
+  th:nth-child(-n+2),
+  td:nth-child(-n+2) {
+    white-space: nowrap;
+  }
+}

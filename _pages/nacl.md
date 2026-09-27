@@ -37,7 +37,7 @@ Welcome to the unofficial page of the NTNU Applied Cryptology Lab (NaCl), a cryp
 | [Jan Arild Audestad](https://nva.sikt.no/research-profile/37709) | 1993 | 2012 |
 | [Svein J. Knapskog](https://nva.sikt.no/research-profile/43488) | 1987 | 2009 |
 
-Years include positions at the Norwegian Institute of Technology (NTH), which became part of NTNU in 1996, and at Gjøvik University College, which merged with NTNU in 2016.
+Years include positions at the Norwegian Institute of Technology (NTH), which became part of NTNU in 1996, and at Gjøvik University College, which merged with NTNU in 2016. The Department of Information Security and Communication Technology was previously known as the Department of Telematics.
 
 ## Postdocs and researchers
 
@@ -61,7 +61,7 @@ Years include positions at the Norwegian Institute of Technology (NTH), which be
 
 ## PhD candidates
 
-This list includes PhD candidates and graduates from the Department of Information Security and Communication Technology and the Department of Mathematical Sciences whose theses have cryptography as a major part, with their main supervisor. For graduates, the year is the year of the thesis defence, and for current PhD candidates, the start year is given in parentheses.
+This list includes PhD candidates and graduates from the Department of Information Security and Communication Technology (formerly the Department of Telematics) and the Department of Mathematical Sciences whose theses have cryptography as a major part, with their main supervisor. For graduates, the year is the year of the thesis defence, and for current PhD candidates, the start year is given in parentheses.
 
 | Name | Year | Thesis | Supervisor |
 | --- | --- | --- | --- |
@@ -158,6 +158,7 @@ Papers at IACR Crypto, Eurocrypt, and Asiacrypt, ACM CCS, IEEE S&P, and USENIX S
 | 2012 | CRYPTO | [Efficient Padding Oracle Attacks on Cryptographic Hardware](https://eprint.iacr.org/2012/417) | Bardou, Focardi, Kawamoto, Simionato, Steel, and **Tsay** |
 | 2007 | CRYPTO | [A Security Analysis of the NIST SP 800-90 Elliptic Curve Random Number Generator](https://eprint.iacr.org/2007/048) | Brown and **Gjøsteen** |
 | 2005 | ASIACRYPT | [Spreading Alerts Quietly and the Subgroup Escape Problem](https://doi.org/10.1007/11593447_14) | Aspnes, Diamadi, **Gjøsteen**, Peralta, and Yampolskiy |
+{: .pubs-table}
 
 ## Projects
 
@@ -186,15 +187,15 @@ Research projects in cryptography at NTNU with group members as project leaders 
 ## Events we have organized
 
 - [RESISTANT Symposium](https://www.ntnu.edu/iik/resistant), Røros, 2026
-- [International Workshop on Foundations and Applications of Privacy-Enhancing Cryptography](https://privcryptworkshop.github.io/), Rome, 2026
+- [Foundations and Applications of Privacy-Enhancing Cryptography](https://privcryptworkshop.github.io/), Rome, 2026
 - [Cryptology and Social Life Workshop](https://www.ntnu.edu/iik/cryptology-and-social-life/workshop), Trondheim, 2025
-- [IACR International Conference on Practice and Theory of Public-Key Cryptography](https://pkc.iacr.org/2025), Røros, 2025
+- [IACR Public-Key Cryptography](https://pkc.iacr.org/2025), Røros, 2025
 - [Foundations and Applications of Zero-Knowledge Proofs](https://icms.ac.uk/activities/workshop/foundations-and-applications-of-zero-knowledge-proofs), ICMS, Edinburgh, 2024
 - [Norwegian Crypto Seminar](https://wiki.math.ntnu.no/nks/nks24), Gjøvik, 2024
-- [IACR International Conference on the Theory and Applications of Cryptographic Techniques](https://eurocrypt.iacr.org/2022), Trondheim, 2022
+- [IACR Eurocrypt](https://eurocrypt.iacr.org/2022), Trondheim, 2022
 - [Norwegian Crypto Seminar](https://wiki.math.ntnu.no/nks/nks21), Trondheim, 2021
 - [Norwegian Crypto Seminar](https://wiki.math.ntnu.no/nks/nks20), Kjeller, 2020
 - [Crypto vs. Mass Surveillance: The Uneasy Relationship](http://cms16.item.ntnu.no), Trondheim, 2016
 - [Norwegian Crypto Seminar](https://www.frisc.no/arrangementer/norwegian-crypto-seminar-tuesday-sep-8-2015), Trondheim, 2015
-- [Information Security Conference](http://isc2015.item.ntnu.no/), Trondheim, 2015
+- [Information Security Conference](https://link.springer.com/book/10.1007/978-3-319-23318-5), Trondheim, 2015
 - [The International Conference on PASSWORDS](http://passwords14.item.ntnu.no), Trondheim, 2014
