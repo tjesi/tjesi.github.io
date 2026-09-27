@@ -107,3 +107,21 @@
     text-align: center;
   }
 }
+
+/* Keep names on one line in the NaCl PhD table */
+.phd-table {
+  th:first-child,
+  td:first-child,
+  th:last-child,
+  td:last-child {
+    white-space: nowrap;
+  }
+}
+
+/* Tighter spacing in the top menu so more items fit on one line */
+.greedy-nav .visible-links a {
+  margin: 0 0.6rem;
+}
+.masthead__menu-item--lg {
+  padding-right: 1em;
+}

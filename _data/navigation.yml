@@ -24,5 +24,14 @@ main:
   - title: "Lattices"
     url: /lattices/
 
+  - title: "Wallets"
+    url: /wallets/
+
+  - title: "Chat Control"
+    url: /chatcontrol/
+
+  - title: "NaCl"
+    url: /nacl/
+
   - title: "Resources"
     url: /resources/

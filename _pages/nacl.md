@@ -61,7 +61,7 @@ Years include positions at the Norwegian Institute of Technology (NTH), which be
 
 ## PhD candidates
 
-This list includes PhD candidates and graduates in cryptography and information security from IIK and the Department of Mathematical Sciences, with their main supervisor. For graduates, the year is the year of the thesis defence, and for current PhD candidates, the start year is given in parentheses.
+This list includes PhD candidates and graduates from the Department of Information Security and Communication Technology and the Department of Mathematical Sciences whose theses have cryptography as a major part, with their main supervisor. For graduates, the year is the year of the thesis defence, and for current PhD candidates, the start year is given in parentheses.
 
 | Name | Year | Thesis | Supervisor |
 | --- | --- | --- | --- |
@@ -111,6 +111,7 @@ This list includes PhD candidates and graduates in cryptography and information 
 | [Tønnes Brekne](https://nva.sikt.no/research-profile/37739) | 2001 | [Encrypted Computation](https://db.item.ntnu.no/graduated/138) | Svein J. Knapskog |
 | [Kenneth Roar Iversen](https://nva.sikt.no/research-profile/25792) | 1991 | [Applications of Cryptographic "Zero-Knowledge" Techniques in Computerized Secret Ballot Election Schemes](https://db.item.ntnu.no/graduated/154) | Svein J. Knapskog |
 | [Stig Frode Mjølsnes](https://nva.sikt.no/research-profile/41042) | 1990 | [Some Issues in Cryptographic Protocols](https://db.item.ntnu.no/graduated/57) | Svein J. Knapskog |
+{: .phd-table}
 
 ## Events we have organized
 
@@ -169,6 +170,8 @@ Papers at IACR Crypto, Eurocrypt, and Asiacrypt, ACM CCS, IEEE S&P, and USENIX S
 | 2019 | CRYPTO | [Highly Efficient Key Exchange Protocols with Optimal Tightness](https://eprint.iacr.org/2019/737) | Cohn-Gordon, Cremers, **Gjøsteen**, Jacobsen, and Jager |
 | 2018 | CRYPTO | [Practical and Tightly-Secure Digital Signatures and Authenticated Key Exchange](https://eprint.iacr.org/2018/543) | **Gjøsteen** and Jager |
 | 2017 | EUROCRYPT | [0-RTT Key Exchange with Full Forward Secrecy](https://eprint.iacr.org/2017/223) | Günther, **Hale**, Jager, and Lauer |
+| 2016 | EUROCRYPT | [Safely Exporting Keys from Secure Channels: On the Security of EAP-TLS and TLS Key Exporters](https://eprint.iacr.org/2016/087) | Brzuska, **Jacobsen**, and Stebila |
+| 2012 | CRYPTO | [Efficient Padding Oracle Attacks on Cryptographic Hardware](https://eprint.iacr.org/2012/417) | Bardou, Focardi, Kawamoto, Simionato, Steel, and **Tsay** |
 | 2007 | CRYPTO | [A Security Analysis of the NIST SP 800-90 Elliptic Curve Random Number Generator](https://eprint.iacr.org/2007/048) | Brown and **Gjøsteen** |
 | 2005 | ASIACRYPT | [Spreading Alerts Quietly and the Subgroup Escape Problem](https://doi.org/10.1007/11593447_14) | Aspnes, Diamadi, **Gjøsteen**, Peralta, and Yampolskiy |
 
