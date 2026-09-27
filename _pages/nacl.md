@@ -23,16 +23,16 @@ Welcome to the unofficial page of the NTNU Applied Cryptology Lab (NaCl), a cryp
 
 | Name | From | To |
 | --- | --- | --- |
-| [Jeongeun Park](https://nva.sikt.no/research-profile/1749935) | 2024 |  |
-| [Tjerand Silde](https://nva.sikt.no/research-profile/1090375) | 2022 |  |
+| [Jeongeun Park](https://sites.google.com/view/jeongeunpark/home) | 2024 |  |
+| [Tjerand Silde](https://tjerandsilde.no) | 2022 |  |
 | [Staal A. Vinterbo](https://nva.sikt.no/research-profile/904240) | 2017 |  |
 | [Danilo Gligoroski](https://nva.sikt.no/research-profile/31483) | 2008 |  |
 | [Kristian Gjøsteen](https://nva.sikt.no/research-profile/37636) | 2008 |  |
-| [Slobodan Petrovic](https://nva.sikt.no/research-profile/338310) | 2004 |  |
+| [Slobodan Petrovic](https://slobodap.folk.ntnu.no) | 2004 |  |
 | [Stig Frode Mjølsnes](https://nva.sikt.no/research-profile/41042) | 1999 |  |
-| [Bor de Kock](https://nva.sikt.no/research-profile/1045245) | 2022 | 2024 |
-| [Anamaria Costache](https://nva.sikt.no/research-profile/1287344) | 2020 | 2025 |
-| [Jiaxin Pan](https://nva.sikt.no/research-profile/1154753) | 2019 | 2025 |
+| [Bor de Kock](https://bordekock.nl) | 2022 | 2024 |
+| [Anamaria Costache](https://anamariacostache.github.io/anamariacostache/) | 2020 | 2025 |
+| [Jiaxin Pan](https://sites.google.com/view/jiaxinpan) | 2019 | 2025 |
 | [Colin Boyd](https://nva.sikt.no/research-profile/569021) | 2013 | 2025 |
 | [Jan Arild Audestad](https://nva.sikt.no/research-profile/37709) | 1993 | 2012 |
 | [Svein J. Knapskog](https://nva.sikt.no/research-profile/43488) | 1987 | 2009 |
@@ -43,18 +43,18 @@ Years include positions at the Norwegian Institute of Technology (NTH), which be
 
 | Name | From | To |
 | --- | --- | --- |
-| [Kamil Doruk Gur](https://nva.sikt.no/research-profile/1888506) | 2026 |  |
+| [Kamil Doruk Gur](https://doruk19.github.io) | 2026 |  |
 | [Mattia Veroni](https://nva.sikt.no/research-profile/1027321) | 2023 |  |
 | [Hans Heum](https://nva.sikt.no/research-profile/1516837) | 2023 | 2026 |
 | [Dan Zhang](https://nva.sikt.no/research-profile/885319) | 2022 | 2026 |
 | [Yao Jiang Galteland](https://nva.sikt.no/research-profile/814977) | 2021 | 2023 |
-| [Chen Qian](https://nva.sikt.no/research-profile/1144752) | 2019 | 2022 |
+| [Chen Qian](https://qianchen92.github.io) | 2019 | 2022 |
 | [Thomas Haines](https://nva.sikt.no/research-profile/1074711) | 2019 | 2021 |
-| [Christopher Carr](https://nva.sikt.no/research-profile/602371) | 2018 | 2020 |
-| [Clémentine Gritti](https://nva.sikt.no/research-profile/1022925) | 2018 | 2020 |
-| [Gareth T. Davies](https://nva.sikt.no/research-profile/810383) | 2016 | 2018 |
-| [Ruxandra F. Olimid](https://nva.sikt.no/research-profile/810304) | 2016 | 2022 |
-| [Markku-Juhani O. Saarinen](https://nva.sikt.no/research-profile/644803) | 2014 | 2015 |
+| [Christopher Carr](https://cacarr.com) | 2018 | 2020 |
+| [Clémentine Gritti](https://perso.citi-lab.fr/cgritti/) | 2018 | 2020 |
+| [Gareth T. Davies](https://gareth-t-davies.github.io) | 2016 | 2018 |
+| [Ruxandra F. Olimid](https://ruxandraolimid.weebly.com) | 2016 | 2022 |
+| [Markku-Juhani O. Saarinen](https://mjos.fi) | 2014 | 2015 |
 | [Joe-Kai Tsay](https://nva.sikt.no/research-profile/418176) | 2011 | 2013 |
 | [Danilo Gligoroski](https://nva.sikt.no/research-profile/31483) | 2005 | 2008 |
 | [Kristian Gjøsteen](https://nva.sikt.no/research-profile/37636) | 2004 | 2008 |
@@ -70,7 +70,7 @@ This list includes PhD candidates and graduates from the Department of Informati
 | [Reem Salman](https://nva.sikt.no/research-profile/1885963) | (2026) |  | Staal A. Vinterbo |
 | [Espen Sund](https://nva.sikt.no/research-profile/1810979) | (2025) |  | Staal A. Vinterbo |
 | [Charlotte Ida Pauline Mylog](https://nva.sikt.no/research-profile/1503921) | (2023) |  | Kristian Gjøsteen |
-| [Caroline Sandsbråten](https://nva.sikt.no/research-profile/1449250) | (2022) |  | Tjerand Silde |
+| [Caroline Sandsbråten](https://carosa.no) | (2022) |  | Tjerand Silde |
 | [Emil August Hovd Olaisen](https://nva.sikt.no/research-profile/1447760) | (2022) |  | Tjerand Silde |
 | [Ole Martin Edstrøm](https://nva.sikt.no/research-profile/1426007) | (2022) |  | Kristian Gjøsteen |
 | [Oskar Goldhahn](https://nva.sikt.no/research-profile/1502400) | (2021) |  | Kristian Gjøsteen |
@@ -80,24 +80,24 @@ This list includes PhD candidates and graduates from the Department of Informati
 | [Enio Marku](https://nva.sikt.no/research-profile/904186) | 2025 | [SafeLib: Secure and High-Performance Outsourcing of Network Functions Made Easy](https://hdl.handle.net/11250/3186180) | Colin Boyd |
 | [Lea Nürnberger](https://nva.sikt.no/research-profile/1319911) | 2025 | [Analysis and Optimisation of Fully Homomorphic Encryption](https://hdl.handle.net/11250/5277545) | Anamaria Costache |
 | [Lise Millerjord](https://nva.sikt.no/research-profile/904738) | 2025 | [Key Exchange in a Post Quantum World](https://hdl.handle.net/11250/4845638) | Colin Boyd |
-| [Jonathan Komada Eriksen](https://nva.sikt.no/research-profile/1346477) | 2024 | [Supersingular Endomorphism Rings: Algorithms and Applications](https://hdl.handle.net/11250/3150033) | Colin Boyd |
+| [Jonathan Komada Eriksen](https://jonathke.github.io) | 2024 | [Supersingular Endomorphism Rings: Algorithms and Applications](https://hdl.handle.net/11250/3150033) | Colin Boyd |
 | [Pia Bauspieß](https://nva.sikt.no/research-profile/1318188) | 2024 | [Post-Quantum Secure Biometric Systems](https://hdl.handle.net/11250/3131587) | Anamaria Costache |
-| [Runzhi Zeng](https://nva.sikt.no/research-profile/1358815) | 2024 | [Tightly-secure Key Encapsulation Mechanism and its Application](https://hdl.handle.net/11250/3155242) | Jiaxin Pan |
+| [Runzhi Zeng](https://runzhizeng.github.io) | 2024 | [Tightly-secure Key Encapsulation Mechanism and its Application](https://hdl.handle.net/11250/3155242) | Jiaxin Pan |
 | [Elsie Mestl Fondevik](https://nva.sikt.no/research-profile/1021902) | 2024 | [Key Exchange in Special Circumstances](https://hdl.handle.net/11250/3134889) | Kristian Gjøsteen |
-| [Bor de Kock](https://nva.sikt.no/research-profile/1045245) | 2023 | [From Lattice Crypto to Lættis Krypto: Various Approaches to Post-Quantum Key Exchange](https://hdl.handle.net/11250/3070505) | Colin Boyd |
+| [Bor de Kock](https://bordekock.nl) | 2023 | [From Lattice Crypto to Lættis Krypto: Various Approaches to Post-Quantum Key Exchange](https://hdl.handle.net/11250/3070505) | Colin Boyd |
 | [Magnus Ringerud](https://nva.sikt.no/research-profile/1110184) | 2023 | [Tight Security for Authenticated Key Exchange Protocols and Signature Schemes](https://hdl.handle.net/11250/3099817) | Jiaxin Pan |
 | [Mattia Veroni](https://nva.sikt.no/research-profile/1027321) | 2023 | [A Study on Tighter and More Efficient Isogeny-Based Cryptographic Protocols](https://hdl.handle.net/11250/3060410) | Danilo Gligoroski |
 | [Morten Rotvold Solberg](https://nva.sikt.no/research-profile/1110614) | 2023 | [Security for Electronic Voting Systems](https://hdl.handle.net/11250/3108263) | Kristian Gjøsteen |
 | [Mayank Raikwar](https://nva.sikt.no/research-profile/1091088) | 2022 | [Cryptography for Innovative Blockchain Services](https://hdl.handle.net/11250/3013816) | Danilo Gligoroski |
 | [Shuang Wu](https://nva.sikt.no/research-profile/1043298) | 2022 | [Cryptography for Blockchains](https://hdl.handle.net/11250/3017687) | Kristian Gjøsteen |
-| [Tjerand Silde](https://nva.sikt.no/research-profile/1090375) | 2022 | [Privacy-Preserving Cryptography from Zero-Knowledge Proofs](https://hdl.handle.net/11250/3012606) | Kristian Gjøsteen |
+| [Tjerand Silde](https://tjerandsilde.no) | 2022 | [Privacy-Preserving Cryptography from Zero-Knowledge Proofs](https://hdl.handle.net/11250/3012606) | Kristian Gjøsteen |
 | [Yao Jiang](https://nva.sikt.no/research-profile/814977) | 2021 | [Cryptographic Tools for Cloud Security](https://hdl.handle.net/11250/2737251) | Kristian Gjøsteen |
 | [Herman Galteland](https://nva.sikt.no/research-profile/727408) | 2020 | [Malicious Cryptography](https://hdl.handle.net/11250/2649323) | Kristian Gjøsteen |
-| [Christopher Carr](https://nva.sikt.no/research-profile/602371) | 2019 | [Towards Fairness and Decentralisation in Modern Cryptocurrencies](https://hdl.handle.net/11250/2603953) | Colin Boyd |
+| [Christopher Carr](https://cacarr.com) | 2019 | [Towards Fairness and Decentralisation in Modern Cryptocurrencies](https://hdl.handle.net/11250/2603953) | Colin Boyd |
 | [Martin Strand](https://nva.sikt.no/research-profile/35195) | 2018 | [Fully Homomorphic Encryption with Applications to Electronic Voting](https://hdl.handle.net/11250/2491701) | Kristian Gjøsteen |
 | [Britta Hale](https://nva.sikt.no/research-profile/600411) | 2017 | [Low-Latency Key Exchange and Secure Channels](https://hdl.handle.net/11250/2478814) | Colin Boyd |
 | [Håkon Jacobsen](https://nva.sikt.no/research-profile/34158) | 2017 | [A Modular Security Analysis of EAP and IEEE 802.11](https://hdl.handle.net/11250/2468807) | Danilo Gligoroski |
-| [Simona Samardjiska](https://nva.sikt.no/research-profile/34332) | 2015 | [Multivariate Public Key Cryptosystems Produced by Quasigroups](https://db.item.ntnu.no/graduated/69) | Danilo Gligoroski |
+| [Simona Samardjiska](https://samardjiska.org) | 2015 | [Multivariate Public Key Cryptosystems Produced by Quasigroups](https://db.item.ntnu.no/graduated/69) | Danilo Gligoroski |
 | [Anton Stolbunov](https://nva.sikt.no/research-profile/29715) | 2012 | [Cryptographic Schemes Based on Isogenies](https://db.item.ntnu.no/graduated/75) | Stig Frode Mjølsnes |
 | [Asgeir Bertelsen Steine](https://nva.sikt.no/research-profile/25396) | 2012 | [Privacy-Preserving Cryptographic Protocols](https://hdl.handle.net/11250/258994) | Kristian Gjøsteen |
 | [Benedikt Westermann](https://nva.sikt.no/research-profile/32762) | 2012 | [Challenges of Anonymous Communication: Bridging Gaps between Theory and Practice](https://db.item.ntnu.no/graduated/82) | Svein J. Knapskog |
@@ -112,22 +112,6 @@ This list includes PhD candidates and graduates from the Department of Informati
 | [Kenneth Roar Iversen](https://nva.sikt.no/research-profile/25792) | 1991 | [Applications of Cryptographic "Zero-Knowledge" Techniques in Computerized Secret Ballot Election Schemes](https://db.item.ntnu.no/graduated/154) | Svein J. Knapskog |
 | [Stig Frode Mjølsnes](https://nva.sikt.no/research-profile/41042) | 1990 | [Some Issues in Cryptographic Protocols](https://db.item.ntnu.no/graduated/57) | Svein J. Knapskog |
 {: .phd-table}
-
-## Events we have organized
-
-- [RESISTANT Symposium](https://www.ntnu.edu/iik/resistant), Røros, 2026
-- [International Workshop on Foundations and Applications of Privacy-Enhancing Cryptography](https://privcryptworkshop.github.io/), Rome, 2026
-- [Cryptology and Social Life Workshop](https://www.ntnu.edu/iik/cryptology-and-social-life/workshop), Trondheim, 2025
-- [IACR International Conference on Practice and Theory of Public-Key Cryptography](https://pkc.iacr.org/2025), Røros, 2025
-- [Foundations and Applications of Zero-Knowledge Proofs](https://icms.ac.uk/activities/workshop/foundations-and-applications-of-zero-knowledge-proofs), ICMS, Edinburgh, 2024
-- [Norwegian Crypto Seminar](https://wiki.math.ntnu.no/nks/nks24), Gjøvik, 2024
-- [IACR International Conference on the Theory and Applications of Cryptographic Techniques](https://eurocrypt.iacr.org/2022), Trondheim, 2022
-- [Norwegian Crypto Seminar](https://wiki.math.ntnu.no/nks/nks21), Trondheim, 2021
-- [Norwegian Crypto Seminar](https://wiki.math.ntnu.no/nks/nks20), Kjeller, 2020
-- [Crypto vs. Mass Surveillance: The Uneasy Relationship](http://cms16.item.ntnu.no), Trondheim, 2016
-- [Norwegian Crypto Seminar](https://www.frisc.no/arrangementer/norwegian-crypto-seminar-tuesday-sep-8-2015), Trondheim, 2015
-- [Information Security Conference](http://isc2015.item.ntnu.no/), Trondheim, 2015
-- [The International Conference on PASSWORDS](http://passwords14.item.ntnu.no), Trondheim, 2014
 
 ## Selected publications
 
@@ -183,7 +167,8 @@ Research projects in cryptography at NTNU with group members as project leaders 
 | --- | --- | --- |
 | 2026–2028 | [QARC: Quantum-Resistant Cryptography in Practice](https://cordis.europa.eu/project/id/101225691) | Horizon Europe |
 | 2025–2031 | [Cryptology and Social Life: Digital Identity Wallets](https://www.ntnu.edu/iik/cryptology-and-social-life) | NTNU: "A more resilient society" |
-| 2025–2028 | [ToppForsk@IE: Cryptography](https://www.ntnu.edu/web/iik/toppforsk-ie-cryptography) | NTNU |
+| 2025–2028 | [ToppForsk@IE: Cryptography](https://www.ntnu.edu/web/iik/toppforsk-ie-cryptography) | NTNU IE Faculty |
+| 2024 | [CRYPTO-LAB](/cryptolab/) | NTNU IE Faculty |
 | 2021–2026 | [Realistic Cryptography for Large-scale Applications](https://prosjektbanken.forskningsradet.no/en/project/FORISS/324235) | RCN FRIPRO |
 | 2021–2026 | [OffPAD: Optimizing balance between high security and usability](https://prosjektbanken.forskningsradet.no/en/project/FORISS/321619) | RCN |
 | 2020–2028 | [NORCICS: Norwegian Centre for Cybersecurity in Critical Sectors](https://prosjektbanken.forskningsradet.no/en/project/FORISS/310105) | RCN SFI |
@@ -198,3 +183,18 @@ Research projects in cryptography at NTNU with group members as project leaders 
 | 2004–2010 | [Large Scale PKI Applications](https://prosjektbanken.forskningsradet.no/en/project/FORISS/164149) | RCN |
 | 2003–2008 | [Cross-faculty Research Programme in Information Security](https://prosjektbanken.forskningsradet.no/en/project/FORISS/158597) | RCN |
 
+## Events we have organized
+
+- [RESISTANT Symposium](https://www.ntnu.edu/iik/resistant), Røros, 2026
+- [International Workshop on Foundations and Applications of Privacy-Enhancing Cryptography](https://privcryptworkshop.github.io/), Rome, 2026
+- [Cryptology and Social Life Workshop](https://www.ntnu.edu/iik/cryptology-and-social-life/workshop), Trondheim, 2025
+- [IACR International Conference on Practice and Theory of Public-Key Cryptography](https://pkc.iacr.org/2025), Røros, 2025
+- [Foundations and Applications of Zero-Knowledge Proofs](https://icms.ac.uk/activities/workshop/foundations-and-applications-of-zero-knowledge-proofs), ICMS, Edinburgh, 2024
+- [Norwegian Crypto Seminar](https://wiki.math.ntnu.no/nks/nks24), Gjøvik, 2024
+- [IACR International Conference on the Theory and Applications of Cryptographic Techniques](https://eurocrypt.iacr.org/2022), Trondheim, 2022
+- [Norwegian Crypto Seminar](https://wiki.math.ntnu.no/nks/nks21), Trondheim, 2021
+- [Norwegian Crypto Seminar](https://wiki.math.ntnu.no/nks/nks20), Kjeller, 2020
+- [Crypto vs. Mass Surveillance: The Uneasy Relationship](http://cms16.item.ntnu.no), Trondheim, 2016
+- [Norwegian Crypto Seminar](https://www.frisc.no/arrangementer/norwegian-crypto-seminar-tuesday-sep-8-2015), Trondheim, 2015
+- [Information Security Conference](http://isc2015.item.ntnu.no/), Trondheim, 2015
+- [The International Conference on PASSWORDS](http://passwords14.item.ntnu.no), Trondheim, 2014
