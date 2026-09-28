@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am an Associate Professor in Cryptology at the [Department of Information Security and Communication Technology](https://www.ntnu.edu/iik) at the Norwegian University of Science and Technology (NTNU) in Trondheim, where I lead the [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab). I am also affiliated with the [Department of Mathematical Sciences](https://www.ntnu.edu/imf) and the [Center for Cyber and Information Security](https://www.ntnu.edu/ccis/center-for-cyber-and-information-security) (CCIS) at NTNU.
+Hi! I am an Associate Professor in Cryptology at the [Department of Information Security and Communication Technology](https://www.ntnu.edu/iik) at the Norwegian University of Science and Technology (NTNU) in Trondheim, where I lead the [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab). I am also affiliated with the [Department of Mathematical Sciences](https://www.ntnu.edu/imf) and the [Center for Cyber and Information Security](https://www.ntnu.edu/ccis/center-for-cyber-and-information-security).
 
 My research focuses on lattice-based cryptography as a foundation for advanced digital signatures and zero-knowledge protocols. More broadly, I am interested in post-quantum cryptography, multiparty computation, homomorphic encryption, and secure implementations.
 
