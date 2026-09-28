@@ -90,7 +90,7 @@
   margin: 1em 0 1.5em;
 
   figure {
-    flex: 1 1 280px;
+    flex: 1 1 200px;
     margin: 0;
   }
 
@@ -98,6 +98,8 @@
     width: 100%;
     max-width: 100%;
     height: auto;
+    aspect-ratio: 3 / 2;
+    object-fit: cover;
   }
 
   figcaption {
@@ -140,5 +142,23 @@
   th:nth-child(3), td:nth-child(3),
   th:nth-child(4), td:nth-child(4) {
     white-space: nowrap;
+  }
+}
+
+/* Main group photo above the older ones */
+.page__content .photo-main, .photo-main {
+  margin: 1em 0 0.5em;
+
+  img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+  }
+
+  figcaption {
+    width: 100%;
+    margin: 0.25em 0 0 !important;
+    font-size: $type-size-6;
+    text-align: center;
   }
 }

@@ -8,6 +8,11 @@ Welcome to the unofficial page of the NTNU Applied Cryptology Lab (NaCl), a cryp
 
 *Last updated: September 2026.*
 
+<figure class="photo-main">
+  <img src="/images/nacl-2026.jpg" alt="The NTNU Applied Cryptology Lab in 2026">
+  <figcaption>2026</figcaption>
+</figure>
+
 <div class="photo-row">
   <figure>
     <img src="/images/nacl-2024.jpg" alt="The NTNU Applied Cryptology Lab in 2024">
@@ -16,6 +21,10 @@ Welcome to the unofficial page of the NTNU Applied Cryptology Lab (NaCl), a cryp
   <figure>
     <img src="/images/nacl-2023.jpg" alt="The NTNU Applied Cryptology Lab in 2023">
     <figcaption>2023</figcaption>
+  </figure>
+  <figure>
+    <img src="/images/nacl-2020.jpg" alt="The NTNU Applied Cryptology Lab in 2020">
+    <figcaption>2020</figcaption>
   </figure>
 </div>
 
@@ -183,6 +192,7 @@ Research projects in cryptography at NTNU with group members as project leaders 
 | 2020–2022 | [Key Exchange for Today's Internet](https://prosjektbanken.forskningsradet.no/en/project/FORISS/309153) | Colin Boyd | RCN |
 | 2019–2024 | [Lightweight Cryptography for Future Smart Networks](https://prosjektbanken.forskningsradet.no/en/project/FORISS/288545) | Colin Boyd<br>Danilo Gligoroski<br>Stig Frode Mjølsnes | RCN |
 | 2018–2025 | [Secure, Usable and Robust Cryptographic Voting Systems](https://prosjektbanken.forskningsradet.no/en/project/FORISS/275516) | Kristian Gjøsteen<br>Colin Boyd | RCN |
+| 2018–2022 | [Trust and Transparency in Digital Society Through Blockchain Technology](https://www.ntnu.edu/digital-transformation/blockchain/) | Danilo Gligoroski<br>Kristian Gjøsteen | NTNU Digital Transformation |
 | 2016–2020 | [Cryptographic Tools for Cloud Security](https://prosjektbanken.forskningsradet.no/en/project/FORISS/248166) | Colin Boyd<br>Kristian Gjøsteen | RCN |
 | 2014–2015 | [Group Homomorphic Encryption and Beyond](https://prosjektbanken.forskningsradet.no/en/project/FORISS/233977) | Colin Boyd<br>Kristian Gjøsteen | RCN |
 | 2011–2016 | [FRISC: Forum for Research and Innovation in Security and Communications](https://prosjektbanken.forskningsradet.no/en/project/FORISS/210510) | Stig Frode Mjølsnes | RCN |
