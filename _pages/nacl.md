@@ -171,26 +171,26 @@ Papers at IACR Crypto, Eurocrypt, and Asiacrypt, the IACR Journal of Cryptology 
 
 Research projects in cryptography at NTNU with group members as project leaders or participants.
 
-| Years | Project | Leader | Funding |
+| Years | Project | Leader / participant | Funding |
 | --- | --- | --- | --- |
 | 2026–2028 | [QARC: Quantum-Resistant Cryptography in Practice](https://cordis.europa.eu/project/id/101225691) | Kristian Gjøsteen | Horizon Europe |
-| 2025–2031 | [Cryptology and Social Life: Digital Identity Wallets](https://www.ntnu.edu/iik/cryptology-and-social-life) | Tjerand Silde | NTNU: "A more resilient society" |
-| 2025–2028 | [ToppForsk@IE: Cryptography](https://www.ntnu.edu/web/iik/toppforsk-ie-cryptography) | Tjerand Silde | NTNU IE Faculty |
+| 2025–2031 | [Cryptology and Social Life: Digital Identity Wallets](https://www.ntnu.edu/iik/cryptology-and-social-life) | Tjerand Silde<br>Kristian Gjøsteen | NTNU: "A more resilient society" |
+| 2025–2028 | [ToppForsk@IE: Cryptography](https://www.ntnu.edu/web/iik/toppforsk-ie-cryptography) | Tjerand Silde<br>Kristian Gjøsteen<br>Jeongeun Park | NTNU IE Faculty |
 | 2023–2024 | [CRYPTO-LAB](/cryptolab/) | Tjerand Silde | NTNU IE Faculty |
 | 2021–2026 | [Realistic Cryptography for Large-scale Applications](https://prosjektbanken.forskningsradet.no/en/project/FORISS/324235) | Jiaxin Pan | RCN FRIPRO |
 | 2021–2026 | [OffPAD: Optimizing balance between high security and usability](https://prosjektbanken.forskningsradet.no/en/project/FORISS/321619) | Tjerand Silde<br>Danilo Gligoroski | RCN |
-| 2020–2028 | [NORCICS: Norwegian Centre for Cybersecurity in Critical Sectors](https://prosjektbanken.forskningsradet.no/en/project/FORISS/310105) | Sokratis Katsikas | RCN Centre for Research-based Innovation |
+| 2020–2028 | [NORCICS: Norwegian Centre for Cybersecurity in Critical Sectors](https://prosjektbanken.forskningsradet.no/en/project/FORISS/310105) | Danilo Gligoroski | RCN Centre for Research-based Innovation |
 | 2020–2022 | [Key Exchange for Today's Internet](https://prosjektbanken.forskningsradet.no/en/project/FORISS/309153) | Colin Boyd | RCN |
-| 2019–2024 | [Lightweight Cryptography for Future Smart Networks](https://prosjektbanken.forskningsradet.no/en/project/FORISS/288545) | Colin Boyd | RCN |
-| 2018–2025 | [Secure, Usable and Robust Cryptographic Voting Systems](https://prosjektbanken.forskningsradet.no/en/project/FORISS/275516) | Kristian Gjøsteen | RCN |
-| 2016–2020 | [Cryptographic Tools for Cloud Security](https://prosjektbanken.forskningsradet.no/en/project/FORISS/248166) | Colin Boyd | RCN |
-| 2014–2015 | [Group Homomorphic Encryption and Beyond](https://prosjektbanken.forskningsradet.no/en/project/FORISS/233977) | Colin Boyd | RCN |
-| 2011–2016 | [FRISC: Forum for Research and Innovation in Security and Communications (network)](https://prosjektbanken.forskningsradet.no/en/project/FORISS/210510) | Stig Frode Mjølsnes | RCN |
+| 2019–2024 | [Lightweight Cryptography for Future Smart Networks](https://prosjektbanken.forskningsradet.no/en/project/FORISS/288545) | Colin Boyd<br>Danilo Gligoroski<br>Stig Frode Mjølsnes | RCN |
+| 2018–2025 | [Secure, Usable and Robust Cryptographic Voting Systems](https://prosjektbanken.forskningsradet.no/en/project/FORISS/275516) | Kristian Gjøsteen<br>Colin Boyd | RCN |
+| 2016–2020 | [Cryptographic Tools for Cloud Security](https://prosjektbanken.forskningsradet.no/en/project/FORISS/248166) | Colin Boyd<br>Kristian Gjøsteen | RCN |
+| 2014–2015 | [Group Homomorphic Encryption and Beyond](https://prosjektbanken.forskningsradet.no/en/project/FORISS/233977) | Colin Boyd<br>Kristian Gjøsteen | RCN |
+| 2011–2016 | [FRISC: Forum for Research and Innovation in Security and Communications](https://prosjektbanken.forskningsradet.no/en/project/FORISS/210510) | Stig Frode Mjølsnes | RCN |
 | 2008–2012 | [Privacy-preserving Seamless Digital Infrastructures](https://prosjektbanken.forskningsradet.no/en/project/FORISS/183195) | Kristian Gjøsteen | RCN |
 | 2005–2008 | [TID: Time Stamps, Digital Traces and Forensic Evidence](https://prosjektbanken.forskningsradet.no/en/project/FORISS/164378) | Stig Frode Mjølsnes | RCN |
 | 2004–2010 | [Large Scale PKI Applications](https://prosjektbanken.forskningsradet.no/en/project/FORISS/164149) | Stig Frode Mjølsnes | RCN |
 | 2003–2008 | [Cross-faculty Research Programme in Information Security](https://prosjektbanken.forskningsradet.no/en/project/FORISS/158597) | Stig Frode Mjølsnes | RCN |
-| 2002–2013 | [Q2S: Centre for Quantifiable Quality of Service in Communication Systems](https://prosjektbanken.forskningsradet.no/en/project/FORISS/146005) | Svein J. Knapskog | RCN Centre of Excellence |
+| 2002–2013 | [Q2S: Centre for Quantifiable Quality of Service in Communication Systems](https://prosjektbanken.forskningsradet.no/en/project/FORISS/146005) | Svein J. Knapskog<br>Danilo Gligoroski | RCN Centre of Excellence |
 {: .projects-table}
 
 ## Events we have organized
