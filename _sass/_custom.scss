@@ -90,21 +90,25 @@
   margin: 1em 0 1.5em;
 
   figure {
+    display: block !important;
     flex: 1 1 200px;
     margin: 0;
   }
 
   img {
-    width: 100%;
+    width: 100% !important;
     max-width: 100%;
     height: auto;
     aspect-ratio: 3 / 2;
     object-fit: cover;
+    display: block;
+    margin: 0 !important;
   }
 
   figcaption {
     width: 100%;
-    margin: 0.25em 0 0 !important;
+    margin: 0.4em 0 0 !important;
+    font-family: $sans-serif;
     font-size: $type-size-6;
     text-align: center;
   }
@@ -147,17 +151,21 @@
 
 /* Main group photo above the older ones */
 .page__content .photo-main, .photo-main {
+  display: block !important;
   margin: 1em 0 0.5em;
 
   img {
-    width: 100%;
+    width: 100% !important;
     max-width: 100%;
     height: auto;
+    display: block;
+    margin: 0 !important;
   }
 
   figcaption {
     width: 100%;
-    margin: 0.25em 0 0 !important;
+    margin: 0.4em 0 0 !important;
+    font-family: $sans-serif;
     font-size: $type-size-6;
     text-align: center;
   }
