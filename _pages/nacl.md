@@ -115,7 +115,7 @@ This list includes PhD candidates and graduates from the Department of Informati
 
 ## Selected publications
 
-Papers at IACR Crypto, Eurocrypt, and Asiacrypt, ACM CCS, IEEE S&P, and USENIX Security with at least one author who was a member of the group at the time of publication. Group members are in bold.
+Papers at IACR Crypto, Eurocrypt, and Asiacrypt, the IACR Journal of Cryptology (JoC), ACM CCS, IEEE S&P, and USENIX Security with at least one author who was a member of the group at the time of publication. Group members are in bold. Papers that appeared both at a conference and in the Journal of Cryptology are listed once, by their conference version. AUSCRYPT was held in Australia in 1990 and 1992, alternating with ASIACRYPT in Japan, and the two merged into the annual ASIACRYPT conference from 1994.
 
 | Year | Venue | Paper | Authors |
 | --- | --- | --- | --- |
@@ -138,9 +138,11 @@ Papers at IACR Crypto, Eurocrypt, and Asiacrypt, ACM CCS, IEEE S&P, and USENIX S
 | 2023 | CRYPTO | [Lattice-Based Authenticated Key Exchange with Tight Security](https://eprint.iacr.org/2023/823) | **Pan**, Wagner, and **Zeng** |
 | 2023 | CRYPTO | [On Optimal Tightness for Key Exchange with Full Forward Secrecy via Key Confirmation](https://eprint.iacr.org/2023/854) | Gellert, **Gjøsteen**, Jacobsen, and Jager |
 | 2023 | EUROCRYPT | [Chopsticks: Fork-Free Two-Round Multi-Signatures from Non-Interactive Assumptions](https://eprint.iacr.org/2023/198) | **Pan** and Wagner |
+| 2023 | JoC | [Compact Structure-Preserving Signatures with Almost Tight Security](https://doi.org/10.1007/s00145-023-09477-z) | Abe, Hofheinz, Nishimaki, Ohkubo, and **Pan** |
 | 2022 | ASIACRYPT | [Compact and Tightly Selective-Opening Secure Public-key Encryption Schemes](https://doi.org/10.1007/978-3-031-22969-5_13) | **Pan** and **Zeng** |
 | 2022 | ASIACRYPT | [Unconditionally Secure NIZK in the Fine-Grained Setting](https://eprint.iacr.org/2023/015) | Wang and **Pan** |
 | 2022 | EUROCRYPT | [Non-Interactive Zero-Knowledge Proofs with Fine-Grained Security](https://eprint.iacr.org/2022/548) | Wang and **Pan** |
+| 2022 | JoC | [Signed (Group) Diffie–Hellman Key Exchange with Tight Security](https://doi.org/10.1007/s00145-022-09438-y) | **Pan**, **Qian**, and **Ringerud** |
 | 2021 | ASIACRYPT | [Symmetric Key Exchange with Full Forward Security and Robust Synchronization](https://eprint.iacr.org/2021/702) | **Boyd**, Davies, **de Kock**, Gellert, Jager, and **Millerjord** |
 | 2021 | CRYPTO | [Authenticated Key Exchange and Signatures with Tight Security in the Standard Model](https://eprint.iacr.org/2021/863) | Han, Jager, Kiltz, Liu, **Pan**, Riepel, and Schäge |
 | 2021 | CRYPTO | [Fine-Grained Secure Attribute-Based Encryption](https://eprint.iacr.org/2023/1327) | Wang, **Pan**, and Chen |
@@ -149,6 +151,7 @@ Papers at IACR Crypto, Eurocrypt, and Asiacrypt, ACM CCS, IEEE S&P, and USENIX S
 | 2020 | ASIACRYPT | [Unbounded HIBE with Tight Security](https://eprint.iacr.org/2020/1099) | Langrehr and **Pan** |
 | 2020 | CRYPTO | [Fast and Secure Updatable Encryption](https://eprint.iacr.org/2019/1457) | **Boyd**, Davies, **Gjøsteen**, and **Jiang** |
 | 2020 | IEEE S&P | [How not to Prove your Election Outcome](https://openprivacy.ca/assets/how-not-to-prove-your-election-outcome-preprint.pdf) | **Haines**, Lewis, Pereira, and Teague |
+| 2020 | JoC | [Tightly Secure Hierarchical Identity-Based Encryption](https://doi.org/10.1007/s00145-020-09356-x) | Langrehr and **Pan** |
 | 2019 | ACM CCS | [Verified Verifiers for Verifying Elections](https://doi.org/10.1145/3319535.3354247) | **Haines**, Goré, and Tiwari |
 | 2019 | ASIACRYPT | [Shorter QA-NIZK and SPS with Tighter Security](https://eprint.iacr.org/2019/1284) | Abe, Jutla, Ohkubo, **Pan**, Roy, and Wang |
 | 2019 | CRYPTO | [Highly Efficient Key Exchange Protocols with Optimal Tightness](https://eprint.iacr.org/2019/737) | Cohn-Gordon, Cremers, **Gjøsteen**, Jacobsen, and Jager |
@@ -158,6 +161,10 @@ Papers at IACR Crypto, Eurocrypt, and Asiacrypt, ACM CCS, IEEE S&P, and USENIX S
 | 2012 | CRYPTO | [Efficient Padding Oracle Attacks on Cryptographic Hardware](https://eprint.iacr.org/2012/417) | Bardou, Focardi, Kawamoto, Simionato, Steel, and **Tsay** |
 | 2007 | CRYPTO | [A Security Analysis of the NIST SP 800-90 Elliptic Curve Random Number Generator](https://eprint.iacr.org/2007/048) | Brown and **Gjøsteen** |
 | 2005 | ASIACRYPT | [Spreading Alerts Quietly and the Subgroup Escape Problem](https://doi.org/10.1007/11593447_14) | Aspnes, Diamadi, **Gjøsteen**, Peralta, and Yampolskiy |
+| 1990 | AUSCRYPT | [Formal Specification and Verification of Secure Communication Protocols](https://link.springer.com/chapter/10.1007/BFb0030352) | **Knapskog** |
+| 1989 | EUROCRYPT | [A Simple Technique for Diffusing Cryptoperiods](https://link.springer.com/chapter/10.1007/3-540-46885-4_14) | **Mjølsnes** |
+| 1989 | EUROCRYPT | [Efficient Offline Electronic Checks](https://link.springer.com/chapter/10.1007/3-540-46885-4_31) | Chaum, den Boer, van Heyst, **Mjølsnes**, and Steenbeek |
+| 1988 | EUROCRYPT | [Privacy Protected Payments: Realization of a Protocol That Guarantees Payer Anonymity](https://link.springer.com/chapter/10.1007/3-540-45961-8_10) | **Knapskog** |
 {: .pubs-table}
 
 ## Projects
