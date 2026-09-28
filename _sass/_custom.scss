@@ -133,3 +133,11 @@
     white-space: nowrap;
   }
 }
+
+/* Keep years and leader names on one line in the NaCl projects table */
+.projects-table {
+  th:nth-child(1), td:nth-child(1),
+  th:nth-child(3), td:nth-child(3) {
+    white-space: nowrap;
+  }
+}

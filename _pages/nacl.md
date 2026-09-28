@@ -178,8 +178,8 @@ Research projects in cryptography at NTNU with group members as project leaders 
 | 2025–2028 | [ToppForsk@IE: Cryptography](https://www.ntnu.edu/web/iik/toppforsk-ie-cryptography) | Tjerand Silde | NTNU IE Faculty |
 | 2023–2024 | [CRYPTO-LAB](/cryptolab/) | Tjerand Silde | NTNU IE Faculty |
 | 2021–2026 | [Realistic Cryptography for Large-scale Applications](https://prosjektbanken.forskningsradet.no/en/project/FORISS/324235) | Jiaxin Pan | RCN FRIPRO |
-| 2021–2026 | [OffPAD: Optimizing balance between high security and usability](https://prosjektbanken.forskningsradet.no/en/project/FORISS/321619) | Tjerand Silde / Danilo Gligoroski | RCN |
-| 2020–2028 | [NORCICS: Norwegian Centre for Cybersecurity in Critical Sectors](https://prosjektbanken.forskningsradet.no/en/project/FORISS/310105) | Sokratis Katsikas | RCN SFI |
+| 2021–2026 | [OffPAD: Optimizing balance between high security and usability](https://prosjektbanken.forskningsradet.no/en/project/FORISS/321619) | Tjerand Silde<br>Danilo Gligoroski | RCN |
+| 2020–2028 | [NORCICS: Norwegian Centre for Cybersecurity in Critical Sectors](https://prosjektbanken.forskningsradet.no/en/project/FORISS/310105) | Sokratis Katsikas | RCN Centre for Research-based Innovation |
 | 2020–2022 | [Key Exchange for Today's Internet](https://prosjektbanken.forskningsradet.no/en/project/FORISS/309153) | Colin Boyd | RCN |
 | 2019–2024 | [Lightweight Cryptography for Future Smart Networks](https://prosjektbanken.forskningsradet.no/en/project/FORISS/288545) | Colin Boyd | RCN |
 | 2018–2025 | [Secure, Usable and Robust Cryptographic Voting Systems](https://prosjektbanken.forskningsradet.no/en/project/FORISS/275516) | Kristian Gjøsteen | RCN |
@@ -191,6 +191,7 @@ Research projects in cryptography at NTNU with group members as project leaders 
 | 2004–2010 | [Large Scale PKI Applications](https://prosjektbanken.forskningsradet.no/en/project/FORISS/164149) | Stig Frode Mjølsnes | RCN |
 | 2003–2008 | [Cross-faculty Research Programme in Information Security](https://prosjektbanken.forskningsradet.no/en/project/FORISS/158597) | Stig Frode Mjølsnes | RCN |
 | 2002–2013 | [Q2S: Centre for Quantifiable Quality of Service in Communication Systems](https://prosjektbanken.forskningsradet.no/en/project/FORISS/146005) | Svein J. Knapskog | RCN Centre of Excellence |
+{: .projects-table}
 
 ## Events we have organized
 
