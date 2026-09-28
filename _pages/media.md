@@ -61,6 +61,7 @@ permalink: /media/
 
 ## Mentions
 
+- [Studenter til Digdir for å lære om digital lommebok](https://samarbeid.digdir.no/digital-lommebok/studenter-til-digdir-laere-om-digital-lommebok/3876), Digdir, September 23, 2026.
 - [Historien om Smittestopp, fra innsida: - Personvern handler om tekniske valg](https://www.kode24.no/artikkel/historien-om-smittestopp-fra-innsida-personvern-handler-om-tekniske-valg/77012938), Kode24, August 30, 2022.
 - [Han hacker deg på sekunder](https://www.agderposten.no/nyheter/i/kEW1vj/han-hacker-deg-paa-sekunder), Agderposten, August 17, 2022.
 - [Forskere ga Smittestopp-appen bedre personvern](https://forskning.no/app-data-forsvarets-forskningsinstitutt/forskere-ga-smittestopp-appen-bedre-personvern/1865394), forskning.no, May 29, 2021.
