@@ -59,6 +59,8 @@ The table below gives a rough and admittedly biased history of the foundations o
 | 2022 | Short and general lattice-based zero-knowledge proofs (LNP) | Lyubashevsky, Nguyen, and Plançon: [Lattice-Based Zero-Knowledge Proofs and Applications: Shorter, Simpler, and More General](https://eprint.iacr.org/2022/284) |
 | 2022 | FINAL, the first secure NTRU-based fully homomorphic encryption scheme, avoiding the attacks on the overstretched NTRU parameters used by earlier schemes | Bonte, Iliashenko, Park, Pereira, and Smart: [FINAL: Faster FHE Instantiated with NTRU and LWE](https://eprint.iacr.org/2022/074) |
 | 2023 | Compact succinct proofs from Module-SIS (LaBRADOR) | Beullens and Seiler: [LaBRADOR: Compact Proofs for R1CS from Module-SIS](https://eprint.iacr.org/2022/1341) |
+| 2023 | The first full lattice-based voting protocol for general electronic elections, with verifiable mix-nets and distributed decryption | Aranha, Baum, Gjøsteen, and Silde: [Verifiable Mix-Nets and Distributed Decryption for Voting from Lattice-Based Assumptions](https://eprint.iacr.org/2022/422) |
+| 2024 | Threshold Raccoon, the first practical lattice-based threshold signature scheme | del Pino, Katsumata, Maller, Mouhartem, Prest, and Saarinen: [Threshold Raccoon: Practical Threshold Signatures from Standard Lattice Assumptions](https://eprint.iacr.org/2024/184) |
 | 2024 | LaZer, a library that makes lattice-based zero-knowledge proofs practical for non-experts | Lyubashevsky, Seiler, and Steuer: [The LaZer Library: Lattice-Based Zero Knowledge and Succinct Proofs for Quantum-Safe Privacy](https://eprint.iacr.org/2024/1846) |
 
 ## Where to start
