@@ -5,6 +5,8 @@ permalink: /research/
 
 ## Publications
 
+- **Implementing Threshold Signatures for FIDO Authentication**  
+  NISK 2026. Joint work with Javier Garcia.
 - **[Distributed Key Generation for NTRU](https://eprint.iacr.org/2026/1854)**  
   CANS 2026. Joint work with Patrick Hough, Jérôme Nguyen, and Caroline Sandsbråten.
 - **[Olingo: Threshold Lattice Signatures with DKG and Identifiable Abort](https://eprint.iacr.org/2025/1789)**  
