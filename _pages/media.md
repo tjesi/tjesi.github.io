@@ -5,6 +5,7 @@ permalink: /media/
 
 ## Interviews
 
+- [Dette betyr PHP avdekkningen for studenter](https://www.underdusken.no/data-sit/dette-betyr-php-avdekkningen-for-studenter/349904), Under Dusken, October 24, 2026.
 - [EU vil overvåke chat-meldingene dine](https://www.nrk.no/urix/chat-control_-eu-vil-masseovervake-innbyggerne-1.17983785), NRK, August 14, 2026.
 - [Politiet vil kunne skanne alle meldingene dine med kunstig intelligens](https://subjekt.no/2025/09/30/politiet-vil-kunne-skanne-alle-meldingene-dine-med-kunstig-intelligens/), Subjekt, September 30, 2025.
 - [500 eksperter siger nej til EU’s chatkontrol](https://www.version2.dk/artikel/500-eksperter-siger-nej-til-eus-chatkontrol), Version2, September 10, 2025.
