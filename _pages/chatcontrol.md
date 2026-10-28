@@ -8,7 +8,7 @@ Since 2022, the European Union has been negotiating a [regulation to prevent and
 
 This page gives a short introduction for readers who are new to the topic, explains the main technical objections, and collects the open letters, official assessments, research papers, talks, and websites that I find most useful. The views on this page are my own and do not represent those of NTNU.
 
-*Last updated: September 2026.*
+*Last updated: October 2026.*
 
 ## What is Chat Control?
 
@@ -37,9 +37,9 @@ A temporary regulation, [Regulation (EU) 2021/1232](https://eur-lex.europa.eu/el
 | 2024–2025 | Successive Council presidencies propose new variants, such as "upload moderation" under the Belgian presidency, where users must consent to scanning in order to send images and videos. The Belgian, Hungarian, and Polish proposals do not get a majority. In October 2025, the Danish presidency drops mandatory detection orders from its text. |
 | November 2025 | The Council [agrees on its position](https://www.consilium.europa.eu/en/press/press-releases/2025/11/26/child-sexual-abuse-council-reaches-position-on-law-protecting-children-from-online-abuse/): mandatory detection orders are dropped, but "voluntary" scanning is made permanent, and providers get risk-mitigation obligations. |
 | December 2025 | Trilogue negotiations between the Parliament, the Council, and the Commission start. |
-| April 2026 | After the European Parliament rejects an extension in March, the interim regulation expires on April 3. |
+| April 2026 | After the European Parliament rejects an extension in March (311 votes against, 228 in favour), the interim regulation expires on April 3. |
 | July 2026 | The interim regulation is reinstated as [Regulation (EU) 2026/1881](https://eur-lex.europa.eu/eli/reg/2026/1881/oj/eng) until April 2028, now explicitly excluding end-to-end encrypted communication. |
-| September 2026 | As of this writing, trilogue negotiations on the permanent regulation continue under the Irish presidency. Whether to allow voluntary scanning or only targeted detection is the main open issue. |
+| October 2026 | As of this writing, trilogue negotiations on the permanent regulation continue under the Irish presidency. Whether to allow voluntary scanning or only targeted detection is the main open issue. |
 
 See the Council's [timeline](https://www.consilium.europa.eu/en/policies/prevent-child-sexual-abuse/timeline-prevention-of-child-sexual-abuse/) and [Patrick Breyer's page](https://www.patrick-breyer.de/en/posts/chat-control/) for the latest news.
 
@@ -51,7 +51,7 @@ Perceptual hashing is not robust against a motivated adversary. Researchers have
 
 Detecting new material and grooming is even harder. It relies on machine-learning classifiers, which are inherently susceptible to evasion and have significant error rates. Grooming conversations can look like ordinary conversations between friends or family, and even human experts struggle to distinguish abuse material from consensual exchanges between teenagers. Unlike malware scanning, which targets well-defined threats, there is no precise technical definition of the content to detect.
 
-Applied to billions of messages every day, even a very small error rate leads to an enormous number of false reports. As the [May 2024 letter](https://csa-scientist-open-letter.org/May2024) points out, WhatsApp users alone send 140 billion messages per day. Even if only one in a hundred messages were checked by a detector with a false positive rate of 0.1%, there would be 1.4 million false positives every single day. This is not only a theoretical concern: the [Irish Council for Civil Liberties](https://www.iccl.ie/news/an-garda-siochana-unlawfully-retains-files-on-innocent-people-who-it-has-already-cleared-of-producing-or-sharing-of-child-sex-abuse-material/) reported that out of 4,192 reports the Irish police received from the US hotline NCMEC in 2020, only 409 were actionable, and 471 were not abuse material at all. False reports overwhelm investigators, take resources away from real cases, and expose innocent people, including teenagers, to investigations.
+Applied to billions of messages every day, even a very small error rate leads to an enormous number of false reports. As the [May 2024 letter](https://csa-scientist-open-letter.org/May2024) points out, WhatsApp users alone send 140 billion messages per day. Even if only one in a hundred messages were checked by a detector with a false positive rate of 0.1%, there would be 1.4 million false positives every single day. Even a hypothetical detector with 99% accuracy, far better than anything that exists, would flag 69 million of the roughly 6.9 billion images sent on WhatsApp every day for manual review. Experience from voluntary scanning of unencrypted services points the same way: according to then-Commissioner Ylva Johansson, who proposed the regulation, internet companies reported 1.5 million cases from the EU to NCMEC in 2023, containing 5.2 million images, videos, and grooming conversations, of which only [about 25% were of a quality that the police could work on](https://video.consilium.europa.eu/event/en/27239). This is not only a theoretical concern: the [Irish Council for Civil Liberties](https://www.iccl.ie/news/an-garda-siochana-unlawfully-retains-files-on-innocent-people-who-it-has-already-cleared-of-producing-or-sharing-of-child-sex-abuse-material/) reported that out of 4,192 reports the Irish police received from the US hotline NCMEC in 2020, only 409 were actionable, and 471 were not abuse material at all. False reports overwhelm investigators, take resources away from real cases, and expose innocent people, including teenagers, to investigations. In 2022, Google [closed the account of a father](https://www.eff.org/deeplinks/2022/08/googles-scans-private-photos-led-false-accusations-child-abuse) after he sent photos of his son's medical condition to a doctor, and refused to restore it even after the police had cleared him.
 
 ### Scanning breaks end-to-end encryption
 
@@ -59,9 +59,11 @@ End-to-end encryption guarantees that only the intended recipients can read a me
 
 Encryption protects the communication of journalists, lawyers, doctors, activists, companies, governments, and ordinary citizens, including children themselves. Messaging services such as Signal have stated that they would rather leave the EU than weaken their encryption. In [Podchasov v. Russia](https://ohrh.law.ox.ac.uk/the-ecthr-in-podchasov-v-russia-preserving-encryption-and-denying-backdoors/) (2024), the European Court of Human Rights found that requiring providers to weaken encryption for all users violates the right to privacy.
 
+Scanning also takes away safe channels from the people it is meant to protect, since victims and minors depend on confidential communication to seek help. And if scanning had no impact on security, it would be hard to explain why the Council's texts exempt communication used by governments and for national security purposes.
+
 ### Function creep
 
-The scope of the proposal has repeatedly changed, from images and URLs to text and video, and back again. Once scanning infrastructure is deployed on every phone, it is technically trivial to extend it to other types of content, such as terrorism, copyright infringement, or political dissent, and it can be repurposed by less democratic regimes for surveillance and censorship. Researchers have even shown that a perceptual hashing algorithm can be trained with a [hidden second purpose](https://arxiv.org/abs/2306.11924), such as facial recognition, that is hard to detect by inspecting the algorithm.
+The scope of the proposal has repeatedly changed, from images and URLs to text and video, and back again. Once scanning infrastructure is deployed on every phone, it is technically trivial to extend it to other types of content, such as terrorism, copyright infringement, or political dissent, and it can be repurposed by less democratic regimes for surveillance and censorship. Researchers have even shown that a perceptual hashing algorithm can be trained with a [hidden second purpose](https://arxiv.org/abs/2306.11924), such as facial recognition, that is hard to detect by inspecting the algorithm. The pressure to expand is already visible: according to [meeting minutes from 2022](https://balkaninsight.com/2023/09/29/europol-sought-unlimited-data-access-in-online-child-sexual-abuse-regulation/), a Europol official argued that all data is useful and should be passed on to law enforcement without filtering. An [investigation by Balkan Insight](https://balkaninsight.com/2023/09/25/who-benefits-inside-the-eus-fight-over-scanning-for-child-sex-content/) has also documented the lobbying behind the proposal, including by organizations that develop detection technology.
 
 ### Age verification does not solve the problem
 
@@ -69,7 +71,7 @@ Age verification is easy to circumvent with VPNs, borrowed credentials, fake doc
 
 ### What would help instead
 
-Eradicating abuse material relies on eradicating abuse. The scientists' letters recommend evidence-based measures: education on consent and digital literacy, trauma-informed and easy-to-use reporting mechanisms, better support for victims, and substantially more resources for law enforcement and social services to investigate and prevent abuse.
+Eradicating abuse material relies on eradicating abuse. End-to-end encryption does not stop the police from investigating: under reasonable suspicion, they can seize devices and cloud backups with a warrant, infiltrate groups, run sting operations where this is legal, and use metadata about who communicates with whom. The scientists' letters recommend strengthening such targeted and evidence-based measures: better analysis of metadata, trauma-informed and easy-to-use reporting mechanisms such as hotlines and in-app reporting, more resources for intelligence, undercover work, and targeted interception, education on consent and digital literacy, better support for victims, and voluntary detection of abuse material in public content.
 
 ## Common counterarguments
 
@@ -86,7 +88,7 @@ Eradicating abuse material relies on eradicating abuse. The scientists' letters 
 
 **"The scanning is only voluntary."** It is voluntary for the provider, not for the user. Users have no way to opt out of having their messages scanned, and the risk-mitigation obligations in the regulation can put strong pressure on providers to scan. As long as detection results can be reported, the communication is not end-to-end encrypted.
 
-**"We already scan for malware and spam."** Malware and spam filters look for well-defined threats, run to protect the user, and do not report the content of private messages to the authorities. Chat Control does the opposite.
+**"We already scan for malware and spam."** Malware and spam filters look for well-defined threats and are more accurate, the user controls them and can pause or disable them, the provider is typically only notified if the user agrees, and they protect the user against attacks by others rather than treating the user as a suspect. Even so, malware keeps winning. Chat Control does the opposite: it is like regularly scanning everyone's devices to make sure that they are not developing malware.
 
 **"If you have nothing to hide, you have nothing to fear."** Privacy of correspondence is a fundamental right, and with millions of false positives, innocent people, including teenagers and parents sharing pictures of their own children, will have their private messages read by strangers. Weakening encryption also makes everyone less secure against criminals and hostile states.
 
@@ -120,6 +122,7 @@ Scientists and researchers from around the world have published a series of join
 - L. Struppek, D. Hintersdorf, D. Neider, and K. Kersting. [Learning to Break Deep Perceptual Hashing: The Use Case NeuralHash](https://doi.org/10.1145/3531146.3533073). ACM FAccT, 2022.
 - J. Prokos, N. Fendley, M. Green, R. Schuster, E. Tromer, T. Jois, and Y. Cao. [Squint Hard Enough: Attacking Perceptual Hashing with Adversarial Machine Learning](https://www.usenix.org/conference/usenixsecurity23/presentation/prokos). USENIX Security, 2023.
 - S. Jain, A.-M. Crețu, A. Cully, and Y.-A. de Montjoye. [Deep perceptual hashing algorithms with hidden dual purpose: when client-side scanning does facial recognition](https://arxiv.org/abs/2306.11924). IEEE S&P, 2023.
+- D. F. Aranha and N. Melissaris. [What is Cryptography Hiding from Itself?](https://eprint.iacr.org/2025/1951) IACR ePrint 2025/1951, 2025.
 
 ## Talks, panels, and interviews
 
@@ -135,7 +138,7 @@ Scientists and researchers from around the world have published a series of join
 
 - [Chat Control](https://www.patrick-breyer.de/en/posts/chat-control/), by former Member of the European Parliament Patrick Breyer, with news, documents, and analysis of every step of the negotiations.
 - [Fight Chat Control](https://fightchatcontrol.eu), with an overview of the positions of the member states and a tool for contacting your representatives.
-- [Stop Scanning Me](https://stopscanningme.eu), a campaign by European Digital Rights (EDRi) and more than 60 organizations, and the [EDRi document pool](https://edri.org/our-work/csa-regulation-document-pool/) with the primary documents.
+- [Stop Scanning Me](https://stopscanningme.eu), a campaign by European Digital Rights (EDRi) and more than 60 organizations, the EDRi position paper [A safe Internet for all](https://edri.org/wp-content/uploads/2022/10/EDRi-Position-Paper-CSAR.pdf), and the [EDRi document pool](https://edri.org/our-work/csa-regulation-document-pool/) with the primary documents.
 - The [Global Encryption Coalition](https://www.globalencryption.org), which has published several statements on the regulation.
 
 ## Norway
