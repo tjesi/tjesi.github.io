@@ -13,6 +13,7 @@ Interested in working with me? See [Working with me](/supervision/) for more inf
 
 ## PhD Students
 
+- Sunniva Engan (Industrial PhD 2027–, with Norsk Helsenett, main supervisor)
 - [Pedro Cardona](https://www.ntnu.edu/employees/pedro.p.cardona) (PhD 2026–, co-supervisor with Jeongeun Park)
 - [Caroline Sandsbråten](https://www.ntnu.edu/employees/caroline.sandsbraten) (PhD 2022–, main supervisor)
 - [Emil August Hovd Olaisen](https://www.ntnu.edu/employees/emil.august.olaisen) (PhD 2022–, main supervisor)

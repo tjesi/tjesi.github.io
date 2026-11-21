@@ -55,7 +55,9 @@ Years include positions at the Norwegian Institute of Technology (NTH), which be
 | [Kamil Doruk Gur](https://doruk19.github.io) | 2026 |  |
 | [Mattia Veroni](https://nva.sikt.no/research-profile/1027321) | 2023 |  |
 | [Hans Heum](https://nva.sikt.no/research-profile/1516837) | 2023 | 2026 |
+| [Tikaram Sanyashi](https://nva.sikt.no/research-profile/1487979) | 2023 | 2025 |
 | [Dan Zhang](https://nva.sikt.no/research-profile/885319) | 2022 | 2026 |
+| [Navid Ghaedi Bardeh](https://nva.sikt.no/research-profile/789556) | 2022 | 2023 |
 | [Yao Jiang Galteland](https://nva.sikt.no/research-profile/814977) | 2021 | 2023 |
 | [Chen Qian](https://qianchen92.github.io) | 2019 | 2022 |
 | [Thomas Haines](https://nva.sikt.no/research-profile/1074711) | 2019 | 2021 |
@@ -74,6 +76,7 @@ This list includes PhD candidates and graduates from the Department of Informati
 
 | Name | Year | Thesis | Supervisor |
 | --- | --- | --- | --- |
+| Sunniva Engan | (2027) |  | Tjerand Silde |
 | [Einar Karlsen Thesen](https://nva.sikt.no/research-profile/1891580) | (2026) |  | Kristian Gjøsteen |
 | [Pedro Pablo Cardona Arroyave](https://nva.sikt.no/research-profile/1891475) | (2026) |  | Jeongeun Park |
 | [Reem Salman](https://nva.sikt.no/research-profile/1885963) | (2026) |  | Staal A. Vinterbo |
@@ -115,6 +118,7 @@ This list includes PhD candidates and graduates from the Department of Informati
 | [Rune Steinsmo Ødegård](https://nva.sikt.no/research-profile/29832) | 2012 | [Hash Functions and Gröbner Bases Cryptanalysis](https://db.item.ntnu.no/graduated/60) | Svein J. Knapskog |
 | [Tord Ingolf Reistad](https://nva.sikt.no/research-profile/42164) | 2012 | [A General Framework for Multiparty Computations](https://hdl.handle.net/11250/262579) | Stig Frode Mjølsnes |
 | [Øystein Øvreås Thuen](https://nva.sikt.no/research-profile/41609) | 2011 | [Bilinear Pairings in Cryptography](https://hdl.handle.net/11250/258816) | Kristian Gjøsteen |
+| [Lillian Kråkmo](https://nva.sikt.no/research-profile/38456) | 2009 | [Privacy Preserving Protocols and Security Proof Techniques](https://hdl.handle.net/11250/4785050) | Kristian Gjøsteen |
 | [Marie Elisabeth Gaup Moe](https://nva.sikt.no/research-profile/38597) | 2009 | [Security, Privacy and Trust in Dynamic Networks](https://db.item.ntnu.no/graduated/116) | Svein J. Knapskog |
 | [Kristian Gjøsteen](https://nva.sikt.no/research-profile/37636) | 2004 | [Subgroup Membership Problems and Public Key Cryptosystems](https://hdl.handle.net/11250/249681) | Idar Hansen |
 | [Tønnes Brekne](https://nva.sikt.no/research-profile/37739) | 2001 | [Encrypted Computation](https://db.item.ntnu.no/graduated/138) | Svein J. Knapskog |

@@ -8,31 +8,31 @@ permalink: /research/
 - **Implementing Threshold Signatures for FIDO Authentication**  
   NISK 2026. Joint work with Javier Garcia.
 - **[Distributed Key Generation for NTRU](https://eprint.iacr.org/2026/1854)**  
-  CANS 2026. Joint work with Patrick Hough, Jérôme Nguyen, and Caroline Sandsbråten.
+  CANS 2026 ([DOI](https://doi.org/10.1007/978-981-92-7776-6_2)). Joint work with Patrick Hough, Jérôme Nguyen, and Caroline Sandsbråten.
 - **[Olingo: Threshold Lattice Signatures with DKG and Identifiable Abort](https://eprint.iacr.org/2025/1789)**  
-  ACM CCS 2026. Joint work with Kamil Doruk Gur, Patrick Hough, Jonathan Katz, and Caroline Sandsbråten.
+  ACM CCS 2026 ([DOI](https://doi.org/10.1145/3830454.3832660)). Joint work with Kamil Doruk Gur, Patrick Hough, Jonathan Katz, and Caroline Sandsbråten.
 - **[SoK: Recommendations for Universally Verifiable Electronic Elections and Independent Audits](https://link.springer.com/chapter/10.1007/978-3-032-39512-2_6)**  
-  E-Vote-ID 2026. Joint work with Audhild Høgåsen, Chiara Spadafora, and Amund Fredrik Strømsnes.
+  E-Vote-ID 2026 ([DOI](https://doi.org/10.1007/978-3-032-39512-2_6)). Joint work with Audhild Høgåsen, Chiara Spadafora, and Amund Fredrik Strømsnes.
 - **[More Efficient Lattice-Based Verifiable Decryption from LWR](https://dl.acm.org/doi/10.1145/3733811.3767315)**  
-  WAHC @ ACM CCS 2025. Joint work with Thomas Haines, Emil August Hovd Olaisen, and Peter Rønne.
+  WAHC @ ACM CCS 2025 ([DOI](https://doi.org/10.1145/3733811.3767315)). Joint work with Thomas Haines, Emil August Hovd Olaisen, and Peter Rønne.
 - **[More Efficient Lattice-Based Electronic Voting from NTRU](https://eprint.iacr.org/2023/933)**  
-  IACR Communications in Cryptology, Volume 1, 2024. Joint work with Patrick Hough and Caroline Sandsbråten.
+  IACR Communications in Cryptology, Volume 1, 2024 ([DOI](https://doi.org/10.62056/a69qudhdj)). Joint work with Patrick Hough and Caroline Sandsbråten.
 - **[Two-Round Threshold Lattice-Based Signatures from Threshold Homomorphic Encryption](https://eprint.iacr.org/2023/1318)**  
-  PQCrypto 2024. Joint work with Kamil Doruk Gur and Jonathan Katz.
+  PQCrypto 2024 ([DOI](https://doi.org/10.1007/978-3-031-62746-0_12)). Joint work with Kamil Doruk Gur and Jonathan Katz.
 - **[BRAKE: Biometric Resilient Authenticated Key Exchange](https://eprint.iacr.org/2022/1408)**  
-  IEEE Access, Volume 12, 2024. Joint work with Pia Bauspieß, Matej Poljuha, Alexandre Tullot, and Anamaria Costache.
+  IEEE Access, Volume 12, 2024 ([DOI](https://doi.org/10.1109/ACCESS.2024.3380915)). Joint work with Pia Bauspieß, Matej Poljuha, Alexandre Tullot, and Anamaria Costache.
 - **[Verifiable Mix-Nets and Distributed Decryption for Voting from Lattice-Based Assumptions](https://eprint.iacr.org/2022/422)**  
-  ACM CCS 2023. Joint work with Diego F. Aranha, Carsten Baum, and Kristian Gjøsteen.
+  ACM CCS 2023 ([DOI](https://doi.org/10.1145/3576915.3616683)). Joint work with Diego F. Aranha, Carsten Baum, and Kristian Gjøsteen.
 - **[Verifiable Decryption in the Head](https://eprint.iacr.org/2021/558)**  
-  ACISP 2022. Joint work with Kristian Gjøsteen, Thomas Haines, Johannes Müller, and Peter Rønne.
+  ACISP 2022 ([DOI](https://doi.org/10.1007/978-3-031-22301-3_18)). Joint work with Kristian Gjøsteen, Thomas Haines, Johannes Müller, and Peter Rønne.
 - **[Short paper: Return Codes from Lattice Assumptions](https://dspace.ut.ee/bitstream/handle/10062/84323/12.pdf?sequence=1&isAllowed=y)**  
   E-Vote-ID 2022. Joint work with Audhild Høgåsen.
 - **[Short paper: Verifiable Decryption for BGV](https://eprint.iacr.org/2021/1693)**  
-  Voting Workshop @ Financial Cryptography 2022.
+  Voting Workshop @ Financial Cryptography 2022 ([DOI](https://doi.org/10.1007/978-3-031-32415-4_26)).
 - **[Anonymous Tokens with Public Metadata and Applications to Private Contact Tracing](https://eprint.iacr.org/2021/203)**  
-  Financial Cryptography 2022. Joint work with Martin Strand.
+  Financial Cryptography 2022 ([DOI](https://doi.org/10.1007/978-3-031-18283-9_9)). Joint work with Martin Strand.
 - **[Lattice-Based Proof of Shuffle and Applications to Electronic Voting](https://eprint.iacr.org/2021/338)**  
-  CT-RSA 2021. Joint work with Diego F. Aranha, Carsten Baum, Kristian Gjøsteen, and Thor Tunge.
+  CT-RSA 2021 ([DOI](https://doi.org/10.1007/978-3-030-75539-3_10)). Joint work with Diego F. Aranha, Carsten Baum, Kristian Gjøsteen, and Thor Tunge.
 - **[Short paper: Where is the Web Still Insecure? Regional Scans for HTTPS Certificates](/files/Where_is_the_web_still_insecure__Regional_scans_for_HTTPS_certificates.pdf)**  
   NISK 2018. Joint work with Anushua Hossain and Kristina Nelson.
 {: .pubs}
@@ -53,9 +53,9 @@ I am Co-Principal Investigator of the project "[OffPAD – Optimizing balance be
 
 I received NOK 765,000 from the scientific equipment fund of the [IE Faculty](https://www.ntnu.edu/ie/research) to build a cryptology lab for theoretical and practical cryptographic research and education. The [CRYPTO-LAB](/cryptolab/) is located at [Electro A175](https://link.mazemap.com/B0eIPDBB).
 
-I lead [ToppForsk@IE: Cryptography](https://www.ntnu.edu/web/iik/toppforsk-ie-cryptography), focusing on quantum-safe and privacy-preserving cryptography, funded with NOK 200,000 by the [NTNU IE Faculty](https://www.ntnu.edu/ie). This is a collaboration with [Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen) and [Jeongeun Park](https://www.ntnu.edu/employees/jeongeun.park).
+I lead [ToppForsk@IE: Cryptography](https://www.ntnu.edu/web/iik/toppforsk-ie-cryptography), focusing on quantum-safe and privacy-enhancing cryptography, funded with NOK 200,000 by the [NTNU IE Faculty](https://www.ntnu.edu/ie). This is a collaboration with [Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen) and [Jeongeun Park](https://www.ntnu.edu/employees/jeongeun.park).
 
-I lead the "[Cryptology and Social Life](https://www.ntnu.edu/iik/cryptology-and-social-life)" project. This is a collaboration with [Katrien De Moor](https://www.ntnu.edu/employees/katrien.demoor), [Emil André Røyrvik](https://www.ntnu.edu/employees/emil.royrvik), [Petter Grytten Almklov](https://www.ntnu.edu/employees/petter.almklov), [Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen) and [Eric Monteiro](https://www.ntnu.edu/employees/eric.monteiro). In September 2026, we were awarded four four-year PhD positions (about NOK 15 million, 2027–2031) through NTNU's internal call "A more resilient society", to develop secure, privacy-preserving, and democratically aligned digital identity wallets for Norway, with one PhD position in each of the four participating departments.
+I led the seed project of "[Cryptology and Social Life](https://www.ntnu.edu/iik/cryptology-and-social-life)" in 2024–2025, and I now lead the technical work package of the project and supervise PhD candidates in it. The project is led by Kristian Gjøsteen and is a collaboration with [Katrien De Moor](https://www.ntnu.edu/employees/katrien.demoor), [Emil André Røyrvik](https://www.ntnu.edu/employees/emil.royrvik), [Petter Grytten Almklov](https://www.ntnu.edu/employees/petter.almklov), [Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen) and [Eric Monteiro](https://www.ntnu.edu/employees/eric.monteiro). In September 2026, we were awarded four four-year PhD positions (about NOK 15 million, 2027–2031) through NTNU's internal call "A more resilient society", to develop secure, privacy-preserving, and democratically aligned digital identity wallets for Norway, with one PhD position in each of the four participating departments.
 
 ## Theses, Reports, and Software
 

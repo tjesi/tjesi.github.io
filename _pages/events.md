@@ -5,6 +5,12 @@ permalink: /events/
 
 Conferences, workshops, and seminars I have attended or will attend.
 
+## 2027
+
+- **[Eurocrypt 2027](https://eurocrypt.iacr.org/2027)**: The 46th Annual International Conference on the Theory and Applications of Cryptographic Techniques. April 11–15, 2027 – Eindhoven, Netherlands.
+- **[PrivCrypt 2027](https://privcryptworkshop.github.io)**: International Workshop on Foundations and Applications of Privacy-Enhancing Cryptography. April 2027 – Eindhoven, Netherlands.
+- **[NKS 2027](https://wiki.math.ntnu.no/nks/nks27)**: Norsk Kryptoseminar. 2027 – Trondheim, Norway.
+
 ## 2026
 
 - **[RESISTANT 2026](https://www.ntnu.edu/iik/resistant)**: RESISTANT Symposium. November 23–26, 2026 – Røros, Norway.
@@ -17,7 +23,7 @@ Conferences, workshops, and seminars I have attended or will attend.
 
 ## 2025
 
-- **[CSLW 2025](https://www.ntnu.edu/iik/cryptology-and-social-life/workshop)**: Cryptography and Social Life Workshop 2025. December 11–12, 2025 – Trondheim, Norway.
+- **[CSLW 2025](https://www.ntnu.edu/iik/cryptology-and-social-life/workshop)**: Cryptology and Social Life Workshop 2025. December 11–12, 2025 – Trondheim, Norway.
 - **[Attack25](https://attack-konferansen.no/attack-2025)**: The Attack Conference 2025. November 27, 2025 – Oslo, Norway.
 - **[NKS 2025](https://wiki.math.ntnu.no/nks/nks25)**: Norsk Kryptoseminar. October 31, 2025 – Oslo, Norway.
 - **[Trustworthy Elections](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/25411)**: Dagstuhl Seminar on Trustworthy Evidence-Based Elections. October 5–10, 2025 – Dagstuhl, Germany.

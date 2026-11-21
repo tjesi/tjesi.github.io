@@ -15,6 +15,8 @@ Tjerand Silde is an Associate Professor in Cryptology at the Department of Infor
 
 His research focuses on lattice-based cryptography as a foundation for advanced digital signatures and zero-knowledge protocols, with applications to post-quantum security, privacy-preserving authentication, and electronic voting. He received his PhD in Mathematical Sciences from NTNU in 2022. His work on anonymous tokens for the Norwegian contact tracing app received the Norwegian Data Protection Authority's Privacy by Design Award in 2021.
 
+Before his PhD, he was project manager for the coding initiative Lær Kidsa Koding at IKT-Norge (2014–2017), and he taught programming and mathematics in teacher education at Western Norway University of Applied Sciences (2017–2020). During his PhD, he was a visiting researcher at Aarhus University (2020) and the University of Maryland (2021–2022).
+
 He was General Chair of IACR PKC 2025, serves on the program committees of leading cryptography conferences, and teaches applied cryptography and secure cryptographic implementations at NTNU. Beyond academia, he is a frequent voice in Norwegian media on encryption, surveillance, and the quantum threat, has testified as an expert witness on encryption in Norwegian courts, and has co-authored open letters from hundreds of scientists warning against the EU's proposed Chat Control regulation.
 
 ## Photo
