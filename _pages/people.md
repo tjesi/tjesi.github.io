@@ -22,7 +22,7 @@ Interested in working with me? See [Working with me](/supervision/) for more inf
 
 ### 2027
 
-<ol reversed start="27">
+<ol reversed start="26">
   <li>Jakob Severin Gundersen – “Cryptology and Social Life: Privacy in Digital Identity Wallets”<br>
   (Master’s thesis 2027, co-supervised with Katrien De Moor)</li>
   <li>Aksel Sundt Wilhelmsen and Eirik Slettan – “Quantum-Safe Messaging Layer Security for Drone Networks: Integration and Performance Trade-offs”
@@ -37,10 +37,8 @@ Interested in working with me? See [Working with me](/supervision/) for more inf
 
 ### 2026
 
-<ol reversed start="22">
-  <li>Kasthuri Nair – “Domino vs ProofFrog: A Comparative Study Based on Formally Verifying the GMW Protocol”<br>
-  (Master’s thesis 2026, co-supervised with Christopher Brzuska)</li>
-  <li>Prateek Sharma – “Formally Verified Reduction Proof for the Half-Gates Garbling Scheme”<br>
+<ol reversed start="21">
+  <li>Prateek Sharma – “<a href="/files/Prateek.pdf">Formally Verified Reduction Proof for the Half-Gates Garbling Scheme</a>”<br>
   (Master’s thesis 2026, co-supervised with Christopher Brzuska and Russell W. F. Lai)</li>
   <li>Nora Mosand Viken – “<a href="/files/Nora.pdf">Power-Based Side-Channel Evaluation of MAYO and Masking Countermeasures</a>”<br>
   (Master’s thesis 2026, co-supervised with Andreas Sandø Krogen and Ella Moe Wolff)</li>
