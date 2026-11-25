@@ -38,7 +38,7 @@ Interested in working with me? See [Working with me](/supervision/) for more inf
 ### 2026
 
 <ol reversed start="21">
-  <li>Prateek Sharma – “<a href="/files/Prateek.pdf">Formally Verified Reduction Proof for the Half-Gates Garbling Scheme</a>”<br>
+  <li>Prateek Sharma – “<a href="/files/Prateek.pdf">Formally Verified Reduction Proof for the Free XOR Garbling Scheme</a>”<br>
   (Master’s thesis 2026, co-supervised with Christopher Brzuska and Russell W. F. Lai)</li>
   <li>Nora Mosand Viken – “<a href="/files/Nora.pdf">Power-Based Side-Channel Evaluation of MAYO and Masking Countermeasures</a>”<br>
   (Master’s thesis 2026, co-supervised with Andreas Sandø Krogen and Ella Moe Wolff)</li>

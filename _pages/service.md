@@ -7,7 +7,7 @@ I believe it is important to contribute to the research community: by organizing
 
 ## Organization
 
-I am organizing the [RESISTANT Symposium](https://www.ntnu.edu/iik/resistant) in Røros on November 23–26, 2026, together with [Poul Einar Heegaard](https://www.ntnu.edu/employees/poul.heegaard), [Stanislav Lange](https://www.ntnu.edu/employees/stanislav.lange), and [Hanno Langweg](https://www.ntnu.edu/employees/hanno.langweg).
+I organized the [RESISTANT Symposium](https://www.ntnu.edu/iik/resistant) in Røros on November 23–26, 2026, together with [Poul Einar Heegaard](https://www.ntnu.edu/employees/poul.heegaard), [Stanislav Lange](https://www.ntnu.edu/employees/stanislav.lange), and [Hanno Langweg](https://www.ntnu.edu/employees/hanno.langweg).
 
 I organize the [International Workshop on Foundations and Applications of Privacy-Enhancing Cryptography](https://privcryptworkshop.github.io) (PrivCrypt) together with [Lucjan Hanzlik](https://lucjanhanzlik.github.io) and [Daniel Slamanig](https://danielslamanig.info). The 2026 edition was an affiliated event of [IACR Eurocrypt 2026](https://eurocrypt.iacr.org/2026) in Rome on May 10, 2026, with 145 participants, and the 2027 edition will be an affiliated event of [IACR Eurocrypt 2027](https://eurocrypt.iacr.org/2027) in Eindhoven.
 

@@ -6,7 +6,7 @@ description: "An unofficial page for the NTNU Applied Cryptology Lab (NaCl), lis
 
 Welcome to the unofficial page of the NTNU Applied Cryptology Lab (NaCl), a cryptography group at NTNU with members at the [Department of Information Security and Communication Technology](https://www.ntnu.edu/iik) and the [Department of Mathematical Sciences](https://www.ntnu.edu/imf), in Trondheim and Gjøvik. The [official group page](https://www.ntnu.edu/iik/nacl-lab) only lists current members, so this page aims to list everyone who is or has been part of the group. If you find an omission or a mistake, please [send me an email](mailto:tjerand.silde@ntnu.no).
 
-*Last updated: September 2026.*
+*Last updated: November 2026.*
 
 <figure class="photo-main">
   <img src="/images/nacl-2026.jpg" alt="The NTNU Applied Cryptology Lab in 2026">
