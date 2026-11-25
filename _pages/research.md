@@ -5,7 +5,7 @@ permalink: /research/
 
 ## Publications
 
-- **Implementing Threshold Signatures for FIDO Authentication**  
+- **[Implementing Threshold Signatures for FIDO Authentication](/files/NISK-Threshold.pdf)**  
   NISK 2026. Joint work with Javier Garcia.
 - **[Distributed Key Generation for NTRU](https://eprint.iacr.org/2026/1854)**  
   CANS 2026 ([DOI](https://doi.org/10.1007/978-981-92-7776-6_2)). Joint work with Patrick Hough, Jérôme Nguyen, and Caroline Sandsbråten.
