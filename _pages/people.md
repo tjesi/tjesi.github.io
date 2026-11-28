@@ -28,7 +28,7 @@ Interested in working with me? See [Working with me](/supervision/) for more inf
   <li>Aksel Sundt Wilhelmsen and Eirik Slettan – “Quantum-Safe Messaging Layer Security for Drone Networks: Integration and Performance Trade-offs”
   (Master’s thesis 2027, co-supervised with Martin Strand)</li>
   <li>Aleksander Thornes Vestlund – “Post-Quantum Privacy-Preserving Credentials in the European Digital Identity Wallet: Schemes for Selective Disclosure”
-  (Master’s thesis 2027, co-supervised with Srini Devadas)</li>
+  (Master’s thesis 2027, co-supervised with Srini Devadas, <a href="/files/Aleksander-project.pdf">pre-project report</a>)</li>
   <li>Jo Vassbotn Remvik – “Practical Lattice-Based Zero-Knowledge Proof Systems”<br>
   (Master’s thesis 2027, co-supervised with Kamil Doruk Gur)</li>
   <li>Sindre Holbek Sørbye – “Practical Zero-Knowledge Proof Systems from Hash-Based Assumptions and Applications”<br>
